@@ -1370,3 +1370,271 @@ SLR Document + IEEE References + Appendices
 Jika proyek ini dilanjutkan pada sesi lain, gunakan konteks berikut:
 
 > Saya sedang membuat Systematic Literature Review pada bidang Software Engineering dengan fokus **Artificial Intelligence for DevOps Automation** periode **2016–2026**. SLR menggunakan **Kitchenham & Charters sebagai guideline utama**, **PICOC untuk scope/search strategy**, dan **PRISMA 2020 untuk pelaporan study selection**. Saya menggunakan gaya sitasi **IEEE**, target scope medium, target primary studies sekitar **30–50**, dan metode sintesis **descriptive quantitative + qualitative thematic synthesis**. Tujuan utama adalah tugas mata kuliah, dengan kemungkinan menemukan research gap untuk tesis. Research Questions saat ini terdiri dari: tren penelitian, area penerapan AI dalam DevOps, teknologi AI yang digunakan, manfaat/dampak, serta tantangan dan peluang penelitian. Tahap berikutnya adalah **PHASE 2: finalisasi SLR Research Protocol**, kemudian pilot search di ScienceDirect sebelum full literature search.
+
+---
+
+# 23. UPDATE PROGRESS — 8 September 2026
+
+> Bagian ini menggantikan status/“Immediate Next Action” lama pada dokumen ini apabila terdapat
+> perbedaan. Keputusan metodologis dasar pada bagian sebelumnya tetap berlaku.
+
+## 23.1 Status Proyek Saat Ini
+
+| Phase | Tahap | Status |
+|---|---|---|
+| 1 | Topic Definition | **SELESAI** |
+| 2 | SLR Research Protocol | **SELESAI / dikunci secara operasional** |
+| 3 | Pilot Search | **SELESAI** |
+| 4 | Full Literature Search | **SELESAI** |
+| 5 | Deduplication | **SELESAI** |
+| 6 | Title & Abstract Screening | **SELESAI** |
+| 7 | Full-text Screening | **SELESAI untuk corpus yang diproses** |
+| 8 | Quality Assessment | **SELESAI — 60/60 PASS** |
+| 9 | PRISMA Documentation | **BELUM FINAL** |
+| 10 | Data Extraction | **NEXT** |
+| 11 | Data Synthesis | BELUM |
+| 12 | Research Gap Identification | BELUM |
+| 13 | SLR Writing | BELUM |
+
+## 23.2 Search Execution
+
+**Search date:** 7 September 2026  
+**Database primer:** ScienceDirect, IEEE Xplore, ACM Digital Library.  
+**Scopus Preview tidak digunakan sebagai database primer.**
+
+### ScienceDirect
+- DevOps + AI: 48
+- CI/CD + AI: 28
+- continuous integration + AI: 50
+- continuous delivery + AI: 11
+- continuous deployment + AI: 12
+- software delivery + AI: 3
+- AIOps: 33
+- **Raw total: 185**
+
+### IEEE Xplore
+- DevOps + AI: 179
+- CI/CD + AI: 129
+- continuous integration + AI: 159
+- continuous delivery + AI: 38
+- continuous deployment + AI: 53
+- software delivery + AI: 23
+- AIOps: 184
+- **Raw total: 765**
+
+### ACM Digital Library
+- Search results: 182
+- Proceedings container removed before article screening: 2
+- **Article records exported: 180**
+
+## 23.3 PRISMA / Selection Counts yang Sudah Stabil
+
+```text
+Database search results identified                  1,132
+Other/non-article container records removed             2
+Bibliographic article records imported              1,130
+Duplicate occurrences removed                         317
+Unique records screened                               813
+Title/abstract records excluded                       431
+Title/abstract Include                                382
+Reports sought for retrieval/full-text eligibility    382
+```
+
+Deduplication menghasilkan **191 duplicate groups** dan **3 fuzzy candidate pairs** yang
+diverifikasi manual.
+
+Workbook utama:
+- `SLR_Master_Deduplication_2026-09-07.xlsx`
+- `SLR_Master_Maybe_Resolved_813_2026-09-08.xlsx`
+
+## 23.4 Full-text Screening
+
+Full-text exclusion codes yang digunakan:
+
+- FT1 — Full text unavailable
+- FT2 — Not DevOps / Software Engineering after full text
+- FT3 — No AI/ML/GenAI/AIOps intervention
+- FT4 — MLOps only / DevOps-for-AI
+- FT5 — Secondary/non-primary publication atau publication eligibility failure
+- FT6 — Insufficient substantive evidence for RQs
+- FT7 — Year/language/publication eligibility failure
+
+Hasil corpus full-text yang telah diproses:
+
+```text
+Unique full-text studies screened    73
+Include                              60
+Exclude                              13
+Pending                               0
+Duplicate PDF files encountered       3
+```
+
+Distribusi exclusion:
+
+```text
+FT3 = 2
+FT4 = 1
+FT5 = 7
+FT6 = 3
+Total = 13
+```
+
+Keputusan penting:
+- Full-text eligibility dipisahkan dari QA.
+- Paper tidak dikeluarkan hanya karena evaluasi empiris lemah apabila tetap merupakan primary
+  study yang eligible dan substantif untuk minimal satu RQ.
+- Publication/eligibility yang benar-benar meragukan diperlakukan konservatif sebagai Exclude.
+- Vision paper, position paper, tutorial, poster, dan secondary study tidak menjadi primary study.
+- NIER tidak otomatis dikeluarkan apabila memiliki implementasi/evaluasi substantif.
+- Primary practitioner questionnaire dapat dimasukkan apabila menghasilkan evidence empiris.
+
+Workbook:
+`SLR_Master_FullText_Screening_Ready_382_2026-09-08.xlsx`
+
+## 23.5 Quality Assessment — SELESAI
+
+QA menggunakan kriteria yang telah dikunci:
+
+- QA1 — tujuan penelitian jelas
+- QA2 — konteks DevOps dan penerapan AI jelas
+- QA3 — metode/evaluasi memadai
+- QA4 — hasil didukung evidence
+- QA5 — limitations/threats/implications dibahas
+
+Scoring:
+
+```text
+Yes     = 1
+Partial = 0.5
+No      = 0
+PASS    = total >= 3.0 / 5
+```
+
+QA dilakukan dalam **6 batch** dan telah direkonsiliasi agar seluruh 60 unique full-text
+Include memperoleh skor.
+
+```text
+QA candidates     60
+QA assessed       60
+QA PASS           60
+QA FAIL            0
+QA progress      100%
+```
+
+Tidak ada paper yang gugur karena threshold QA. Namun skor QA tetap digunakan sebagai
+**stratifikasi kekuatan evidence** pada tahap synthesis; paper dengan skor borderline tidak
+harus diberi bobot interpretatif yang sama dengan studi dengan evidence empiris kuat.
+
+## 23.6 Catatan PRISMA yang Belum Ditutup
+
+Sebelum PRISMA Flow final dibuat, retrieval accounting untuk seluruh **382 reports sought for
+retrieval** harus direkonsiliasi.
+
+Jangan:
+- menganggap report yang belum diproses sebagai “not retrieved” tanpa bukti;
+- mengubah 382 menjadi 73 tanpa menjelaskan retrieval process;
+- mengarang angka agar flow terlihat konsisten.
+
+Angka identification, deduplication, dan title/abstract screening sudah dapat dikunci.
+Angka final **reports retrieved / reports not retrieved / full-text assessed** harus mengikuti
+audit trail retrieval yang sebenarnya.
+
+## 23.7 Data Extraction Form — Tahap Berikutnya
+
+Field yang telah dirancang:
+
+1. Paper ID
+2. Authors
+3. Year
+4. Title
+5. Source Database
+6. Venue
+7. Publication Type
+8. Research Type
+9. DevOps Stage
+10. DevOps Activity
+11. AI Category
+12. AI Method/Model
+13. Dataset/System
+14. Research Objective
+15. Evaluation Method
+16. Metrics
+17. Main Findings
+18. Benefits
+19. Challenges
+20. Limitations
+21. Future Work
+22. RQ Mapping
+23. QA Score
+24. Industrial Context
+25. Evidence Type
+
+**Next action:** lakukan pilot Data Extraction pada sejumlah kecil primary studies, evaluasi
+field, lalu freeze schema sebelum mengekstrak seluruh 60 primary studies.
+
+## 23.8 Roadmap Tersisa
+
+```text
+Quality Assessment COMPLETE
+        ↓
+Pilot Data Extraction
+        ↓
+Freeze Data Extraction Form
+        ↓
+Full Data Extraction — 60 primary studies
+        ↓
+PRISMA retrieval reconciliation/finalization
+        ↓
+Descriptive Quantitative Synthesis
+        ↓
+Qualitative Thematic Synthesis
+        ↓
+Answer RQ1–RQ5
+        ↓
+Research Gap Identification
+        ↓
+SLR Writing
+        ↓
+IEEE References + Appendices
+        ↓
+FINAL DOCX
+```
+
+## 23.9 Updated Definition of Done
+
+- [x] Working title
+- [x] Objective
+- [x] RQ1–RQ5
+- [x] PICOC
+- [x] Search strategy
+- [x] ScienceDirect + IEEE Xplore + ACM DL
+- [x] Search date recorded
+- [x] Deduplication
+- [x] Title/abstract screening
+- [x] Full-text decisions for processed corpus
+- [x] QA terhadap 60 included studies
+- [ ] Reconcile PRISMA retrieval accounting
+- [ ] Pilot/freeze Data Extraction Form
+- [ ] Data Extraction 60 primary studies
+- [ ] Data Synthesis
+- [ ] Answer RQ1–RQ5
+- [ ] Research Gap
+- [ ] Threats to Validity final
+- [ ] Conclusion
+- [ ] IEEE reference validation
+- [ ] Appendices
+- [ ] Final DOCX
+
+## 23.10 Continuation Prompt Terbaru
+
+> Saya sedang membuat SLR bidang Software Engineering tentang **Artificial Intelligence for
+> DevOps Automation**, periode **2016–2026**, menggunakan Kitchenham & Charters, PICOC, dan
+> PRISMA 2020, dengan sitasi IEEE. Search final dilakukan 7 September 2026 pada ScienceDirect,
+> IEEE Xplore, dan ACM DL. Diperoleh 1.132 database search results; 1.130 bibliographic article
+> records diimpor; 317 duplicate occurrences dihapus; 813 unique records diskrining;
+> title/abstract screening menghasilkan 382 Include dan 431 Exclude. Corpus full-text yang
+> telah diproses berisi 73 unique studies: 60 Include dan 13 Exclude. Quality Assessment
+> terhadap seluruh 60 Include telah selesai dalam enam batch dan seluruhnya PASS pada
+> threshold >=3.0/5. Tahap berikutnya adalah **Data Extraction**, dimulai dengan pilot dan
+> validasi extraction form. Sebelum PRISMA final, retrieval accounting untuk seluruh 382
+> reports sought for retrieval harus direkonsiliasi.
