@@ -1,565 +1,251 @@
 # magister-teknologi-informasi
 
-Catatan, dataset kerja, dokumentasi, dan progress perkuliahan **Magister Teknologi Informasi**.
+Catatan, dataset kerja, dokumentasi, dan progress perkuliahan **Magister
+Teknologi Informasi**.
 
-Repository ini saat ini juga digunakan untuk proyek **Systematic Literature Review (SLR)** pada bidang Software Engineering dengan fokus **Artificial Intelligence for DevOps Automation**.
+Repository ini memuat proyek **Systematic Literature Review (SLR)**
+bidang Software Engineering dengan fokus **Artificial Intelligence for
+DevOps Automation**.
 
----
+## SLR --- Artificial Intelligence for DevOps Automation
 
-## SLR — Artificial Intelligence for DevOps Automation
+### Working title
 
-### Working Title
+> **Artificial Intelligence in DevOps Automation: A Systematic
+> Literature Review of Applications, Benefits, Challenges, and Research
+> Trends from 2016 to 2026**
 
-> **Artificial Intelligence in DevOps Automation: A Systematic Literature Review of Applications, Benefits, Challenges, and Research Trends from 2016 to 2026**
+Versi Indonesia: \> **Artificial Intelligence dalam Otomasi DevOps:
+Systematic Literature Review terhadap Aplikasi, Manfaat, Tantangan, dan
+Tren Penelitian Tahun 2016--2026**
 
-Versi Bahasa Indonesia:
+### Scope & methodology
 
-> **Artificial Intelligence dalam Otomasi DevOps: Systematic Literature Review terhadap Aplikasi, Manfaat, Tantangan, dan Tren Penelitian Tahun 2016–2026**
-
-### Scope
-
-- Domain: **Software Engineering**
-- Area: **DevOps**
-- Boundary: **AI for DevOps**, bukan DevOps-for-AI / MLOps-only
-- AI scope: AI, Machine Learning, Deep Learning, AIOps, Generative AI, Large Language Models, AI Agents
-- Publication period: **2016–2026**
-- Search date: **7 September 2026**
-- Citation style: **IEEE**
-- Synthesis: **Descriptive Quantitative + Qualitative Thematic**
-- Statistical meta-analysis: **tidak digunakan**
-
-### Methodology
-
-- **Kitchenham & Charters** — guideline utama SLR Software Engineering
-- **PICOC** — scope, Research Questions, dan search strategy
-- **PRISMA 2020** — pelaporan study selection
-- **Quality Assessment** — threshold `>= 3.0 / 5`
-
-Primary databases:
-
-1. ScienceDirect
-2. IEEE Xplore
-3. ACM Digital Library
-
-Scopus Preview tidak digunakan sebagai database primer.
-
----
-
-## Research Objective
-
-> Mengidentifikasi dan menganalisis secara sistematis penerapan Artificial Intelligence dalam mendukung otomasi aktivitas DevOps selama periode 2016–2026, dengan fokus pada area penerapan, teknologi dan metode AI yang digunakan, manfaat yang diperoleh, tantangan yang dihadapi, serta perkembangan dan peluang penelitian selanjutnya.
-
----
+-   Domain: Software Engineering
+-   Area: DevOps
+-   Boundary: **AI for DevOps**, bukan MLOps-only / DevOps-for-AI
+-   AI scope: AI, ML, Deep Learning, AIOps, GenAI, LLM, AI Agents
+-   Period: 2016--2026
+-   Search date: 7 September 2026
+-   Databases: ScienceDirect, IEEE Xplore, ACM Digital Library
+-   Kitchenham & Charters: main SLR guideline
+-   PICOC: scope/RQs/search
+-   PRISMA 2020: selection reporting
+-   IEEE citation style
+-   Synthesis: descriptive quantitative + qualitative thematic
+-   No statistical meta-analysis
 
 ## Research Questions
 
-**RQ1 — Research Trend**
+1.  **RQ1:** Bagaimana tren perkembangan penelitian AI dalam otomasi
+    DevOps 2016--2026?
+2.  **RQ2:** Pada aktivitas/tahapan DevOps apa AI diterapkan?
+3.  **RQ3:** Teknik, metode, dan teknologi AI apa yang digunakan?
+4.  **RQ4:** Apa manfaat dan dampak yang dilaporkan?
+5.  **RQ5:** Apa tantangan, keterbatasan, dan peluang penelitian
+    selanjutnya?
 
-> Bagaimana tren perkembangan penelitian mengenai penerapan Artificial Intelligence dalam otomasi DevOps selama periode 2016–2026?
+## Current progress --- 8 September 2026
 
-**RQ2 — Area of Application**
+  Phase                           Status
+  ------------------------------- --------------------------
+  Topic Definition                ✅ Complete
+  Research Protocol               ✅ Complete / Locked
+  Pilot + Full Search             ✅ Complete
+  Deduplication                   ✅ Complete
+  Title/Abstract Screening        ✅ Complete
+  Full-text Retrieval/Screening   ✅ Complete / reconciled
+  Quality Assessment              ✅ 60/60 PASS
+  PRISMA Reconciliation           ✅ Complete
+  Data Extraction                 ✅ 60/60
+  RQ1--RQ5 Synthesis              ✅ Complete
+  Research Gaps G1--G8            ✅ Locked
+  Future Agenda FR1--FR5          ✅ Locked
+  RQ1--RQ5 Final Tables/Charts    ✅ Complete
+  PRISMA Final Flow Diagram       ⏳ Next
+  Threats to Validity             ⬜ Pending
+  Manuscript                      ⬜ Pending
+  IEEE Reference Validation       ⬜ Pending
+  Appendices                      ⬜ Pending
+  Final DOCX                      ⬜ Pending
 
-> Pada aktivitas atau tahapan DevOps apa saja teknologi Artificial Intelligence diterapkan?
+## Final PRISMA counts
 
-**RQ3 — AI Technologies**
-
-> Teknik, metode, dan teknologi Artificial Intelligence apa yang digunakan untuk mendukung otomasi DevOps?
-
-**RQ4 — Benefits and Impact**
-
-> Apa manfaat dan dampak yang dilaporkan dari penerapan Artificial Intelligence pada proses DevOps?
-
-**RQ5 — Challenges and Research Opportunities**
-
-> Apa tantangan, keterbatasan, dan peluang penelitian selanjutnya dalam penerapan Artificial Intelligence untuk otomasi DevOps?
-
----
-
-## Current Progress
-
-**Last updated: 8 September 2026**
-
-| Phase | Tahap | Status |
-|---|---|---|
-| 1 | Topic Definition | ✅ Selesai |
-| 2 | SLR Research Protocol | ✅ Selesai / Locked |
-| 3 | Pilot Search | ✅ Selesai |
-| 4 | Full Literature Search | ✅ Selesai |
-| 5 | Deduplication | ✅ Selesai |
-| 6 | Title & Abstract Screening | ✅ Selesai |
-| 7 | Full-text Screening | ✅ Selesai untuk corpus yang diproses |
-| 8 | Quality Assessment | ✅ 60/60 PASS |
-| 9 | PRISMA Documentation | ⏳ Next — Final Reconciliation |
-| 10 | Data Extraction | ✅ 60/60 |
-| 11 | Data Synthesis | ✅ RQ1–RQ5 |
-| 12 | Research Gap Identification | ✅ G1–G8 |
-| 13 | Future Research Agenda | ✅ FR1–FR5 |
-| 14 | SLR Writing | ⬜ Belum |
-
----
-
-## Search & Study Selection
-
-```text
-Database search results identified                  1,132
-Non-article/container records removed                   2
-Bibliographic article records imported              1,130
-Duplicate occurrences removed                         317
-Unique records screened                               813
-Title/abstract excluded                               431
-Title/abstract Include / reports sought               382
-
-Unique full-text studies processed                     73
-Include                                                60
-Exclude                                                13
-Pending                                                 0
-Duplicate PDFs encountered                              3
+``` text
+Records identified                              1,132
+  ScienceDirect                                   185
+  IEEE Xplore                                     765
+  ACM Digital Library                             180
+Other/container records removed                     2
+Records entering deduplication                  1,130
+Duplicate occurrences removed                     317
+Records screened                                  813
+Title/abstract excluded                           431
+Reports sought for retrieval                      382
+Reports not retrieved                             309
+Reports retrieved / assessed                       73
+Full-text excluded                                 13
+Studies included                                   60
 ```
 
-Full-text exclusion distribution:
+Retrieval was attempted via Zotero for **all 382 reports**; **73 full
+texts were obtained**. Therefore 309 are validly classified as
+`Reports not retrieved`.
 
-```text
-FT3 = 2
-FT4 = 1
-FT5 = 7
-FT6 = 3
-Total = 13
+Full-text exclusions: FT3=2; FT4=1; FT5=7; FT6=3.
+
+Authoritative workbook:
+`SLR_Master_PRISMA_Reconciliation_382_2026-09-08_FINAL.xlsx`
+
+## QA & extraction
+
+-   QA: 60/60 PASS; threshold \>=3.0/5.
+-   Data Extraction: 60/60 complete.
+-   Final extraction schema: 26 fields.
+-   Evidence Strength: Production; Industrial Empirical; Controlled
+    Experimental; Benchmark; Simulation; Conceptual.
+
+## RQ1
+
+Provisional publication distribution: 2016=0; 2017=0; 2018=0; 2019=3;
+2020=7; 2021=4; 2022=7; 2023=7; 2024=12; 2025=9; 2026=11.
+
+PS045 is still unresolved (2025 vs 2026); provisional chart uses 2025.
+
+Trajectory: **Predictive AI → Diagnostic AIOps → Generative AI → Agentic
+AI**
+
+## RQ2
+
+Multi-label stages: Monitor 35; Operate 31; Incident/RCA 17; Test 16;
+Build 10; Deploy 9; Develop/IaC 3; Model Governance 3; Human 1.
+
+Main pattern: **Monitor → Operate → Incident/RCA**
+
+## RQ3
+
+Taxonomy: Classical ML; Deep Learning; Unsupervised/Anomaly AI;
+Optimization/RL; NLP/Representation; GenAI/LLM; Agentic/Multi-Agent.
+
+Mutually exclusive primary-category chart: - Classical ML 27 (45.0%) -
+Deep Learning 8 (13.3%) - GenAI/LLM 7 (11.7%) - Unsupervised/Anomaly AI
+6 (10.0%) - Agentic/Multi-Agent 5 (8.3%) - NLP/Representation 4 (6.7%) -
+Optimization/RL 3 (5.0%)
+
+AIOps is context/paradigm, not an algorithm.
+
+## RQ4
+
+Benefit themes: B1 Speed & Efficiency; B2 Accuracy & Detection Quality;
+B3 Reliability & Availability; B4 Cost & Resource Optimization; B5
+Automation & Toil Reduction; B6 Security Improvement; B7 Human Decision
+Support & Productivity.
+
+Do not invent corpus-wide B1--B7 frequencies. Final RQ4 chart uses **16
+representative evidence anchors** only.
+
+Key interpretation: **technical capability is developing faster than
+demonstrated production benefit**.
+
+## RQ5
+
+Challenge themes: data quality; imbalance; leakage; drift;
+generalization; benchmark-production gap; explainability/trust;
+hallucination; cost/latency; integration; remediation safety; human
+oversight; privacy/security; evaluation inconsistency.
+
+Research gaps: - G1 Production-scale validation - G2 Generalization - G3
+Drift/lifecycle - G4 Explainability/trust/reliability - G5 Remediation
+safety - G6 LLM/agent cost & latency - G7 Human--AI
+collaboration/adoption - G8 Integrated ML + DevOps operational
+evaluation
+
+Highest priority: **G1, G5, G8**.
+
+Future agenda: FR1 Production-Validated; FR2 Adaptive/Generalizable; FR3
+Trustworthy/Explainable LLM-AIOps; FR4 Safe/Cost-Efficient Agentic
+DevOps; FR5 Human-Centered Autonomous DevOps.
+
+Target trajectory: **Predictive → Diagnostic → Generative → Agentic →
+Trustworthy Autonomous DevOps**
+
+## Reporting artifacts
+
+Current reporting artifacts include:
+
+``` text
+RQ3_Final_AI_Taxonomy_and_Methods_DevOps_2016-2026.xlsx
+RQ4_Final_Benefits_Impacts_Evidence_Anchors_AI_DevOps_2016-2026.xlsx
+RQ5_Final_Challenges_Gaps_Future_Research_AI_DevOps_2016-2026.xlsx
+SLR_Master_PRISMA_Reconciliation_382_2026-09-08_FINAL.xlsx
 ```
 
-### PRISMA Caveat
+RQ1 and RQ2 final tables/charts were also completed in the working
+session and should be stored under `06_synthesis/` or
+`08_manuscript/tables|figures/`.
 
-Accounting antara `382 reports sought for retrieval` dan `73 unique full-text studies processed` **belum direkonsiliasi secara final**.
+## Repository structure
 
-Jangan menganggap:
-
-```text
-382 - 73 = 309
-```
-
-sebagai `reports not retrieved` tanpa audit trail.
-
----
-
-## Quality Assessment
-
-```text
-QA candidates = 60
-QA assessed   = 60
-QA PASS       = 60
-QA FAIL       = 0
-Progress      = 100%
-```
-
-QA tetap digunakan sebagai stratifikasi kekuatan evidence; PASS tidak berarti seluruh paper mempunyai kekuatan evidence yang sama.
-
----
-
-## Data Extraction
-
-Data Extraction selesai untuk seluruh **60 primary studies**.
-
-Final schema = **26 fields**:
-
-1. Paper ID
-2. Authors
-3. Year
-4. Title
-5. Source Database
-6. Venue
-7. Publication Type
-8. Research Type
-9. DevOps Stage
-10. DevOps Activity
-11. AI Category
-12. AI Method/Model
-13. Dataset/System
-14. Research Objective
-15. Evaluation Method
-16. Metrics
-17. Main Findings
-18. Benefits
-19. Challenges
-20. Limitations
-21. Future Work
-22. RQ Mapping
-23. QA Score
-24. Industrial Context
-25. Evidence Type
-26. Evidence Strength
-
-Evidence Strength:
-
-- Production
-- Industrial Empirical
-- Controlled Experimental
-- Benchmark
-- Simulation
-- Conceptual
-
----
-
-## Main Synthesis Findings
-
-### RQ1 — Research Trend
-
-Provisional distribution:
-
-```text
-2016 = 0
-2017 = 0
-2018 = 0
-2019 = 3
-2020 = 7
-2021 = 4
-2022 = 7
-2023 = 7
-2024 = 12
-2025 = 9
-2026 = 11
-Total = 60
-```
-
-Main trajectory:
-
-```text
-Predictive AI
-      ↓
-Diagnostic AIOps
-      ↓
-Generative AI
-      ↓
-Agentic AI
-```
-
-### RQ2 — DevOps Application Areas
-
-Multi-label stage mapping:
-
-```text
-Monitor / Observability       35
-Operate / Operations          31
-Incident / RCA / Remediation  17
-Test                          16
-Build / CI                    10
-Deploy / Release               9
-Develop / Code / IaC           3
-AIOps Model Governance         3
-Human / Cross-cutting          1
-```
-
-Dominant pattern:
-
-```text
-Monitor → Operate → Incident / RCA
-```
-
-### RQ3 — AI Technology Taxonomy
-
-1. Classical Machine Learning
-2. Deep Learning
-3. Unsupervised / Anomaly AI
-4. Optimization & Reinforcement Learning
-5. NLP / Representation Learning
-6. Generative AI / Large Language Models
-7. Agentic / Multi-Agent AI
-
-> **AIOps diperlakukan sebagai application paradigm/context, bukan algoritma.**
-
-Evolution:
-
-```text
-Model → Pipeline → Reasoning System → Agentic System
-```
-
-### RQ4 — Benefits
-
-Locked benefit themes:
-
-- B1 — Speed & Efficiency
-- B2 — Accuracy & Detection Quality
-- B3 — Reliability & Availability
-- B4 — Cost & Resource Optimization
-- B5 — Automation & Toil Reduction
-- B6 — Security Improvement
-- B7 — Human Decision Support & Productivity
-
-Benchmark performance tidak otomatis dianggap production impact.
-
-### RQ5 — Challenges
-
-Main themes:
-
-- data quality dan scarcity of labels
-- class imbalance
-- temporal leakage
-- concept drift / model decay
-- limited generalization
-- benchmark-to-production gap
-- explainability dan trust
-- LLM hallucination / reliability
-- inference cost dan latency
-- DevOps toolchain integration
-- autonomous-remediation safety
-- human oversight
-- privacy dan security
-- non-standard evaluation metrics
-
----
-
-## Research Gap Matrix
-
-| ID | Research Gap |
-|---|---|
-| G1 | Kurangnya production-scale validation |
-| G2 | Generalization antar-sistem dan organisasi masih terbatas |
-| G3 | Concept drift dan long-term model maintenance belum cukup diteliti |
-| G4 | Explainability, trust, dan reliability belum matang |
-| G5 | Safety mechanisms untuk autonomous remediation belum matang |
-| G6 | Cost, latency, dan resource consumption LLM/multi-agent kurang dievaluasi |
-| G7 | Human–AI collaboration dan organizational adoption masih kurang diteliti |
-| G8 | Belum ada evaluation framework konsisten yang menggabungkan ML metrics dengan DevOps operational outcomes |
-
-Central gap:
-
-> **Masih terdapat kesenjangan antara kemampuan eksperimental AI-for-DevOps dan trustworthy production-scale autonomy.**
-
----
-
-## Future Research Agenda
-
-- **FR1 — Production-Validated AI-for-DevOps**
-- **FR2 — Adaptive and Generalizable AIOps**
-- **FR3 — Trustworthy and Explainable LLM-AIOps**
-- **FR4 — Safe and Cost-Efficient Agentic DevOps**
-- **FR5 — Human-Centered Autonomous DevOps**
-
-Roadmap:
-
-```text
-NEAR TERM
-Production validation
-+ standardized evaluation
-+ time/drift-aware evaluation
-+ cross-system benchmarking
-+ LLM grounding
-
-        ↓
-
-MID TERM
-Adaptive AIOps
-+ explainability
-+ cost-aware LLM/agents
-+ human-AI collaboration
-+ privacy-preserving AIOps
-
-        ↓
-
-LONG TERM
-Safe autonomous remediation
-+ closed-loop Agentic AIOps
-+ continuous operational learning
-+ trustworthy autonomous DevOps
-```
-
-Target trajectory:
-
-```text
-Predictive
-→ Diagnostic
-→ Generative
-→ Agentic
-→ Trustworthy Autonomous DevOps
-```
-
----
-
-## Repository Structure
-
-```text
+``` text
 magister-teknologi-informasi/
 ├── README.md
-│
 ├── 00_context/
 │   ├── SLR_Milestone_AI_DevOps_2016-2026.md
-│   └── SLR_SESSION_HANDOFF_2026-09-08.md
-│
+│   ├── SLR_SESSION_HANDOFF_2026-09-08.md
+│   └── SLR_CONTEXT_MASTER_2026-09-08.md
 ├── 01_protocol/
-│   └── research-protocol.md
-│
 ├── 02_search/
-│   ├── search-log.md
-│   └── raw-exports/
-│
 ├── 03_screening/
-│   ├── deduplication/
-│   ├── title-abstract/
-│   └── full-text/
-│
 ├── 04_quality/
-│   └── qa-log.md
-│
 ├── 05_extraction/
-│   ├── extraction-master.xlsx
-│   └── extraction-schema.md
-│
 ├── 06_synthesis/
-│   └── SLR_EVIDENCE_SYNTHESIS_LEDGER_2026-09-08.md
-│
 ├── 07_prisma/
-│   └── SLR_PRISMA_RECONCILIATION_WORKSHEET_2026-09-08.md
-│
 ├── 08_manuscript/
 │   ├── figures/
 │   ├── tables/
 │   └── draft/
-│
 └── 09_archive/
 ```
 
-Struktur tersebut adalah target. Folder/file yang belum diperlukan tidak harus dibuat sekaligus.
+## Source-of-truth rules
 
----
+1.  `README.md` = overview/current status/navigation.
+2.  `SLR_Milestone_AI_DevOps_2016-2026.md` = full history +
+    authoritative current-state section.
+3.  `SLR_SESSION_HANDOFF_2026-09-08.md` = compact new-session context.
+4.  `SLR_CONTEXT_MASTER_2026-09-08.md` = dense machine-readable/manual
+    handoff context.
+5.  Evidence Ledger = synthesis findings and claim guardrails.
+6.  Final PRISMA workbook = authoritative retrieval/full-text audit.
+7.  Record-level screening/extraction workbooks remain source of truth
+    for paper-level decisions.
+8.  Raw exports are immutable.
+9.  Unknown remains Unknown until evidence resolves it.
 
-## Source-of-Truth Rules
+## Bibliographic caveats
 
-1. **`README.md`**  
-   Overview repository, current project status, dan navigasi.
+-   PS019 = 2025
+-   PS029 = 2024
+-   PS043 = 2021
+-   PS044 = 2023
+-   PS045 = unresolved 2025 vs 2026; provisional RQ1 uses 2025
 
-2. **`SLR_Milestone_AI_DevOps_2016-2026.md`**  
-   Riwayat proyek, keputusan metodologis, dan milestone lengkap.
+## Critical warning
 
-3. **`SLR_SESSION_HANDOFF_*.md`**  
-   Context ringkas untuk pindah sesi ChatGPT.
+Do **not** reuse the earlier generated PRISMA image. It contained wrong
+database counts and wrong FT-code descriptions.
 
-4. **`SLR_EVIDENCE_SYNTHESIS_LEDGER_*.md`**  
-   Synthesis findings, evidence anchors, dan guardrail untuk penulisan.
+## Next step
 
-5. **`SLR_PRISMA_RECONCILIATION_WORKSHEET_*.md`**  
-   Audit retrieval dan angka final PRISMA.
+**Create the authoritative corrected PRISMA 2020 final flow diagram**,
+then finalize **Threats to Validity**, then start the manuscript.
 
-6. **Screening / extraction workbooks**  
-   Source of truth untuk keputusan pada level paper.
+## New-session prompt
 
-7. **Raw database exports**  
-   Jangan ditimpa; simpan sebagai immutable audit trail.
-
-8. **Unknown values**  
-   Tetap `Unknown` sampai tersedia evidence yang cukup.
-
----
-
-## Important Working Files
-
-```text
-SLR_Master_Deduplication_2026-09-07.xlsx
-SLR_Master_Maybe_Resolved_813_2026-09-08.xlsx
-SLR_Master_FullText_Screening_Ready_382_2026-09-08.xlsx
-SLR_Include_382_for_Zotero_FullText_Retrieval.ris
-SLR_Milestone_AI_DevOps_2016-2026.md
-SLR_SESSION_HANDOFF_2026-09-08.md
-SLR_EVIDENCE_SYNTHESIS_LEDGER_2026-09-08.md
-SLR_PRISMA_RECONCILIATION_WORKSHEET_2026-09-08.md
-```
-
----
-
-## Bibliographic Caveats
-
-- PS019 → **2025**
-- PS029 → **2024**
-- PS043 → **2021**
-- PS044 → **2023**
-- PS045 → **belum final**; perlu rekonsiliasi metadata 2025 vs filename 2026
-
-Jangan menggunakan filename sebagai satu-satunya dasar metadata bibliografis.
-
----
-
-## Current Next Step
-
-### PRISMA Final Reconciliation
-
-Target:
-
-```text
-Reports sought for retrieval        382
-Reports not retrieved                 ?
-Reports retrieved                     ?
-Reports assessed for eligibility      ?
-Full-text excluded                    ?
-Studies included                     60
-```
-
-Rules:
-
-- jangan mengarang missing counts;
-- bedakan `reports` dan `studies`;
-- bedakan retrieval failure dan full-text exclusion;
-- seluruh angka final harus mempunyai audit trail.
-
-Roadmap sesudahnya:
-
-```text
-PRISMA Final Reconciliation
-        ↓
-PRISMA 2020 Final Flow
-        ↓
-Final Tables & Charts
-        ↓
-Threats to Validity
-        ↓
-SLR Manuscript
-        ↓
-IEEE Reference Validation
-        ↓
-Appendices
-        ↓
-Final DOCX
-```
-
----
-
-## Definition of Done
-
-- [x] Topic dan scope
-- [x] Research Objective
-- [x] RQ1–RQ5
-- [x] PICOC
-- [x] Research Protocol
-- [x] Search Strategy
-- [x] Search execution
-- [x] Search date
-- [x] Deduplication
-- [x] Title/Abstract Screening
-- [x] Full-text decisions untuk corpus diproses
-- [x] QA 60/60
-- [x] Data Extraction 60/60
-- [x] Data Synthesis RQ1–RQ5
-- [x] Research Gap G1–G8
-- [x] Future Research Agenda FR1–FR5
-- [ ] PRISMA Final Reconciliation
-- [ ] PRISMA 2020 Final Flow
-- [ ] Final Tables/Charts
-- [ ] Threats to Validity
-- [ ] SLR Manuscript
-- [ ] IEEE Reference Validation
-- [ ] Appendices
-- [ ] Final DOCX
-
----
-
-## Session Continuation
-
-Untuk pindah ke sesi ChatGPT baru, gunakan:
-
-```text
-SLR_SESSION_HANDOFF_2026-09-08.md
-```
-
-Prompt singkat:
-
-> Lanjutkan proyek SLR berdasarkan current project state. Keputusan yang sudah locked jangan diubah tanpa alasan metodologis. Current state: QA 60/60 PASS, Data Extraction 60/60 selesai, RQ1–RQ5 synthesis selesai, Research Gap G1–G8 dan Future Research Agenda FR1–FR5 sudah locked. Tahap berikutnya adalah PRISMA Final Reconciliation. Audit hubungan 382 reports sought dengan retrieval/full-text status aktual. Jangan menganggap selisih 309 otomatis sebagai reports not retrieved.
-
----
-
-_Last updated: 8 September 2026_
+> Baca `SLR_SESSION_HANDOFF_2026-09-08.md` dan
+> `SLR_CONTEXT_MASTER_2026-09-08.md` sebagai authoritative state. PRISMA
+> reconciliation sudah final: 382 sought, 309 not retrieved, 73
+> retrieved/assessed, 13 excluded, 60 included. RQ1--RQ5 tables/charts
+> sudah final. Jangan gunakan PRISMA image lama yang salah. Lanjutkan
+> satu step: buat authoritative PRISMA 2020 final flow diagram, lalu
+> Threats to Validity.
