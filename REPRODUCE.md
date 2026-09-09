@@ -255,7 +255,7 @@ ACM-07_AIOps_2016-2026_2026-09-07.ris
 Operational search notes are stored under:
 
 ```text
-02_search/log/
+02_search/logs/
 ```
 
 Current files:
@@ -548,7 +548,7 @@ If a dedicated final QA workbook is added later, it should become the primary ar
 Current extraction artifact:
 
 ```text
-05_extraction/master extraction-recovered.xlsx
+05_extraction/SLR_Data_Extraction_60_Studies_26Fields_FINAL_2026-09-09.xlsx
 ```
 
 This workbook contains the recovered extraction master and should be preserved as a recovery artifact.

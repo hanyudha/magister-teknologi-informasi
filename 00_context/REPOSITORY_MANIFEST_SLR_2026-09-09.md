@@ -90,7 +90,7 @@ magister-teknologi-informasi/
 │   ├── dedup/
 │   ├── title-abstract/
 │   ├── full-text/
-│   └── prisma-reconciliation/
+│   └── prism-reconciliation/
 ├── 04_quality/
 ├── 05_extraction/
 ├── 06_synthesis/
