@@ -1,0 +1,298 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1400"
+     height="1800"
+     viewBox="0 0 1400 1800">
+
+  <defs>
+    <style>
+      .title {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 38px;
+        font-weight: 700;
+        fill: #ffffff;
+        text-anchor: middle;
+      }
+
+      .subtitle {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 22px;
+        font-weight: 600;
+        fill: #ffffff;
+        text-anchor: middle;
+      }
+
+      .stage {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 24px;
+        font-weight: 700;
+        fill: #12304a;
+        text-anchor: middle;
+      }
+
+      .box-title {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 22px;
+        font-weight: 700;
+        fill: #111111;
+        text-anchor: middle;
+      }
+
+      .box-text {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 18px;
+        font-weight: 400;
+        fill: #222222;
+        text-anchor: middle;
+      }
+
+      .box-text-left {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 17px;
+        font-weight: 400;
+        fill: #222222;
+      }
+
+      .footnote {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15px;
+        fill: #444444;
+      }
+
+      .main-box {
+        fill: #ffffff;
+        stroke: #222222;
+        stroke-width: 2;
+        rx: 10;
+        ry: 10;
+      }
+
+      .side-box {
+        fill: #f4f6f8;
+        stroke: #666666;
+        stroke-width: 1.8;
+        rx: 10;
+        ry: 10;
+      }
+
+      .included-box {
+        fill: #e8f4ff;
+        stroke: #1d5f91;
+        stroke-width: 2.2;
+        rx: 10;
+        ry: 10;
+      }
+
+      .stage-box {
+        stroke-width: 1.8;
+        rx: 10;
+        ry: 10;
+      }
+
+      .arrow {
+        stroke: #111111;
+        stroke-width: 2.2;
+        fill: none;
+        marker-end: url(#arrowhead);
+      }
+    </style>
+
+    <marker id="arrowhead"
+            markerWidth="12"
+            markerHeight="8"
+            refX="10"
+            refY="4"
+            orient="auto"
+            markerUnits="strokeWidth">
+      <path d="M0,0 L12,4 L0,8 z" fill="#111111"/>
+    </marker>
+  </defs>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="1400" height="1800" fill="#ffffff"/>
+
+  <!-- Title -->
+  <rect x="40" y="30" width="1320" height="120" rx="14" ry="14" fill="#123f66"/>
+
+  <text x="700" y="82" class="title">PRISMA 2020 Flow Diagram</text>
+  <text x="700" y="120" class="subtitle">
+    Artificial Intelligence in DevOps Automation: A Systematic Literature Review (2016–2026)
+  </text>
+
+  <!-- Stage labels -->
+  <rect x="40" y="190" width="100" height="360"
+        class="stage-box" fill="#cfe9fb" stroke="#4b91bd"/>
+  <text x="90" y="370" class="stage"
+        transform="rotate(-90 90 370)">Identification</text>
+
+  <rect x="40" y="580" width="100" height="620"
+        class="stage-box" fill="#dff2e4" stroke="#5c9c6b"/>
+  <text x="90" y="890" class="stage"
+        transform="rotate(-90 90 890)">Screening</text>
+
+  <rect x="40" y="1230" width="100" height="300"
+        class="stage-box" fill="#fff0c7" stroke="#c7a24b"/>
+  <text x="90" y="1380" class="stage"
+        transform="rotate(-90 90 1380)">Eligibility</text>
+
+  <rect x="40" y="1560" width="100" height="170"
+        class="stage-box" fill="#e7dcfa" stroke="#8b67c9"/>
+  <text x="90" y="1645" class="stage"
+        transform="rotate(-90 90 1645)">Included</text>
+
+  <!-- MAIN FLOW: Identification -->
+
+  <!-- Records identified -->
+  <rect x="190" y="200" width="590" height="210" class="main-box"/>
+  <text x="485" y="245" class="box-title">
+    Records identified from databases
+  </text>
+  <text x="485" y="280" class="box-title">(n = 1,132)</text>
+
+  <text x="485" y="320" class="box-text">
+    ScienceDirect (n = 185)
+  </text>
+  <text x="485" y="350" class="box-text">
+    IEEE Xplore (n = 765)
+  </text>
+  <text x="485" y="380" class="box-text">
+    ACM Digital Library (n = 180)
+  </text>
+
+  <!-- Removed before screening -->
+  <rect x="875" y="220" width="450" height="170" class="side-box"/>
+  <text x="1100" y="260" class="box-title">
+    Other/container records removed
+  </text>
+  <text x="1100" y="294" class="box-title">(n = 2)</text>
+  <text x="1100" y="330" class="box-text">
+    Removed before screening
+  </text>
+
+  <!-- Arrow identified -> removed -->
+  <line x1="780" y1="305" x2="875" y2="305" class="arrow"/>
+
+  <!-- Records entering deduplication -->
+  <rect x="190" y="455" width="590" height="105" class="main-box"/>
+  <text x="485" y="495" class="box-title">
+    Records entering deduplication
+  </text>
+  <text x="485" y="530" class="box-title">(n = 1,130)</text>
+
+  <!-- Arrow down -->
+  <line x1="485" y1="410" x2="485" y2="455" class="arrow"/>
+
+  <!-- Duplicates -->
+  <rect x="875" y="455" width="450" height="105" class="side-box"/>
+  <text x="1100" y="495" class="box-title">
+    Duplicate occurrences removed
+  </text>
+  <text x="1100" y="530" class="box-title">(n = 317)</text>
+
+  <line x1="780" y1="507" x2="875" y2="507" class="arrow"/>
+
+  <!-- Screening -->
+
+  <!-- Unique records screened -->
+  <rect x="190" y="610" width="590" height="105" class="main-box"/>
+  <text x="485" y="650" class="box-title">
+    Unique records screened
+  </text>
+  <text x="485" y="685" class="box-title">(n = 813)</text>
+
+  <line x1="485" y1="560" x2="485" y2="610" class="arrow"/>
+
+  <!-- Records excluded -->
+  <rect x="875" y="610" width="450" height="105" class="side-box"/>
+  <text x="1100" y="650" class="box-title">
+    Records excluded at title/abstract
+  </text>
+  <text x="1100" y="685" class="box-title">(n = 431)</text>
+
+  <line x1="780" y1="662" x2="875" y2="662" class="arrow"/>
+
+  <!-- Reports sought -->
+  <rect x="190" y="770" width="590" height="105" class="main-box"/>
+  <text x="485" y="810" class="box-title">
+    Reports sought for retrieval
+  </text>
+  <text x="485" y="845" class="box-title">(n = 382)</text>
+
+  <line x1="485" y1="715" x2="485" y2="770" class="arrow"/>
+
+  <!-- Reports not retrieved -->
+  <rect x="875" y="750" width="450" height="150" class="side-box"/>
+  <text x="1100" y="790" class="box-title">
+    Reports not retrieved
+  </text>
+  <text x="1100" y="825" class="box-title">(n = 309)</text>
+  <text x="1100" y="860" class="box-text">
+    Retrieval attempted for all 382
+  </text>
+  <text x="1100" y="888" class="box-text">
+    via Zotero; only 73 obtained
+  </text>
+
+  <line x1="780" y1="822" x2="875" y2="822" class="arrow"/>
+
+  <!-- Reports retrieved -->
+  <rect x="190" y="930" width="590" height="105" class="main-box"/>
+  <text x="485" y="970" class="box-title">
+    Reports retrieved
+  </text>
+  <text x="485" y="1005" class="box-title">(n = 73)</text>
+
+  <line x1="485" y1="875" x2="485" y2="930" class="arrow"/>
+
+  <!-- Eligibility -->
+
+  <!-- Reports assessed -->
+  <rect x="190" y="1260" width="590" height="120" class="main-box"/>
+  <text x="485" y="1305" class="box-title">
+    Reports assessed for eligibility
+  </text>
+  <text x="485" y="1342" class="box-title">(n = 73)</text>
+
+  <line x1="485" y1="1035" x2="485" y2="1260" class="arrow"/>
+
+  <!-- Full-text excluded -->
+  <rect x="835" y="1205" width="500" height="255" class="side-box"/>
+
+  <text x="1085" y="1245" class="box-title">
+    Full-text reports excluded
+  </text>
+  <text x="1085" y="1280" class="box-title">(n = 13)</text>
+
+  <text x="860" y="1325" class="box-text-left">
+    FT3 — No AI/ML/GenAI/AIOps intervention (n = 2)
+  </text>
+  <text x="860" y="1360" class="box-text-left">
+    FT4 — MLOps only / DevOps-for-AI (n = 1)
+  </text>
+  <text x="860" y="1395" class="box-text-left">
+    FT5 — Secondary or non-primary publication (n = 7)
+  </text>
+  <text x="860" y="1430" class="box-text-left">
+    FT6 — Insufficient substantive evidence for RQs (n = 3)
+  </text>
+
+  <line x1="780" y1="1320" x2="835" y2="1320" class="arrow"/>
+
+  <!-- Included -->
+
+  <rect x="190" y="1585" width="590" height="125" class="included-box"/>
+  <text x="485" y="1635" class="box-title">
+    Studies included in review
+  </text>
+  <text x="485" y="1678" class="box-title">(n = 60)</text>
+
+  <line x1="485" y1="1380" x2="485" y2="1585" class="arrow"/>
+
+  <!-- Footer note -->
+  <text x="190" y="1760" class="footnote">
+    PRISMA accounting locked: 1,132 identified → 1,130 deduplicated input → 813 screened →
+  </text>
+  <text x="190" y="1785" class="footnote">
+    382 reports sought → 73 retrieved/assessed → 13 excluded → 60 studies included.
+  </text>
+
+</svg>
