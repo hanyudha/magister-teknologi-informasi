@@ -1,0 +1,8 @@
+# Repository text/binary policy for reproducible SLR artifacts
+*.md text eol=lf
+*.txt text eol=lf
+02_search/raw/** -text
+*.xlsx binary
+*.docx binary
+*.pdf binary
+*.svg text eol=lf

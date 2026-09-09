@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.bak
+*~
+~$*.docx
+~$*.xlsx
+__pycache__/
+.pytest_cache/
+*.pyc
+SLR_AI_DevOps_*_RELEASE_*.zip
+SLR_AI_DevOps_*_PACKAGE_*.zip

@@ -1,7 +1,7 @@
 # SLR Repository Manifest & Reproducibility Inventory
 
 **Updated: 9 September 2026**  
-**State:** Appendix A–E and Supplementary Dataset Master synchronized
+**State:** Analytical artifacts, Appendix A–E, Supplementary Dataset Master, and visual publication-ready artifacts synchronized
 
 ## 1. Authoritative context
 
@@ -14,6 +14,7 @@ REPRODUCE.md
 00_context/SLR_SESSION_HANDOFF_2026-09-09.md
 00_context/SLR_EVIDENCE_SYNTHESIS_LEDGER_2026-09-09.md
 00_context/REPOSITORY_MANIFEST_SLR_2026-09-09.md
+00_context/FINAL_VISUAL_QA_REPORT_2026-09-09.md
 ```
 
 Historical milestones belong under `99_archive/` and are not current source of truth.
@@ -147,18 +148,39 @@ Full-text excluded = 13
 Included = 60
 ```
 
-## 9. Manuscript
+## 9. Manuscript and publication rendering
+
+### Authoritative publication artifacts
+
+```text
+08_manuscript/final/SLR_AI_DevOps_VISUAL_PUBLICATION_READY_FINAL_2026-09-09.docx
+08_manuscript/final/SLR_AI_DevOps_VISUAL_PUBLICATION_READY_FINAL_2026-09-09.pdf
+```
+
+Current authority:
+
+```text
+Authoritative editable manuscript:
+SLR_AI_DevOps_VISUAL_PUBLICATION_READY_FINAL_2026-09-09.docx
+
+Authoritative publication rendering:
+SLR_AI_DevOps_VISUAL_PUBLICATION_READY_FINAL_2026-09-09.pdf
+
+Final visual QA record:
+00_context/FINAL_VISUAL_QA_REPORT_2026-09-09.md
+```
+
+The visual-publication pass is presentation-only and does not alter the locked analytical SLR state.
+
+### Pre-visual / provenance artifacts
 
 ```text
 08_manuscript/final/SLR_AI_DevOps_Consolidated_FINAL_CITATIONS_2026-09-09.docx
 08_manuscript/final/SLR_AI_DevOps_PUBLICATION_READY_FINAL_2026-09-09.docx
 ```
 
-Preferred current manuscript:
+`SLR_AI_DevOps_PUBLICATION_READY_FINAL_2026-09-09.docx` is retained as the **pre-visual publication baseline / rollback artifact** and must not override the authoritative visual publication-ready DOCX/PDF.
 
-```text
-SLR_AI_DevOps_PUBLICATION_READY_FINAL_2026-09-09.docx
-```
 
 ## 10. References and bibliographic verification
 
@@ -215,7 +237,26 @@ The master workbook provides audit views for:
 
 It is a consolidated audit package and does not replace raw or stage-specific source files.
 
-## 13. Archive
+## 13. Release snapshot
+
+Recommended release location:
+
+```text
+release/2026-09-09/
+├── manuscript/
+│   ├── SLR_AI_DevOps_VISUAL_PUBLICATION_READY_FINAL_2026-09-09.docx
+│   └── SLR_AI_DevOps_VISUAL_PUBLICATION_READY_FINAL_2026-09-09.pdf
+├── qa/
+│   └── FINAL_VISUAL_QA_REPORT_2026-09-09.md
+├── supplementary/
+├── figures/
+├── SUBMISSION_README.md
+└── SHA256SUMS.txt
+```
+
+The release directory is an immutable submission/share snapshot. It does not replace the authoritative source artifacts under `08_manuscript/final/`, `00_context/`, `07_prisma/`, or `10_supplementary/`.
+
+## 14. Archive
 
 ```text
 99_archive/milestone/SLR_Milestone_AI_DevOps_2016-2026.md
@@ -223,27 +264,29 @@ It is a consolidated audit package and does not replace raw or stage-specific so
 
 Archive files are historical only. They may contain obsolete intermediate values and must not override current context.
 
-## 14. Source-of-truth priority
+## 15. Source-of-truth priority
 
 For conflicts, use this priority:
 
-1. current externally verified / final record-level workbook for the affected layer;
+1. current externally verified / final record-level workbook for the affected analytical layer;
 2. `SLR_CONTEXT_MASTER_2026-09-09.md`;
 3. final synthesis / PRISMA artifact;
-4. final manuscript;
-5. supplementary consolidation;
-6. historical/recovered/archived artifacts.
+4. authoritative visual publication-ready DOCX/PDF for the current manuscript/rendering state;
+5. final visual QA report for presentation/rendering verification;
+6. supplementary consolidation;
+7. pre-visual manuscript baselines;
+8. historical/recovered/archived artifacts.
 
-The supplementary master is convenient for audit, but provenance-sensitive corrections should be made first in the relevant canonical source artifact.
+The supplementary master is convenient for audit, but provenance-sensitive corrections should be made first in the relevant canonical source artifact. Visual/layout corrections must not override analytical source-of-truth artifacts.
 
-## 15. Raw-data and copyright rule
+## 16. Raw-data and copyright rule
 
 - Raw database exports under `02_search/raw/` are immutable.
 - Do not overwrite raw/recovered files to make them look final; create a validated final artifact.
 - Full-text publisher PDFs should not be committed to a public repository unless redistribution is permitted.
 - Prefer DOI/RIS/BibTeX/reference ledgers for public reproducibility.
 
-## 16. Recovery priority
+## 17. Recovery priority
 
 1. `README.md` + `REPRODUCE.md`
 2. context master + session handoff
@@ -254,15 +297,23 @@ The supplementary master is convenient for audit, but provenance-sensitive corre
 7. RQ1–RQ5 synthesis
 8. reference ledgers
 9. supplementary master
-10. publication-ready manuscript
+10. authoritative visual publication-ready DOCX
+11. authoritative visual publication-ready PDF
+12. final visual QA report
+13. pre-visual publication baseline only if rollback/provenance is required
 
-## 17. Remaining work
+## 18. Remaining work
 
-No additional analytical appendix is required for the current evidence state.
+No additional analytical appendix or substantive SLR revision is required for the current evidence state.
 
-Remaining work is publication/release packaging only:
+Remaining work is release/submission administration only:
 
-- optional final PDF;
-- optional university/journal template formatting;
-- optional checksums and release tag;
-- submission-specific files if required.
+- synchronize the final release snapshot under `release/2026-09-09/`;
+- include the authoritative visual DOCX/PDF and final visual QA report;
+- refresh `SUBMISSION_README.md` if the release package is maintained;
+- regenerate `SHA256SUMS.txt` after the release contents are frozen;
+- optionally create a Git tag/release;
+- apply university/journal template-specific formatting only if required by the target venue;
+- prepare submission-specific files if required.
+
+Any future analytical change must be treated as a controlled correction and propagated through the affected evidence, synthesis, context, manuscript, and release artifacts.

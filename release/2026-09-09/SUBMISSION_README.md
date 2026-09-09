@@ -1,15 +1,26 @@
-# Final Publication Package — AI for DevOps SLR
+# Final Publication Release — AI for DevOps SLR
 
-**Release date:** 9 September 2026
+**Release date:** 9 September 2026  
+**Release state:** FINAL VISUAL PUBLICATION-READY / QA PASS
 
-## Manuscript
+## Authoritative Manuscript
 
-Preferred submission files:
+Preferred submission/share files:
 
-- `manuscript/SLR_AI_DevOps_PUBLICATION_READY_FINAL_2026-09-09.pdf`
-- `manuscript/SLR_AI_DevOps_PUBLICATION_READY_FINAL_2026-09-09.docx`
+- `manuscript/SLR_AI_DevOps_VISUAL_PUBLICATION_READY_FINAL_2026-09-09.pdf`
+- `manuscript/SLR_AI_DevOps_VISUAL_PUBLICATION_READY_FINAL_2026-09-09.docx`
 
-The PDF is a direct render of the locked publication-ready DOCX. The manuscript contains 18 pages in the current generic publication layout.
+The DOCX is the authoritative editable manuscript for the current evidence state. The PDF is the corresponding authoritative publication rendering.
+
+The visual-publication pass is presentation-only and does not alter the locked analytical substance.
+
+## Final Visual QA
+
+QA record:
+
+- `qa/FINAL_VISUAL_QA_REPORT_2026-09-09.md`
+
+The final manuscript rendering contains **20 pages** and was inspected page-by-page. The QA pass covers layout integrity, figure/table presentation, accessibility checks, and preservation of the locked analytical content.
 
 ## Supplementary Material
 
@@ -23,8 +34,8 @@ The PDF is a direct render of the locked publication-ready DOCX. The manuscript 
 
 `/supplementary/datasets/` contains:
 
-- `SLR_SUPPLEMENTARY_DATASET_MASTER_2026-09-09.xlsx` — consolidated audit/reproduction workbook.
-- `SLR_INCLUDED_PRIMARY_STUDIES_60_FINAL_2026-09-09.xlsx` — human- and machine-readable 60-study identity/traceability dataset.
+- `SLR_SUPPLEMENTARY_DATASET_MASTER_2026-09-09.xlsx`
+- `SLR_INCLUDED_PRIMARY_STUDIES_60_FINAL_2026-09-09.xlsx`
 
 ## Figure
 
@@ -54,26 +65,25 @@ PS045 bibliographic year = 2026
 
 Do not restore the superseded `2025=9 / 2026=11` distribution or an unresolved/provisional PS045 state.
 
-## Publication QA
+## Publication QA Summary
 
-The publication-ready DOCX was rendered and visually checked page-by-page before this package was created.
-
-Final checks:
-
-- DOCX pages rendered: 18/18 visually reviewed
+- Visual manuscript pages reviewed: 20/20
 - PDF openable: PASS
 - PDF encrypted: No
 - PDF scanned-only: No
 - DOCX comments: 0
 - DOCX tracked insertions/deletions: 0/0
-- Citation integrity: locked PASS in project evidence
+- Accessibility audit: 0 findings
+- Citation integrity: PASS in project evidence
 - Primary-study DOI coverage: 60/60
 - PS001–PS060 ↔ Uxxxx mapping: 60/60
 
 ## Template Boundary
 
-This is a **generic publication-ready package**. No university- or journal-specific template was supplied for this release. Template-specific reformatting should be performed as a controlled formatting operation without reopening locked analytical content unless a substantive evidence issue is found.
+This is a generic publication-ready release. University- or journal-specific formatting may still be applied as a controlled presentation-only operation when required by the target venue.
 
 ## Integrity
 
-Verify file integrity using `SHA256SUMS.txt` before archival or submission.
+Verify file integrity using `SHA256SUMS.txt` before archival, transfer, or submission.
+
+The files in this directory form a release snapshot. Canonical source artifacts remain in their repository source locations.
