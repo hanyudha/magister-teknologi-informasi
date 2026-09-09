@@ -7,6 +7,7 @@
 **Methodological basis:** Kitchenham & Charters, PICOC, PRISMA 2020  
 **Citation style:** IEEE  
 **Current authoritative state:** 9 September 2026
+**Repository synchronization:** Appendix A–E and Supplementary Dataset Master included
 
 ---
 
@@ -160,7 +161,7 @@ Current repository layout relevant to the SLR:
 09_references/
 ```
 
-> Note: `04_quality/`, `10_supplementary/`, and `99_archive/` are recommended repository areas but may not yet exist in the current snapshot. If created later, update this document accordingly.
+> Current snapshot includes `04_quality/`, `10_supplementary/`, and `99_archive/`.
 
 ---
 
@@ -537,21 +538,23 @@ Important interpretation:
 
 > QA PASS is an inclusion-quality threshold. It does not mean all included studies have equal evidence strength.
 
-At the current repository snapshot, a dedicated `04_quality/` folder may not yet be present. QA fields are part of the extraction model and should eventually be exported into a dedicated QA artifact for stronger reproducibility.
+The dedicated QA protocol artifact is stored at:
 
-If a dedicated final QA workbook is added later, it should become the primary artifact referenced by this step.
+```text
+04_quality/QA_CRITERIA_AND_SCORING_FINAL_2026-09-09.md
+```
+
+Exact paper-level numeric QA scores remain unrecovered; the canonical extraction preserves PASS status only.
 
 ---
 
 ## Step 8 — Reproduce data extraction
 
-Current extraction artifact:
+Canonical extraction artifact:
 
 ```text
 05_extraction/SLR_Data_Extraction_60_Studies_26Fields_FINAL_2026-09-09.xlsx
 ```
-
-This workbook contains the recovered extraction master and should be preserved as a recovery artifact.
 
 The final extraction schema contains **26 fields**:
 
@@ -598,7 +601,7 @@ Conceptual
 Recommended repository cleanup:
 
 ```text
-05_extraction/master extraction-recovered.xlsx
+05_extraction/SLR_Data_Extraction_60_Studies_26Fields_FINAL_2026-09-09.xlsx
 ```
 
 should remain preserved, while a normalized authoritative export should be created, for example:
@@ -1023,37 +1026,35 @@ Do not overwrite raw or recovered source artifacts to make them look final. Crea
 
 ---
 
-# 12. Recommended Future Repository Additions
+# 12. Current Protocol and Supplementary Artifacts
 
-For stronger reproducibility, add:
-
-```text
-01_protocol/SLR_PROTOCOL_FINAL.md
-04_quality/SLR_Quality_Assessment_60_Studies_FINAL.xlsx
-04_quality/QA_CRITERIA_AND_SCORING.md
-05_extraction/SLR_Data_Extraction_60_Studies_26Fields_FINAL_2026-09-09.xlsx
-10_supplementary/
-99_archive/
-```
-
-Recommended supplementary workbook structure:
+The current repository includes the finalized supporting protocol artifacts:
 
 ```text
-SLR_SUPPLEMENTARY_DATASET.xlsx
-
-01_Primary_Studies
-02_QA
-03_Extraction
-04_PS_U_Mapping
-05_RQ1
-06_RQ2
-07_RQ3
-08_RQ4
-09_RQ5
-10_PRISMA
+01_protocol/SLR_SEARCH_STRATEGY_FINAL_2026-09-09.md
+01_protocol/SLR_STUDY_SELECTION_PROTOCOL_FINAL_2026-09-09.md
+01_protocol/SLR_DATA_EXTRACTION_AND_CODING_FRAMEWORK_FINAL_2026-09-09.md
+04_quality/QA_CRITERIA_AND_SCORING_FINAL_2026-09-09.md
 ```
 
-The current recovered and raw artifacts should remain preserved after these normalized outputs are added.
+Appendix artifacts:
+
+```text
+10_supplementary/appendices/APPENDIX_A_SEARCH_STRATEGY_2026-09-09.md
+10_supplementary/appendices/APPENDIX_B_STUDY_SELECTION_PROTOCOL_2026-09-09.md
+10_supplementary/appendices/APPENDIX_C_QUALITY_ASSESSMENT_2026-09-09.md
+10_supplementary/appendices/APPENDIX_D_INCLUDED_PRIMARY_STUDIES_2026-09-09.md
+10_supplementary/appendices/APPENDIX_E_DATA_EXTRACTION_AND_CODING_FRAMEWORK_2026-09-09.md
+```
+
+Canonical supplementary datasets:
+
+```text
+10_supplementary/datasets/SLR_INCLUDED_PRIMARY_STUDIES_60_FINAL_2026-09-09.xlsx
+10_supplementary/datasets/SLR_SUPPLEMENTARY_DATASET_MASTER_2026-09-09.xlsx
+```
+
+The master supplementary workbook consolidates the audit views for primary studies, QA, 26-field extraction, PS↔U mapping, RQ1–RQ5, and PRISMA. It does not replace the original raw or stage-specific source artifacts.
 
 ---
 
