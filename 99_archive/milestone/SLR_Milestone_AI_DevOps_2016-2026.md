@@ -1,3 +1,10 @@
+> ARCHIVED / SUPERSEDED
+>
+> Historical project state only.
+> Do not use as authoritative source.
+> Current authoritative state:
+> ../00_context/SLR_CONTEXT_MASTER_2026-09-09.md
+
 # Milestone Systematic Literature Review (SLR)
 
 ## Tema: Artificial Intelligence untuk DevOps Automation dalam Software Engineering
