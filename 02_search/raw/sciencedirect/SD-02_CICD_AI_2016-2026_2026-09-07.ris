@@ -1,0 +1,735 @@
+TY  - JOUR
+T1  - A Comparative Study of Cloud GPU Offerings for AI/ML Engineers
+AU  - Ahuja, Sanjay P.
+AU  - Golanakonda, Madhuri
+AU  - Reddivari, Sandeep
+JO  - International Journal of Cloud Applications and Computing
+VL  - 16
+IS  - 1
+PY  - 2026
+DA  - 2026/01/22/
+SN  - 2156-1834
+DO  - https://doi.org/10.4018/IJCAC.406737
+UR  - https://www.sciencedirect.com/science/article/pii/S2156183426000070
+KW  - Machine Learning
+KW  - Cloud Computing
+KW  - GPUs
+KW  - MLOps
+KW  - Performance Benchmarking
+KW  - CI/CD
+AB  - ABSTRACT
+The expanding role of machine learning (ML) and artificial intelligence has become a primary reason behind the demand for high-performance GPUs. Cloud platforms such as Google Cloud Platform, Amazon Web Services, and Microsoft Azure provide scalable access to NVIDIA accelerators. However, variations in GPUs, pricing, usability, and deployment pipelines can be challenging for ML engineers. This paper presents a comprehensive study of GPU platforms across the major cloud providers, covering hardware families (T4, L4, A100, H100, H200, and emerging B200), virtual machine configurations, interconnect technologies, and pricing, including on-demand, spot, and reserved options. Various ecosystem factors were evaluated, including documentation quality, community support, ease of provisioning, and managed ML operations services, such as Vertex AI, SageMaker, and Azure ML. A literature review is provided of MLPerf results and benchmarks to analyze cost, performance, and scalability. The findings provide practical recommendations to guide ML engineers in selecting a suitable cloud for training, inference, and production.
+ER  - 
+
+TY  - JOUR
+T1  - Driving innovation in 6G wireless technologies: The OpenAirInterface approach
+AU  - Kaltenberger, Florian
+AU  - Melodia, Tommaso
+AU  - Ghauri, Irfan
+AU  - Polese, Michele
+AU  - Knopp, Raymond
+AU  - Nguyen, Tien Thinh
+AU  - Velumani, Sakthivel
+AU  - Villa, Davide
+AU  - Bonati, Leonardo
+AU  - Schmidt, Robert
+AU  - Arora, Sagar
+AU  - Irazabal, Mikel
+AU  - Nikaein, Navid
+JO  - Computer Networks
+VL  - 269
+SP  - 111410
+PY  - 2025
+DA  - 2025/09/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2025.111410
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128625003779
+KW  - OpenAirInterface
+KW  - 6G networks
+KW  - Open RAN
+KW  - Open-source software
+AB  - The development of 6G wireless technologies is rapidly advancing, with the 3rd Generation Partnership Project (3GPP) entering the pre-standardization phase and aiming to deliver the first specifications by 2028. This paper explores the OpenAirInterface (OAI) project, an open-source initiative that plays a crucial role in the evolution of 5G and future 6G networks. OAI provides a comprehensive implementation of 3GPP and O-RAN compliant networks, including Radio Access Network (RAN), Core Network (CN), and software-defined User Equipment (UE) components. This paper details the history and evolution of OAI, its licensing model, and the various projects under its umbrella, such as RAN, the CN, and the Operations, Administration and Maintenance (OAM) projects. It also highlights the development methodology, Continuous Integration/Continuous Delivery (CI/CD) processes, and end-to-end systems powered by OAI. Furthermore, the paper discusses the potential of OAI for 6G research, focusing on spectrum, reflective intelligent surfaces, and Artificial Intelligence (AI)/Machine Learning (ML) integration. The open-source approach of OAI is emphasized as essential for tackling the challenges of 6G, fostering community collaboration, and driving innovation in next-generation wireless technologies.
+ER  - 
+
+TY  - JOUR
+T1  - Fine-tuned On-premised GenAI: RAG and LLM for AI-library to Enhance Release Management in Software Development
+AU  - Gunawan, Jimmy Agung
+AU  - Singgih, Moses Laksono
+AU  - Hari Ginardi, Raden Venantius
+JO  - Procedia Computer Science
+VL  - 284
+SP  - 1301
+EP  - 1309
+PY  - 2026
+DA  - 2026/01/01/
+T2  - The Eighth Information Systems International Conference
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2026.07.117
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050926024051
+KW  - Generative Artificial Intelligence
+KW  - Large Language Models
+KW  - AI-driven Data Management
+KW  - Release Management
+KW  - Development-Security-Operations
+KW  - AI-Library
+AB  - Generative AI (GenAI) can revolutionize release management, this research ensuring confidentiality and efficiency in software delivery. This research proposes a conceptual framework combining embedding journals, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG) to automate code reviews, testing, and deployments within Development-Security-Operations (DevSecOps) pipelines. By integrating GenAI into Continues Integration Development (CI/CD) and security processes, these approach safeguards sensitive assets, streamlines concurrent engineering, and cuts lead times. The findings underline GenAI’s capacity to optimize resource utilization and fortify data privacy across the software lifecycle, offering a roadmap for adopting AI-driven practices that respond swiftly to evolving development demands.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter Eight - Generative AI tools for accelerated software engineering
+AU  - Kanmani, P.
+AU  - Prabha, K. Chandra
+AU  - Veerandeswari, J.
+AU  - Manjula, M.
+A2  - Raj, Pethuru
+A2  - Agerstam, Mats
+A2  - Dutta, Pushan Kumar
+A2  - Sundaravadivazhagan, B.
+A2  - Nagasubramanian, Gayathri
+BT  - Advances in Computers
+PB  - Elsevier
+VL  - 141
+SP  - 211
+EP  - 228
+PY  - 2026
+DA  - 2026/01/01/
+T2  - Cloud-native Architecture (CNA) and Artificial Intelligence (AI) for the Future of Software Engineering: The Principles, Patterns, Platforms and Practices
+SN  - 0065-2458
+DO  - https://doi.org/10.1016/bs.adcom.2025.06.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0065245825000993
+KW  - Generative AI
+KW  - Software engineering automation
+KW  - AI-driven code generation
+KW  - Developer productivity
+KW  - Autonomous software agents
+AB  - Software engineering is transforming into a new form in this era. With the help of Generative Artificial Intelligence (GenAI), the software engineering phases such as code generation, refactoring, testing, documentation etc., are being automated. Utilizing models such as GitHub Copilot, Amazon CodeWhisperer, and StarCoder, GenAI solutions augment developer productivity by providing real-time code recommendations, debugging support, and natural language-based “vibe coding.” These tools ease the way software production and decrease the time for development; however, they pose new challenges too. Certain challenges are coding “hallucinations,” security flaws, and the spread of bias. It is important to address the challenges listed previously. This requires continuous and strict validation. Along with that there is the need to have explanations for the automation. This could help the new coders to understand and get along with the AI-generated coding. The advent of full-stack autonomous agents, such as Claude from Anthropic, offers the capability to manage end-to-end development with limited human involvement. As GenAI interfaces with IDEs, CI/CD pipelines, and APIs, it cultivates a collaborative software development environment where human creativity and AI enhancement converge, enhancing efficiency and innovation throughout the software lifecycle.
+ER  - 
+
+TY  - JOUR
+T1  - Deep learning based continuous integration and continuous delivery software defect prediction with effective optimization strategy
+AU  - Mishra, Anurag
+AU  - Sharma, Ashish
+JO  - Knowledge-Based Systems
+VL  - 296
+SP  - 111835
+PY  - 2024
+DA  - 2024/07/19/
+SN  - 0950-7051
+DO  - https://doi.org/10.1016/j.knosys.2024.111835
+UR  - https://www.sciencedirect.com/science/article/pii/S0950705124004696
+KW  - Gated recurrent units
+KW  - Synthetic minority oversampling technique
+KW  - Bidirectional encoder representations from transformers
+KW  - Levy flight distribution
+KW  - Rao optimization and bidirectional long short-term memory
+AB  - Software defect prediction is one of the most difficult tasks in the IT sector. Continuous Integration and Continuous Delivery (CI/CD) software defect prediction is used in earlier stage, which consumes less amount of time. Various learning algorithms, such as convolutional neural networks and other machine learning algorithms (ML), are employed to forecast the flaws in the software model. In these existing algorithms, some issues are noticed, such as high computational complexity, excessive time consumption, the need for more energy to predict the model and a high-loss function. To address these issues, a novel deep learning (DL)-based CI/CD software defect prediction technique applying an effective optimization strategy is provided to improve the model's efficiency. The numerical data are collected from open source, and the obtained data is initially labeled based on time domain limitations. Initially, the Modified Synthetic Minority Over-Sampling Technique (M-SMOTE) mechanism is applied to balance the data to avoid overfitting problems, and data normalization is performed to rescale and normalize the data properly. After moralization, the optimal set of features is extracted from the data using Focal Bidirectional Encoder Representations from Transformers (F-BERT) to enhance the efficiency of the model. Finally, the software defects are predicted using Bidirectional Long Short-Term Memory (Bi-LSTM) integrated into the convolutional Gated recurrent units (GRU) model (Bi-CGRU) based on collected features. Hybrid Levy Rao (HLR) optimization is used to tune the hyperparameters properly in the classifier model. The proposed model's performance indicators are examined. The proposed model has a 95.32 % accuracy, a 93.3 % recall, a 94.98 % Matthews correlation coefficient, and an F1-score of 91.355 %. The proposed model generates less labeling noise and wait time than existing methods.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter Thirteen - Cloud native engineering: A comprehensive review of principles, practices, and challenges
+AU  - Brojabasi, Subhajit
+AU  - Paul, Subrata
+AU  - Mitra, Anirban
+A2  - Raj, Pethuru
+A2  - Agerstam, Mats
+A2  - Dutta, Pushan Kumar
+A2  - Sundaravadivazhagan, B.
+A2  - Nagasubramanian, Gayathri
+BT  - Advances in Computers
+PB  - Elsevier
+VL  - 141
+SP  - 331
+EP  - 353
+PY  - 2026
+DA  - 2026/01/01/
+T2  - Cloud-native Architecture (CNA) and Artificial Intelligence (AI) for the Future of Software Engineering: The Principles, Patterns, Platforms and Practices
+SN  - 0065-2458
+DO  - https://doi.org/10.1016/bs.adcom.2025.06.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0065245825001044
+KW  - Cloud native engineering
+KW  - Microservices
+KW  - Container orchestration
+KW  - DevOps
+KW  - Observability
+KW  - Security
+KW  - Edge computing
+AB  - The innovative technique known as "cloud native engineering" has revolutionized the art and science of modern software development by redesigning the architecture, development, and deployment of software to maximize the advantages of cloud computing. Based on insights gleaned from published studies, industry practices, and empirical findings, the current review paper provides an inclusive assessment of the fundamental concepts, required methods, and inherent challenges that come with cloud native engineering. We look at popular architectural patterns such as serverless computing, microservices, and service mesh, as well as automation strategies enabled by infrastructure as code (IaC), container orchestration, and continuous integration and deployment (CI/CD). We also go over operational procedures that enhance cloud native environments’ scalability, robustness, and efficiency. Strong solutions are required to handle compliance, threat detection, and system stability as security, monitoring, and observability become crucial factors. The use of AI and machine learning to enhance cloud operations, as well as performance optimization techniques, are also covered in the article. Finally, we discuss future trends including edge computing, multi-cloud methods, and green cloud practices, outlining key areas of research that will shape cloud native engineering in the future.
+ER  - 
+
+TY  - JOUR
+T1  - Regression test optimization for software of the cellular network base stations: A language-based approach
+AU  - Zarębski, Sebastian
+AU  - Rusek, Krzysztof
+AU  - Chołda, Piotr
+JO  - Expert Systems with Applications
+VL  - 311
+SP  - 131225
+PY  - 2026
+DA  - 2026/05/15/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2026.131225
+UR  - https://www.sciencedirect.com/science/article/pii/S0957417426001399
+KW  - Bug localization
+KW  - Bug reports
+KW  - Continuous integration testing
+KW  - Latent Dirichlet allocation (LDA)
+KW  - Natural language processing
+KW  - Regression testing
+KW  - Software engineering
+KW  - Test prioritization
+KW  - Test suite reduction
+AB  - This paper introduces Linear Model of Latent Dirichlet Allocation (LMLDA), a novel methodology for software test optimization that directly addresses the gap between computationally-prohibitive large language models (LLMs) and semantically-shallow heuristics. Our primary contribution is a lightweight, interpretable, and cost-efficient model specifically designed for high-stakes industrial Continuous Integration and Continuous Development (CI/CD) environments where security and traceability are essential. The novelty of LMLDA lies in its integration of Latent Dirichlet Allocation (LDA) for the semantic analysis of code modifications and test content, with a classifier based on logistic regression concepts for the training phase, yet offering prediction capabilities that align with the computational simplicity of linear regression. This approach uniquely predicts the probability of test failure based on semantic interactions, enabling precise, bug-centric prioritization rather than relying on indirect diversity proxies. A large-scale industrial case study at NOKIA demonstrates LMLDA’s practical effectiveness, achieving an average 64% reduction in test suite size while maintaining 88% precision in bug detection and accelerating critical bug discovery by an average of 8 h per cycle.
+ER  - 
+
+TY  - JOUR
+T1  - Static validation for declarative service orchestration: Enabling reliable CI/CD and MLOps pipelines
+AU  - Horber, Konrad
+AU  - Sotiriadis, Stelios
+JO  - Future Generation Computer Systems
+VL  - 183
+SP  - 108584
+PY  - 2026
+DA  - 2026/10/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2026.108584
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X26002189
+KW  - Declarative orchestration
+KW  - Static validation
+KW  - CI/CD pipelines
+KW  - MLOps
+KW  - Machine learning pipelines
+KW  - Workflow validation
+KW  - Dependency resolution
+KW  - Software reliability
+AB  - Declarative orchestration systems are fundamental to scaling MLOps, yet they predominantly rely on execution-time validation, creating a significant configuration-deployment feedback gap. In MLOps, this gap is particularly costly because machine learning pipelines often include compute-intensive training, data processing, and deployment stages where deterministic errors — such as missing artifacts or resource mismatches — may be detected only after remote execution has started. We introduce a four-layer static validation framework that intercepts these failures before any compute is provisioned. The framework integrates syntax parsing, schema compliance, dependency resolution, and execution graph analysis to provide a generalized validation approach for declarative systems. We instantiate the framework for GitHub Actions and evaluate it against 843 workflow configurations: 161 curated templates, 598 production workflows from top public repositories, and 84 MLOps workflows from 18 repositories. The approach achieves 88.5% recall on representative error patterns. While semantic validation achieves a lower 35%–37% recall due to the inherent opacity of custom scripts and runtime-dependent expressions, the framework maintains 100% precision on curated workflows, ensuring developer trust by minimizing false alarms. On a labeled 100-workflow real-world benchmark, head-to-head comparison with actionlint confirms distinctive strengths in registry-layer detection. Validation completes within seconds, offering an 89× reduction in feedback latency. Under an explicit scenario model, our results indicate that this “fail-fast” approach can prevent 1.1% of total CI/CD executions, yielding an estimated $760,000 in annual infrastructure savings and a 4.2-ton reduction in CO2 emissions for a mid-sized organization. This framework establishes a scalable, resource-efficient foundation for sustainable MLOps engineering.
+ER  - 
+
+TY  - JOUR
+T1  - MLOps in freight rail operations
+AU  - Pineda-Jaramillo, Juan
+AU  - Viti, Francesco
+JO  - Engineering Applications of Artificial Intelligence
+VL  - 123
+SP  - 106222
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0952-1976
+DO  - https://doi.org/10.1016/j.engappai.2023.106222
+UR  - https://www.sciencedirect.com/science/article/pii/S0952197623004062
+KW  - Freight rail operations
+KW  - Machine learning
+KW  - MLOps
+KW  - CI/CD/CT
+KW  - Apache airflow
+KW  - ML deployment
+AB  - Railways are essential for freight transport due to their operational reliability advantages, but maintaining this advantage requires optimised railway infrastructure. Previous research has developed models to predict freight rail disruptions/disturbances and their associated delay times, in order to better understand the impact of multiple factors on them. However, because these models are built on static datasets, extracting real value from a model in a production environment remains difficult. This paper presents a methodology that demonstrates the potential of MLOps in automating the entire workflow, from data extraction to model deployment for real-time delay predictions in freight rail operations, including good practices of Continuous-Integration, Continuous-Delivery, and Continuous-Training, as well as a tool list for each process. Our research advances the field of railway operations by developing an entire MLOps workflow using data from the freight rail operations of the Luxembourgish National Freight Railway Company over a seventeen-month period. Furthermore, we employed a LightGBM model that had previously performed well in another study. This workflow can be automatically triggered to develop the processes and thus maintain an ML model capable of predicting delay times for CFL Multimodal operations in real-time. Our findings demonstrate that MLOps have the potential to automate the entire process, opening up new avenues for future research in this field. Although the methodology presented is intended to optimise freight rail operations for a specific company, it can be easily transferable to other railway companies or other transportation industries, such as aviation, shipping, and trucking.
+ER  - 
+
+TY  - JOUR
+T1  - DebtGuard: A Predictive Model For Managing Technical Debt In Agile Development
+AU  - Lalitha, R.
+AU  - Ponugoti, Sreelekha
+AU  - Selvi, S.
+AU  - Girija, N.
+JO  - Egyptian Informatics Journal
+VL  - 32
+SP  - 100806
+PY  - 2025
+DA  - 2025/12/01/
+SN  - 1110-8665
+DO  - https://doi.org/10.1016/j.eij.2025.100806
+UR  - https://www.sciencedirect.com/science/article/pii/S1110866525001999
+KW  - Agile software development
+KW  - Code smell
+KW  - Random forest
+KW  - Machine learning
+KW  - Predictive modelling
+KW  - Sprint velocity
+AB  - Context
+Technical debt (TD) in agile software development arises from rapid iterations prioritizing speed over quality, leading to increased maintenance costs and reduced sustainability. Effective TD management is crucial for agile teams to maintain software quality.
+Objectives
+This study proposes DebtGuard, a predictive framework to identify, quantify, and prioritize TD in agile projects, aiming to improve code quality and reduce maintenance effort while supporting iterative development.
+Methods
+DebtGuard employs a Random Forest classifier, integrating static code metrics (e.g., cyclomatic complexity, code smells from SonarQube) and agile process metrics (e.g., sprint velocity, refactoring frequency). Data from 2,000 code modules across Apache Kafka, Spring Boot, and Elasticsearch were pre-processed via normalization, imputation, and recursive feature elimination. The model was trained with 10-fold cross-validation and evaluated against baselines like SonarQube and logistic regression over six months.
+Results
+DebtGuard achieved 89% accuracy, 86% precision, and 85% F1-score in predicting TD, outperforming baselines. It reduced maintenance effort by 24% on average, with a 26% reduction in Elasticsearch. Robustness was confirmed through visualizations, including ROC curves, precision-recall plots, and confusion matrices.
+Conclusion
+DebtGuard offers a scalable, predictive TD management solution, enabling agile teams to balance delivery speed and quality. Its compatibility with tools like Jira enhances practical adoption. Limitations include reliance on labelled TD data and comprehensive logs. Future research could explore unsupervised learning, real-time CI/CD integration, and longitudinal studies to assess long-term impacts, advancing sustainable software engineering.
+ER  - 
+
+TY  - JOUR
+T1  - ALPACA - a level-set based sharp-interface multiresolution solver for conservation laws
+AU  - Hoppe, Nils
+AU  - Winter, Josef M.
+AU  - Adami, Stefan
+AU  - Adams, Nikolaus A.
+JO  - Computer Physics Communications
+VL  - 272
+SP  - 108246
+PY  - 2022
+DA  - 2022/03/01/
+SN  - 0010-4655
+DO  - https://doi.org/10.1016/j.cpc.2021.108246
+UR  - https://www.sciencedirect.com/science/article/pii/S0010465521003581
+KW  - Computational fluid dynamics
+KW  - Compressible Navier-Stokes equations
+KW  - Sharp interface
+KW  - Temporal and spatial adaptivity
+KW  - HPC
+KW  - C++20
+AB  - ALPACA is a simulation environment for simulating hyperbolic and (incompletely) parabolic conservation laws with multiple distinct and immiscible phases. As prominent example, consider the compressible Navier-Stokes equations (NSE). Solutions to these equations give insight and understanding of many important engineering applications. Numerical simulations of nonlinear parabolic systems of equations are very challenging for their complex nonlinear dynamics including the propagations of discontinuities such as shocks and phase interfaces. Accurate predictions require high temporal and spatial resolutions for such multi-scale problems. We utilize low dissipation high-resolution methods to capture the dynamics inside the separate phases. Their interaction is modeled by a sharp-interface level-set method with conservative interface-interaction. This allows to accurately locate the interface position and to easily prescribe arbitrary coupling conditions. We tackle the resulting immense computational loads by using a block-based multiresolution (MR) algorithm and adaptive local time stepping. The level-set treatment is integrated into the MR algorithm with little overhead by employing a smart tagging system and adaptive storage of the fluid data in the MR nodes. We embed these methods in a C++20 object-oriented modular framework using state-of-the-art programming paradigms. Furthermore, our implementation is capable to exploit the multiple levels of parallelism in modern high-performance computing (HPC) systems efficiently. We demonstrate the capabilities of our framework by simulating a variety of compressible multi-phase flow problems. Problem-sizes are of O(1010) effective degree of freedom (DOFs). By the use of MR, we typically achieve memory and compute compressions of >90%. We demonstrate near-optimal parallel performance for scaling runs using O(104) cores, regardless of the employed numerical models.
+Program summary
+Program Title: ALPACA - Adaptive Level-set Parallel Code Alpaca CPC Library link to program files: https://doi.org/10.17632/5zr3sg83ct.1 Developer's repository link: https://gitlab.lrz.de/nanoshock/ALPACA Licensing provisions: GPLv3 Programming language: C++20 Supplementary material: Code: Copy of the git repository, Videos: Air-helium shock bubble interaction (front and back view), Air-R22 shock bubble interaction, Three bubble shock interface interaction. Nature of problem: Numerical simulation of conservation laws such as the compressible Navier-Stokes equation with several interacting gaseous and liquid phases remains challenging even today. These flows often involve singularities such as shocks and interfaces as well as instabilities driven by their interaction. The inherent highly nonlinear dynamics of those systems leads to a broad range of temporal and spatial scales that have to be resolved. There exists a variety of mutually exclusive numerical models that are able to tackle these challenges. Those, however, are computationally expensive and require computational power that is offered only by large-scale state-of-the-art distributed-memory machines. Solution method: We have developed a modular simulation environment for conservation laws allowing exchange of numerical methods without loss of parallel performance. Computational efficiency is enhanced by employing multi-resolution schemes with adaptive local-time stepping. Our block-based implementation of these schemes is parallelized using the Message Passing Interface and exploits vectorization capabilities of the compute hardware. To simulate distinct and immiscible phases inside the computational domain, we utilize a sharp-interface level-set method. The level-set method allows to accurately locate the interface position and to easily prescribe arbitrary coupling conditions. The narrow-band approach reduces the computational load of the level-set method. We extend this method by a smart tagging system that exploits the block-based nature of the algorithm and further reduces the computational load. The simulation framework is written in modern C++20 and provides a Python interface for integration in Machine Learning and Uncertainty Quantification toolchains. We use parallel HDF5 in combination with XDMF to output field quantities. CMake is used as build system. We have completely annotated the source code using doxygen-style comments, allowing automated documentation generation in different formats. The source code is equipped with CI/CD-automated unit tests and an exhaustive integration test suite. Additional comments including restrictions and unusual features: ALPACA relies on open-source third-party libraries for input and testing. These are packaged as git submodules and automatically integrated. ALPACA is tested on Linux and macOS.
+ER  - 
+
+TY  - JOUR
+T1  - SHCRGuard: Security risk analysis of self-hosted CI/CD runners in GitHub Actions
+AU  - Shi, Pengfei
+AU  - Huang, Jiaqi
+AU  - Xu, Yifan
+AU  - Chen, Jinfu
+AU  - Lu, Jie
+AU  - Qi, Fangyuan
+AU  - Peng, Hanzhong
+AU  - Chen, Huashan
+AU  - Liu, Feng
+JO  - Journal of Systems and Software
+VL  - 241
+SP  - 113018
+PY  - 2026
+DA  - 2026/11/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2026.113018
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121226002517
+KW  - GitHub Actions (GHA)
+KW  - CI/CD security
+KW  - Self-hosted runners
+KW  - Security risk
+AB  - GitHub Actions (GHA) has become one of the most widely adopted CI/CD platforms in DevOps ecosystems. While GitHub-hosted runners offer standardized and controlled execution environments, many projects employ self-hosted runners to meet customized operational requirements, which unfortunately introduce new vectors for security compromise. Existing detection tools often fail to identify these risks accurately. To address this gap, this paper presents SHCRGuard, a novel framework for detecting and analyzing security risks in GHA workflows that employ self-hosted runners. SHCRGuard enhances static abstract syntax tree (AST) analysis with improved variable resolution for precise data tracing and integrates large language model (LLM)-assisted reasoning only as an optional fallback for rare cases where static analysis cannot produce a definitive result. It further incorporates four threat classification modules that operationalize the defined threat model for systematic risk evaluation. We assess SHCRGuard using a large-scale dataset of 1925 real-world GHA self-hosted workflow jobs. Experimental results show that SHCRGuard outperforms the state-of-the-art tool GHAST in detecting self-hosted runners, achieving a macro-F1 of 94.3%. Further analysis reveals that 1/3 of the corresponding CI/CD jobs exhibit at least one security alert, and 31.18% of them contain multiple alerts. Besides, 99.12% of the corresponding CI/CD jobs were found to have at least one kind of security risk, with permission-related flaws being the most severe and widespread. These findings call for tailored defense strategies to mitigate systemic risks in self-hosted runner environments.
+ER  - 
+
+TY  - JOUR
+T1  - An AI-powered DevSecOps tool for automated auditing of security requirements in Android applications: mSEC-AT
+AU  - Mejía-Granda, Carlos M.
+AU  - Hernández-Garro, Francisco
+AU  - Carrillo-de-Gea, Juan M.
+AU  - Fernández-Alemán, José L.
+AU  - López-Jiménez, Juan J.
+JO  - SoftwareX
+VL  - 35
+SP  - 102950
+PY  - 2026
+DA  - 2026/09/01/
+SN  - 2352-7110
+DO  - https://doi.org/10.1016/j.softx.2026.102950
+UR  - https://www.sciencedirect.com/science/article/pii/S2352711026004413
+KW  - Mobile security
+KW  - DevSecOps
+KW  - Large language models
+KW  - Automated auditing
+AB  - The article presents mSEC-AT, an AI-driven tool designed to automate security audits of Android applications within DevSecOps environments. By integrating tools such as CodeQL, Trivy, and MobSF, the system collects technical evidence that is automatically mapped by a Large Language Model against a catalog of 469 security requirements. This approach enables semantic compliance assessment, producing narrative and fully traceable reports. Validated using the OpenMRS application, the tool demonstrated its efficiency by conducting comprehensive analyses in a matter of minutes, thereby enhancing vulnerability detection and supporting informed decision-making.
+ER  - 
+
+TY  - JOUR
+T1  - Building A Platform for Machine Learning Operations from Open Source Frameworks
+AU  - Liu, Yan
+AU  - Ling, Zhijing
+AU  - Huo, Boyu
+AU  - Wang, Boqian
+AU  - Chen, Tianen
+AU  - Mouine, Esma
+JO  - IFAC-PapersOnLine
+VL  - 53
+IS  - 5
+SP  - 704
+EP  - 709
+PY  - 2020
+DA  - 2020/01/01/
+T2  - 3rd IFAC Workshop on Cyber-Physical & Human Systems CPHS 2020
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2021.04.161
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896321003013
+KW  - Machine Learning
+KW  - DevOps
+KW  - Software Architecture
+KW  - Open Source
+AB  - Machine Learning Operations (MLOps) aim to establish a set of practices that put tools, pipelines, and processes to build fast time-to-value machine learning development projects. The lifecycle of machine learning project development encompasses a set of roles, stacks of software frameworks and multiple types of computing resources. Such complexity makes MLOps support usually bundled with commercial cloud platforms that is referred as vendor lock. In this paper, we provide an alternative solution that devises a MLOps platform with open source frameworks on any virtual resources. Our MLOps approach is driven by the development roles of machine learning models. The tool chain of our MLOps connects to the typical CI/CD workflow of machine learning applications. We demonstrate a working example of training and deploying a machine learning model for the application of detecting software repository code vulnerability.
+ER  - 
+
+TY  - JOUR
+T1  - Framework for automatic detection of anomalies in DevOps
+AU  - Hany Fawzy, Ahmed
+AU  - Wassif, Khaled
+AU  - Moussa, Hanan
+JO  - Journal of King Saud University - Computer and Information Sciences
+VL  - 35
+IS  - 3
+SP  - 8
+EP  - 19
+PY  - 2023
+DA  - 2023/03/01/
+SN  - 1319-1578
+DO  - https://doi.org/10.1016/j.jksuci.2023.02.010
+UR  - https://www.sciencedirect.com/science/article/pii/S1319157823000393
+KW  - DevOps
+KW  - AIOps
+KW  - CI/CD
+KW  - Anomaly detection
+KW  - Release management
+KW  - Machine learning
+AB  - Log-based anomaly detection is important for improving the reliability and availability of software systems, especially those evolving using DevOps, owing to the huge number of logs generated during continuous practices. However, DevOps practitioners typically inspect and interpret the generated data and logs manually on specific occasions as part of the troubleshooting process. This process of manual inspection is time consuming and challenging because these data and logs have grown to an unmanageable size owing to the increasing size and complexity of the systems. In this research paper, we introduce the DevOps Anomaly Detection Framework (DADF). DADF is composed of two components that rely on Machine Learning (ML) and Artificial Intelligence (AI) to analyze the data and logs generated during DevOps practices to automatically detect anomalies. The first component is Anomaly Detection Before Production (ADBP), which intends to detect anomalies in the prospective release before its operation in the production environment by adopting the Local Outlier Factor (LOF) technique on the data collected during implementation, building, testing, and deployment. The second component is Anomaly Detection After Staging (ADAS), which intends to detect anomalies after the operation of the released system by adopting the Vector Auto-Regression (VAR) technique on the data collected during monitoring from the system log, application log, and performance metrics (CPU and memory). We experimentally evaluated ADBP and ADAS in two different real-world industrial projects. The experimental results demonstrated that the accuracy, precision, recall, and F1-score of the ADBP component were 96%, 87.5%, 100%, and 93.3%, respectively, and the normalized Root Mean Squared Error (nRMSE) of the ADAS component was 2–19%. Hence, the results demonstrate the effectiveness of DADF in helping DevOps practitioners and researchers automatically detect anomalies throughout the lifecycle of DevOps by monitoring all DevOps’ practices.
+ER  - 
+
+TY  - JOUR
+T1  - Fast healthcare interoperability resources (FHIR) implementation guide creation process: scoping review
+AU  - Corrêa Rampinelli, Vanessa Pereira
+AU  - dos Santos, Ranieri Alves
+AU  - Celuppi, Ianka Cristina
+AU  - Santos, Gabriel Norde
+AU  - Hammes, Jades Fernando
+AU  - Cunha, Célio Luiz
+AU  - Wazlawick, Raul Sidnei
+AU  - Dalmarco, Eduardo Monguilhott
+JO  - International Journal of Medical Informatics
+VL  - 219
+SP  - 106548
+PY  - 2026
+DA  - 2026/10/01/
+SN  - 1386-5056
+DO  - https://doi.org/10.1016/j.ijmedinf.2026.106548
+UR  - https://www.sciencedirect.com/science/article/pii/S1386505626002881
+KW  - Health information interoperability
+KW  - Digital health
+KW  - Electronic health records
+AB  - Background
+The Fast Healthcare Interoperability Resources (FHIR) standard is a global benchmark for digital health data exchange. Despite its widespread adoption, the scientific literature on the methodological processes for creating FHIR Implementation Guides (IGs) remains fragmented and lacks systematization.
+Objective
+This scoping review aims to synthesize the scientific literature on the process of developing FHIR IGs for electronic health records, identifying methodological steps, toolchains, governance patterns, and critical gaps that limit clinical adoption.
+Methods
+Following JBI and PRISMA-ScR guidelines, a comprehensive search was conducted across nine databases in August 2025. From an initial 5,552 records, eleven studies published between 2021 and 2025 were selected for analysis. Data extraction focused on development stages, team composition, authoring tools, and validation workflows.
+Results
+The study identified a synthesized seven-step implementation lifecycle: requirements, modeling, terminology, narrative documentation, technical validation, clinical validation, and publication. A significant methodological shift toward “Infrastructure as Code” was observed, with frequent use of FHIR Shorthand (FSH) and Continuous Integration/Continuous Deployment (CI/CD) pipelines, particularly in European national initiatives. While technical validation was nearly universal (10 out of 11 studies), clinical validation was inconsistently addressed (7 out of 11 studies), often relegated to future work, resulting in IGs that are syntactically correct but insufficiently aligned with real-world clinical workflows. Narrative documentation, essential for non-technical stakeholders, was reported as comprehensive in only four studies, limiting broader clinical adoption. All studies reported multidisciplinary team involvement, confirming that IG development is fundamentally an exercise in clinical governance and consensus.
+Conclusion
+The creation of FHIR IGs has evolved into a complex discipline requiring a convergence of software engineering, clinical semantics, and institutional governance. This review advances beyond existing FHIR literature by providing the first systematic synthesis focused specifically on the IG creation process, presenting a replicable seven-step cycle that can guide implementers, researchers, and policy makers. Closing the gap between technical readiness and clinical applicability remains a critical challenge. Future research should prioritize ongoing clinical validation, the establishment of standardized reporting frameworks for IG development, and the integration of generative AI tools to enhance narrative documentation and terminology binding.
+ER  - 
+
+TY  - JOUR
+T1  - Just-in-time bug classifier: A step towards integrating Automated Program Repair in CI/CD pipelines
+AU  - Kabadi, Vinay
+AU  - Le, Xuan-Bach D.
+AU  - Thongtanunam, Patanamon
+AU  - Treude, Christoph
+JO  - Information and Software Technology
+VL  - 195
+SP  - 108076
+PY  - 2026
+DA  - 2026/07/01/
+SN  - 0950-5849
+DO  - https://doi.org/10.1016/j.infsof.2026.108076
+UR  - https://www.sciencedirect.com/science/article/pii/S0950584926000650
+KW  - Automatic Program Repair
+KW  - Bug classifier
+AB  - Context:
+Automated Program Repair (APR) tools have advanced in recent years, yet their effectiveness can improve when integrated into Continuous Integration/Continuous Deployment (CI/CD) pipelines. Motivated by this, we designed the Continuous Automatic Repair Framework (CARF), which detects build failures, routes each bug to the most suitable repair tool, and automatically commits the generated fix. During development, we identified a critical bottleneck: the need for instant bug classification within CI/CD. Accurate classification is essential to determine whether a fault lies in program code or the test suite, ensuring the defect is routed to the appropriate repair tool.
+Objective:
+Objectives: This study aims to design and evaluate a just-in-time bug classifier capable of distinguishing between program and test bugs during CI/CD execution, thereby enabling CARF to maintain workflow efficiency by directing defects to appropriate repair tools.
+Methods:
+We implemented a heuristic analysis tool that extracts discriminative structural features by comparing Abstract Syntax Trees (ASTs) between buggy and pre-buggy commits. These features are input to machine learning models for bug classification. Empirical validation demonstrated the accuracy and operational feasibility of the approach within CI/CD environments.
+Results:
+Our approach achieved up to 73% accuracy in identifying regression bugs across 67 real-world projects, effectively distinguishing between program bugs and test bugs while requiring only 10% of the dataset for training. In contrast, prior studies reported an accuracy of 69% on artificially injected bugs derived from successive versions of only two projects, with 90% of the data used for training.
+Conclusion:
+CARF facilitates the integration of automated program repair into CI/CD pipelines, enabling faster, more accurate, and more flexible software maintenance. The just-in-time bug classifier demonstrates that defect classification can scale efficiently without symbolic execution or manual bug reports, providing a practical foundation for continuous automated repair.
+ER  - 
+
+TY  - JOUR
+T1  - Designing a cloud-native MLOps pipeline using Databricks: A case study in industrial practice
+AU  - Moreschini, Sergio
+AU  - Raitaniemi, Sandra
+AU  - Mäkelä, Elias
+AU  - Laukkanen, Tommi
+AU  - Hästbacka, David
+JO  - Future Generation Computer Systems
+VL  - 184
+SP  - 108585
+PY  - 2026
+DA  - 2026/11/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2026.108585
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X26002190
+KW  - MLOps
+KW  - Databricks
+KW  - Cloud-native
+KW  - Operations
+AB  - We present a engineering case study on the design and evolution of a cloud-native MLOps pipeline in an industrial setting using Databricks. Motivated by the operational and lifecycle challenges of deploying machine-learning models at scale, the project adopted a platform-centric approach to automation, reproducibility, and scalable operation. The pipeline integrates versioned data management, experiment tracking and registry-based promotion, CI/CD for ML, and environment isolation to bridge experimentation and production. Security and data-privacy constraints are operationalized through workspace isolation, role-based access control, and secrets management integrated into deployment automation. Our methodological approach entailed an engineering case-study design, incorporating triangulation across development artifacts, CI/CD records, and collaborative design episodes. The paper delivers three contributions: (i) a platform-grounded reference architecture documenting the design decisions, trade-offs, and deliberate deviations from vendor guidance that shaped the final implementation; (ii) collaboration practices that align roles across DataOps, ModelOps, and DevOps showing how shared artifacts and platform constraints structure cross-role coordination; and (iii) recurring implementation patterns and practitioners lessons that are capability-oriented and transferable beyond the specific platform. The results provide practitioners with empirical evidence on how MLOps automation is realized and constrained in practice, filling a gap that vendor documentation and conceptual frameworks alone do not address.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 10 - Production operations and integrations
+AU  - Josyula, Prashanth
+AU  - Arora, Sonika
+AU  - Kumar, Anant
+BT  - Essential Kubeflow
+PB  - Morgan Kaufmann
+SP  - 321
+EP  - 356
+PY  - 2026
+DA  - 2026/01/01/
+SN  - 978-0-443-45254-3
+DO  - https://doi.org/10.1016/B978-0-443-45254-3.00004-0
+UR  - https://www.sciencedirect.com/science/article/pii/B9780443452543000040
+KW  - MLOps
+KW  - production operations
+KW  - CI/CD pipelines
+KW  - Prometheus monitoring
+KW  - multitenancy
+KW  - cost management
+KW  - platform engineering
+AB  - This chapter bridges the gap between running Kubeflow locally and operating a production machine learning (ML) platform that teams actually trust. Moving beyond basic Kubeflow setup, it addresses the critical operational challenges that determine whether an ML platform succeeds or becomes abandoned infrastructure: storage integration, continuous deployment, monitoring, multitenancy, and cost management. The chapter begins with production-grade S3 storage integration, demonstrating modern authentication patterns using IAM Roles for Service Accounts (IRSA) that eliminate hardcoded credentials while enabling fine-grained access control. Readers learn to configure Kubeflow components, i.e., pipelines, notebooks, and model serving, to securely access cloud storage with proper credential management and troubleshooting strategies for common authentication failures. CI/CD integration transforms pipeline development from manual, error-prone deployments to automated, traceable workflows. Using GitHub Actions as a practical reference implementation, the chapter shows how to build validation pipelines that catch errors before production, implement environment-specific configurations, and maintain deployment audit trails. Complete workflow examples demonstrate compilation testing, artifact management, and automated deployment to Kubeflow clusters. The monitoring and observability section establishes production-grade visibility using Prometheus and Grafana. Beyond basic metrics collection, it covers designing meaningful dashboards for ML workloads, implementing cost tracking through custom recording rules, and setting up alert routing that ensures the right notifications reach the right people. Real-world examples include monitoring GPU utilization, tracking pipeline execution patterns, and calculating per-team infrastructure costs. Multitenant setup enables multiple teams to share cluster resources safely through Kubernetes namespaces, resource quotas, and network policies. The chapter demonstrates profile-based isolation, quota design strategies that balance efficiency with guaranteed resources, and network policy patterns that prevent cross-team interference while allowing necessary service communication. Practical examples show intentional CPU overcommitment versus strict GPU allocation. Cost management strategies address the financial reality of running ML infrastructure. Readers learn to implement resource quotas that prevent runaway costs, design autoscaling policies for training workloads, optimize storage lifecycle management, and build showback reports that attribute costs to teams. The section includes concrete tactics for GPU cost optimization and techniques for identifying resource waste. The chapter concludes with platform design decisions, comparing managed services versus self-hosted deployments, evaluating cloud provider options, and discussing the operational trade-offs of different architectural choices. Throughout, the emphasis remains on practical, production-tested patterns rather than theoretical ideals, helping platform engineers build ML infrastructure that scales with organizational needs while remaining maintainable by real teams.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter Seventeen - Cloud native engineering for AI-driven ERP systems: Enhancing security, compliance and data privacy
+AU  - Singh, Bhupinder
+AU  - Dutta, Pushan Kumar
+A2  - Raj, Pethuru
+A2  - Agerstam, Mats
+A2  - Dutta, Pushan Kumar
+A2  - Sundaravadivazhagan, B.
+A2  - Nagasubramanian, Gayathri
+BT  - Advances in Computers
+PB  - Elsevier
+VL  - 141
+SP  - 439
+EP  - 463
+PY  - 2026
+DA  - 2026/01/01/
+T2  - Cloud-native Architecture (CNA) and Artificial Intelligence (AI) for the Future of Software Engineering: The Principles, Patterns, Platforms and Practices
+SN  - 0065-2458
+DO  - https://doi.org/10.1016/bs.adcom.2025.06.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0065245825001007
+KW  - IT sector
+KW  - Enterprise resource planning (ERP)
+KW  - AI
+KW  - Cloud-based system
+KW  - Data and privacy
+AB  - Cloud native engineering is redefining IT sector management by leveraging artificial intelligence (AI) to transform Enterprise Resource Planning (ERP) systems into agile, secure, and scalable cloud-based solutions. This chapter explores how integrating AI with cloud native ERP architectures not only streamlines critical business operations—ranging from finance and human resources to supply chain management—but also reinforces security measures and regulatory compliance in a dynamic digital environment. By harnessing containerization, microservices, and continuous integration/continuous delivery (CI/CD) practices, cloud native ERP systems facilitate rapid deployment and real-time data analysis. These advances enable proactive threat detection, automated compliance auditing, and robust privacy safeguards, thereby ensuring adherence to global data protection laws such as GDPR and CCPA. Ultimately, this integration paves the way for a resilient IT ecosystem that adapts seamlessly to evolving business needs and cybersecurity challenges.
+ER  - 
+
+TY  - JOUR
+T1  - Applying generative artificial intelligence for vulnerability fixing in a proprietary software ecosystem
+AU  - Costa, Luiz Alexandre
+AU  - Fontão, Awdren
+AU  - Santos, Rodrigo Pereira dos
+AU  - Serebrenik, Alexander
+JO  - Journal of Systems and Software
+VL  - 234
+SP  - 112723
+PY  - 2026
+DA  - 2026/04/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2025.112723
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121225003929
+KW  - Software ecosystems
+KW  - Software quality
+KW  - Software asset management
+KW  - Incident management
+KW  - Generative artificial intelligence
+AB  - Context: Large organizations often operate within proprietary software ecosystems (PSECO), composed of interdependent software artifacts, multiple actors, and centralized governance. In such environments, addressing security vulnerabilities is particularly challenging due to strict quality standards, regulatory constraints, and the risk of cascading failures. These challenges can compromise delivery schedules, increase operational risk, and force teams to interrupt planned work to address urgent issues. Goal: In response to these challenges, recent advances in Generative Artificial Intelligence (GenAI), particularly large language models (LLM), have emerged as a promising avenue to support software engineering tasks such as code generation and automated repair. This study investigates how a GenAI-based approach can support vulnerability remediation in PSECO while preserving delivery cadence in Continuous Integration and Continuous Delivery (CI/CD) pipelines. Methods: We conducted a participative case study in a large global organization to design and evaluate PSECO-SafePatch, an approach composed of: (i) a structured remediation process tailored to enterprise constraints; and (ii) a web-based tool integrating Fortify static analysis with GenAI-based patch generation. The approach includes human-in-the-loop validation and aligns with DevOps practices. Results: PSECO-SafePatch reduced mean remediation time by 84 % with an 89 % patch success rate. It also reduced cognitive overload by guiding developers through structured validation, fostering trust without overreliance. Conclusion: The findings show that GenAI-supported remediation is feasible and effective in PSECO. Human-in-the-loop validation preserved critical thinking, addressing concerns about blind automation and knowledge erosion, and reinforcing the value of responsible automation at scale.
+ER  - 
+
+TY  - JOUR
+T1  - AI4EOSC: A federated cloud platform for Artificial Intelligence in scientific research
+AU  - Heredia, Ignacio
+AU  - López García, Álvaro
+AU  - Aguilar Gómez, Fernando
+AU  - Aguirre, Diego
+AU  - Alarcón Marín, Caterina
+AU  - Alibabaei, Khadijeh
+AU  - Berberi, Lisana
+AU  - Caballer, Miguel
+AU  - Calatrava, Amanda
+AU  - Castro, Pedro
+AU  - Costantini, Alessandro
+AU  - David, Mario
+AU  - Díez, Jaime
+AU  - Dlugolinsky, Stefan
+AU  - Donvito, Giacinto
+AU  - Duda, Leonhard
+AU  - Esteban Sanchis, Borja
+AU  - Fernandez Tobías, Saúl
+AU  - Heredia Canales, Andrés
+AU  - Kozlov, Valentin
+AU  - Langarita, Sergio
+AU  - Machado, João
+AU  - San Martín, Daniel
+AU  - Moltó, Germán
+AU  - Nguyen, Giang
+AU  - Obregón Ruiz, Marta
+AU  - Płóciennik, Marcin
+AU  - Rebolledo Ruiz, Susana
+AU  - Rodriguez, Vicente
+AU  - Sáinz-Pardo Díaz, Judith
+AU  - Šeleng, Martin
+AU  - Tran, Viet
+JO  - Future Generation Computer Systems
+VL  - 185
+SP  - 108672
+PY  - 2026
+DA  - 2026/12/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2026.108672
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X26003067
+KW  - Cloud platform
+KW  - Artificial Intelligence
+KW  - Machine Learning
+KW  - European Open Science Cloud
+KW  - MLOps
+KW  - Federated Learning
+KW  - Provenance tracking
+KW  - W3C PROV
+KW  - Open science infrastructure
+AB  - The rapid growth of Artificial Intelligence and Machine Learning in scientific research has highlighted a gap between industry-standard machine learning operations (MLOps) tools and platforms and the unique requirements of modern and Open Science, particularly regarding the FAIR (Findable, Accessible, Interoperable, and Reusable) principles. This paper presents AI4EOSC, a federated, open-source platform designed to operationalize the full AI/ML life-cycle within the European Open Science Cloud (EOSC) ecosystem. Our methodology tackles the fragmentation of distributed research infrastructures by integrating a modular and distributed architecture comprising an AI development platform, a serverless AI-as-a-Service layer, and a federated orchestration model that is able to integrate heterogeneous computing and storage resources from distributed e-infrastructures. AI4EOSC also introduces a “FAIR-by-design” approach that enforces metadata standardization (via MLDCAT-AP) and W3C PROV-compliant provenance tracking through a platform-integrated CI/CD pipeline. The added value of AI4EOSC is demonstrated through the delivery of a diverse set of community installations, which show consistent and seamless deployment across heterogeneous cloud providers. These installations are validated by a set of scientific cases, showing how our work reduces the manual burden on researchers while ensuring high levels of reproducibility and interoperability and providing a unified environment for the development, training, and production of AI/ML models in the EOSC.
+ER  - 
+
+TY  - JOUR
+T1  - An empirical dataset combining repository metrics and pipeline workflows for predictive software analytics
+AU  - Sanusi, Funmilayo Abibat
+AU  - Faruna, Joshua Omaye
+JO  - Data in Brief
+VL  - 68
+SP  - 113128
+PY  - 2026
+DA  - 2026/08/01/
+SN  - 2352-3409
+DO  - https://doi.org/10.1016/j.dib.2026.113128
+UR  - https://www.sciencedirect.com/science/article/pii/S235234092600675X
+KW  - Continuous integration
+KW  - Continuous deployment
+KW  - Github actions
+KW  - Pipeline failure
+KW  - Machine learning
+KW  - Software engineering
+AB  - This data article presents a comprehensive dataset that captures the workflow history of Continuous Integration and Continuous Deployment (CI/CD) pipelines, along with the code-level repository metrics. There are 303,079 distinct execution records from August 2016 to April 2026 in the dataset. Specifically, the data comprises of archival Travis CI records from August to December 2016 which serves as the baseline, and live GitHub Actions workflows from May 2024 to April 2026. The data collection used a custom python extraction script which combined historical Travis CI data and live GitHub Actions workflow metadata with deep Git commit history. The chosen live repositories covered 34 highly active open-source projects across different domains like DevOps tools such as kubernetes/kubernetes, web frameworks like facebook/react, and machine learning like tensorflow/tensorflow. The variables collected consist of pipeline execution durations, pipeline final status, the conditions that triggered the events, code churn (additions and deletions), and the number of changed files. This resulted in a structured and tabular format (csv) dataset which is hosted and accessible on Mendeley Data and serves as a solid foundation for researchers and practitioners interested in discovering patterns in build breakages, creating predictive machine learning models for forecasting CI/CD pipelines' workflows, and advancing AIOps methodologies in software engineering.
+ER  - 
+
+TY  - JOUR
+T1  - Large scale quality transformation in hybrid development organizations – A case study
+AU  - Pradhan, Satya
+AU  - Nanniyur, Venky
+JO  - Journal of Systems and Software
+VL  - 171
+SP  - 110836
+PY  - 2021
+DA  - 2021/01/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2020.110836
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121220302284
+KW  - Quality transformation
+KW  - Quality management system
+KW  - Agile
+KW  - Waterfall
+KW  - Hybrid development organization
+AB  - As the software industry transitions to a subscription-based software-as-a-service (SaaS) model, software development companies are transforming to hybrid development organizations with increased adoption of Agile and Continuous Integration/ Continuous Delivery (CI/CD) development practices for newer products while continuing to use Waterfall methods for older products. This transformation is a huge undertaking impacting all aspects of the software development life cycle (SDLC), including the quality management system. This paper presents a case study of a large-scale transformation of a legacy quality management system to a modern system developed and implemented at Cisco Systems. The framework for this transformation is defined by six distinct areas: metrics, process, measurement, reporting, quality analytics, and culture & leadership. Our implementation leveraged recent advances in Machine Learning (ML), Artificial Intelligence (AI), connected data, integrated operations, and big data technologies to solve the challenges created by a hybrid software development organization. We believe this case study will help researchers and industry leaders understand the benefits and potential challenges of such sizeable transformations.
+ER  - 
+
+TY  - JOUR
+T1  - The pipeline for the continuous development of artificial intelligence models—Current state of research and practice
+AU  - Steidl, Monika
+AU  - Felderer, Michael
+AU  - Ramler, Rudolf
+JO  - Journal of Systems and Software
+VL  - 199
+SP  - 111615
+PY  - 2023
+DA  - 2023/05/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2023.111615
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121223000109
+KW  - Continuous development of AI
+KW  - Continuous (end-to-end) lifecycle pipeline for AI
+KW  - MLOps
+KW  - CI/CD for AI
+KW  - DevOps for AI
+KW  - Multivocal literature review
+AB  - Companies struggle to continuously develop and deploy Artificial Intelligence (AI) models to complex production systems due to AI characteristics while assuring quality. To ease the development process, continuous pipelines for AI have become an active research area where consolidated and in-depth analysis regarding the terminology, triggers, tasks, and challenges is required. This paper includes a Multivocal Literature Review (MLR) where we consolidated 151 relevant formal and informal sources. In addition, nine-semi structured interviews with participants from academia and industry verified and extended the obtained information. Based on these sources, this paper provides and compares terminologies for Development and Operations (DevOps) and Continuous Integration (CI)/Continuous Delivery (CD) for AI, Machine Learning Operations (MLOps), (end-to-end) lifecycle management, and Continuous Delivery for Machine Learning (CD4ML). Furthermore, the paper provides an aggregated list of potential triggers for reiterating the pipeline, such as alert systems or schedules. In addition, this work uses a taxonomy creation strategy to present a consolidated pipeline comprising tasks regarding the continuous development of AI. This pipeline consists of four stages: Data Handling, Model Learning, Software Development and System Operations. Moreover, we map challenges regarding pipeline implementation, adaption, and usage for the continuous development of AI to these four stages.
+ER  - 
+
+TY  - JOUR
+T1  - Building a scalable digital infrastructure for a (bio)chemical engineering pilot plant: A case study from DTU
+AU  - Huusom, Jakob Kjøbsted
+AU  - Jones, Mark N.
+AU  - Kager, Julian
+AU  - Dam-Johansen, Kim
+AU  - Dreyer, Jochen A.H.
+JO  - Digital Chemical Engineering
+VL  - 17
+SP  - 100269
+PY  - 2025
+DA  - 2025/12/01/
+SN  - 2772-5081
+DO  - https://doi.org/10.1016/j.dche.2025.100269
+UR  - https://www.sciencedirect.com/science/article/pii/S2772508125000535
+KW  - Pilot plant
+KW  - Unit operation
+KW  - Digitalization
+KW  - Digital infrastructure
+KW  - SCADA
+KW  - Real-time data
+AB  - The digitalization of pilot-scale chemical engineering facilities offers significant potential for enabling e.g. data-driven research, process modeling, closed loop process control, and digital twin development, but the implementation of robust and maintainable infrastructure remains a practical challenge. This case study presents the digitalization of the Pilot Plant at DTU Chemical Engineering, with a focus on building a scalable and reproducible architecture for real-time data access, structured data storage, and unified system control. A key feature of the infrastructure is the use of standardized OPC UA gateways to establish encrypted connections to a diverse set of legacy and modern unit operations. While the supervisory control and data acquisition (SCADA) system communicates directly with the OPC UA gateways, the data streams are also structured using an intermediate data broker. Here, each tag is organized by unit operation and type (e.g., sensors, controls, configurations) aligned with the underlying database schema. The broker then publishes all real-time data via MQTT. Containerized Python applications deployed on a dedicated server subscribe to the MQTT data streams and whenever experiments are active, write the real-time data to an SQL database. The system is fully extensible: new units or sensors can be added without modifying the database schema or Python code. Unified operation and metadata collection are enabled through a web-based SCADA system, while version-controlled CI/CD pipelines ensure reproducible deployment of all services on the server. This workflow avoids manual modifications to the server and simplifies long-term maintenance. The use of open communication protocols minimizes dependency on proprietary services and ensures that individual components can be replaced or extended without vendor lock-in. The resulting infrastructure provides both real-time and historical access to high-quality experimental data, supporting applications ranging from digital twin development and process optimization to machine learning. It serves as an educational resource used annually by approximately 150–200 students across five courses, in addition to student and Ph.D. projects. The SCADA system is routinely applied during pilot-scale unit operation exercises, while advanced courses make use of live data access and interaction with the SQL database. Beyond education, the infrastructure has been adopted across multiple research centers: for example, it underpins recent work on hybrid modeling and digital twins for pilot-scale bubble column and distillation units, and its modular components (CI/CD pipelines, database, MQTT broker, data broker) are being reused in other digitalization initiatives. These developments highlight both the scalability of the approach and its value as a transferable reference for academic and industrial pilot plants.
+ER  - 
+
+TY  - JOUR
+T1  - Cybersecurity risks, DevSecOps challenges, and emerging security priorities: An empirical study across Brazilian organizations
+AU  - Canedo, Edna Dias
+AU  - Spósito, Stefano Luppi
+AU  - Peotta, Laerte
+AU  - Nunes, Rafael Rabelo
+AU  - Ladeira, Marcelo
+JO  - Computers & Security
+VL  - 170
+SP  - 105026
+PY  - 2026
+DA  - 2026/11/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2026.105026
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404826002026
+KW  - Cybersecurity governance
+KW  - Secure software development
+KW  - DevSecOps
+KW  - AI security
+KW  - Cyber resilience
+AB  - Context:
+Cybersecurity has become increasingly intertwined with organizational resilience, digital transformation, and regulatory pressure. Yet, many institutions still struggle to assess their structural risks, integrate secure-by-design practices, and prepare for emerging technologies such as AI-enabled cyber operations.
+Goal:
+This study aims to examine how Brazilian organizations perceive their cybersecurity posture across three dimensions: (i) infrastructure and governance risks, (ii) secure software development and DevSecOps challenges, and (iii) strategic priorities for emerging cybersecurity research and innovation.
+Method:
+We conducted a mixed-method survey with 88 practitioners from public, private, and critical infrastructure sectors. The instrument combined Likert scale assessments, multiple choice questions, and open-ended items. Quantitative data were analyzed using descriptive statistics, and qualitative responses were examined using inductive coding and thematic analysis.
+Results:
+Organizations report structural vulnerabilities linked to supply-chain dependencies, legacy systems, governance gaps, insider threats, and insufficient patch and vulnerability management. Challenges in secure development center on data exposure, limited security culture and training, insufficient security automation within Continuous Integration and Continuous Deployment (CI/CD) pipelines, and fragmented compliance integration. Emerging priorities include adversarial machine learning, AI security, cloud and hybrid architecture protection, cyber resilience, Governance, Risk, and Compliance (GRC) modernization, and Zero Trust adoption.
+Conclusion:
+Findings reveal systemic cybersecurity weaknesses and uneven DevSecOps maturity across sectors, underscoring the need for stronger governance, continuous workforce development, and resilience oriented security architectures. The study also identifies strategic research directions particularly in AI security, supply-chain defense, and cloud resilience that can guide national cybersecurity capacity building and policy making initiatives. This study also provides an evidence-based foundation to guide capability building programs, governance modernization, and future research collaborations across the Brazilian cybersecurity ecosystem.
+ER  - 
+
+TY  - JOUR
+T1  - MLPro-MPPS—A high-performance simulation framework for customizable production systems
+AU  - Yuwono, Steve
+AU  - Löppenberg, Marlon
+AU  - Arend, Detlef
+AU  - Diprasetya, Mochammad Rizky
+AU  - Schwung, Andreas
+JO  - Software Impacts
+VL  - 16
+SP  - 100509
+PY  - 2023
+DA  - 2023/05/01/
+SN  - 2665-9638
+DO  - https://doi.org/10.1016/j.simpa.2023.100509
+UR  - https://www.sciencedirect.com/science/article/pii/S2665963823000465
+KW  - Simulation framework
+KW  - Production systems
+KW  - Python
+KW  - Machine learning
+KW  - Industrial automation
+KW  - Intelligent systems
+AB  - Although the integration of machine learning into production systems has demonstrated significant potential, its real-life applications remain challenging. It is often necessary to rely on digital representations of the actual systems to design and test machine learning algorithms for controlling the systems because conducting such processes directly in real systems is expensive and risky. Hence, in this paper, we present a standardized, multi-purpose and flexible production systems simulator in Python for scientific and industrial activities, namely MLPro-MPPS, that is integrated with the MLPro package. Consequently, this allows the simulations by MLPro-MPPS to be compatible with machine learning tasks.
+ER  - 

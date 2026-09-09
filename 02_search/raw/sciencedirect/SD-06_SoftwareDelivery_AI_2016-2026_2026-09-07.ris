@@ -1,0 +1,67 @@
+TY  - JOUR
+T1  - Fine-tuned On-premised GenAI: RAG and LLM for AI-library to Enhance Release Management in Software Development
+AU  - Gunawan, Jimmy Agung
+AU  - Singgih, Moses Laksono
+AU  - Hari Ginardi, Raden Venantius
+JO  - Procedia Computer Science
+VL  - 284
+SP  - 1301
+EP  - 1309
+PY  - 2026
+DA  - 2026/01/01/
+T2  - The Eighth Information Systems International Conference
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2026.07.117
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050926024051
+KW  - Generative Artificial Intelligence
+KW  - Large Language Models
+KW  - AI-driven Data Management
+KW  - Release Management
+KW  - Development-Security-Operations
+KW  - AI-Library
+AB  - Generative AI (GenAI) can revolutionize release management, this research ensuring confidentiality and efficiency in software delivery. This research proposes a conceptual framework combining embedding journals, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG) to automate code reviews, testing, and deployments within Development-Security-Operations (DevSecOps) pipelines. By integrating GenAI into Continues Integration Development (CI/CD) and security processes, these approach safeguards sensitive assets, streamlines concurrent engineering, and cuts lead times. The findings underline GenAI’s capacity to optimize resource utilization and fortify data privacy across the software lifecycle, offering a roadmap for adopting AI-driven practices that respond swiftly to evolving development demands.
+ER  - 
+
+TY  - JOUR
+T1  - A comparative analysis of machine learning models for quality pillar assessment of SaaS services by multi-class text classification of users’ reviews
+AU  - Raza, Muhammad
+AU  - Hussain, Farookh Khadeer
+AU  - Hussain, Omar Khadeer
+AU  - Zhao, Ming
+AU  - Rehman, Zia ur
+JO  - Future Generation Computer Systems
+VL  - 101
+SP  - 341
+EP  - 371
+PY  - 2019
+DA  - 2019/12/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2019.06.022
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X19300196
+KW  - SaaS
+KW  - Quality pillars
+KW  - User reviews
+KW  - Text classification
+KW  - Machine learning approaches
+AB  - Software as a Service (SaaS) has emerged as the most widely used of all the current software delivery models. With the growth of edge computing, as SaaS services increasingly become distributed, selecting the best SaaS provider from those available is challenging but it is of critical importance. In the recent past, well-known cloud service providers such as Amazon Web Services and Microsoft have developed frameworks and service quality pillars for cloud applications. However, there are currently no mechanisms for product users to know if and to what extent a service satisfies the defined service pillar. Having such information would enable users to form trustworthy associations in edge computing. In this paper, we address this drawback by adopting a systematic approach of analysing customer reviews related to SaaS products and ascertain to which service quality pillar they refer. We use eleven traditional machine learning classification approaches and a weighted voting ensemble of these classifiers to achieve this task and test the performance of each of them. Since the dataset is unbalanced in terms of sample distribution per class, we use 10-fold cross-validation on the training dataset to determine the best parameters for each machine learning algorithm to achieve optimal performance. Friedman test and Nemenyi’s post hoc test is applied to identify the significant difference among the classifiers performance during cross-validation. Based on the experimental results, a comparative analysis is conducted to identify the best performing machine learning classification model on the SaaS reviews. The results show that the performance of the logistic regression model has a higher performance among the individual classifiers and the weighted voting ensemble shows minimal improvement in overall performance.
+ER  - 
+
+TY  - JOUR
+T1  - AI-driven Vulnerability Triage in Connectivity Constrained Environments: A Taxonomy, Systematic Literature Review and Future Directions
+AU  - Haunschild, David
+AU  - Gill, Sukhpal Singh
+JO  - Journal of Information and Intelligence
+PY  - 2026
+DA  - 2026/07/16/
+SN  - 2949-7159
+DO  - https://doi.org/10.1016/j.jiixd.2026.07.002
+UR  - https://www.sciencedirect.com/science/article/pii/S294971592600065X
+KW  - Sovereign Cloud
+KW  - Air Gaps
+KW  - DevSecOps
+KW  - Vulnerability Management
+KW  - TN-NTN
+KW  - AI security
+AB  - ABSTRACT
+Sovereign cloud environments in critical infrastructure deployments face increased adversarial threats across software delivery pipelines and air gapped operations. The challenges are further compounded by terrestrial and non terrestrial network (TN-NTN) segments. This systematic literature review (SLR) investigates the intersection of secure software delivery, Artificial Intelligence (AI) vulnerability triage, and DevSecOps within the constraints of TN-NTN and air gaps. For this survey, we included 22 studies identified through a two-arm PRISMA 2020 systematic literature review, which originated from 429 database records and 6 snowball citations (2 anchor citations). Additionally, we propose a taxonomy that maps the included studies against a two dimensional framework: (i) AI complexity: classical Machine Learning (ML), hybrid, Generative Artificial Intelligence (GenAI)/ Large Language Models (LLMs) and (ii) connectivity assumptions: air gap, partial non terrestrial (NTN), terrestrial. The analysis of results and outcomes is presented to illustrate research trends in AI-driven vulnerability triage in connectivity-constrained environments. Finally, we offer future research directions and identify open challenges for readers interested in exploring this area further.
+ER  - 

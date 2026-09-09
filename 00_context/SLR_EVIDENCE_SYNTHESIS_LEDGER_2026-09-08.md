@@ -1,6 +1,6 @@
 # SLR AI-for-DevOps --- Evidence & Synthesis Ledger
 
-**Updated: 8 September 2026 --- post RQ1--RQ5 finalization**
+**Updated: 9 September 2026 — post manuscript, bibliography, and PS045 finalization**
 
 ## Evidence rules
 
@@ -18,10 +18,10 @@
 
 ## RQ1 --- Trends
 
-Provisional distribution: 2016=0; 2017=0; 2018=0; 2019=3; 2020=7;
-2021=4; 2022=7; 2023=7; 2024=12; 2025=9; 2026=11.
+Final distribution: 2016=0; 2017=0; 2018=0; 2019=3; 2020=7;
+2021=4; 2022=7; 2023=7; 2024=12; 2025=8; 2026=12.
 
-PS045 provisional=2025; if resolved as 2026, 2025=8 and 2026=12.
+PS045 is resolved as 2026.
 
 Trajectory: **Predictive AI → Diagnostic AIOps → Generative AI → Agentic
 AI**
@@ -170,6 +170,18 @@ Autonomous DevOps**
 Do not claim: - AI replaces DevOps/SRE engineers. - Agentic systems are
 broadly production-ready. - Higher F1/AUC automatically means lower MTTR
 or production benefit. - RQ4 B1--B7 or RQ5 challenge frequencies across
-all 60 studies unless re-coded from record-level extraction. - PS045
-year is final. - The two pre-screening container records were specific
+all 60 studies unless re-coded from record-level extraction. - The two pre-screening container records were specific
 publication types unless evidence is recovered.
+
+
+## 9 September 2026 authoritative update
+
+- PS045 is final = **2026** (`U0041`, DOI `10.1109/JIOT.2025.3648858`).
+- RQ1 final counts: **2025=8, 2026=12**.
+- `PS001–PS060 ↔ Uxxxx` mapping is complete 60/60.
+- Primary-study DOI coverage is 60/60.
+- External bibliographic verification is 60/60.
+- IEEE numbering is finalized: background [1]–[6], primary studies [7]–[66].
+- Citation-integrity audit passed.
+- Publication-ready manuscript cleanup is complete.
+- Next work: appendices/supplementary material and final submission package.

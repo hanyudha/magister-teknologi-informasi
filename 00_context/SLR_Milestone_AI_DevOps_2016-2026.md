@@ -1932,3 +1932,112 @@ validation 4. Appendices 5. Final DOCX
 -   [ ] IEEE reference validation
 -   [ ] Appendices
 -   [ ] Final DOCX
+
+
+---
+
+# 26. AUTHORITATIVE UPDATE — 9 September 2026, Publication-Ready Manuscript
+
+> This section supersedes earlier project-status sections wherever they conflict.
+
+## 26.1 Final phase status
+
+| Phase | Status |
+|---|---|
+| Topic / Protocol / Search | **COMPLETE** |
+| Deduplication | **COMPLETE** |
+| Title/Abstract Screening | **COMPLETE** |
+| Full-text Retrieval & Screening | **COMPLETE / RECONCILED** |
+| QA | **COMPLETE — 60/60 PASS** |
+| PRISMA Reconciliation | **COMPLETE** |
+| PRISMA Final SVG | **COMPLETE / LOCKED** |
+| Data Extraction | **COMPLETE — 60/60** |
+| PS↔U Mapping | **COMPLETE — 60/60** |
+| Bibliographic Verification | **COMPLETE — 60/60** |
+| RQ1–RQ5 Synthesis | **COMPLETE / LOCKED** |
+| Research Gaps G1–G8 | **COMPLETE / LOCKED** |
+| Future Agenda FR1–FR5 | **COMPLETE / LOCKED** |
+| Threats to Validity | **COMPLETE / LOCKED** |
+| Manuscript Sections 1–7 | **COMPLETE / LOCKED** |
+| Abstract + Keywords | **COMPLETE / LOCKED** |
+| IEEE Citation Numbering | **COMPLETE — [1]–[66]** |
+| References | **COMPLETE** |
+| Publication-ready Cleanup | **COMPLETE** |
+| Appendices / Supplementary | **NEXT** |
+| Final submission package | **PENDING** |
+
+## 26.2 PS045 final resolution
+
+PS045 is **2026**.
+
+- `PS045 ↔ U0041`
+- *ARM: Autonomous Remediation and Management With LLM Agents for Intent-Driven Control*
+- IEEE Internet of Things Journal
+- DOI `10.1109/JIOT.2025.3648858`
+- final bibliographic year = 2026
+
+RQ1 final counts:
+
+```text
+2016=0
+2017=0
+2018=0
+2019=3
+2020=7
+2021=4
+2022=7
+2023=7
+2024=12
+2025=8
+2026=12
+```
+
+## 26.3 Reference reconstruction and recovery
+
+- 60 unique PS IDs
+- 60 unique U IDs
+- one-to-one mapping complete
+- 60/60 DOI coverage
+- 60/60 external bibliographic verification
+- 16/16 independent anchor checks pass
+
+Important exception:
+the recovered extraction master duplicated the PS047 title into PS009. PS047 was independently verified as U0459. The unique remaining included record U0669 therefore resolves PS009.
+
+## 26.4 Citation finalization
+
+Background references: `[1]–[6]`
+
+Primary-study references: `[7]–[66]`
+
+Citation-integrity audit passed:
+- no missing citation numbers
+- no duplicate reference numbers
+- no orphan references
+- no narrative PSxxx codes remaining
+- PS IDs retained only in the primary-study overview table for traceability
+
+## 26.5 Manuscript
+
+Current publication-ready manuscript:
+
+`SLR_AI_DevOps_PUBLICATION_READY_FINAL_2026-09-09.docx`
+
+Cleanup completed:
+- reconstruction/process notes removed
+- internal workflow wording removed
+- table captions normalized
+- PS045 correction applied
+- citation numbering finalized
+- references finalized
+
+## 26.6 Remaining work
+
+1. Appendices / Supplementary Material
+2. Optional university/journal-template formatting
+3. Optional PDF export
+4. Final repository/submission package
+
+## 26.7 New-session continuation
+
+> Read `SLR_SESSION_HANDOFF_2026-09-09.md` and `SLR_CONTEXT_MASTER_2026-09-09.md` first. The manuscript body, PRISMA, RQ1–RQ5, PS001–PS060↔Uxxxx mapping, PS045=2026, citations [1]–[66], references, and publication-ready DOCX are finalized. Do not revert to older provisional PS045/RQ1 counts. Next: Appendices / Supplementary Material.

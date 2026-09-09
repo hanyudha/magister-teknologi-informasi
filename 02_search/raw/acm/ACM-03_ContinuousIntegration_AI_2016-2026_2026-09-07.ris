@@ -1,0 +1,1046 @@
+TY  - CONF
+TI  - Review of the Application of Artificial Intelligence Technology in the Risk Control of Electric Power Enterprises’ Operations
+AU  - Huang, Miaohua
+AU  - Xie, Shuyong
+AU  - Hong, Min
+AU  - Liu, Xiaozhou
+AU  - Zhang, Jian
+T3  - ICBAR '25
+AB  - To systematically grasp the path and trend of artificial intelligence empowering the operation risk management and control of power enterprises, this study has sorted out the cutting-edge literature in this field in the past five years and constructed a full-chain analysis framework for risk identification, assessment and prediction, and control and decision-making. Research has found that artificial intelligence technology demonstrates significant advantages in the six key elements of risk identification, assessment and prediction, as well as safety control, and can effectively enhance the intelligent level and efficiency of operational risk control in power enterprises. However, current applications still face challenges such as data security risks and the difficulty of cross-system collaboration. In the future, with the continuous integration of new technologies and the further improvement of their intelligence levels, the application of artificial intelligence technology in the operation risk control of power enterprises will become more extensive and in-depth.
+C1  - New York, NY, USA
+C3  - Proceedings of the 2025 5th International Conference on Big Data, Artificial Intelligence and Risk Management
+DA  - 2026/04/29/
+PY  - 2026
+DO  - 10.1145/3800227.3800420
+DP  - ACM Digital Library
+SP  - 1264
+EP  - 1270
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1872-4
+UR  - https://dl.acm.org/doi/10.1145/3800227.3800420
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3800227.3800420?download=true
+ER  - 
+
+TY  - CONF
+TI  - Application of an AI-based Risk Management Framework in Complex Environments
+AU  - Wang, Zichun
+T3  - ICBAR '24
+AB  - With the rapid development of science and technology and the continuous integration of the global economy, the external environment faced by enterprises is becoming increasingly complex and changeable, and risk management has become an important guarantee for the sustainable development of enterprises. The rapid development of artificial intelligence (AI)technology has provided a new perspective and tool for risk management. This paper aims to discuss the application of AI-based risk management framework in the complex environment, analyze its advantages, challenges and implementation strategies, and provide reference for enterprises to effectively manage risks in the complex and changeable market environment.
+C1  - New York, NY, USA
+C3  - Proceedings of the 2024 4th International Conference on Big Data, Artificial Intelligence and Risk Management
+DA  - 2025/04/27/
+PY  - 2025
+DO  - 10.1145/3718751.3718941
+DP  - ACM Digital Library
+SP  - 1157
+EP  - 1161
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-0975-3
+UR  - https://dl.acm.org/doi/10.1145/3718751.3718941
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3718751.3718941?download=true
+ER  - 
+
+TY  - CONF
+TI  - Workshop: Machine Learning in Software Quality
+AU  - Azim, Akramul
+AU  - Smith, Kevin
+T3  - CASCON '22
+AB  - The workshop focuses on talks related to advancing the software quality paradigm using machine learning (ML) and/or artificial intelligence (AI). Software testing is an essential part of develop-ment that can be further advanced with the help of automation and effectively leveraging historical information. Continuous inte-gration environments enable large-scale software testing and the large volume of data generated in the process promotes the use of data analytics and ML techniques. Moreover, the historical infor-mation is useful to improve the next version of the software from models to code, which are essential components of software engi-neering. The workshop aims to cover the topics on software testing using ML, software testing in continuous integration environments, test case prioritization using ML, software quality assurance and requirements engineering using AI/ML.
+C1  - USA
+C3  - Proceedings of the 32nd Annual International Conference on Computer Science and Software Engineering
+DA  - 2022/11/15/
+PY  - 2022
+DP  - ACM Digital Library
+SP  - 249
+EP  - 250
+PB  - IBM Corp.
+ST  - Workshop
+UR  - https://dl.acm.org/doi/10.5555/3566055.3566095
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - Generative AI Detection of Document Incompleteness, Inconsistencies, and Discrepancies
+AU  - Robert, John
+AU  - Olea, Carlos
+AU  - Hindka, Yash
+AU  - Brown, Nanette
+T3  - FSE Companion '25
+AB  - Software development activities must adhere to industry, national, and/or international regulatory standards to ensure security, safety, and other important properties in high-stakes, regulated domains, such as healthcare, automotive, and aerospace. These software standards are often codified via multiple documents, ranging from specific requirements to general guidance. Software developers must demonstrate—and regulatory authorities must then verify—the completeness and consistency between the software artifacts and the software regulatory documents. Detecting regulatory document incompleteness, inconsistencies, and/or discrepancies (DIID) with respect to software artifacts is important for both developers and regulators because they indicate potential non-conformance and/or software regulatory risk.DIID detection is currently a human-intensive activity where people learn the standards and then review or search software artifacts to find or detect potential issues. This tedious and error-prone manual process is even more challenging with continuous integration and continuous delivery (CI/CD) pipelines that create frequent software updates. In addition, software artifacts (such as requirements or architecture documents) and software standards also change as the software is maintained, requiring ongoing manual reviews and revisions.Generative AI can accelerate DIID detection for different documents and data sources. This paper explores how generative AI, specifically Large Language Models (LLMs), can accelerate DIID detection in software artifacts, particularly when comparing trusted documents like safety standards with software development artifacts. Integrating LLMs into the software development lifecycle (SDLC) to detect DIID can improve specific development activities, as well as enable transformative opportunities by accelerating end-to-end SDLC workflows and regulatory compliance. Current LLM benchmarks and testing frameworks do not sufficiently test for detecting DIID and require extension to adequately and consistently detect DIID across multiple SDLC activities. This position paper describes how LLMs can accelerate software assurance processes and ensure greater compliance with industry standards and government regulatory requirements.
+C1  - New York, NY, USA
+C3  - Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering
+DA  - 2025/07/28/
+PY  - 2025
+DO  - 10.1145/3696630.3728724
+DP  - ACM Digital Library
+SP  - 1381
+EP  - 1385
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1276-0
+UR  - https://dl.acm.org/doi/10.1145/3696630.3728724
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3696630.3728724?download=true
+ER  - 
+
+TY  - CONF
+TI  - Decoding CI/CD Practices in Open-Source Projects with LLM Insights
+AU  - Chomątek, Łukasz
+AU  - Papuga, Jakub
+AU  - Nowak, Przemyslaw
+AU  - Poniszewska-Marańda, Aneta
+T3  - FSE Companion '25
+AB  - The analysis of continuous integration and continuous deployment (CI/CD) pipeline configurations offers critical insights into modern software development practices. This paper leverages advanced large language models (LLMs) — DeepSeek-V2 and GPT-4o — to examine pipeline definition files from 28,770 popular GitHub repositories, uncovering adoption trends across CI/CD practices. Our LLM-driven approach reveals near-universal implementation of build (80.0%) and test (80.2%) stages, contrasted by lower adoption of specialized practices like static application security testing (SAST) (12.1%), containerization (17.9%), and cloud deployment (4.2%). System-specific patterns emerge, with Travis CI leading in build automation (99.2%) and GitHub Actions excelling in linting (44.9%) and SAST (16.5%), reflecting distinct system strengths. By harnessing LLMs to parse and interpret complex pipeline files at scale, this study not only maps the CI/CD landscape but also demonstrates the transformative potential of artificial intelligence in software engineering research. We propose future work to refine LLM-based tools for pipeline analysis and address adoption gaps, aiming to enhance CI/CD accessibility and effectiveness across diverse projects.
+C1  - New York, NY, USA
+C3  - Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering
+DA  - 2025/07/28/
+PY  - 2025
+DO  - 10.1145/3696630.3728699
+DP  - ACM Digital Library
+SP  - 1638
+EP  - 1644
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1276-0
+UR  - https://dl.acm.org/doi/10.1145/3696630.3728699
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3696630.3728699?download=true
+ER  - 
+
+TY  - CONF
+TI  - Predicting Intermittent Job Failure Categories for Diagnosis Using Few-Shot Fine-Tuned Language Models
+AU  - Aïdasso, Henri
+AU  - Bordeleau, Francis
+AU  - Tizghadam, Ali
+T3  - FSE Companion '26
+AB  - In principle, failures in Continuous Integration (CI) pipelines provide valuable feedback to developers about code-related errors. In practice, however, pipeline jobs often fail intermittently due to non-deterministic tests, network outages, infrastructure failures, resource exhaustion, and other reliability issues. These intermittent (flaky) job failures lead to substantial inefficiencies: wasted computational resources from repeated reruns and significant diagnosis time that distracts developers from core activities and often requires intervention from specialized teams. Prior studies have proposed machine learning techniques to detect intermittent failures, but the subsequent diagnosis remains underexplored. To fill this gap, we introduce FlaXifyer, a few-shot learning approach for predicting intermittent job failure categories using pre-trained language models. FlaXifyer requires only job execution logs and achieves 84.3% Macro F1 and 92.0% Top-2 accuracy with just 12 labeled examples per category. We also propose LogSift, an interpretability technique that identifies influential log statements in under one second, reducing review effort by 74.4% while surfacing relevant failure information in 87% of cases. Evaluated on 2,458 job failures from TELUS, FlaXifyer and LogSift enable practitioners to automate triage and accelerate the diagnosis of intermittent job failures.
+C1  - New York, NY, USA
+C3  - Proceedings of the 34th ACM International Conference on the Foundations of Software Engineering
+DA  - 2026/07/17/
+PY  - 2026
+DO  - 10.1145/3803437.3805224
+DP  - ACM Digital Library
+SP  - 513
+EP  - 523
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-2636-1
+UR  - https://dl.acm.org/doi/10.1145/3803437.3805224
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3803437.3805224?download=true
+ER  - 
+
+TY  - CONF
+TI  - Card-Based Approach to Engage Exploring Ethics in AI for Data Visualization
+AU  - Wang, Zezhong
+AU  - Hao, Shan
+AU  - Carpendale, Sheelagh
+T3  - CHI EA '24
+AB  - We present AI-VIS EthiCards, a card-based approach to explore ethics tailored for AI for visualization. The continuous integration of artificial intelligence and data visualization has brought about increased efficiency and benefits, yet inevitably raises ethical concerns. The emerging field of AI for visualization is marked by its inherent complexity, making it crucial for researchers, designers, and practitioners to cultivate ethical literacy and contemplate moral obligations within this intricate environment. These cards aim to aid users in learning, discussing, and reflecting on the ethical dilemmas that may arise from the integration of AI technology and visualization. The AI-VIS EthiCard set contains six themes: Goals, AI-VIS Tasks, Technologies, Ethical Principles, People-In-Focus, and Challenges, proposes various modes of use, including theoretical exploration, and design development simulations, with five activities. We aim to offer users an exploratory and open approach to discussions, providing multiple perspectives to guide ethical considerations when applying AI for visualization. The full set of cards is available at https://aivisethicards.github.io/.
+C1  - New York, NY, USA
+C3  - Extended Abstracts of the CHI Conference on Human Factors in Computing Systems
+DA  - 2024/05/11/
+PY  - 2024
+DO  - 10.1145/3613905.3650972
+DP  - ACM Digital Library
+SP  - 1
+EP  - 7
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-0331-7
+UR  - https://dl.acm.org/doi/10.1145/3613905.3650972
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3613905.3650972?download=true
+ER  - 
+
+TY  - JOUR
+TI  - Correlation-Aware Cross-Modal Attention Network for Fashion Compatibility Modeling in UGC Systems
+AU  - Cui, Kai
+AU  - Liu, Shenghao
+AU  - Feng, Wei
+AU  - Deng, Xianjun
+AU  - Gao, Liangbin
+AU  - Cheng, Minmin
+AU  - Lu, Hongwei
+AU  - Yang, Laurence T.
+T2  - ACM Transactions on Multimedia Computing, Communications and Applications
+AB  - Empowered by the continuous integration of social multimedia and artificial intelligence, the application scenarios of Information Retrieval (IR) progressively tend to be diversified and personalized. Currently, User-Generated Content (UGC) systems have great potential to handle the interactions between large-scale users and massive media contents. As an emerging multimedia IR, Fashion Compatibility Modeling (FCM) aims to predict the matching degree of each given outfit and provide complementary item recommendation for user queries. Although existing studies attempt to explore the FCM task from a multi-modal perspective with promising progress, they still fail to fully leverage the interactions between multi-modal information or ignore the item–item contextual connectivities of intra-outfit. In this article, a novel FCM scheme is proposed based on Correlation-Aware Cross-Modal Attention Network. To better tackle these issues, our work mainly focuses on enhancing comprehensive multi-modal representations of fashion items by integrating the cross-modal collaborative contents and uncovering the contextual correlations. Since the multi-modal information of fashion items can deliver various semantic clues from multiple aspects, a modality-driven collaborative learning module is presented to explicitly model the interactions of modal consistency and complementarity via a co-attention mechanism. Considering the rich connections among numerous items in each outfit as contextual cues, a correlation-aware information aggregation module is further designed to adaptively capture significant intra-correlations of item–item for characterizing the content-aware outfit representations. Experiments conducted on two real-world fashion datasets demonstrate the superiority of our approach over state-of-the-art methods.
+DA  - 2025/11/10/
+PY  - 2025
+DO  - 10.1145/3698772
+DP  - ACM Digital Library
+VL  - 21
+IS  - 11
+SP  - 318:1
+EP  - 318:24
+J2  - ACM Trans. Multimedia Comput. Commun. Appl.
+SN  - 1551-6857
+UR  - https://dl.acm.org/doi/10.1145/3698772
+Y2  - 2026/09/07/08:55:51
+L1  - https://dl.acm.org/doi/pdf/10.1145/3698772?download=true
+ER  - 
+
+TY  - CONF
+TI  - A Review of AI-augmented End-to-End Test Automation Tools
+AU  - Pham, Phuoc
+AU  - Nguyen, Vu
+AU  - Nguyen, Tien
+T3  - ASE '22
+AB  - Software testing is a process of evaluating and verifying whether a software product still works as expected, and it is repetitive, laborious, and time-consuming. To address this problem, automation tools have been developed to automate testing activities and enhance quality and delivery time. However, automation tools become less effective with continuous integration and continuous delivery (CI/CD) pipelines when the system under test is constantly changing. Recent advances in artificial intelligence and machine learning (AI/ML) present the potential for addressing important challenges in test automation. AI/ML can be applied to automate various testing activities such as detecting bugs and errors, maintaining existing test cases, or generating new test cases much faster than humans. In this study, we will outline testing activities where AI has significantly impacted and greatly enhanced the testing process. Based on that, we identify primary AI techniques that are used in each testing activity. Further, we conduct a comprehensive study of test automation tools to provide a clear look at the role of AI/ML technology in industrial testing tools. The results of this paper help researchers and practitioners understand the current state of AI/ML applied to software testing, which is the first important step towards achieving successful and efficient software testing.
+C1  - New York, NY, USA
+C3  - Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering
+DA  - 2023/01/05/
+PY  - 2023
+DO  - 10.1145/3551349.3563240
+DP  - ACM Digital Library
+SP  - 1
+EP  - 4
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9475-8
+UR  - https://dl.acm.org/doi/10.1145/3551349.3563240
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3551349.3563240?download=true
+ER  - 
+
+TY  - JOUR
+TI  - The Impact of Class Noise-handling on the Effectiveness of Machine Learning-based Methods for Build Outcome and Code Change Request Predictions
+AU  - Al-Sabbagh, Khaled
+AU  - Staron, Miroslaw
+AU  - Hebig, Regina
+T2  - ACM Transactions on Software Engineering and Methodology
+AB  - Machine learning-based methods are increasingly used to optimize build processes and accelerate the integration of software code. These methods leverage large volumes of historical code changes to train models on predicting and preventing issues in the codebase that could delay code integrations and features delivery to end-users. The objective of this study is to examine the impact of handling class noise present in software code changes collected from Continuous Integration (CI) systems on the predictive performance of machine learning models for predicting the execution outcome of CI builds and negative code reviews. In this study, we conduct a series of computational experiments using data from 110 Java open-source projects, examining the effectiveness of two removal-based statistical techniques - Majority Filter (MF) and Consensus Filter (CF) - and two corrective techniques - Domain Knowledge-based (DB) and CleanLab. Our results show that removal-based techniques significantly improve model predictive performance in both build outcome and negative code review prediction tasks. For build outcome prediction, applying MF increased the F1-score from 82% to 97%, and MCC from 0.13 to 0.58. In negative code review predictions, MF improved the F1-score from 17% to 53%, and MCC from −0.03 to 0.57. The DB technique was effective primarily in the context of code review comments but less so for build outcome predictions. While CleanLab yielded more consistent predictions, its overall impact on model performance was more moderate compared to removal-based techniques. Additionally, our findings show that hyperparameter tuning, applied independently or in combination with CleanLab, can further improve model performance; however, these gains did not surpass those achieved by removal-based techniques alone. We conclude that applying removal-based techniques to the training data of code changes is necessary to improve the prediction of build outcomes and negative code review comments.
+DA  - 2026/05/13/
+PY  - 2026
+DO  - 10.1145/3764864
+DP  - ACM Digital Library
+VL  - 35
+IS  - 6
+SP  - 147:1
+EP  - 147:66
+J2  - ACM Trans. Softw. Eng. Methodol.
+SN  - 1049-331X
+UR  - https://dl.acm.org/doi/10.1145/3764864
+Y2  - 2026/09/07/08:55:55
+ER  - 
+
+TY  - CONF
+TI  - Failure Prediction using Transfer Learning in Large-scale Continuous Integration Environments
+AU  - Mamata, Rezwana
+AU  - Smith, Kevin
+AU  - Azim, Akramul
+AU  - Chang, Yee-Kang
+AU  - Taiseef, Qasim
+AU  - Liscano, Ramiro
+AU  - Seferi, Gkerta
+T3  - CASCON '22
+AB  - Continuous integration environments execute automated test cases frequently to maintain the software quality, which significantly increases the developer feedback time, but it also contains histor­ical information of code changes and test results that motivates using machine learning techniques. Since continuous integration is a common practice in software development, the test data have sim­ilar behavior and patterns that can be transferred between datasets for efficient failure prediction of tests. This paper evaluates the applicability of transfer learning approaches in continuous integra­tion environments by using a pre-trained failure prediction model to improve the test failure prediction of new projects. Our experi­mental results demonstrate the efficacy of using transfer learning algorithms to improve the test failure prediction rate for large-scale  industrial software projects.
+C1  - USA
+C3  - Proceedings of the 32nd Annual International Conference on Computer Science and Software Engineering
+DA  - 2022/11/15/
+PY  - 2022
+DP  - ACM Digital Library
+SP  - 193
+EP  - 198
+PB  - IBM Corp.
+UR  - https://dl.acm.org/doi/10.5555/3566055.3566079
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - Advancing Software Security and Reliability in Cloud Platforms through AI-based Anomaly Detection
+AU  - Saleh, Sabbir M.
+AU  - Sayem, Ibrahim Mohammed
+AU  - Madhavji, Nazim
+AU  - Steinbacher, John
+T3  - CCSW '24
+AB  - Continuous Integration/Continuous Deployment (CI/CD) is fundamental for advanced software development, supporting faster and more efficient delivery of code changes into cloud environments. However, security issues in the CI/CD pipeline remain challenging, and incidents (e.g., DDoS, Bot, Log4j, etc.) are happening over the cloud environments. While plenty of literature discusses static security testing and CI/CD practices, only a few deal with network traffic pattern analysis to detect different cyberattacks. This research aims to enhance CI/CD pipeline security by implementing anomaly detection through AI (Artificial Intelligence) support. The goal is to identify unusual behaviour or variations from network traffic patterns in pipeline and cloud platforms. The system shall integrate into the workflow to continuously monitor pipeline activities and cloud infrastructure. Additionally, it aims to explore adaptive response mechanisms to mitigate the detected anomalies or security threats. This research employed two popular network traffic datasets, CSE-CIC-IDS2018 and CSE-CIC-IDS2017. We implemented a combination of Convolution Neural Network (CNN) and Long Short-Term Memory (LSTM) to detect unusual traffic patterns. We achieved an accuracy of 98.69% and 98.30% and generated log files in different CI/CD pipeline stages that resemble the network anomalies affected to address security challenges in modern DevOps practices, contributing to advancing software security and reliability.
+C1  - New York, NY, USA
+C3  - Proceedings of the 2024 on Cloud Computing Security Workshop
+DA  - 2024/11/19/
+PY  - 2024
+DO  - 10.1145/3689938.3694779
+DP  - ACM Digital Library
+SP  - 43
+EP  - 52
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1234-0
+UR  - https://dl.acm.org/doi/10.1145/3689938.3694779
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3689938.3694779?download=true
+ER  - 
+
+TY  - CONF
+TI  - Towards Build Optimization Using Digital Twins
+AU  - Aïdasso, Henri
+AU  - Bordeleau, Francis
+AU  - Tizghadam, Ali
+T3  - PROMISE '25
+AB  - Despite the indisputable benefits of Continuous Integration (CI) builds, CI still presents significant challenges regarding long durations, failures, and flakiness. Prior studies addressed CI challenges in isolation, yet these issues are interrelated and require a holistic approach for effective optimization. To bridge this gap, this paper proposes a novel idea of developing Digital Twins (DTs) of build processes to enable global and continuous improvement. To support such an idea, we introduce the CI Build process Digital Twin (CBDT) framework as a minimum viable product. This framework offers digital shadowing functionalities, including real-time build data acquisition and continuous monitoring of build process performance metrics. Furthermore, we discuss guidelines and challenges in the practical implementation of CBDTs, including (1) modeling different aspects of the build process using Machine Learning, (2) exploring what-if scenarios based on historical patterns, and (3) implementing prescriptive services such as automated failure or performance repair to continuously improve build processes.
+C1  - New York, NY, USA
+C3  - Proceedings of the 21st International Conference on Predictive Models and Data Analytics in Software Engineering
+DA  - 2025/06/26/
+PY  - 2025
+DO  - 10.1145/3727582.3728684
+DP  - ACM Digital Library
+SP  - 95
+EP  - 98
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1594-5
+UR  - https://dl.acm.org/doi/10.1145/3727582.3728684
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3727582.3728684?download=true
+ER  - 
+
+TY  - CONF
+TI  - Failure prediction using machine learning in IBM WebSphere liberty continuous integration environment
+AU  - Khan, Md Asif
+AU  - Azim, Akramul
+AU  - Liscano, Ramiro
+AU  - Smith, Kevin
+AU  - Chang, Yee-Kang
+AU  - Garcon, Sylvain
+AU  - Tauseef, Qasim
+T3  - CASCON '21
+AB  - The growing complexity and dependencies of software have increased the importance of testing to ensure that frequent changes do not adversely affect existing functionality. Moreover, continuous integration comes with unique challenges associated with maintaining a stable build environment. Several studies have shown that the testing environment becomes more efficient with proper test case prioritization techniques. However, an application's dynamic behavior makes it challenging to derive test case prioritization techniques for achieving optimal results. With the advance of machine learning, the context of an application execution can be analyzed to select and prioritize test suites more efficiently.Test suite prioritization techniques aim to reorder test suites' execution to deliver high quality, maintainable software at lower costs to meet specific objectives such as revealing failures earlier. The state-of-the-art techniques on test prioritization in a continuous integration environment focus on relatively small, single-language, unit-tested projects. This paper compares and analyzes Machine learning-based test suite prioritization technique on two large-scale dataset collected from a continuous integration environment Google and IBM respectively. We optimize hyperparameters and report on experiments' findings by using different machine learning algorithms for test suite prioritization. Our optimized algorithms prioritize test suites with 93% accuracy on average and require 20% fewer test suites to detect 80% of the failures than the test suites prioritized randomly.
+C1  - USA
+C3  - Proceedings of the 31st Annual International Conference on Computer Science and Software Engineering
+DA  - 2021/11/22/
+PY  - 2021
+DP  - ACM Digital Library
+SP  - 63
+EP  - 72
+PB  - IBM Corp.
+UR  - https://dl.acm.org/doi/10.5555/3507788.3507798
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - JOUR
+TI  - Build Optimization: A Systematic Literature Review
+AU  - Aïdasso, Henri
+AU  - Sayagh, Mohammed
+AU  - Bordeleau, Francis
+T2  - ACM Computing Surveys
+AB  - In modern software organizations, Continuous Integration (CI) consists of an automated build process triggered by change submissions and involving compilation, testing, and packaging to enable the continuous deployment of new software versions to end-users. While CI offers various advantages regarding software quality and delivery speed, it introduces challenges addressed by a large body of research. To better understand this literature, so as to help practitioners find solutions for their problems and guide future research, we conduct a systematic review of 97 studies published between 2006 and 2024, summarizing their goals, methodologies, datasets, and metrics. These studies target two main challenges: (1) long build durations and (2) build failures. To address the first, researchers have proposed techniques such as predicting build outcomes and durations, selective build execution, and build acceleration through caching or performance smell repair. On the other hand, build failure root causes have been studied, leading to techniques for predicting build script maintenance needs and automating repairs. Recent work also focuses on flaky build failures caused by environmental issues. Most techniques use machine learning and rely on build metrics, which we classify into five categories. Finally, we identify eight publicly available datasets to support future research on build optimization.
+DA  - 2025/09/02/
+PY  - 2025
+DO  - 10.1145/3757912
+DP  - ACM Digital Library
+VL  - 58
+IS  - 1
+SP  - 12:1
+EP  - 12:38
+J2  - ACM Comput. Surv.
+SN  - 0360-0300
+ST  - Build Optimization
+UR  - https://dl.acm.org/doi/10.1145/3757912
+Y2  - 2026/09/07/08:56:06
+L1  - https://dl.acm.org/doi/pdf/10.1145/3757912?download=true
+ER  - 
+
+TY  - CONF
+TI  - Machine Learning-based Test Case Prioritization using Hyperparameter Optimization
+AU  - Khan, Md Asif
+AU  - Azim, Akramul
+AU  - Liscano, Ramiro
+AU  - Smith, Kevin
+AU  - Chang, Yee-Kang
+AU  - Tauseef, Qasim
+AU  - Seferi, Gkerta
+T3  - AST '24
+AB  - Continuous integration pipelines execute extensive automated test suites to validate new software builds. In this fast-paced development environment, delivering timely testing results to developers is critical to ensuring software quality. Test case prioritization (TCP) emerges as a pivotal solution, enabling the prioritization of fault-prone test cases for immediate attention. Recent advancements in machine learning have showcased promising results in TCP, offering the potential to revolutionize how we optimize testing workflows. Hyperparameter tuning plays a crucial role in enhancing the performance of ML models. However, there needs to be more work investigating the effects of hyperparameter tuning on TCP. Therefore, we explore how optimized hyperparameters influence the performance of various ML classifiers, focusing on the Average Percentage of Faults Detected (APFD) metric. Through empirical analysis of ten real-world, large-scale, diverse datasets, we conduct a grid search-based tuning with 885 hyperparameter combinations for four machine learning models. Our results provide model-specific insights and demonstrate an average 15% improvement in model performance with hyperparameter tuning compared to default settings. We further explain how hyperparameter tuning improves precision (max = 1), recall (max = 0.9633), F1-score (max = 0.9662), and influences APFD value (max = 0.9835), indicating a direct connection between tuning and prioritization performance. Hence, this study underscores the importance of hyperparameter tuning in optimizing failure prediction models and their direct impact on prioritization performance.
+C1  - New York, NY, USA
+C3  - Proceedings of the 5th ACM/IEEE International Conference on Automation of Software Test (AST 2024)
+DA  - 2024/06/10/
+PY  - 2024
+DO  - 10.1145/3644032.3644467
+DP  - ACM Digital Library
+SP  - 125
+EP  - 135
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-0588-5
+UR  - https://dl.acm.org/doi/10.1145/3644032.3644467
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3644032.3644467?download=true
+ER  - 
+
+TY  - CONF
+TI  - Commit Artifact Preserving Build Prediction
+AU  - Wang, Guoqing
+AU  - Sun, Zeyu
+AU  - Chen, Yizhou
+AU  - Zhao, Yifan
+AU  - Liang, Qingyuan
+AU  - Hao, Dan
+T3  - ISSTA 2024
+AB  - In Continuous Integration (CI), accurate build prediction is crucial for minimizing development costs and enhancing efficiency.  However, existing build prediction methods, typically based on predefined rules or machine learning classifiers employing feature engineering, have been constrained by their limited ability to fully capture the intricate details of commit artifacts, such as code change and commit messages. These artifacts are critical for understanding the commit under a build but have been inadequately utilized in existing approaches. To address this problem, we propose GitSense, a Transformer-based model specifically designed to incorporate the rich and complex information contained within commit artifacts for the first. GitSense employs an advanced textual encoder with built-in sliding window text samplers for textual features and a statistical feature encoder for extracted statistical features. This innovative approach allows for a comprehensive analysis of lengthy and intricate commit artifacts, surpassing the capabilities of traditional methods. We conduct comprehensive experiments to compare GitSense with five state-of-the-art build prediction models, Longformer, and ChatGPT. The experimental results show that GitSense outperforms these models in predicting failed builds, evidenced by 32.7%-872.1.0% better on F1-score, 23.9%-437.5% better on Precision, and 40.2%-1396.0% better on Recall.
+C1  - New York, NY, USA
+C3  - Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis
+DA  - 2024/09/11/
+PY  - 2024
+DO  - 10.1145/3650212.3680356
+DP  - ACM Digital Library
+SP  - 1236
+EP  - 1248
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-0612-7
+UR  - https://dl.acm.org/doi/10.1145/3650212.3680356
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3650212.3680356?download=true
+ER  - 
+
+TY  - CONF
+TI  - Enhancing HPC Service Management on Alps using FirecREST API
+AU  - Dorsch, Juan Pablo
+AU  - Fink, Andreas
+AU  - Koutsaniti, Eirini
+AU  - Sarmiento, Rafael
+T3  - CUG '24
+AB  - With the evolution of scientific computational needs, there is a growing demand for enhanced resource access and sophisticated services beyond traditional HPC offerings. These demands encompass a wide array of services and use cases, from interactive computing platforms like JupyterHub to the integration of Continuous Integration (CI) pipelines with tools such as GitHub Actions and GitLab runners, and the automation of complex workflows in Machine Learning using AirFlow.This paper addresses the challenges faced by HPC centers providing multi-purpose HPC infrastructure in scaling these services to meet the diverse needs of various scientific communities. Our proposed solution involves the adoption of a web-facing RESTful API, such as FirecREST, to streamline access to HPC resources for those services. We methodically demonstrate, through various use cases, how FirecREST can significantly simplify the configuration of complex services and enhance the efficiency of HPC service management for HPC providers. This approach not only addresses the immediate needs of HPC centers but showcases the benefits of a web-facing interface to access HPC resources.
+C1  - New York, NY, USA
+C3  - Proceedings of the Cray User Group
+DA  - 2025/08/15/
+PY  - 2025
+DO  - 10.1145/3725789.3725792
+DP  - ACM Digital Library
+SP  - 24
+EP  - 30
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1328-6
+UR  - https://dl.acm.org/doi/10.1145/3725789.3725792
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3725789.3725792?download=true
+ER  - 
+
+TY  - CONF
+TI  - The A.I. Pandorica: Linking Ethically-challenged Technical Outputs to Prospective Policy Approaches
+AU  - J. Domanski, Robert
+T3  - dg.o '19
+AB  - Artificial intelligence increasingly drives the modern world. Its rapid and continuous integration into the economic and political fabric of societies across the globe has placed the ethical challenges associated with A.I. onto national political agendas. This paper will deconstruct both the technical and regulatory challenges wrought by A.I. through an ethical lens. By providing a brief overview of how modern A.I. works, and defining and mapping its associated ethical issues to specific technical outputs, this paper will explore several promising paths forward.
+C1  - New York, NY, USA
+C3  - Proceedings of the 20th Annual International Conference on Digital Government Research
+DA  - 2019/06/18/
+PY  - 2019
+DO  - 10.1145/3325112.3325267
+DP  - ACM Digital Library
+SP  - 409
+EP  - 416
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-7204-6
+ST  - The A.I. Pandorica
+UR  - https://dl.acm.org/doi/10.1145/3325112.3325267
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - How do Machine Learning Projects use Continuous Integration Practices? An Empirical Study on GitHub Actions
+AU  - Bernardo, João Helis
+AU  - Da Costa, Daniel Alencar
+AU  - Medeiros, Sérgio Queiroz de
+AU  - Kulesza, Uirá
+T3  - MSR '24
+AB  - Continuous Integration (CI) is a well-established practice in traditional software development, but its nuances in the domain of Machine Learning (ML) projects remain relatively unexplored. Given the distinctive nature of ML development, understanding how CI practices are adopted in this context is crucial for tailoring effective approaches. In this study, we conduct a comprehensive analysis of 185 open-source projects on GitHub (93 ML and 92 non-ML projects). Our investigation comprises both quantitative and qualitative dimensions, aiming to uncover differences in CI adoption between ML and non-ML projects. Our findings indicate that ML projects often require longer build duration, and medium-sized ML projects exhibit lower test coverage compared to non-ML projects. Moreover, small and medium-sized ML projects show a higher prevalence of increasing build duration trends compared to their non-ML counterparts. Additionally, our qualitative analysis illuminates the discussions around CI in both ML and non-ML projects, encompassing themes like CI Build Execution and Status, CI Testing, and CI Infrastructure. These insights shed light on the unique challenges faced by ML projects in adopting CI practices effectively.
+C1  - New York, NY, USA
+C3  - Proceedings of the 21st International Conference on Mining Software Repositories
+DA  - 2024/07/02/
+PY  - 2024
+DO  - 10.1145/3643991.3644915
+DP  - ACM Digital Library
+SP  - 665
+EP  - 676
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-0587-8
+ST  - How do Machine Learning Projects use Continuous Integration Practices?
+UR  - https://dl.acm.org/doi/10.1145/3643991.3644915
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - Proactively Screening Machine Learning Pipelines with ARGUSEYES
+AU  - Schelter, Sebastian
+AU  - Grafberger, Stefan
+AU  - Guha, Shubha
+AU  - Karlas, Bojan
+AU  - Zhang, Ce
+T3  - SIGMOD '23
+AB  - Software systems that learn from data with machine learning (ML) are ubiquitous. ML pipelines in these applications often suffer from a variety of data-related issues, such as data leakage, label errors or fairness violations, which require reasoning about complex dependencies between their inputs and outputs. These issues are usually only detected in hindsight after deployment, after they caused harm in production. We demonstrate ArgusEyes, a system which enables data scientists to proactively screen their ML pipelines for data-related issues as part of continuous integration. ArgusEyes instruments, executes and screens ML pipelines for declaratively specified pipeline issues, and analyzes data artifacts and their provenance to catch potential problems early before deployment to production. We demonstrate our system for three scenarios: detecting mislabeled images in a computer vision pipeline, spotting data leakage in a price prediction pipeline, and addressing fairness violations in a credit scoring pipeline.
+C1  - New York, NY, USA
+C3  - Companion of the 2023 International Conference on Management of Data
+DA  - 2023/06/05/
+PY  - 2023
+DO  - 10.1145/3555041.3589682
+DP  - ACM Digital Library
+SP  - 91
+EP  - 94
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9507-6
+UR  - https://dl.acm.org/doi/10.1145/3555041.3589682
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3555041.3589682?download=true
+ER  - 
+
+TY  - CONF
+TI  - End-to-end Machine Learning using Kubeflow
+AU  - George, Johnu
+AU  - Saha, Amit
+T3  - CODS-COMAD '22
+AB  - Usually data scientists are adept in deriving valuable insights from data by applying appropriate machine learning algorithms. However, data scientists are usually not skilled in developing or operating production level software which is the domain of ML Operators. In order to move from initial experiments to production grade systems, the code needs to run at scale on large, realistic data sets, and be able to run on both on-premise equipment as well as on public clouds. Additionally, the entire process needs to be part of some Software Development Lifecycle (SDLC), accounting for some flavour of continuous integration/continuous development (CICD). In this tutorial, attendees will learn about the components of an end-to-end ML system, and will get hands-on experience on model training, hyperparameter tuning, and model deployment. The tutorial will be based on Kubeflow, a widely used open-source (Apache License 2.0) machine learning toolkit for Kubernetes. The related code and examples can be accessed from a public github repository.
+C1  - New York, NY, USA
+C3  - Proceedings of the 5th Joint International Conference on Data Science & Management of Data (9th ACM IKDD CODS and 27th COMAD)
+DA  - 2022/01/08/
+PY  - 2022
+DO  - 10.1145/3493700.3493768
+DP  - ACM Digital Library
+SP  - 336
+EP  - 338
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-8582-4
+UR  - https://dl.acm.org/doi/10.1145/3493700.3493768
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3493700.3493768?download=true
+ER  - 
+
+TY  - CONF
+TI  - A Preliminary Investigation of MLOps Practices in GitHub
+AU  - Calefato, Fabio
+AU  - Lanubile, Filippo
+AU  - Quaranta, Luigi
+T3  - ESEM '22
+AB  - Background.&nbsp;The rapid and growing popularity of machine learning (ML) applications has led to an increasing interest in MLOps, that is, the practice of continuous integration and deployment (CI/CD) of ML-enabled systems. Aims.&nbsp;Since changes may affect not only the code but also the ML model parameters and the data themselves, the automation of traditional CI/CD needs to be extended to manage model retraining in production. Method.&nbsp;In this paper, we present an initial investigation of the MLOps practices implemented in a set of ML-enabled systems retrieved from GitHub, focusing on GitHub Actions and CML, two solutions to automate the development workflow. Results.&nbsp;Our preliminary results suggest that the adoption of MLOps workflows in open-source GitHub projects is currently rather limited. Conclusions.&nbsp;Issues are also identified, which can guide future research work.
+C1  - New York, NY, USA
+C3  - Proceedings of the 16th ACM / IEEE International Symposium on Empirical Software Engineering and Measurement
+DA  - 2022/09/19/
+PY  - 2022
+DO  - 10.1145/3544902.3546636
+DP  - ACM Digital Library
+SP  - 283
+EP  - 288
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9427-7
+UR  - https://dl.acm.org/doi/10.1145/3544902.3546636
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3544902.3546636?download=true
+ER  - 
+
+TY  - CONF
+TI  - Continuous test suite failure prediction
+AU  - Pan, Cong
+AU  - Pradel, Michael
+T3  - ISSTA 2021
+AB  - Continuous integration advocates to run the test suite of a project frequently, e.g., for every code change committed to a shared repository. This process imposes a high computational cost and sometimes also a high human cost, e.g., when developers must wait for the test suite to pass before a change appears in the main branch of the shared repository. However, only 4% of all test suite invocations turn a previously passing test suite into a failing test suite. The question arises whether running the test suite for each code change is really necessary. This paper presents continuous test suite failure prediction, which reduces the cost of continuous integration by predicting whether a particular code change should trigger the test suite at all. The core of the approach is a machine learning model based on features of the code change, the test suite, and the development history. We also present a theoretical cost model that describes when continuous test suite failure prediction is worthwhile. Evaluating the idea with 15k test suite runs from 242 open-source projects shows that the approach is effective at predicting whether running the test suite is likely to reveal a test failure. Moreover, we find that our approach improves the AUC over baselines that use features proposed for just-in-time defect prediction and test case failure prediction by 13.9% and 2.9%, respectively. Overall, continuous test suite failure prediction can significantly reduce the cost of continuous integration.
+C1  - New York, NY, USA
+C3  - Proceedings of the 30th ACM SIGSOFT International Symposium on Software Testing and Analysis
+DA  - 2021/07/11/
+PY  - 2021
+DO  - 10.1145/3460319.3464840
+DP  - ACM Digital Library
+SP  - 553
+EP  - 565
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-8459-9
+UR  - https://dl.acm.org/doi/10.1145/3460319.3464840
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3460319.3464840?download=true
+ER  - 
+
+TY  - CONF
+TI  - Building Continuous Integration Services for Machine Learning
+AU  - Karlaš, Bojan
+AU  - Interlandi, Matteo
+AU  - Renggli, Cedric
+AU  - Wu, Wentao
+AU  - Zhang, Ce
+AU  - Mukunthu Iyappan Babu, Deepak
+AU  - Edwards, Jordan
+AU  - Lauren, Chris
+AU  - Xu, Andy
+AU  - Weimer, Markus
+T3  - KDD '20
+AB  - Continuous integration (CI) has been a de facto standard for building industrial-strength software. Yet, there is little attention towards applying CI to the development of machine learning (ML) applications until the very recent effort on the theoretical side. In this paper, we take a step forward to bring the theory into practice.We develop the first CI system for ML, to the best of our knowledge, that integrates seamlessly with existing ML development tools. We present its design and implementation details.
+C1  - New York, NY, USA
+C3  - Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining
+DA  - 2020/08/20/
+PY  - 2020
+DO  - 10.1145/3394486.3403290
+DP  - ACM Digital Library
+SP  - 2407
+EP  - 2415
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-7998-4
+UR  - https://dl.acm.org/doi/10.1145/3394486.3403290
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3394486.3403290?download=true
+ER  - 
+
+TY  - JOUR
+TI  - Alibi explain: algorithms for explaining machine learning models
+AU  - Klaise, Janis
+AU  - Van Looveren, Arnaud
+AU  - Vacanti, Giovanni
+AU  - Coca, Alexandru
+T2  - The Journal of Machine Learning Research
+AB  - We introduce Alibi Explain, an open-source Python library for explaining predictions of machine learning models (https://github.com/SeldonIO/alibi). The library features state-of-the-art explainability algorithms for classification and regression models. The algorithms cover both the model-agnostic (black-box) and model-specific (white-box) setting, cater for multiple data types (tabular, text, images) and explanation scope (local and global explanations). The library exposes a unified API enabling users to work with explanations in a consistent way. Alibi adheres to best development practices featuring extensive testing of code correctness and algorithm convergence in a continuous integration environment. The library comes with extensive documentation of both usage and theoretical background of methods, and a suite of worked end-to-end use cases. Alibi aims to be a productionready toolkit with integrations into machine learning deployment platforms such as Seldon Core and KFServing, and distributed explanation capabilities using Ray.
+DA  - 2021/01/01/
+PY  - 2021
+DP  - ACM Digital Library
+VL  - 22
+IS  - 1
+SP  - 181:8194
+EP  - 181:8200
+J2  - J. Mach. Learn. Res.
+SN  - 1532-4435
+ST  - Alibi explain
+UR  - https://dl.acm.org/doi/10.5555/3546258.3546439
+Y2  - 2026/09/07/08:58:09
+L1  - https://dl.acm.org/doi/pdf/10.5555/3546258.3546439?download=true
+ER  - 
+
+TY  - CONF
+TI  - Advancing the science of digital biomarkers
+AU  - Sobolev, Michael
+AU  - Gullapalli, Bhanu Teja
+AU  - Rahman, Tauhidur
+T3  - DigiBiom '21
+AB  - Digital biomarkers are the physiological and behavioral measures collected via connected digital devices or wearable and mobile computing systems. A set of accurately and reproducibly measurable digital biomarkers can be used to predict and influence various health conditions, outcomes, and to generate actionable insights. In recent years, we observed a rapid growth in adoption of digital biomarkers in the medical literature, computer science research, and digital health industry. Advancing the translational science of digital biomarkers requires the continuous integration of key technological innovations from the areas of mobile computing, machine learning, health sciences and medicine. This editorial aims to lay out a brief overview of the current state of digital biomarkers research, recent initiatives taken by researchers to promote research and development of this area, and the key challenges and opportunities in this field.
+C1  - New York, NY, USA
+C3  - Proceedings of the 2021 Workshop on Future of Digital Biomarkers
+DA  - 2021/07/23/
+PY  - 2021
+DO  - 10.1145/3469266.3473711
+DP  - ACM Digital Library
+SP  - 1
+EP  - 2
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-8606-7
+UR  - https://dl.acm.org/doi/10.1145/3469266.3473711
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3469266.3473711?download=true
+ER  - 
+
+TY  - CONF
+TI  - Characterizing and Triaging Change Points
+AU  - Chen, Jie
+AU  - Hu, Haiyang
+AU  - Yu, Dongjin
+T3  - ICPE '22
+AB  - Testing software performance continuously can greatly benefit from automated verification done on continuous integration (CI) servers, but it generates a large number of performance test data with noise. To identify the change points in test data, statistical models have been developed in research. However, a considerable amount of detected change points is marked as the changes actually never need to be fixed (false positive). This work aims at giving a detailed understanding of the features of true positive change points and an automatic approach in change point triage, in order to alleviate project members' burdens. To achieve this goal, we begin by characterizing the change points using 31 features from three dimensions, namely time series, execution result, and file history. Then, we extract the proposed features for true positive and false positive change points, and train machine learning models to triage these change points. The results demonstrate that features can be efficiently employed to characterize change points. Our model achieves an AUC of 0.985 on a median basis.
+C1  - New York, NY, USA
+C3  - Companion of the 2022 ACM/SPEC International Conference on Performance Engineering
+DA  - 2022/07/19/
+PY  - 2022
+DO  - 10.1145/3491204.3527487
+DP  - ACM Digital Library
+SP  - 33
+EP  - 37
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9159-7
+UR  - https://dl.acm.org/doi/10.1145/3491204.3527487
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3491204.3527487?download=true
+ER  - 
+
+TY  - CONF
+TI  - Predicting build outcomes in continuous integration using textual analysis of source code commits
+AU  - Al-Sabbagh, Khaled
+AU  - Staron, Miroslaw
+AU  - Hebig, Regina
+T3  - PROMISE 2022
+AB  - Machine learning has been increasingly used to solve various software engineering tasks. One example of its usage is to predict the outcome of builds in continuous integration, where a classifier is built to predict whether new code commits will successfully compile.   The aim of this study is to investigate the effectiveness of fifteen software metrics in building a classifier for build outcome prediction. Particularly, we implemented an experiment wherein we compared the effectiveness of a line-level metric and fourteen other traditional software metrics on 49,040 build records that belong to 117 Java projects. We achieved an average precision of 91% and recall of 80% when using the line-level metric for training, compared to 90% precision and 76% recall for the next best traditional software metric. In contrast, using file-level metrics was found to yield a higher predictive quality (average MCC for the best software metric= 68%) than the line-level metric (average MCC= 16%) for the failed builds. We conclude that file-level metrics are better predictors of build outcomes for the failed builds, whereas the line-level metric is a slightly better predictor of passed builds.
+C1  - New York, NY, USA
+C3  - Proceedings of the 18th International Conference on Predictive Models and Data Analytics in Software Engineering
+DA  - 2022/11/09/
+PY  - 2022
+DO  - 10.1145/3558489.3559070
+DP  - ACM Digital Library
+SP  - 42
+EP  - 51
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9860-2
+UR  - https://dl.acm.org/doi/10.1145/3558489.3559070
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3558489.3559070?download=true
+ER  - 
+
+TY  - CONF
+TI  - Predictive test selection
+AU  - Machalica, Mateusz
+AU  - Samylkin, Alex
+AU  - Porth, Meredith
+AU  - Chandra, Satish
+T3  - ICSE-SEIP '19
+AB  - Change-based testing is a key component of continuous integration at Facebook. However, a large number of tests coupled with a high rate of changes committed to our monolithic repository make it infeasible to run all potentially-impacted tests on each change. We propose a new predictive test selection strategy which selects a subset of tests to exercise for each change submitted to the continuous integration system. The strategy is learned from a large dataset of historical test outcomes using basic machine learning techniques. Deployed in production, the strategy reduces the total infrastructure cost of testing code changes by a factor of two, while guaranteeing that over 95% of individual test failures and over 99.9% of faulty changes are still reported back to developers. The method we present here also accounts for the non-determinism of test outcomes, also known as test flakiness.
+C1  - Montreal, Quebec, Canada
+C3  - Proceedings of the 41st International Conference on Software Engineering: Software Engineering in Practice
+DA  - 2019/05/27/
+PY  - 2019
+DO  - 10.1109/ICSE-SEIP.2019.00018
+DP  - ACM Digital Library
+SP  - 91
+EP  - 100
+PB  - IEEE Press
+UR  - https://dl.acm.org/doi/10.1109/ICSE-SEIP.2019.00018
+Y2  - 2026/09/07/
+L1  - https://arxiv.org/pdf/1810.05286
+ER  - 
+
+TY  - CONF
+TI  - HOST-ATS: automatic thumbnail selection with dashboard-controlled ML pipeline and dynamic user survey
+AU  - Husa, Andreas
+AU  - Midoglu, Cise
+AU  - Hammou, Malek
+AU  - Halvorsen, Pål
+AU  - Riegler, Michael A.
+T3  - MMSys '22
+AB  - We present HOST-ATS, a holistic system for the automatic selection and evaluation of soccer video thumbnails, which is composed of a dashboard-controlled machine learning (ML) pipeline, and a dynamic user survey. The ML pipeline uses logo detection, close-up shot detection, face detection, image quality prediction, and blur detection to automatically select thumbnails from soccer videos in near real-time, and can be configured via a graphical user interface. The web-based dynamic user survey can be employed to qualitatively evaluate the thumbnails selected by the pipeline. The survey is fully configurable and easy to update via continuous integration, allowing for the dynamic aggregation of participant responses to different sets of multimedia assets. We demonstrate the configuration and execution of the ML pipeline via the custom dashboard, and the agile (re-)deployment of the user survey via Firebase and Heroku cloud service integrations, where the audience can interact with configuration parameter updates in real-time. Our experience with HOST-ATS shows that an automatic thumbnail selection system can yield highly attractive highlight clips, and can be used in conjunction with existing soccer broadcast practices in real-time.
+C1  - New York, NY, USA
+C3  - Proceedings of the 13th ACM Multimedia Systems Conference
+DA  - 2022/08/05/
+PY  - 2022
+DO  - 10.1145/3524273.3532908
+DP  - ACM Digital Library
+SP  - 334
+EP  - 340
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9283-9
+ST  - HOST-ATS
+UR  - https://dl.acm.org/doi/10.1145/3524273.3532908
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3524273.3532908?download=true
+ER  - 
+
+TY  - CONF
+TI  - Automated trainability evaluation for smart software functions
+AU  - Gerostathopoulos, Ilias
+AU  - Kugele, Stefan
+AU  - Segler, Christoph
+AU  - Bures, Tomas
+AU  - Knoll, Alois
+T3  - ASE '19
+AB  - More and more software-intensive systems employ machine learning and runtime optimization to improve their functionality by providing advanced features (e. g. personal driving assistants or recommendation engines). Such systems incorporate a number of smart software functions (SSFs) which gradually learn and adapt to the users' preferences. A key property of SSFs is their ability to learn based on data resulting from the interaction with the user (implicit and explicit feedback)---which we call trainability. Newly developed and enhanced features in a SSF must be evaluated based on their effect on the trainability of the system. Despite recent approaches for continuous deployment of machine learning systems, trainability evaluation is not yet part of continuous integration and deployment (CID) pipelines. In this paper, we describe the different facets of trainability for the development of SSFs. We also present our approach for automated trainability evaluation within an automotive CID framework which proposes to use automated quality gates for the continuous evaluation of machine learning models. The results from our indicative evaluation based on real data from eight BMW cars highlight the importance of continuous and rigorous trainability evaluation in the development of SSFs.
+C1  - San Diego, California
+C3  - Proceedings of the 34th IEEE/ACM International Conference on Automated Software Engineering
+DA  - 2020/02/07/
+PY  - 2020
+DO  - 10.1109/ASE.2019.00096
+DP  - ACM Digital Library
+SP  - 998
+EP  - 1001
+PB  - IEEE Press
+SN  - 978-1-7281-2508-4
+UR  - https://dl.acm.org/doi/10.1109/ASE.2019.00096
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - Learning-to-rank vs ranking-to-learn: strategies for regression testing in continuous integration
+AU  - Bertolino, Antonia
+AU  - Guerriero, Antonio
+AU  - Miranda, Breno
+AU  - Pietrantuono, Roberto
+AU  - Russo, Stefano
+T3  - ICSE '20
+AB  - In Continuous Integration (CI), regression testing is constrained by the time between commits. This demands for careful selection and/or prioritization of test cases within test suites too large to be run entirely. To this aim, some Machine Learning (ML) techniques have been proposed, as an alternative to deterministic approaches. Two broad strategies for ML-based prioritization are learning-to-rank and what we call ranking-to-learn (i.e., reinforcement learning). Various ML algorithms can be applied in each strategy. In this paper we introduce ten of such algorithms for adoption in CI practices, and perform a comprehensive study comparing them against each other using subjects from the Apache Commons project. We analyze the influence of several features of the code under test and of the test process. The results allow to draw criteria to support testers in selecting and tuning the technique that best fits their context.
+C1  - New York, NY, USA
+C3  - Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering
+DA  - 2020/10/01/
+PY  - 2020
+DO  - 10.1145/3377811.3380369
+DP  - ACM Digital Library
+SP  - 1
+EP  - 12
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-7121-6
+ST  - Learning-to-rank vs ranking-to-learn
+UR  - https://dl.acm.org/doi/10.1145/3377811.3380369
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - An Automatic Artificial Intelligence Training Platform Based on Kubernetes
+AU  - Wu, Chaoyu
+AU  - Haihong, E.
+AU  - Song, Meina
+T3  - BDET '20
+AB  - For large-scale AI training, the manual allocation of GPU resources is too inefficient, and it faces the problems of task allocation and fault restart. In this paper, a fully automatic machine learning platform is designed, which manages server resources uniformly, and users describe the required resources through configuration files. The platform automatically performs AI task allocation and scheduling based on the cluster load, which solves the problems of low cluster resource utilization and uneven machine load distribution. The platform also provides an automatic release and continuous integration of the model, which greatly simplifies the configuration of the model's operating environment and external release process, enabling researchers to focus more on model adjustments. Finally, it is verified by experiments that the extra time spent on AI task training through this platform is negligible, which confirms the feasibility of the platform.
+C1  - New York, NY, USA
+C3  - Proceedings of the 2020 2nd International Conference on Big Data Engineering and Technology
+DA  - 2020/04/09/
+PY  - 2020
+DO  - 10.1145/3378904.3378921
+DP  - ACM Digital Library
+SP  - 58
+EP  - 62
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-7683-9
+UR  - https://dl.acm.org/doi/10.1145/3378904.3378921
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - On the prediction of continuous integration build failures using search-based software engineering
+AU  - Saidani, Islem
+AU  - Ouni, Ali
+AU  - Chouchen, Moataz
+AU  - Mkaouer, Mohamed Wiem
+T3  - GECCO '20
+AB  - Continuous Integration (CI) aims at supporting developers in integrating code changes quickly through automated building. However, in such context, the build process is typically time and resource-consuming. As a response, the use of machine learning (ML) techniques has been proposed to cut the expenses of CI build time by predicting its outcome. Nevertheless, the existing ML-based solutions are challenged by problems related mainly to the imbalanced distribution of successful and failed builds. To deal with this issue, we introduce a novel approach based on Multi-Objective Genetic Programming (MOGP) to build a prediction model. Our approach aims at finding the best prediction rules based on two conflicting objective functions to deal with both minority and majority classes. We evaluated our approach on a benchmark of 15,383 builds. The results reveal that our technique outperforms state-of-the-art approaches by providing a better balance between both failed and passed builds.
+C1  - New York, NY, USA
+C3  - Proceedings of the 2020 Genetic and Evolutionary Computation Conference Companion
+DA  - 2020/07/08/
+PY  - 2020
+DO  - 10.1145/3377929.3390050
+DP  - ACM Digital Library
+SP  - 313
+EP  - 314
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-7127-8
+UR  - https://dl.acm.org/doi/10.1145/3377929.3390050
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - JOUR
+TI  - Pycobra: a python toolbox for ensemble learning and visualisation
+AU  - Guedj, Benjamin
+AU  - Desikan, Bhargav Srinivasa
+T2  - The Journal of Machine Learning Research
+AB  - We introduce pycobra, a Python library devoted to ensemble learning (regression and classification) and visualisation. Its main assets are the implementation of several ensemble learning algorithms, a flexible and generic interface to compare and blend any existing machine learning algorithm available in Python libraries (as long as a predict method is given), and visualisation tools such as Voronoi tessellations. pycobra is fully scikit-learn compatible and is released under the MIT open-source license. pycobra can be downloaded from the Python Package Index (PyPi) and Machine Learning Open Source Software (MLOSS). The current version (along with Jupyter notebooks, extensive documentation, and continuous integration tests) is available at https://github.com/bhargavvader/pycobra and official documentation website is https://modal.lille.inria.fr/pycobra.
+DA  - 2017/01/01/
+PY  - 2017
+DP  - ACM Digital Library
+VL  - 18
+IS  - 1
+SP  - 6988
+EP  - 6992
+J2  - J. Mach. Learn. Res.
+SN  - 1532-4435
+ST  - Pycobra
+UR  - https://dl.acm.org/doi/10.5555/3122009.3242047
+Y2  - 2026/09/07/08:58:33
+ER  - 
+
+TY  - CONF
+TI  - Characterizing the Usage of CI Tools in ML Projects
+AU  - Rzig, Dhia Elhaq
+AU  - Hassan, Foyzul
+AU  - Bansal, Chetan
+AU  - Nagappan, Nachiappan
+T3  - ESEM '22
+AB  - Background: Continuous Integration (CI) has become widely adopted to enable faster code change integration. Meanwhile, Machine Learning (ML) is being used by software applications for previously unsolvable real-world scenarios. ML projects employ development processes different from those of traditional software projects, but they too require multiple iterations in their development, and may benefit from CI. Aims: While there are many works covering CI within traditional software, none of them empirically explored the adoption of CI and its associated issues within ML projects. To address this knowledge gap, we performed an empirical analysis comparing CI adoption between ML and Non-ML projects. Method: We developed TraVanalyzer, the first Travis CI configuration analyzer, to analyze the CI practices of ML projects, and developed a CI log analyzer to identify the different CI problems of ML projects. Results: We found that Travis CI is the most popular CI tool for ML projects, and that their CI adoption lags behind that of Non-ML projects, but that ML projects which adopted CI, used it for building, testing, code analysis, and automatic deployment more than Non-ML projects. Furthermore, while CI in ML projects is as likely to experience problems as CI in Non-ML projects, it has more varied reasons for build-breakage. The most frequent CI failures of ML projects are due to testing-related problems, similar to Non-ML and OSS CI failures. Conclusion: To the best of our knowledge, this is the first work that has analyzed ML projects’ CI usage, practices, and issues, and contextualized its results by comparing them with similar Non-ML projects. It provides findings for researchers and ML developers to identify possible improvement scopes for CI in ML projects.
+C1  - New York, NY, USA
+C3  - Proceedings of the 16th ACM / IEEE International Symposium on Empirical Software Engineering and Measurement
+DA  - 2022/09/19/
+PY  - 2022
+DO  - 10.1145/3544902.3546237
+DP  - ACM Digital Library
+SP  - 69
+EP  - 79
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9427-7
+UR  - https://dl.acm.org/doi/10.1145/3544902.3546237
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - FastLane: test minimization for rapidly deployed large-scale online services
+AU  - Philip, Adithya Abraham
+AU  - Bhagwan, Ranjita
+AU  - Kumar, Rahul
+AU  - Maddila, Chandra Sekhar
+AU  - Nagappan, Nachiappan
+T3  - ICSE '19
+AB  - Today, we depend on numerous large-scale services for basic operations such as email. These services, built on the basis of Continuous Integration/Continuous Deployment (CI/CD) processes, are extremely dynamic: developers continuously commit code and introduce new features, functionality and fixes. Hundreds of commits may enter the code-base in a single day. Therefore one of the most time-critical, yet resource-intensive tasks towards ensuring code-quality is effectively testing such large code-bases.This paper presents FastLane, a system that performs data-driven test minimization. FastLane uses light-weight machine-learning models built upon a rich history of test and commit logs to predict test outcomes. Tests for which we predict outcomes need not be explicitly run, thereby saving us precious test-time and resources. Our evaluation on a large-scale email and collaboration platform service shows that our techniques can save 18.04%, i.e., almost a fifth of test-time while obtaining a test outcome accuracy of 99.99%.
+C1  - Montreal, Quebec, Canada
+C3  - Proceedings of the 41st International Conference on Software Engineering
+DA  - 2019/05/25/
+PY  - 2019
+DO  - 10.1109/ICSE.2019.00054
+DP  - ACM Digital Library
+SP  - 408
+EP  - 418
+PB  - IEEE Press
+ST  - FastLane
+UR  - https://dl.acm.org/doi/10.1109/ICSE.2019.00054
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - Industrial Experience with Open-Source EDA Tools
+AU  - Lück, Christian
+AU  - Sánchez Lopera, Daniela
+AU  - Wenzek, Sven
+AU  - Ecker, Wolfgang
+T3  - MLCAD '22
+AB  - Commonly, the design flow of integrated circuits from initial specifications to fabrication employs commercial, proprietary EDA tools. While these tools deliver high-quality, production-ready results, they can be seen as expensive black boxes and thus, are not suited for research and academic purposes. Innovations on the field are mostly focused on optimizing the quality of the results of the designs by modifying core elements of the tool chain or using techniques of the Machine Learning domain. In both cases, researchers require many or long runs of EDA tools for comparing results or generating training data for Machine Learning models. Using proprietary, commercial tools in those cases may be either not affordable or not possible at all.With OpenROAD and OpenLane mature open-source alternatives emerged in the past couple of years. The development is driven by a growing community that is improving and extending the tools daily. In contrast to commercial tools, OpenROAD and OpenLane are transparent and allow inspection, modification and replacement of every tool aspect. They are also free and therefore are well suited for use cases such as Machine Learning data generation. Specifically, the fact that no licenses are needed neither for the tools nor for the default PDK enables even fresh students and starters on the field to quickly deploy their ideas and create initial proof of concepts.Therefore, we at Infineon are using OpenROAD and OpenLane for more experimental and innovative projects. Our vision is to build initial prototypes using free software, and then improve upon them by cross-checking and polishing with commercial tools before delivering them for production. This talk will show Infineon's experience with these open-source tools so far.The first steps involved getting OpenLane installed in our company IT infrastructure. While their developers offer convenient build methods using Docker containers, these cannot be used in Infineon's compute farm. This, and also the fact that most of the open-source tools are currently evolving quickly with little to no versioning, lead to the setup of an in-house continuous integration and continuous delivery system for nightly and weekly builds of the tools. Once the necessary tools were installed and running, effort was put into integrating Infineon's in-house technology data.At Infineon, we envision two use cases for OpenROAD/OpenLane: physical synthesis hyperparameter exploration (and tuning) and optimization of the complete flow starting from RTL. First, our goal is to use OpenROAD's AutoTuner in the path-finding phase to automatically and cost-effectively find optimal parameters for the flow and then build upon these results within a commercial tool for the later steps near the tapeout. Second, we want to include not only the synthesis flow inside the optimization loop of the AutoTuner, but also our in-house RTL generation framework (MetaRTL). For instance, having RTL generators for a RISC-V CPU and also the results of simulated runtime benchmarks for each iteration, the AutoTuner should be able to change fundamental aspects (for example number of pipeline stages) of the RTL to reach certain power, performance, and area requirements when running the benchmark code on the CPU.Overall, we see OpenROAD/OpenLane as a viable alternative to commercial tools, especially for research and academic use, where modifications to the tools are needed and where very long and otherwise costly tool runtimes are expected.
+C1  - New York, NY, USA
+C3  - Proceedings of the 2022 ACM/IEEE Workshop on Machine Learning for CAD
+DA  - 2022/09/12/
+PY  - 2022
+DO  - 10.1145/3551901.3557040
+DP  - ACM Digital Library
+SP  - 143
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9486-4
+UR  - https://dl.acm.org/doi/10.1145/3551901.3557040
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - Learning for test prioritization: an industrial case study
+AU  - Busjaeger, Benjamin
+AU  - Xie, Tao
+T3  - FSE 2016
+AB  - Modern cloud-software providers, such as Salesforce.com, increasingly adopt large-scale continuous integration environments. In such environments, assuring high developer productivity is strongly dependent on conducting testing efficiently and effectively. Specifically, to shorten feedback cycles, test prioritization is popularly used as an optimization mechanism for ranking tests to run by their likelihood of revealing failures. To apply test prioritization in industrial environments, we present a novel approach (tailored for practical applicability) that integrates multiple existing techniques via a systematic framework of machine learning to rank. Our initial empirical evaluation on a large real-world dataset from Salesforce.com shows that our approach significantly outperforms existing individual techniques.
+C1  - New York, NY, USA
+C3  - Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering
+DA  - 2016/11/01/
+PY  - 2016
+DO  - 10.1145/2950290.2983954
+DP  - ACM Digital Library
+SP  - 975
+EP  - 980
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-4218-6
+ST  - Learning for test prioritization
+UR  - https://dl.acm.org/doi/10.1145/2950290.2983954
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - Towards a (semi)-automatic reference process to support the reverse engineering and reconstruction of software architectures
+AU  - Guamán, Daniel
+AU  - Pérez, Jennifer
+AU  - Díaz, Jessica
+T3  - ECSA '18
+AB  - The purpose of this work is to define a reference process to support the software architecture reconstruction in a systematic and automatic way. This process aims to be applied to the construction and maintenance phases within Agile methodologies and Continuous Integration processes, where the quick and continuous test and changes at design or coding level can generate an increase or reduction of technical debt and green software levels. This process is based on phases, activities, techniques, and strategies proposed by related works about reverse engineering and software architecture reconstruction. Specifically, it integrates all of them to create a complete process; which may be a reference process by providing green and technical debt-oriented recommendations during the decision-making of software architecture at design level or coding level. This recommendation phase will be based on algorithms and techniques of Machine Learning, that will allow to apply the process in an Agile way and taking into account previous knowledge.
+C1  - New York, NY, USA
+C3  - Proceedings of the 12th European Conference on Software Architecture: Companion Proceedings
+DA  - 2018/09/24/
+PY  - 2018
+DO  - 10.1145/3241403.3241414
+DP  - ACM Digital Library
+SP  - 1
+EP  - 4
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-6483-6
+UR  - https://dl.acm.org/doi/10.1145/3241403.3241414
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3241403.3241414?download=true
+ER  - 
+
+TY  - CONF
+TI  - ACONA: active online model adaptation for predicting continuous integration build failures
+AU  - Ni, Ansong
+AU  - Li, Ming
+T3  - ICSE '18
+AB  - Continuous Integration (CI) reduces risk in software development, but a CI build usually brings huge time and resource consumption. Machine learning methods have been employed to cut the expenses of CI and provide instant feedback by predicting CI results. Nevertheless, effective learning requires massive training data which is not available for a new project. Moreover, due to the diversified characteristics of different projects, reusing models built on other projects leads to poor performance. To address this problem, we propose a novel active online model adaptation approach ACONA, which dynamically adapts a pool of classifiers trained on various projects to a new project using only a small fraction of new data it actively selects. With empirical study on Travis CI, we show that ACONA achieves an improvement of F-Measure by 40.0% while reducing Accumulated Error by 63.2% and the adapted model outperforms existing approaches.
+C1  - New York, NY, USA
+C3  - Proceedings of the 40th International Conference on Software Engineering: Companion Proceeedings
+DA  - 2018/05/27/
+PY  - 2018
+DO  - 10.1145/3183440.3195012
+DP  - ACM Digital Library
+SP  - 366
+EP  - 367
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-5663-3
+ST  - ACONA
+UR  - https://dl.acm.org/doi/10.1145/3183440.3195012
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3183440.3195012?download=true
+ER  - 
+
+TY  - JOUR
+TI  - Ease.ml/ci and Ease.ml/meter in action: towards data management for statistical generalization
+AU  - Renggli, Cedric
+AU  - Hubis, Frances Ann
+AU  - Karlaš, Bojan
+AU  - Schawinski, Kevin
+AU  - Wu, Wentao
+AU  - Zhang, Ce
+T2  - Proceedings of the VLDB Endowment
+AB  - Developing machine learning (ML) applications is similar to developing traditional software --- it is often an iterative process in which developers navigate within a rich space of requirements, design decisions, implementations, empirical quality, and performance. In traditional software development, software engineering is the field of study which provides principled guidelines for this iterative process. However, as of today, the counterpart of "software engineering for ML" is largely missing --- developers of ML applications are left with powerful tools (e.g., TensorFlow and PyTorch) but little guidance regarding the development lifecycle itself.In this paper, we view the management of ML development life-cycles from a data management perspective. We demonstrate two closely related systems, ease.ml/ci and ease.ml/meter, that provide some "principled guidelines" for ML application development: ci is a continuous integration engine for ML models and meter is a "profiler" for controlling overfitting of ML models. Both systems focus on managing the "statistical generalization power" of datasets used for assessing the quality of ML applications, namely, the validation set and the test set. By demonstrating these two systems we hope to spawn further discussions within our community on building this new type of data management systems for statistical generalization.
+DA  - 2019/08/01/
+PY  - 2019
+DO  - 10.14778/3352063.3352110
+DP  - ACM Digital Library
+VL  - 12
+IS  - 12
+SP  - 1962
+EP  - 1965
+J2  - Proc. VLDB Endow.
+SN  - 2150-8097
+ST  - Ease.ml/ci and Ease.ml/meter in action
+UR  - https://dl.acm.org/doi/10.14778/3352063.3352110
+Y2  - 2026/09/07/08:59:24
+ER  - 
+
+TY  - CONF
+TI  - FinRL-podracer: high performance and scalable deep reinforcement learning for quantitative finance
+AU  - Li, Zechu
+AU  - Liu, Xiao-Yang
+AU  - Zheng, Jiahao
+AU  - Wang, Zhaoran
+AU  - Walid, Anwar
+AU  - Guo, Jian
+T3  - ICAIF '21
+AB  - Machine learning techniques are playing more and more important roles in finance market investment. However, finance quantitative modeling with conventional supervised learning approaches has a number of limitations, including the difficulty in defining appropriate labels, lack of consistency in modeling and trading execution, and lack of modeling the dynamic nature of the finance market. The development of deep reinforcement learning techniques is partially addressing these issues. Unfortunately, the steep learning curve and the difficulty in quick modeling and agile development are impeding finance researchers from using deep reinforcement learning in quantitative trading. In this paper, we propose an RLOps in finance paradigm and present a FinRL-Podracer framework to accelerate the development pipeline of deep reinforcement learning (DRL)-driven trading strategy and to improve both trading performance and training efficiency. FinRL-Podracer is a cloud solution that features high performance and high scalability and promises continuous training, continuous integration, and continuous delivery of DRL-driven trading strategies, facilitating a rapid transformation from algorithmic innovations into a profitable trading strategy. First, we propose a generational evolution mechanism with an ensemble strategy to improve the trading performance of a DRL agent, and schedule the training of a DRL algorithm onto a GPU cloud via multi-level mapping. Then, we carry out the training of DRL components with high-performance optimizations on GPUs. Finally, we evaluate the FinRL-Podracer framework for a stock trend prediction task on an NVIDIA DGX SuperPOD cloud. FinRL-Podracer outperforms three popular DRL libraries Ray RLlib, Stable Baseline 3 and FinRL, i.e., 12% ~ 35% improvements in annual return, 0.1 ~ 0.6 improvements in Sharpe ratio and 3× ~ 7× speed-up in training time. We show the high scalability by training a trading agent in 10 minutes with 80 A100 GPUs, on NASDAQ-100 constituent stocks with minute-level data over 10 years.
+C1  - New York, NY, USA
+C3  - Proceedings of the Second ACM International Conference on AI in Finance
+DA  - 2022/05/04/
+PY  - 2022
+DO  - 10.1145/3490354.3494413
+DP  - ACM Digital Library
+SP  - 1
+EP  - 9
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9148-1
+ST  - FinRL-podracer
+UR  - https://dl.acm.org/doi/10.1145/3490354.3494413
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3490354.3494413?download=true
+ER  - 
+
+TY  - CONF
+TI  - An Experimental Evaluation of Imbalanced Learning and Time-Series Validation in the Context of CI/CD Prediction
+AU  - Liu, Bohan
+AU  - Zhang, He
+AU  - Yang, Lanxin
+AU  - Dong, Liming
+AU  - Shen, Haifeng
+AU  - Song, Kaiwen
+T3  - EASE '20
+AB  - Background: Machine Learning (ML) has been widely used as a powerful tool to support Software Engineering (SE). The fundamental assumptions of data characteristics required for specific ML methods have to be carefully considered prior to their applications in SE. Within the context of Continuous Integration (CI) and Continuous Deployment (CD) practices, there are two vital characteristics of data prone to be violated in SE research. First, the logs generated during CI/CD for training are imbalanced data, which is contrary to the principles of common balanced classifiers; second, these logs are also time-series data, which violates the assumption of cross-validation. Objective: We aim to systematically study the two data characteristics and further provide a comprehensive evaluation for predictive CI/CD with the data from real projects. Method: We conduct an experimental study that evaluates 67 CI/CD predictive models using both cross-validation and time-series-validation. Results: Our evaluation shows that cross-validation makes the evaluation of the models optimistic in most cases, there are a few counter-examples as well. The performance of the top 10 imbalanced models are better than the balanced models in the predictions of failed builds, even for balanced data. The degree of data imbalance has a negative impact on prediction performance. Conclusion: In research and practice, the assumptions of the various ML methods should be seriously considered for the validity of research. Even if it is used to compare the relative performance of models, cross-validation may not be applicable to the problems with time-series features. The research community need to revisit the evaluation results reported in some existing research.
+C1  - New York, NY, USA
+C3  - Proceedings of the 24th International Conference on Evaluation and Assessment in Software Engineering
+DA  - 2020/04/17/
+PY  - 2020
+DO  - 10.1145/3383219.3383222
+DP  - ACM Digital Library
+SP  - 21
+EP  - 30
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-7731-7
+UR  - https://dl.acm.org/doi/10.1145/3383219.3383222
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3383219.3383222?download=true
+ER  - 
+
+TY  - CONF
+TI  - Continuous validation for data analytics systems
+AU  - Staples, Mark
+AU  - Zhu, Liming
+AU  - Grundy, John
+T3  - ICSE '16
+AB  - From a future history of 2025: Continuous development is common for build/test (continuous integration) and operations (devOps). This trend continues through the lifecycle, into what we call 'devUsage': continuous usage validation. In addition to ensuring systems meet user needs, organisations continuously validate their legal and ethical use. The rise of end-user programming and multi-sided platforms exacerbate validation challenges. A separate trend is the specialisation of software engineering for technical domains, including data analytics. This domain has specific validation challenges. We must validate the accuracy of statistical models, but also whether they have illegal or unethical biases. Usage needs addressed by machine learning are sometimes not specifiable in the traditional sense, and statistical models are often 'black boxes'. We describe future research to investigate solutions to these devUsage challenges for data analytics systems. We will adapt risk management and governance frameworks previously used for software product qualities, use social network communities for input from aligned stakeholder groups, and perform cross-validation using autonomic experimentation, cyber-physical data streams, and online discursive feedback.
+C1  - New York, NY, USA
+C3  - Proceedings of the 38th International Conference on Software Engineering Companion
+DA  - 2016/05/14/
+PY  - 2016
+DO  - 10.1145/2889160.2889207
+DP  - ACM Digital Library
+SP  - 769
+EP  - 772
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-4205-6
+UR  - https://dl.acm.org/doi/10.1145/2889160.2889207
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/2889160.2889207?download=true
+ER  - 
+

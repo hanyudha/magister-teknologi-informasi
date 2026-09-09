@@ -1,0 +1,1251 @@
+TY  - JOUR
+T1  - Design of a Full-Process Transaction Monitoring and Risk Feedback System for DevOps Based on Microservices Architecture and Machine Learning Methods
+AU  - Liu, Ziwei
+JO  - Procedia Computer Science
+VL  - 262
+SP  - 948
+EP  - 954
+PY  - 2025
+DA  - 2025/01/01/
+T2  - The 5th International Conference on Multi-modal Information Analytics (MMIA)
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2025.05.129
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050925019763
+KW  - Microservices Architecture
+KW  - Machine Learning
+KW  - Devops
+KW  - Transaction Monitoring
+KW  - Risk Feedback
+AB  - In the current age, with industries undergoing digital transformation, there exists a significant issue regarding transaction systems that are characterized by high rates of concurrency and complexity. These systems impose considerable demands on how monitoring is conducted and how feedback regarding risk is communicated. Traditional mechanisms for monitoring are oftentimes struggling with processing large volume of transactional data in real time, and there is an urgent necessity to improve predictions related to risk accuracy. This paper brings forward a monitoring and risk feedback system that uses a full-process approach specifically designed for DevOps. This is based on a framework comprising of microservices architecture along with techniques rooted in machine learning. The main goal is to achieve improved service decoupling and flexible deployment by utilizing microservices architecture effectively. The accuracy of identifying risks and the efficiency of risk identification processes are meant to be enhanced through the application of machine learning algorithms. Moreover, continuous integration alongside continuous deployment and continuous monitoring of the system is intended to be ensured via practices affiliated with DevOps methodology. The system facilitates modular and scalable transaction monitoring, which supports handling high concurrency as well as low-latency processing of data. Finally, machine learning methods are employed to enable predictive measures regarding risks and facilitating timely feedback in the event of potential risks.
+ER  - 
+
+TY  - JOUR
+T1  - Ideal dynamic threshold Multi-secret data sharing in smart environments for sustainable cities
+AU  - Hsu, Chingfang
+AU  - Xia, Zhe
+AU  - Harn, Lein
+AU  - Au, Man Ho
+AU  - Cui, Jianqun
+AU  - Zhao, Zhuo
+JO  - Information Sciences
+VL  - 647
+SP  - 119488
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 0020-0255
+DO  - https://doi.org/10.1016/j.ins.2023.119488
+UR  - https://www.sciencedirect.com/science/article/pii/S0020025523010733
+KW  - Smart environments
+KW  - Sustainable cities
+KW  - Data Sharing
+KW  - Ideal TCMSS
+KW  - Information-theoretic secure
+KW  - Lightweight
+AB  - Nowadays, with continuous integration of big data, artificial intelligence and cloud computing technologies, there are increasing demands and specific requirements for data sharing in sustainable smart cities: (1) practical data sharing should be implemented in the non-interactive fashion without a trusted third party to be involved; (2) dynamic thresholds are preferred since the participants may join or leave at any time; (3) multi-secret sharing is desirable to increase the packing capacity. To fulfil these requirements, we propose a general construction of ideal threshold changeable multi-secret sharing scheme (TCMSS) with information-theoretic security, in which polynomials are employed to achieve dealer-free and non-interactive in the secret reconstruction phase. The TCMSS scheme can be built on any existing linear secret sharing scheme, and it is simpler and more efficient than the existing TCSS schemes in the literature. The main difference between TCMSS and Shamir’s SS is that univariate polynomial is used in Shamir’s SS to generate the shares for all shareholders; while in TCMSS, each shareholder can recover her own univariate polynomial using her share. This article demonstrates that with this novel modification, the classic polynomial-based SS can be transformed into an ideal TCMSS. Moreover, the TCMSS scheme is lightweight and it can resist both internal and external attacks. It does not require pairwise key distribution and its secret reconstruction phase is improved with enhanced properties. Therefore, the designed proposal is fairly suitable and attractive to be deployed in sustainable cities.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 1 - Explainable AI in emotional artificial intelligence: Challenges and applications
+AU  - Dalavi, Deepika
+AU  - Kumar, Monoj
+AU  - Aanjankumar, S.
+AU  - Kumar, Rajesh
+AU  - Sathyamoorthy, Malathy
+AU  - Poonkuntran, S.
+A2  - Dhanaraj, Rajesh Kumar
+A2  - Aanjankumar, S.
+A2  - Sathyamoorthy, Malathy
+A2  - Poonkuntran, S.
+A2  - Muchahari, Monoj Kumar
+BT  - Emotional Artificial Intelligence
+PB  - Academic Press
+SP  - 1
+EP  - 13
+PY  - 2026
+DA  - 2026/01/01/
+SN  - 978-0-443-44744-0
+DO  - https://doi.org/10.1016/B978-0-443-44744-0.00006-0
+UR  - https://www.sciencedirect.com/science/article/pii/B9780443447440000060
+KW  - Explainable artificial intelligence (XAI)
+KW  - Emotional AI
+KW  - Trust and transparency in AI
+KW  - Affective computing
+KW  - Ethical AI
+AB  - Explainable artificial intelligence (XAI) is vital in measuring the trustworthiness and transparency of emotional AI systems. AI is continuously integrating with human emotional quotients, so trust is a critical element in sensitive domains such as healthcare, customer service, financial systems, and human-robot interaction. This chapter explores the practical application of XAI in emotional AI, where we explore the key shortcomings of AI systems like bias mitigation and decision-making on appropriate ethical terms. Further we check various XAI methods in affective computing systems and making them understandable to the end users. Additionally, we also look into the various real world case studies in which XAI improves transparency on AI applications that are driven emotionally, which ensure that the emotional quotient remains at utmost priority and is ethically aligned with human values.
+ER  - 
+
+TY  - JOUR
+T1  - Cross domain matching for semantic point cloud segmentation based on image segmentation and geometric reasoning
+AU  - Martens, Jan
+AU  - Blut, Timothy
+AU  - Blankenbach, Jörg
+JO  - Advanced Engineering Informatics
+VL  - 57
+SP  - 102076
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 1474-0346
+DO  - https://doi.org/10.1016/j.aei.2023.102076
+UR  - https://www.sciencedirect.com/science/article/pii/S1474034623002045
+KW  - Infrastructure
+KW  - Machine learning
+KW  - Cross domain matching
+KW  - Point clouds
+KW  - Semantic segmentation
+KW  - BIM
+AB  - Many infrastructure assets in transportation such as roads and bridges represent challenges for inspection and maintenance due to advanced age, structural deficiencies and modifications. Concepts such as Building Information Modelling (BIM) aim to alleviate the problem of health monitoring and asset management by providing digital building models constructed from survey data to all stakeholders. Ageing and oftentimes poorly-documented infrastructure objects such as bridges in particular benefit from a continuous integration of changes to form a digital twin which reflects the asset’s as-is state. However, the process of reconstructing geometric–semantic models from survey data is a manual and labour-intensive process and makes continuously updating the models a difficult task. To automate this process, a cross-domain approach using an artificial neural network is presented which performs semantic segmentation in the image domain and transfers the results over to the point cloud. For the following fine segmentation, geometric knowledge in the 3D domain is used for post-processing and filtering via geometric reasoning. Using this method, a 3D semantic segmentation is achieved which does not require any 3D point cloud training data and only a low amount of image training data.
+ER  - 
+
+TY  - JOUR
+T1  - MLOps in freight rail operations
+AU  - Pineda-Jaramillo, Juan
+AU  - Viti, Francesco
+JO  - Engineering Applications of Artificial Intelligence
+VL  - 123
+SP  - 106222
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0952-1976
+DO  - https://doi.org/10.1016/j.engappai.2023.106222
+UR  - https://www.sciencedirect.com/science/article/pii/S0952197623004062
+KW  - Freight rail operations
+KW  - Machine learning
+KW  - MLOps
+KW  - CI/CD/CT
+KW  - Apache airflow
+KW  - ML deployment
+AB  - Railways are essential for freight transport due to their operational reliability advantages, but maintaining this advantage requires optimised railway infrastructure. Previous research has developed models to predict freight rail disruptions/disturbances and their associated delay times, in order to better understand the impact of multiple factors on them. However, because these models are built on static datasets, extracting real value from a model in a production environment remains difficult. This paper presents a methodology that demonstrates the potential of MLOps in automating the entire workflow, from data extraction to model deployment for real-time delay predictions in freight rail operations, including good practices of Continuous-Integration, Continuous-Delivery, and Continuous-Training, as well as a tool list for each process. Our research advances the field of railway operations by developing an entire MLOps workflow using data from the freight rail operations of the Luxembourgish National Freight Railway Company over a seventeen-month period. Furthermore, we employed a LightGBM model that had previously performed well in another study. This workflow can be automatically triggered to develop the processes and thus maintain an ML model capable of predicting delay times for CFL Multimodal operations in real-time. Our findings demonstrate that MLOps have the potential to automate the entire process, opening up new avenues for future research in this field. Although the methodology presented is intended to optimise freight rail operations for a specific company, it can be easily transferable to other railway companies or other transportation industries, such as aviation, shipping, and trucking.
+ER  - 
+
+TY  - JOUR
+T1  - A model-driven, metrics-based approach to assessing support for quality aspects in MLOps system architectures
+AU  - Warnett, Stephen John
+AU  - Ntentos, Evangelos
+AU  - Zdun, Uwe
+JO  - Journal of Systems and Software
+VL  - 220
+SP  - 112257
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2024.112257
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121224003017
+KW  - Software architecture quality
+KW  - Metrics
+KW  - Distributed system modelling
+KW  - Distributed software architecture
+KW  - MLOps
+KW  - Machine learning
+AB  - In machine learning (ML) and machine learning operations (MLOps), automation serves as a fundamental pillar, streamlining the deployment of ML models and representing an architectural quality aspect. Support for automation is especially relevant when dealing with ML deployments characterised by the continuous delivery of ML models. Taking automation in MLOps systems as an example, we present novel metrics that offer reliable insights into support for this vital quality attribute, validated by ordinal regression analysis. Our method introduces novel, technology-agnostic metrics aligned with typical Architectural Design Decisions (ADDs) for automation in MLOps. Through systematic processes, we demonstrate the feasibility of our approach in evaluating automation-related ADDs and decision options. Our approach can itself be automated within continuous integration/continuous delivery pipelines. It can also be modified and extended to evaluate any relevant architectural quality aspects, thereby assisting in enhancing compliance with non-functional requirements and streamlining development, quality assurance and release cycles.
+ER  - 
+
+TY  - JOUR
+T1  - Data-Driven Test Case Prioritization (DD-TCP): A Machine Learning Framework for Intelligent Software Quality Assurance
+AU  - Ramzan, Hafiz Arslan
+AU  - Islam, Kamrul
+AU  - Hussain, Md Ahbab
+AU  - Monim, Raiyan Muntasir
+AU  - Asad, Sabit Md
+AU  - Ramzan, Sadia
+JO  - Computers, Materials and Continua
+VL  - 88
+IS  - 1
+PY  - 2026
+DA  - 2026/01/01/
+SN  - 1546-2218
+DO  - https://doi.org/10.32604/cmc.2026.077782
+UR  - https://www.sciencedirect.com/science/article/pii/S1546221826004522
+KW  - Data-driven test-case prioritization
+KW  - regression testing
+KW  - software quality assurance
+KW  - machine learning
+KW  - continuous integration
+KW  - fault detection efficiency
+KW  - intelligent software systems
+AB  - Regression testing of large-scale, data-intensive software systems demands efficient test-case prioritization strategies to detect faults early while minimizing computational cost. Conventional prioritization methods, such as coverage-based and risk-based approaches, lack adaptability to evolving project dynamics and fail to leverage the rich test-execution data accumulated over continuous integration cycles. This study presents a Data-Driven Test-Case Prioritization (DD-TCP) Framework that incorporates statistical and machine-learning techniques to model the relationship between test-case features and historical fault detection outcomes. The framework extracts multidimensional attributes including code-change frequency, dependency metrics, execution duration, and past failure density, which are normalized and embedded into a predictive ranking model based on gradient-boosted decision trees. Test cases are then dynamically reordered using a probabilistic gain function that maximizes early fault detection probability. Comprehensive simulations on representative open-source project datasets and synthetically generated large-scale test suites reveal that the proposed Data-Driven Test-Case Prioritization (DD-TCP) framework consistently achieves superior performance, yielding a 32.4% improvement in Average Percentage of Faults Detected (APFD) and a 27.1% reduction in execution overhead relative to baseline methods. The results demonstrate the feasibility of data-centric intelligence for scalable regression testing and provide an analytical foundation for integrating machine learning into next-generation Software Quality Assurance pipelines.
+ER  - 
+
+TY  - JOUR
+T1  - Democratising real-world drug discovery through agentic AI
+AU  - He, Jiazhen
+AU  - Lai, Helen
+AU  - Saigiridharan, Lakshidaa
+AU  - Ghiandoni, Gian Marco
+AU  - Jenei, Kinga
+AU  - Gokalp, Umur
+AU  - Nuković, Ajša
+AU  - Engkvist, Ola
+AU  - Janet, Jon Paul
+AU  - Genheden, Samuel
+JO  - Drug Discovery Today
+VL  - 31
+IS  - 2
+SP  - 104605
+PY  - 2026
+DA  - 2026/03/01/
+SN  - 1359-6446
+DO  - https://doi.org/10.1016/j.drudis.2026.104605
+UR  - https://www.sciencedirect.com/science/article/pii/S1359644626000103
+KW  - agents
+KW  - AI
+KW  - LLMs
+KW  - drug discovery
+KW  - automation
+AB  - Agentic systems that are based on large language models (LLMs) have emerged as promising tools in the chemistry domain over the past few years. Early examples included work on CoScientist, Chemcrow, and LLM-RDF, which showcased the potential of agentic systems to assist in chemical research, in the orchestration of cheminformatics tools, and in synthetic reaction development. Despite this, the current literature lacks examples of the real-world adoption of such systems in drug discovery. We present such an example by describing our work on an agentic system called ChatInvent, which has been integrated into the discovery pipeline at AstraZeneca to aid in molecular design and synthesis planning. We discuss how the system evolved from a proof-of-concept single agent into an extensible, robust, and scalable multi-agent architecture with a graphical user interface. We emphasize the lessons learnt and the challenges that persist as we continue to work on this project, and share our perspectives on the future of agentic systems in our domain.
+ER  - 
+
+TY  - JOUR
+T1  - On the use of machine learning for failure prediction after collective changes in automated continuous integration testing
+AU  - Özdemir, Ömer
+AU  - Aydoğan, Reyhan
+AU  - Sözer, Hasan
+JO  - Journal of Systems and Software
+VL  - 236
+SP  - 112791
+PY  - 2026
+DA  - 2026/06/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2026.112791
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121226000257
+KW  - Failure prediction
+KW  - Continuous integration
+KW  - Collective changes
+KW  - Machine learning
+KW  - Build process
+KW  - Industrial case study
+AB  - Continuous Integration (CI) is a development practice where developers regularly merge their code changes into a central repository, enabling simultaneous collaboration across a shared codebase. This frequent integration and automated building process in CI helps to detect and resolve conflicts or errors early in development. However, in large-scale systems, the build process can be costly. Each build incurs expenses, while skipping builds can increase the risk of undetected failures. Accurate predictions can help to identify builds that can be safely skipped to reduce CI costs. This paper presents an empirical study within an industrial setting, investigating the use of machine learning techniques to predict build failures after a set of collective changes. Unlike many existing works that apply random data splitting, our results show that chronological (time-based) splitting offers a more realistic and reliable assessment of model performance in CI environments. We evaluate various models and feature combinations on a dataset derived from real-world industrial projects. We observe high precision but low recall in predicting failed builds, allowing hundreds of successful builds to be correctly skipped, with around a dozen failures potentially being missed. Our analysis shows that this yields substantial time savings of approximately 2.5 h per build on average, while missed failures necessarily result in delayed failure detection, whose practical impact depends on application criticality and operational context.
+ER  - 
+
+TY  - JOUR
+T1  - Fast healthcare interoperability resources (FHIR) implementation guide creation process: scoping review
+AU  - Corrêa Rampinelli, Vanessa Pereira
+AU  - dos Santos, Ranieri Alves
+AU  - Celuppi, Ianka Cristina
+AU  - Santos, Gabriel Norde
+AU  - Hammes, Jades Fernando
+AU  - Cunha, Célio Luiz
+AU  - Wazlawick, Raul Sidnei
+AU  - Dalmarco, Eduardo Monguilhott
+JO  - International Journal of Medical Informatics
+VL  - 219
+SP  - 106548
+PY  - 2026
+DA  - 2026/10/01/
+SN  - 1386-5056
+DO  - https://doi.org/10.1016/j.ijmedinf.2026.106548
+UR  - https://www.sciencedirect.com/science/article/pii/S1386505626002881
+KW  - Health information interoperability
+KW  - Digital health
+KW  - Electronic health records
+AB  - Background
+The Fast Healthcare Interoperability Resources (FHIR) standard is a global benchmark for digital health data exchange. Despite its widespread adoption, the scientific literature on the methodological processes for creating FHIR Implementation Guides (IGs) remains fragmented and lacks systematization.
+Objective
+This scoping review aims to synthesize the scientific literature on the process of developing FHIR IGs for electronic health records, identifying methodological steps, toolchains, governance patterns, and critical gaps that limit clinical adoption.
+Methods
+Following JBI and PRISMA-ScR guidelines, a comprehensive search was conducted across nine databases in August 2025. From an initial 5,552 records, eleven studies published between 2021 and 2025 were selected for analysis. Data extraction focused on development stages, team composition, authoring tools, and validation workflows.
+Results
+The study identified a synthesized seven-step implementation lifecycle: requirements, modeling, terminology, narrative documentation, technical validation, clinical validation, and publication. A significant methodological shift toward “Infrastructure as Code” was observed, with frequent use of FHIR Shorthand (FSH) and Continuous Integration/Continuous Deployment (CI/CD) pipelines, particularly in European national initiatives. While technical validation was nearly universal (10 out of 11 studies), clinical validation was inconsistently addressed (7 out of 11 studies), often relegated to future work, resulting in IGs that are syntactically correct but insufficiently aligned with real-world clinical workflows. Narrative documentation, essential for non-technical stakeholders, was reported as comprehensive in only four studies, limiting broader clinical adoption. All studies reported multidisciplinary team involvement, confirming that IG development is fundamentally an exercise in clinical governance and consensus.
+Conclusion
+The creation of FHIR IGs has evolved into a complex discipline requiring a convergence of software engineering, clinical semantics, and institutional governance. This review advances beyond existing FHIR literature by providing the first systematic synthesis focused specifically on the IG creation process, presenting a replicable seven-step cycle that can guide implementers, researchers, and policy makers. Closing the gap between technical readiness and clinical applicability remains a critical challenge. Future research should prioritize ongoing clinical validation, the establishment of standardized reporting frameworks for IG development, and the integration of generative AI tools to enhance narrative documentation and terminology binding.
+ER  - 
+
+TY  - JOUR
+T1  - Impact of Surface Ocean CO2 Atlas (SOCAT) observing network extensions on the quantification of global air-sea CO2 fluxes
+AU  - Chau, Thi-Tuyet-Trang
+AU  - Dudek, Anna E.
+AU  - Ombao, Hernando
+AU  - Chevallier, Sylvain
+JO  - Science of The Total Environment
+VL  - 999
+SP  - 180265
+PY  - 2025
+DA  - 2025/10/15/
+SN  - 0048-9697
+DO  - https://doi.org/10.1016/j.scitotenv.2025.180265
+UR  - https://www.sciencedirect.com/science/article/pii/S0048969725019059
+KW  - CO emission
+KW  - Air-sea fluxes
+KW  - Environmental data
+KW  - Global observing network
+KW  - Machine learning
+AB  - Observing seawater CO2 concentrations is fundamental to understanding the dynamics of CO2 exchanges at the air-sea interface. Over the last decades, sustained efforts in global data collection have established the Surface Ocean CO2 Atlas (SOCAT) as the leading database for quantifying CO2 fluxes and the ocean carbon budget. SOCAT continuously integrates new data while performing annual quality reassessments, and such adjustments could significantly influence the global flux estimation. This study provides a pioneering analysis of the evolution of data updates across the five most recent SOCAT releases (SOCATv2020 to SOCATv2024) and consequences on flux estimates by mapping in situ CO2 fugacity with reanalysis data of environmental predictor variables. Five neural network ensembles are trained on SOCAT datasets to reproduce global maps of air-sea CO2 fluxes for the period 2000-2023. SOCATv2024 incorporates approximately 20% more data than SOCATv2020, revising the global ocean net CO2 sink estimate to 1.77±0.17 PgC yr−1, approximately 4.5% to 9.6% lower than earlier versions. Global uncertainty (1σ) improves by 0.3% to 7.6% compared to SOCATv2023 and SOCATv2020. However, a decline in data collection since 2017 causes a significant divergence in flux estimates, with annual net sink estimates from SOCATv2024 being 0.2 PgC yr−1 to 1 PgC yr−1 lower than previous estimates. Recent updates primarily fine-tune data coverage, with pronounced impacts on flux estimates in the Southern Ocean, upwelling zones, and subpolar Pacific.
+ER  - 
+
+TY  - JOUR
+T1  - Semi-supervised online learning for geological profile forecasting for shield tunneling using multi-layer hidden Markov random fields
+AU  - Pan, Qiujing
+AU  - Sun, Guangcan
+AU  - Ye, Xinyu
+AU  - Men, Xiaoxiong
+JO  - Advanced Engineering Informatics
+VL  - 68
+SP  - 103786
+PY  - 2025
+DA  - 2025/11/01/
+SN  - 1474-0346
+DO  - https://doi.org/10.1016/j.aei.2025.103786
+UR  - https://www.sciencedirect.com/science/article/pii/S1474034625006792
+KW  - Tunnel boring machine
+KW  - Geological forecasting
+KW  - Hidden Markov random fields
+KW  - Semi-supervised learning
+AB  - Forecasting the geological condition ahead of the tunnel face in shield tunnelling is crucial for ensuring both construction efficiency and safety. However, most existing studies belong to supervised data-driven methods that require a complete training dataset, which is not available before a shield machine launches. This paper proposes a semi-supervised learning approach for forecasting geological profiles ahead of the shield-driven tunnel face, with the advantage of continuously integrating borehole data and shield operational parameters within a Hidden Markov Random Field (HMRF) framework. Specifically, an initial geological profile is estimated using borehole data based on the Markov Random Field method, which is subsequently updated by assimilating real-time shield operational parameters that are statistically correlated with geological profiles through a Gaussian Mixture Model. In order to achieve the multi-ring advance predictions ahead of the tunnel face, the Multi-Layer Hidden Markov Random Field (ML-HMRF) model is proposed. This enables proactive predictions of unknown geological profiles over multiple rings ahead of a shield machine. The proposed method is applied to the Zhuhai tunnel project in China, demonstrating its capability to accurately predict subsurface geological profiles several rings ahead of the tunnel face. Compared with other machine learning approaches, the proposed ML-HMRF method achieves higher accuracy in the prediction of the first five rings and performs robustly in areas with abrupt geological transitions. A sensitivity analysis further demonstrates that the model retains high accuracy even under sparse borehole conditions and achieves optimal performance at moderate neighborhood sizes.
+ER  - 
+
+TY  - JOUR
+T1  - Self-optimizing Cutting Process Using Learning Process Models
+AU  - Denkena, Berend
+AU  - Dittrich, Marc-André
+AU  - Uhlich, Florian
+JO  - Procedia Technology
+VL  - 26
+SP  - 221
+EP  - 226
+PY  - 2016
+DA  - 2016/01/01/
+T2  - 3rd International Conference on System-Integrated Intelligence: New Challenges for Product and Production Engineering
+SN  - 2212-0173
+DO  - https://doi.org/10.1016/j.protcy.2016.08.030
+UR  - https://www.sciencedirect.com/science/article/pii/S2212017316303772
+KW  - Process Planning
+KW  - Self-Optimization
+KW  - Machine Learning
+AB  - The continuous integration of manufacturing systems and sensory components leads to an increasing amount of available process data. In addition, new database systems and the parallelization of data processing enable to record and analyze these large amounts of process data. The continuous transformation of the obtained data into deployable machining knowledge hold out the perspective for faster ramp-ups, more reliable process outcome and higher profitability. By using the manufacturing data for extensive analyses, models can be derived to describe the effects of machining parameters and external conditions on the cutting result. To utilize the available process data for process planning and optimizing, the data has to be handled and interpreted appropriately and finally transferred into machining knowledge. This paper presents a method that uses a support vector machine as a machine learning approach to model the obtained process data. With a numerical optimization of the model, optimal process parameter can be determined, that minimize machining time and satisfy given boundary conditions. By modelling the process variance as well, the determined process parameters guarantee the process outcome within a freely selectable confidence interval. Through the complete automation of data capturing, data storing, modeling, optimizing and machining, a self-optimizing cutting process is achieved.
+ER  - 
+
+TY  - JOUR
+T1  - Architectural spatial layout design for hospitals: A review
+AU  - Bayraktar Sari, Aysegul Ozlem
+AU  - Jabi, Wassim
+JO  - Journal of Building Engineering
+VL  - 97
+SP  - 110835
+PY  - 2024
+DA  - 2024/11/15/
+SN  - 2352-7102
+DO  - https://doi.org/10.1016/j.jobe.2024.110835
+UR  - https://www.sciencedirect.com/science/article/pii/S2352710224024033
+KW  - Architectural spatial layout design
+KW  - Hospital spatial layout design
+KW  - Computational design
+KW  - Facility layout planning
+KW  - Machine learning (ML) driven layout design
+KW  - Systematic review
+AB  - The design of hospital spatial layouts is a critical aspect of healthcare architecture, directly influencing patient outcomes, staff efficiency, and the overall quality of care. A well-designed hospital layout is essential for ensuring smooth operations, minimizing errors, and improving both patient and staff experiences. This paper reviews the significant advances in the field, particularly focusing on the transition from traditional design methods to the integration of computational techniques and machine learning (ML) in hospital layout planning. Despite these technological advancements, there remains a notable gap in the full adoption and optimization of these methods to effectively address the inherent complexities of healthcare environments. This review identifies that while computational methods and machine learning-driven approaches have brought precision and innovation to hospital design, the challenge lies in balancing these technologies with the expertise and insights of human designers. Moreover, the need for interdisciplinary collaboration between architects, healthcare professionals, and engineers is emphasized as crucial for the successful implementation of advanced design strategies. Insights from this review highlight the potential of future research to bridge the existing gaps, proposing directions for the continuous integration of technology in hospital layout design.
+ER  - 
+
+TY  - JOUR
+T1  - Applying generative artificial intelligence for vulnerability fixing in a proprietary software ecosystem
+AU  - Costa, Luiz Alexandre
+AU  - Fontão, Awdren
+AU  - Santos, Rodrigo Pereira dos
+AU  - Serebrenik, Alexander
+JO  - Journal of Systems and Software
+VL  - 234
+SP  - 112723
+PY  - 2026
+DA  - 2026/04/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2025.112723
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121225003929
+KW  - Software ecosystems
+KW  - Software quality
+KW  - Software asset management
+KW  - Incident management
+KW  - Generative artificial intelligence
+AB  - Context: Large organizations often operate within proprietary software ecosystems (PSECO), composed of interdependent software artifacts, multiple actors, and centralized governance. In such environments, addressing security vulnerabilities is particularly challenging due to strict quality standards, regulatory constraints, and the risk of cascading failures. These challenges can compromise delivery schedules, increase operational risk, and force teams to interrupt planned work to address urgent issues. Goal: In response to these challenges, recent advances in Generative Artificial Intelligence (GenAI), particularly large language models (LLM), have emerged as a promising avenue to support software engineering tasks such as code generation and automated repair. This study investigates how a GenAI-based approach can support vulnerability remediation in PSECO while preserving delivery cadence in Continuous Integration and Continuous Delivery (CI/CD) pipelines. Methods: We conducted a participative case study in a large global organization to design and evaluate PSECO-SafePatch, an approach composed of: (i) a structured remediation process tailored to enterprise constraints; and (ii) a web-based tool integrating Fortify static analysis with GenAI-based patch generation. The approach includes human-in-the-loop validation and aligns with DevOps practices. Results: PSECO-SafePatch reduced mean remediation time by 84 % with an 89 % patch success rate. It also reduced cognitive overload by guiding developers through structured validation, fostering trust without overreliance. Conclusion: The findings show that GenAI-supported remediation is feasible and effective in PSECO. Human-in-the-loop validation preserved critical thinking, addressing concerns about blind automation and knowledge erosion, and reinforcing the value of responsible automation at scale.
+ER  - 
+
+TY  - JOUR
+T1  - Deconstructing Hunting Behavior Reveals a Tightly Coupled Stimulus-Response Loop
+AU  - Mearns, Duncan S.
+AU  - Donovan, Joseph C.
+AU  - Fernandes, António M.
+AU  - Semmelhack, Julia L.
+AU  - Baier, Herwig
+JO  - Current Biology
+VL  - 30
+IS  - 1
+SP  - 54
+EP  - 69.e9
+PY  - 2020
+DA  - 2020/01/06/
+SN  - 0960-9822
+DO  - https://doi.org/10.1016/j.cub.2019.11.022
+UR  - https://www.sciencedirect.com/science/article/pii/S0960982219314617
+KW  - zebrafish
+KW  - ethology
+KW  - prey capture
+KW  - unsupervised machine learning
+KW  - behavioral sequences
+AB  - Summary
+Animal behavior often forms sequences, built from simple stereotyped actions and shaped by environmental cues. A comprehensive characterization of the interplay between an animal’s movements and its environment is necessary to understand the sensorimotor transformations performed by the brain. Here, we use unsupervised methods to study behavioral sequences in zebrafish larvae. We generate a map of swim bouts, revealing that fish modulate their tail movements along a continuum. During prey capture, larvae produce stereotyped sequences using a subset of bouts from a broader behavioral repertoire. These sequences exhibit low-order transition dynamics and immediately respond to changes in visual cues. Chaining of prey capture bouts is disrupted in visually impaired (lakritz and blumenkohl) mutants, and removing the prey stimulus during ongoing behavior in closed-loop virtual reality causes larvae to immediately abort the hunting sequence. These results suggest that the continuous integration of sensory information is necessary to structure the behavior. This stimulus-response loop serves to bring prey into the anterior dorsal visual field of the larvae. Fish then release a capture strike maneuver comprising a stereotyped jaw movement and tail movements fine-tuned to the distance of the prey. Fish with only one intact eye fail to correctly position the prey in the strike zone, but are able to produce the strike itself. Our analysis shows that short-term integration of binocular visual cues shapes the behavioral dynamics of hunting, thus uncovering the temporal organization of a goal-directed behavior in a vertebrate.
+ER  - 
+
+TY  - JOUR
+T1  - Artificial intelligence and companion animals: Perspectives on digital healthcare for dogs, cats, and pet ownership
+AU  - Arshad, Muhammad Furqan
+AU  - Ahmed, Fahad
+AU  - Nonnis, Francesca
+AU  - Tamponi, Claudia
+AU  - Scala, Antonio
+AU  - Varcasia, Antonio
+JO  - Research in Veterinary Science
+VL  - 193
+SP  - 105776
+PY  - 2025
+DA  - 2025/09/01/
+SN  - 0034-5288
+DO  - https://doi.org/10.1016/j.rvsc.2025.105776
+UR  - https://www.sciencedirect.com/science/article/pii/S0034528825002504
+KW  - Artificial intelligence (AI)
+KW  - Machine learning (ML)
+KW  - Pets
+KW  - Monitoring
+KW  - Welfare
+AB  - The exponential increase in global pet ownership has been creating an urgent demand for novel solutions to upgrade care for companion animals, particularly dogs and cats. Similar to its impact on other domains, artificial intelligence (AI) delivers an alternative solution to this pressing requirement. Profound transformation in pet care management is underway with the application of cutting-edge AI technologies incorporating various machine learning (ML) algorithms. This thorough review highlights the expanding potential of AI in reshaping the pet industry and will embark on a two-fold exploration. The first section offers a brief explanation of AI paradigms, outlining essential concepts and presenting examples of their use in the management of companion animals. A more extensive second section provides a meticulous exploration of the diverse applications of AI for pets including health monitoring, behaviour monitoring, feed and feeding systems, parasite detection, artificial, virtual, and robotic pets, and veterinary care and support. It can be easily predicted from the ongoing research that the continuous integration of AI-driven innovations in the pet care sector will result in a balanced blend of compassion and technology offering optimized pet care. Currently, this integration still faces inherent challenges, and it is imperative to navigate them in order to leverage full potential of AI for companion animals.
+ER  - 
+
+TY  - JOUR
+T1  - AIDOaRt: AI-augmented Automation for DevOps, a model-based framework for continuous development in Cyber–Physical Systems
+AU  - Bruneliere, Hugo
+AU  - Muttillo, Vittoriano
+AU  - Eramo, Romina
+AU  - Berardinelli, Luca
+AU  - Gómez, Abel
+AU  - Bagnato, Alessandra
+AU  - Sadovykh, Andrey
+AU  - Cicchetti, Antonio
+JO  - Microprocessors and Microsystems
+VL  - 94
+SP  - 104672
+PY  - 2022
+DA  - 2022/10/01/
+SN  - 0141-9331
+DO  - https://doi.org/10.1016/j.micpro.2022.104672
+UR  - https://www.sciencedirect.com/science/article/pii/S0141933122002022
+KW  - Cyber–Physical Systems
+KW  - Continuous development
+KW  - System engineering
+KW  - Software engineering
+KW  - Model Driven Engineering
+KW  - Artificial Intelligence
+KW  - DevOps
+KW  - AIOps
+AB  - The advent of complex Cyber–Physical Systems (CPSs) creates the need for more efficient engineering processes. Recently, DevOps promoted the idea of considering a closer continuous integration between system development (including its design) and operational deployment. Despite their use being still currently limited, Artificial Intelligence (AI) techniques are suitable candidates for improving such system engineering activities (cf. AIOps). In this context, AIDOaRT is a large European collaborative project that aims at providing AI-augmented automation capabilities to better support the modeling, coding, testing, monitoring, and continuous development of CPSs. The project proposes to combine Model Driven Engineering principles and techniques with AI-enhanced methods and tools for engineering more trustable CPSs. The resulting framework will (1) enable the dynamic observation and analysis of system data collected at both runtime and design time and (2) provide dedicated AI-augmented solutions that will then be validated in concrete industrial cases. This paper describes the main research objectives and underlying paradigms of the AIDOaRt project. It also introduces the conceptual architecture and proposed approach of the AIDOaRt overall solution. Finally, it reports on the actual project practices and discusses the current results and future plans.
+ER  - 
+
+TY  - JOUR
+T1  - The Deployment Processes of Credit Card Fraud Decision Models Developed with Artificial Intelligence Techniques
+AU  - Oztemel, Ercan
+AU  - Isik, Muhammed
+JO  - Procedia Computer Science
+VL  - 265
+SP  - 566
+EP  - 571
+PY  - 2025
+DA  - 2025/01/01/
+T2  - 20th International Conference on Future Networks and Communications/ 22nd International Conference on Mobile Systems and Pervasive Computing/15th International Conference on Sustainable Energy Information Technology (FNC/MobiSPC/SEIT 2025)
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2025.07.220
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050925022719
+KW  - Artificial Intelligence
+KW  - Model Development Process
+KW  - Credit Card Fraud Decision Models
+KW  - Model Deployment Process
+AB  - Periodic updates and adjustments may be required in many modern applications of machine learning studies. In the periodic studies of machine learning applications, not only the model development process is affected, but also the model deployment process may change. In machine learning projects, in addition to the model development phase, the real-time model deployment process also has a very important place. During the model deployment process, continuous integration is attempted by taking model, business, regulatory and flow needs as reference. During the model deployment phase, the integration of the trained model into the decision processes or production environment can be achieved through quantization, memory allocation, mapping and scheduling. During the model deployment process, real-time systems can be developed with front-end, back-end and middleware architecture. In fact, recently, a different dimension has been added to model deployment processes with cloud computing and cloud platform technology. Despite all the positive developments in the model deployment process, perfection can be quite difficult in model integration. Although the model deployment process is time-consuming and error-prone, it is also open to recent developments and interactions. In the first stage of this paper, a double deep q network model was developed as an alternative to traditional classification studies for card fraud detection. In this study, it was concluded that the double deep q network model is quite successful compared to traditional classification models. In addition, the process integration and deployment phase of the champion card fraud model is also discussed in study.
+ER  - 
+
+TY  - JOUR
+T1  - A state-aware, hierarchical deep learning framework for automated visual glitch detection in games
+AU  - Paduraru, Ciprian
+JO  - Engineering Applications of Artificial Intelligence
+VL  - 166
+SP  - 113497
+PY  - 2026
+DA  - 2026/02/15/
+SN  - 0952-1976
+DO  - https://doi.org/10.1016/j.engappai.2025.113497
+UR  - https://www.sciencedirect.com/science/article/pii/S0952197625035286
+KW  - Software engineering
+KW  - Artificial intelligence methods
+KW  - Deep learning
+KW  - Visual quality assurance
+KW  - Human in the loop
+KW  - Video games
+AB  - Visual anomalies in video games can degrade user experience and impact overall software quality, highlighting the need for scalable methods within modern quality assurance (QA) pipelines. Manual testing remains resource-intensive and difficult to scale, while existing AI-based approaches often struggle to generalize across diverse rendering styles and gameplay scenarios. This paper presents a hierarchical visual anomaly detection framework that integrates game state information to enhance contextual awareness and detection accuracy. A synthetic data generation pipeline is introduced to create high-fidelity, game-specific training samples that capture the visual characteristics and edge cases of individual titles. Human-in-the-loop mechanisms support the identification of challenging scenarios and the definition of functional test conditions suitable for continuous integration workflows. The system operates continuously during production, enabling real-time detection of rendering anomalies without interfering with gameplay. The proposed framework is evaluated across three commercial game titles, demonstrating its effectiveness and adaptability. It comprises a configurable data generation pipeline, a state-conditioned detection model, and an automated anomaly identification tool, forming a modular and extensible QA solution for interactive software systems.
+ER  - 
+
+TY  - JOUR
+T1  - Automatic multi-language analysis of SOLID compliance via machine learning algorithms
+AU  - Balim, Caner
+AU  - Karasekreter, Naim
+AU  - Aslan, Özkan
+JO  - Information and Software Technology
+VL  - 192
+SP  - 108013
+PY  - 2026
+DA  - 2026/04/01/
+SN  - 0950-5849
+DO  - https://doi.org/10.1016/j.infsof.2026.108013
+UR  - https://www.sciencedirect.com/science/article/pii/S0950584926000029
+KW  - SOLID design principles
+KW  - Machine learning
+KW  - Transformer-based models
+KW  - Code smells
+KW  - Code embeddings
+KW  - Object-oriented programming
+AB  - Context
+The SOLID design principles are fundamental in object-oriented software development, promoting modularity, maintainability, and scalability. Manual verification of these principles in code is often time-consuming and error-prone, especially in large-scale, multilingual projects. Since adherence to SOLID principles is closely linked to software quality, automating this verification can significantly enhance code reliability.
+Objectives
+This study proposes a machine learning-based approach for the automatic classification of SOLID principle compliance in object-oriented code. Specifically, we investigate the effectiveness of embedding representations generated by three pretrained transformer models: LongCoder and StarCoder2, which are both code-oriented, and BigBird, a general-purpose model, in supporting principle-specific classification across Java and Python codebases.
+Methods
+We compiled a novel multi-label dataset consisting of 1103 real-world multi-class code units in Java and Python, annotated for compliance with five SOLID principles. Feature embeddings were extracted using the three transformer models. These embeddings were input to six different classifiers per principle. We evaluated model performance using stratified 5-fold cross-validation and reported accuracy, precision, recall, and F1 scores.
+Results
+Principles with well-defined structural characteristics, such as Interface Segregation (ISP) and Dependency Inversion (DIP), achieved high F1 scores (>90%). Semantically complex principles like Single Responsibility (SRP) and Liskov Substitution (LSP) yielded lower F1 scores (∼70–75%). Among the models, StarCoder2 combined with Multi-Layer Perceptron (MLP) consistently outperformed others across both Java and Python datasets. Statistical analyses confirmed that these performance differences are significant. Furthermore, comparisons with open-source large language models (DeepSeek-Coder-V2 and CodeLlama) demonstrated that the approach yields more stable and interpretable results across all principles.
+Conclusion
+Machine learning models leveraging code-specific embeddings can accurately identify structurally explicit SOLID principles. Code-oriented transformers such as StarCoder2 and LongCoder outperformed the general-purpose model BigBird, especially for principles requiring nuanced semantic understanding. Beyond its experimental contributions, the study provides practical value by enabling automated design-principle assessment in large codebases, reducing manual inspection effort, and offering a foundation for integration into software quality assurance tools and continuous integration pipelines.
+ER  - 
+
+TY  - JOUR
+T1  - Driving innovation in 6G wireless technologies: The OpenAirInterface approach
+AU  - Kaltenberger, Florian
+AU  - Melodia, Tommaso
+AU  - Ghauri, Irfan
+AU  - Polese, Michele
+AU  - Knopp, Raymond
+AU  - Nguyen, Tien Thinh
+AU  - Velumani, Sakthivel
+AU  - Villa, Davide
+AU  - Bonati, Leonardo
+AU  - Schmidt, Robert
+AU  - Arora, Sagar
+AU  - Irazabal, Mikel
+AU  - Nikaein, Navid
+JO  - Computer Networks
+VL  - 269
+SP  - 111410
+PY  - 2025
+DA  - 2025/09/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2025.111410
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128625003779
+KW  - OpenAirInterface
+KW  - 6G networks
+KW  - Open RAN
+KW  - Open-source software
+AB  - The development of 6G wireless technologies is rapidly advancing, with the 3rd Generation Partnership Project (3GPP) entering the pre-standardization phase and aiming to deliver the first specifications by 2028. This paper explores the OpenAirInterface (OAI) project, an open-source initiative that plays a crucial role in the evolution of 5G and future 6G networks. OAI provides a comprehensive implementation of 3GPP and O-RAN compliant networks, including Radio Access Network (RAN), Core Network (CN), and software-defined User Equipment (UE) components. This paper details the history and evolution of OAI, its licensing model, and the various projects under its umbrella, such as RAN, the CN, and the Operations, Administration and Maintenance (OAM) projects. It also highlights the development methodology, Continuous Integration/Continuous Delivery (CI/CD) processes, and end-to-end systems powered by OAI. Furthermore, the paper discusses the potential of OAI for 6G research, focusing on spectrum, reflective intelligent surfaces, and Artificial Intelligence (AI)/Machine Learning (ML) integration. The open-source approach of OAI is emphasized as essential for tackling the challenges of 6G, fostering community collaboration, and driving innovation in next-generation wireless technologies.
+ER  - 
+
+TY  - JOUR
+T1  - Integrating experimental biology, computational methods, and artificial intelligence in anticancer drug discovery: Bridging the translational gap
+AU  - Zemnou, Cromwel Tepap
+AU  - Ngakam, Ramelle
+AU  - Tepap, Schelsea Siham Delore
+AU  - Simo, Fredy Brice Nemg
+AU  - Zanchi, Fernando Berton
+AU  - Seukep, Armel Jackson
+AU  - Kouam, Arnaud Fondjo
+AU  - Huy, Nguyen Tien
+JO  - Computers in Biology and Medicine
+VL  - 213
+SP  - 111832
+PY  - 2026
+DA  - 2026/08/15/
+SN  - 0010-4825
+DO  - https://doi.org/10.1016/j.compbiomed.2026.111832
+UR  - https://www.sciencedirect.com/science/article/pii/S0010482526003963
+KW  - Anticancer drug discovery
+KW  - Artificial intelligence
+KW  - Computational biology
+KW  - Machine learning
+KW  - Precision medicine
+KW  - Drug repurposing
+AB  - Cancer remains a leading cause of mortality globally, with the incidence projected to reach 28.4 million new cases annually by 2040. Traditional drug discovery is notoriously inefficient: 10–17 years and up to $2.8 billion per approved drug, with fewer than 10% of clinical candidates succeeding. This review critically examines how the integration of experimental methods with computational biology and artificial intelligence (AI) can accelerate anticancer drug development. We argue that an iterative feedback loop in which sophisticated in vitro and in vivo models provide biological context for validation while AI accelerates target identification, de novo molecular design, and ADMET prediction offers a path forward. FDA-approved drugs, including imatinib, crizotinib, and larotrectinib, have emerged from such integrated pipelines. A persistent translational gap still limits progress owing to three major barriers: poor data fidelity and lack of standardization, limited interpretability of AI models (the black box problem), and regulatory complexity. Addressing these challenges requires physiologically relevant organ-on-a-chip systems, explainable and physics-informed AI, federated learning ecosystems, and adaptive regulatory frameworks. Overall, the continuous integration of computational prediction with experimental validation in a rigorous, data-driven pipeline is critical for accelerating the development of next-generation anticancer therapies.
+ER  - 
+
+TY  - JOUR
+T1  - Semi-supervised domain-adaptation-driven transfer learning for strength prediction of waste-derived concrete using physicochemical–mechanical knowledge–information
+AU  - Satpathy, Laren
+AU  - Parhi, Suraj Kumar
+AU  - Patro, Sanjaya Kumar
+AU  - Nayak, Amar Nath
+JO  - Advanced Engineering Informatics
+VL  - 76
+SP  - 105171
+PY  - 2026
+DA  - 2026/11/01/
+SN  - 1474-0346
+DO  - https://doi.org/10.1016/j.aei.2026.105171
+UR  - https://www.sciencedirect.com/science/article/pii/S1474034626008633
+KW  - Transfer learning
+KW  - Domain adaptation
+KW  - Waste-derived concrete
+KW  - Compressive strength prediction
+KW  - Data scarcity
+KW  - Interpretable machine learning
+AB  - Strength development in waste-derived cementitious composites is governed by complex, multiscale physical–chemical–mechanical interactions that are insufficiently represented in conventional data-driven models. Most existing machine learning approaches rely on empirical mix-design correlations, limiting their generalizability across heterogeneous material systems and novel waste-derived constituents. This study proposes a domain-adaptation-driven transfer learning framework that systematically incorporates experimentally informed physical, chemical, and mechanical descriptors into predictive modeling under data-scarce conditions to address this limitation. A limited yet knowledge-rich dataset is integrated to enhance model interpretability and cross-domain transferability. Dimensionality reduction is performed using principal component analysis to mitigate redundancy and improve learning efficiency. The distributional divergence between the source and target domains, quantified using Maximum Mean Discrepancy, is reduced by 72–76 % following reweighting-based semi-supervised domain adaptation, leading to improved predictive accuracy. A graphical user interface is developed and validated through continuous integration workflows to facilitate practical adoption. Uncertainty quantification through confidence interval analysis demonstrates the superiority of the proposed framework in low-data regimes. The presented approach advances the applicability of interpretable, adaptive machine learning for sustainable construction materials and provides an accessible informatics platform that bridges experimental knowledge and real-world engineering decision-making.
+ER  - 
+
+TY  - JOUR
+T1  - Symposium review: Real-time continuous decision making using big data on dairy farms
+AU  - Cabrera, Victor E.
+AU  - Barrientos-Blanco, Jorge A.
+AU  - Delgado, Hector
+AU  - Fadul-Pacheco, Liliana
+JO  - Journal of Dairy Science
+VL  - 103
+IS  - 4
+SP  - 3856
+EP  - 3866
+PY  - 2020
+DA  - 2020/04/01/
+SN  - 0022-0302
+DO  - https://doi.org/10.3168/jds.2019-17145
+UR  - https://www.sciencedirect.com/science/article/pii/S0022030219311014
+KW  - decision-making tools
+KW  - Dairy Brain
+KW  - continuous data integration
+KW  - artificial intelligence
+KW  - simulation
+KW  - optimization
+AB  - ABSTRACT
+We are developing a real-time, data-integrated, data-driven, continuous decision-making engine, The Dairy Brain, by applying precision farming, big data analytics, and the Internet of Things. This is a transdisciplinary research and extension project that engages multidisciplinary scientists, dairy farmers, and industry professionals. Dairy farms have embraced large and diverse technological innovations such as sensors and robotic systems, and procured vast amounts of constant data streams, but they have not been able to integrate all this information effectively to improve whole-farm decision making. Consequently, the effects of all this new smart dairy farming are not being fully realized. It is imperative to develop a system that can collect, integrate, manage, and analyze on- and off-farm data in real time for practical and relevant actions. We are using the state-of-the-art database management system from the University of Wisconsin-Madison Center for High Throughput Computing to develop our Agricultural Data Hub that connects and analyzes cow and herd data on a permanent basis. This involves cleaning and normalizing the data as well as allowing data retrieval on demand. We illustrate our Dairy Brain concept with 3 practical applications: (1) nutritional grouping that provides a more accurate diet to lactating cows by automatically allocating cows to pens according to their nutritional requirements aggregating and analyzing data streams from management, feed, Dairy Herd Improvement (DHI), and milking parlor records; (2) early risk detection of clinical mastitis (CM) that identifies first-lactation cows under risk of developing CM by analyzing integrated data from genetic, management, and DHI records; and (3) predicting CM onset that recognizes cows at higher risk of contracting CM, by continuously integrating and analyzing data from management and the milking parlor. We demonstrate with these applications that it is possible to develop integrated continuous decision-support tools that could potentially reduce diet costs by $99/cow per yr and that it is possible to provide a new dimension for monitoring health events by identifying cows at higher risk of CM and by detecting 90% of CM cases a few milkings before disease onset. We are securely advancing toward our overarching goal of developing our Dairy Brain. This is an ongoing innovative project that is anticipated to transform how dairy farms operate.
+ER  - 
+
+TY  - JOUR
+T1  - Big Data-driven MLOps workflow for annual high-resolution land cover classification models
+AU  - Burgueño-Romero, Antonio M.
+AU  - Barba-González, Cristóbal
+AU  - Aldana-Montes, José F.
+JO  - Future Generation Computer Systems
+VL  - 163
+SP  - 107499
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2024.107499
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X24004631
+KW  - MLOps
+KW  - Land cover
+KW  - Big Data
+KW  - Kubernetes
+KW  - Remote sensing
+AB  - Developing an annual and global high-resolution land cover map is one of the most ambitious tasks in remote sensing, with increasing importance due to the continual rise in validated data and satellite imagery. The success of land cover classification models largely hinges on the data quality, coupled with the application of Big Data techniques and distributed computing. This is essential for efficiently processing the extensive volume of available satellite data. However, maintaining the lifecycle of several annual Machine Learning models presents a complex challenge. The rise of Machine Learning Operations offers an opportunity to automate the maintenance of these models, a feature particularly beneficial in systems that require generating new models each year alongside the continuous integration of validated data. This article details the development of an end-to-end MLOps workflow, meticulously integrating land cover classification models that employ Big Data strategies for processing large-scale, high-resolution spatial data. The workflow is designed within a Kubernetes environment, achieving on-demand auto-scaling, distributed computing, and load balancing. This integration demonstrates the practicality and efficiency of managing and deploying models that treat satellite imagery in an automated, scalable framework, thus marking a significant advancement in remote sensing and MLOps.
+ER  - 
+
+TY  - JOUR
+T1  - Deep learning based continuous integration and continuous delivery software defect prediction with effective optimization strategy
+AU  - Mishra, Anurag
+AU  - Sharma, Ashish
+JO  - Knowledge-Based Systems
+VL  - 296
+SP  - 111835
+PY  - 2024
+DA  - 2024/07/19/
+SN  - 0950-7051
+DO  - https://doi.org/10.1016/j.knosys.2024.111835
+UR  - https://www.sciencedirect.com/science/article/pii/S0950705124004696
+KW  - Gated recurrent units
+KW  - Synthetic minority oversampling technique
+KW  - Bidirectional encoder representations from transformers
+KW  - Levy flight distribution
+KW  - Rao optimization and bidirectional long short-term memory
+AB  - Software defect prediction is one of the most difficult tasks in the IT sector. Continuous Integration and Continuous Delivery (CI/CD) software defect prediction is used in earlier stage, which consumes less amount of time. Various learning algorithms, such as convolutional neural networks and other machine learning algorithms (ML), are employed to forecast the flaws in the software model. In these existing algorithms, some issues are noticed, such as high computational complexity, excessive time consumption, the need for more energy to predict the model and a high-loss function. To address these issues, a novel deep learning (DL)-based CI/CD software defect prediction technique applying an effective optimization strategy is provided to improve the model's efficiency. The numerical data are collected from open source, and the obtained data is initially labeled based on time domain limitations. Initially, the Modified Synthetic Minority Over-Sampling Technique (M-SMOTE) mechanism is applied to balance the data to avoid overfitting problems, and data normalization is performed to rescale and normalize the data properly. After moralization, the optimal set of features is extracted from the data using Focal Bidirectional Encoder Representations from Transformers (F-BERT) to enhance the efficiency of the model. Finally, the software defects are predicted using Bidirectional Long Short-Term Memory (Bi-LSTM) integrated into the convolutional Gated recurrent units (GRU) model (Bi-CGRU) based on collected features. Hybrid Levy Rao (HLR) optimization is used to tune the hyperparameters properly in the classifier model. The proposed model's performance indicators are examined. The proposed model has a 95.32 % accuracy, a 93.3 % recall, a 94.98 % Matthews correlation coefficient, and an F1-score of 91.355 %. The proposed model generates less labeling noise and wait time than existing methods.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter Thirteen - Cloud native engineering: A comprehensive review of principles, practices, and challenges
+AU  - Brojabasi, Subhajit
+AU  - Paul, Subrata
+AU  - Mitra, Anirban
+A2  - Raj, Pethuru
+A2  - Agerstam, Mats
+A2  - Dutta, Pushan Kumar
+A2  - Sundaravadivazhagan, B.
+A2  - Nagasubramanian, Gayathri
+BT  - Advances in Computers
+PB  - Elsevier
+VL  - 141
+SP  - 331
+EP  - 353
+PY  - 2026
+DA  - 2026/01/01/
+T2  - Cloud-native Architecture (CNA) and Artificial Intelligence (AI) for the Future of Software Engineering: The Principles, Patterns, Platforms and Practices
+SN  - 0065-2458
+DO  - https://doi.org/10.1016/bs.adcom.2025.06.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0065245825001044
+KW  - Cloud native engineering
+KW  - Microservices
+KW  - Container orchestration
+KW  - DevOps
+KW  - Observability
+KW  - Security
+KW  - Edge computing
+AB  - The innovative technique known as "cloud native engineering" has revolutionized the art and science of modern software development by redesigning the architecture, development, and deployment of software to maximize the advantages of cloud computing. Based on insights gleaned from published studies, industry practices, and empirical findings, the current review paper provides an inclusive assessment of the fundamental concepts, required methods, and inherent challenges that come with cloud native engineering. We look at popular architectural patterns such as serverless computing, microservices, and service mesh, as well as automation strategies enabled by infrastructure as code (IaC), container orchestration, and continuous integration and deployment (CI/CD). We also go over operational procedures that enhance cloud native environments’ scalability, robustness, and efficiency. Strong solutions are required to handle compliance, threat detection, and system stability as security, monitoring, and observability become crucial factors. The use of AI and machine learning to enhance cloud operations, as well as performance optimization techniques, are also covered in the article. Finally, we discuss future trends including edge computing, multi-cloud methods, and green cloud practices, outlining key areas of research that will shape cloud native engineering in the future.
+ER  - 
+
+TY  - JOUR
+T1  - Regression test optimization for software of the cellular network base stations: A language-based approach
+AU  - Zarębski, Sebastian
+AU  - Rusek, Krzysztof
+AU  - Chołda, Piotr
+JO  - Expert Systems with Applications
+VL  - 311
+SP  - 131225
+PY  - 2026
+DA  - 2026/05/15/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2026.131225
+UR  - https://www.sciencedirect.com/science/article/pii/S0957417426001399
+KW  - Bug localization
+KW  - Bug reports
+KW  - Continuous integration testing
+KW  - Latent Dirichlet allocation (LDA)
+KW  - Natural language processing
+KW  - Regression testing
+KW  - Software engineering
+KW  - Test prioritization
+KW  - Test suite reduction
+AB  - This paper introduces Linear Model of Latent Dirichlet Allocation (LMLDA), a novel methodology for software test optimization that directly addresses the gap between computationally-prohibitive large language models (LLMs) and semantically-shallow heuristics. Our primary contribution is a lightweight, interpretable, and cost-efficient model specifically designed for high-stakes industrial Continuous Integration and Continuous Development (CI/CD) environments where security and traceability are essential. The novelty of LMLDA lies in its integration of Latent Dirichlet Allocation (LDA) for the semantic analysis of code modifications and test content, with a classifier based on logistic regression concepts for the training phase, yet offering prediction capabilities that align with the computational simplicity of linear regression. This approach uniquely predicts the probability of test failure based on semantic interactions, enabling precise, bug-centric prioritization rather than relying on indirect diversity proxies. A large-scale industrial case study at NOKIA demonstrates LMLDA’s practical effectiveness, achieving an average 64% reduction in test suite size while maintaining 88% precision in bug detection and accelerating critical bug discovery by an average of 8 h per cycle.
+ER  - 
+
+TY  - JOUR
+T1  - The Evolution of Spatial Computing in Spine Surgery: Tracing the Historical Arc to Present Day Implementation
+AU  - Elsayed, Galal A.
+AU  - Dykhouse, Gabrielle
+AU  - Ikwuegbuenyi, Chibuikem A.
+AU  - Willett, Noah
+AU  - Hussain, Ibrahim
+AU  - Hamad, Mousa
+AU  - Kashlan, Osama Nezar
+AU  - Härtl, Roger
+JO  - World Neurosurgery
+VL  - 204
+SP  - 124514
+PY  - 2025
+DA  - 2025/12/01/
+SN  - 1878-8750
+DO  - https://doi.org/10.1016/j.wneu.2025.124514
+UR  - https://www.sciencedirect.com/science/article/pii/S1878875025008721
+KW  - Augmented reality
+KW  - Preoperative planning
+KW  - Spatial computing
+KW  - Virtual reality
+AB  - The evolution of spatial computing in spine surgery represents a significant advancement in surgical precision, patient care, and education. From the early days of stereotactic frames and rudimentary imaging techniques to the sophisticated integration of augmented reality, virtual reality, robotics, and artificial intelligence, spatial computing has fundamentally transformed spinal surgery. This article traces the historical development of these technologies, highlighting key milestones and implementation in modern surgical practices. Intraoperative imaging modalities and robotic platforms have enhanced surgical accuracy and reduced complications. Moreover, artificial intelligence–driven preoperative planning tools and virtual reality–based simulations have refined surgical techniques, marking a paradigm shift toward safer and more precise procedures. The continuous integration of these spatial computing technologies underscores the ongoing evolution of spine surgery, promising further advancements in patient outcomes and surgical education.
+ER  - 
+
+TY  - JOUR
+T1  - Current status and prospects of minimally invasive hepatobiliary surgery
+AU  - Li, Jie
+AU  - Chen, Ping
+JO  - Intelligent Surgery
+VL  - 7
+SP  - 47
+EP  - 52
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 2666-6766
+DO  - https://doi.org/10.1016/j.isurg.2024.07.001
+UR  - https://www.sciencedirect.com/science/article/pii/S2666676624000097
+KW  - Hepatobiliary diseases
+KW  - Minimally invasive surgery
+KW  - Artificial intelligence
+KW  - Prospects
+AB  - In recent years, minimally invasive surgery has developed rapidly and has become an important means of treating hepatobiliary diseases. The development of minimally invasive surgery includes advancements in surgical instruments, laparoscopic equipment, surgical techniques, and related theories. Currently, most traditional hepatobiliary surgeries can be performed using laparoscopic methods. Minimally invasive surgery is the direction for future surgical development, with goals of becoming more intelligent, compact, and multifunctional. In the future, the continuous integration of artificial intelligence, robotic technology, virtual reality and augmented reality technologies, and remote technologies with medicine will further promote the development of minimally invasive surgery. This article provides a brief overview of the current status and prospects of minimally invasive surgery.
+ER  - 
+
+TY  - JOUR
+T1  - An intelligent test management system for optimizing decision making during software testing
+AU  - Lönnfält, Albin
+AU  - Tu, Viktor
+AU  - Gay, Gregory
+AU  - Singh, Animesh
+AU  - Tahvili, Sahar
+JO  - Journal of Systems and Software
+VL  - 219
+SP  - 112202
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2024.112202
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121224002462
+KW  - Software testing
+KW  - Decision support
+KW  - Continuous integration
+KW  - Natural language processing
+KW  - Machine learning
+AB  - To ensure the proper testing of any software product, it is imperative to cover various functional and non-functional requirements at different testing levels (e.g., unit or integration testing). Ensuring appropriate testing requires making a series of decisions—e.g., assigning features to distinct Continuous Integration (CI) configurations or determining which test specifications to automate. Such decisions are generally made manually and require in-depth domain knowledge. This study introduces, implements, and evaluates ITMOS (Intelligent Test Management Optimization System), an intelligent test management system designed to optimize decision-making during the software testing process. ITMOS efficiently processes new requirements presented in natural language, segregating each requirement into appropriate CI configurations based on predefined quality criteria. Additionally, ITMOS has the capability to suggest a set of test specifications for test automation. The feasibility and potential applicability of the proposed solution were empirically evaluated in an industrial telecommunications project at Ericsson. In this context, ITMOS achieved accurate results for decision-making tasks, exceeding the requirements set by domain experts.
+ER  - 
+
+TY  - JOUR
+T1  - Recent advances in artificial-intelligence enhanced additive manufacturing of heat exchangers for thermal management: a review
+AU  - Li, Yan
+AU  - Su, Qing
+AU  - Sheng, Guojun
+AU  - Hosseini, Seyed Reza Elmi
+AU  - Badran, Bassam Edmond
+AU  - Gong, Ping
+AU  - Xin, Chenxing
+AU  - Wang, Huasheng
+JO  - Materials & Design
+VL  - 256
+SP  - 114339
+PY  - 2025
+DA  - 2025/08/01/
+SN  - 0264-1275
+DO  - https://doi.org/10.1016/j.matdes.2025.114339
+UR  - https://www.sciencedirect.com/science/article/pii/S0264127525007592
+KW  - Additive manufacturing
+KW  - Thermophysical properties
+KW  - Numerical analysis
+KW  - Thermal analysis
+KW  - Artificial intelligence
+AB  - With the rapid development in the areas such as automobile, aerospace, semiconductor, and chemical industry as well as the continuous integration and the miniaturization of microelectronic devices, the importance of thermal management has been significantly increased. To meet some requirements of thermal management, there is an urgent need to develop compact, lightweight, and highly-efficient heat exchangers. Compared with conventional manufacturing technologies, additive manufacturing technology offers an automated and innovative way to fabricate heat exchangers tailored to specific requirements. This study presents a comprehensive and critical review of state-of-the-art research on the applications of additive manufacturing in thermal management, including diverse design methodologies, material alternations, numerical analysis methods, processing methods, thermophysical properties, heat transfer and hydrodynamic performance, challenges in preparation of heat exchangers, and potential applications. Furthermore, some limitations to cost-effectiveness and technological challenges to the development of thermal management systems are discussed in detail, and the roles of artificial intelligence in structural optimization and additive manufacturing processes are reviewed. This is of great benefit to thermal management’s performance, sustainable development as well as cost savings.
+ER  - 
+
+TY  - JOUR
+T1  - DScribe: Library of descriptors for machine learning in materials science
+AU  - Himanen, Lauri
+AU  - Jäger, Marc O.J.
+AU  - Morooka, Eiaki V.
+AU  - Federici Canova, Filippo
+AU  - Ranawat, Yashasvi S.
+AU  - Gao, David Z.
+AU  - Rinke, Patrick
+AU  - Foster, Adam S.
+JO  - Computer Physics Communications
+VL  - 247
+SP  - 106949
+PY  - 2020
+DA  - 2020/02/01/
+SN  - 0010-4655
+DO  - https://doi.org/10.1016/j.cpc.2019.106949
+UR  - https://www.sciencedirect.com/science/article/pii/S0010465519303042
+KW  - Machine learning
+KW  - Materials science
+KW  - Descriptor
+KW  - Python
+KW  - Open source
+AB  - DScribe is a software package for machine learning that provides popular feature transformations (“descriptors”) for atomistic materials simulations. DScribe accelerates the application of machine learning for atomistic property prediction by providing user-friendly, off-the-shelf descriptor implementations. The package currently contains implementations for Coulomb matrix, Ewald sum matrix, sine matrix, Many-body Tensor Representation (MBTR), Atom-centered Symmetry Function (ACSF) and Smooth Overlap of Atomic Positions (SOAP). Usage of the package is illustrated for two different applications: formation energy prediction for solids and ionic charge prediction for atoms in organic molecules. The package is freely available under the open-source Apache License 2.0.
+Program summary
+Program Title: DScribe Program Files doi: http://dx.doi.org/10.17632/vzrs8n8pk6.1 Licensing provisions: Apache-2.0 Programming language: Python/C/C++ Supplementary material: Supplementary Information as PDF Nature of problem: The application of machine learning for materials science is hindered by the lack of consistent software implementations for feature transformations. These feature transformations, also called descriptors, are a key step in building machine learning models for property prediction in materials science. Solution method: We have developed a library for creating common descriptors used in machine learning applied to materials science. We provide an implementation the following descriptors: Coulomb matrix, Ewald sum matrix, sine matrix, Many-body Tensor Representation (MBTR), Atom-centered Symmetry Functions (ACSF) and Smooth Overlap of Atomic Positions (SOAP). The library has a python interface with computationally intensive routines written in C or C++. The source code, tutorials and documentation are provided online. A continuous integration mechanism is set up to automatically run a series of regression tests and check code coverage when the codebase is updated.
+ER  - 
+
+TY  - JOUR
+T1  - Scalability testing automation using multivariate characterization and detection of software performance antipatterns
+AU  - Avritzer, Alberto
+AU  - Britto, Ricardo
+AU  - Trubiani, Catia
+AU  - Camilli, Matteo
+AU  - Janes, Andrea
+AU  - Russo, Barbara
+AU  - van Hoorn, André
+AU  - Heinrich, Robert
+AU  - Rapp, Martina
+AU  - Henß, Jörg
+AU  - Chalawadi, Ram Kishan
+JO  - Journal of Systems and Software
+VL  - 193
+SP  - 111446
+PY  - 2022
+DA  - 2022/11/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2022.111446
+UR  - https://www.sciencedirect.com/science/article/pii/S016412122200142X
+KW  - Software Performance Antipatterns
+KW  - Characterization
+KW  - Detection
+KW  - Multivariate analysis
+AB  - Context:
+Software Performance Antipatterns (SPAs) research has focused on algorithms for their characterization, detection, and solution. Existing algorithms are based on the analysis of runtime behavior to detect trends on several monitored variables, such as system response time and CPU utilization. However, the lack of computationally efficient methods currently limits their integration into modern agile practices to detect SPAs in large scale systems.
+Objective:
+In this paper, we extended our previously proposed approach for the automated SPA characterization and detection designed to support continuous integration/delivery/deployment (CI/CDD) pipelines, with the goal of addressing the lack of computationally efficient algorithms.
+Method:
+We introduce a machine learning-based approach to improve the detection of SPA and interpretation of approach’s results. The approach is complemented with a simulation-based methodology to analyze different architectural alternatives and measure the precision and recall of our approach. Our approach includes SPA statistical characterization using a multivariate analysis of load testing experimental results to identify the services that have the largest impact on system scalability.
+Results:
+To show the effectiveness of our approach, we have applied it to a large complex telecom system at Ericsson. We have built a simulation model of the Ericsson system and we have evaluated the introduced methodology by using simulation-based SPA injection. For this system, we are able to automatically identify the top five services that represent scalability choke points. We applied two machine learning algorithms for the automated detection of SPA.
+Conclusion:
+We contributed to the state-of-the-art by introducing a novel approach to support computationally efficient SPA characterization and detection that has been applied to a large complex system using performance testing data. We have compared the computational efficiency of the proposed approach with state-of-the-art heuristics. We have found that the approach introduced in this paper grows linearly, which is a significant improvement over existing techniques.
+ER  - 
+
+TY  - JOUR
+T1  - Combining machine learning with meta-analysis for predicting cytotoxicity of micro- and nanoplastics
+AU  - Xu, Jun-Li
+AU  - Lin, Xiaohui
+AU  - Gowen, Aoife A.
+JO  - Journal of Hazardous Materials Advances
+VL  - 8
+SP  - 100175
+PY  - 2022
+DA  - 2022/11/01/
+SN  - 2772-4166
+DO  - https://doi.org/10.1016/j.hazadv.2022.100175
+UR  - https://www.sciencedirect.com/science/article/pii/S2772416622001310
+KW  - Microplastic
+KW  - Nanoplastic
+KW  - Cytotoxicity
+KW  - Health effect
+KW  - Machine learning
+AB  - A growing number of articles have been reported to investigate health consequences of micro- and nanoplastics (MNPs) exposure, but no coherent images have been achieved due to the incomparability between studies, the complexity and heterogeneity of the existing toxicity data of MNPs. Herein, this work developed a predictive modelling framework for the cytotoxicity of MNPs using classification-based machine learning approaches. A literature search led to 1824 sample points represented by 9 features describing physicochemical properties of MNPs, the cell-related attribute and experimental factors. The decision tree ensemble classifier built from all features (DTE1) showed strong predictive ability with an accuracy of 0.95, recall and precision of both 0.86. Feature selection was subsequently performed to identify the key ingredients that dominated the toxic properties of MNPs. A simplified classifier developed from 6 influencing features demonstrated a comparable model performance to DTE1. This result can help direct future studies toward better experimental design and report, facilitating the understanding of the pressing MNP-related health issues. With continuous integration of more representative research data, the developed model can be widely applicable to a spectrum of MNP cytotoxicity settings.
+ER  - 
+
+TY  - JOUR
+T1  - Predicting continuous integration build failures using evolutionary search
+AU  - Saidani, Islem
+AU  - Ouni, Ali
+AU  - Chouchen, Moataz
+AU  - Mkaouer, Mohamed Wiem
+JO  - Information and Software Technology
+VL  - 128
+SP  - 106392
+PY  - 2020
+DA  - 2020/12/01/
+SN  - 0950-5849
+DO  - https://doi.org/10.1016/j.infsof.2020.106392
+UR  - https://www.sciencedirect.com/science/article/pii/S0950584920301579
+KW  - Continuous integration
+KW  - Build prediction
+KW  - Multi-Objective optimization
+KW  - Search-Based software engineering
+KW  - Machine learning
+AB  - Context: Continuous Integration (CI) is a common practice in modern software development and it is increasingly adopted in the open-source as well as the software industry markets. CI aims at supporting developers in integrating code changes constantly and quickly through an automated build process. However, in such context, the build process is typically time and resource-consuming which requires a high maintenance effort to avoid build failure. Objective: The goal of this study is to introduce an automated approach to cut the expenses of CI build time and provide support tools to developers by predicting the CI build outcome. Method: In this paper, we address problem of CI build failure by introducing a novel search-based approach based on Multi-Objective Genetic Programming (MOGP) to build a CI build failure prediction model. Our approach aims at finding the best combination of CI built features and their appropriate threshold values, based on two conflicting objective functions to deal with both failed and passed builds. Results: We evaluated our approach on a benchmark of 56,019 builds from 10 large-scale and long-lived software projects that use the Travis CI build system. The statistical results reveal that our approach outperforms the state-of-the-art techniques based on machine learning by providing a better balance between both failed and passed builds. Furthermore, we use the generated prediction rules to investigate which factors impact the CI build results, and found that features related to (1) specific statistics about the project such as team size, (2) last build information in the current build and (3) the types of changed files are the most influential to indicate the potential failure of a given build. Conclusion: This paper proposes a multi-objective search-based approach for the problem of CI build failure prediction. The performances of the models developed using our MOGP approach were statistically better than models developed using machine learning techniques. The experimental results show that our approach can effectively reduce both false negative rate and false positive rate of CI build failures in highly imbalanced datasets.
+ER  - 
+
+TY  - JOUR
+T1  - On the use of contextual information for machine learning based test case prioritization in continuous integration development
+AU  - Roza, Enrique A. da
+AU  - Prado Lima, Jackson A. do
+AU  - Vergilio, Silvia R.
+JO  - Information and Software Technology
+VL  - 171
+SP  - 107444
+PY  - 2024
+DA  - 2024/07/01/
+SN  - 0950-5849
+DO  - https://doi.org/10.1016/j.infsof.2024.107444
+UR  - https://www.sciencedirect.com/science/article/pii/S0950584924000491
+KW  - Regression testing
+KW  - Continuous integration
+KW  - Reinforcement learning
+AB  - Context:
+In most software organizations, Continuous Integration (CI) is a common practice usually subject to some budgets. Consequently, prioritizing test cases to be executed in the CI cycle is fundamental. The idea is first to execute test cases with higher failure-proneness to provide rapid feedback and decrease costs. To perform this task approaches in the literature adopt failure history and Machine Learning (ML). However, in addition to the failure history, it is also important to consider information from the CI context of the organizations and the application domain.
+Objective:
+For this end, we introduce a contextual information approach for ML algorithms. Such an approach considers information from the testing activity that can be easily collected, such as test case execution time, size, and complexity. We implement the approach by introducing two contextual versions of the algorithms: Multi-Armed Bandit (MAB) and Random Forest (RF).
+Method:
+Six systems are used to compare both contextual algorithms and to evaluate their performance regarding their corresponding non-contextual versions, considering three different budgets.
+Results:
+Contextual algorithms perform better when indicators related to test time reduction are considered, as the contextual information they use is related to execution time. Regarding NAPFD and APFDc, the non-contextual algorithms have better general performance, but both contextual versions obtain competitive results.
+Conclusions:
+The contextual versions implemented can capture the desired context information in the prioritization without negatively impacting their performance regarding fault-detection.
+ER  - 
+
+TY  - JOUR
+T1  - Improving test case selection by handling class and attribute noise
+AU  - Al-Sabbagh, Khaled Walid
+AU  - Staron, Miroslaw
+AU  - Hebig, Regina
+JO  - Journal of Systems and Software
+VL  - 183
+SP  - 111093
+PY  - 2022
+DA  - 2022/01/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2021.111093
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121221001904
+KW  - Class noise
+KW  - Attribute noise
+KW  - Test case selection
+AB  - Big data and machine learning models have been increasingly used to support software engineering processes and practices. One example is the use of machine learning models to improve test case selection in continuous integration. However, one of the challenges in building such models is the large volume of noise that comes in data, which impedes their predictive performance. In this paper, we address this issue by studying the effect of two types of noise, called class and attribute, on the predictive performance of a test selection model. For this purpose, we analyze the effect of class noise by using an approach that relies on domain knowledge for relabeling contradictory entries and removing duplicate ones. Thereafter, an existing approach from the literature is used to experimentally study the effect of attribute noise removal on learning. The analysis results show that the best learning is achieved when training a model on class-noise cleaned data only — irrespective of attribute noise. Specifically, the learning performance of the model reported 81% precision, 87% recall, and 84% f-score compared with 44% precision, 17% recall, and 25% f-score for a model built on uncleaned data. Finally, no causality relationship between attribute noise removal and the learning of a model for test case selection was drawn.
+ER  - 
+
+TY  - JOUR
+T1  - Machine learning in software defect prediction: A business-driven systematic mapping study
+AU  - Stradowski, Szymon
+AU  - Madeyski, Lech
+JO  - Information and Software Technology
+VL  - 155
+SP  - 107128
+PY  - 2023
+DA  - 2023/03/01/
+SN  - 0950-5849
+DO  - https://doi.org/10.1016/j.infsof.2022.107128
+UR  - https://www.sciencedirect.com/science/article/pii/S0950584922002373
+KW  - Software defect prediction
+KW  - Machine learning
+KW  - Systematic mapping study
+KW  - Business applicability
+KW  - Effort and cost minimisation
+AB  - Context:
+Machine learning is a valuable tool in software engineering allowing fair defect prediction capabilities at a relatively small expense. However, although the practical usage of machine learning in defect prediction has been studied over many years, there is not sufficient systematic effort to analyse its potential for business application.
+Objective:
+The following systematic mapping study aims to analyse the current state-of-the-art in terms of machine learning software defect prediction modelling and to identify and classify the emerging new trends. Notably, the analysis is done from a business perspective, evaluating the opportunities to adopt the latest techniques and methods in commercial settings to improve software quality and lower the cost of development life cycle.
+Method:
+We created a broad search universe to answer our research questions, performing an automated query through the Scopus database to identify relevant primary studies. Next, we evaluated all found studies using a classification scheme to map the extent of business adoption of machine learning software defect prediction based on the keywords used in the publications. Additionally, we use PRISMA 2020 guideline to validate reporting.
+Results:
+After the application of the selection criteria, the remaining 742 primary studies included in Scopus until February 23, 2022 were mapped to classify and structure the research area. The results confirm that the usage of commercial datasets is significantly smaller than the established datasets from NASA and open-source projects. However, we have also found meaningful emerging trends considering business needs in analysed studies.
+Conclusions:
+There is still a considerable amount of work to fully internalise business applicability in the field. Performed analysis has shown that purely academic considerations dominate in published research; however, there are also traces of in vivo results becoming more available. Notably, the created maps offer insight into future machine learning software defect prediction research opportunities.
+ER  - 
+
+TY  - JOUR
+T1  - Just-in-time bug classifier: A step towards integrating Automated Program Repair in CI/CD pipelines
+AU  - Kabadi, Vinay
+AU  - Le, Xuan-Bach D.
+AU  - Thongtanunam, Patanamon
+AU  - Treude, Christoph
+JO  - Information and Software Technology
+VL  - 195
+SP  - 108076
+PY  - 2026
+DA  - 2026/07/01/
+SN  - 0950-5849
+DO  - https://doi.org/10.1016/j.infsof.2026.108076
+UR  - https://www.sciencedirect.com/science/article/pii/S0950584926000650
+KW  - Automatic Program Repair
+KW  - Bug classifier
+AB  - Context:
+Automated Program Repair (APR) tools have advanced in recent years, yet their effectiveness can improve when integrated into Continuous Integration/Continuous Deployment (CI/CD) pipelines. Motivated by this, we designed the Continuous Automatic Repair Framework (CARF), which detects build failures, routes each bug to the most suitable repair tool, and automatically commits the generated fix. During development, we identified a critical bottleneck: the need for instant bug classification within CI/CD. Accurate classification is essential to determine whether a fault lies in program code or the test suite, ensuring the defect is routed to the appropriate repair tool.
+Objective:
+Objectives: This study aims to design and evaluate a just-in-time bug classifier capable of distinguishing between program and test bugs during CI/CD execution, thereby enabling CARF to maintain workflow efficiency by directing defects to appropriate repair tools.
+Methods:
+We implemented a heuristic analysis tool that extracts discriminative structural features by comparing Abstract Syntax Trees (ASTs) between buggy and pre-buggy commits. These features are input to machine learning models for bug classification. Empirical validation demonstrated the accuracy and operational feasibility of the approach within CI/CD environments.
+Results:
+Our approach achieved up to 73% accuracy in identifying regression bugs across 67 real-world projects, effectively distinguishing between program bugs and test bugs while requiring only 10% of the dataset for training. In contrast, prior studies reported an accuracy of 69% on artificially injected bugs derived from successive versions of only two projects, with 90% of the data used for training.
+Conclusion:
+CARF facilitates the integration of automated program repair into CI/CD pipelines, enabling faster, more accurate, and more flexible software maintenance. The just-in-time bug classifier demonstrates that defect classification can scale efficiently without symbolic execution or manual bug reports, providing a practical foundation for continuous automated repair.
+ER  - 
+
+TY  - JOUR
+T1  - Cost-effective simulation-based test selection in self-driving cars softwareImage 1
+AU  - Birchler, Christian
+AU  - Ganz, Nicolas
+AU  - Khatiri, Sajad
+AU  - Gambi, Alessio
+AU  - Panichella, Sebastiano
+JO  - Science of Computer Programming
+VL  - 226
+SP  - 102926
+PY  - 2023
+DA  - 2023/03/01/
+SN  - 0167-6423
+DO  - https://doi.org/10.1016/j.scico.2023.102926
+UR  - https://www.sciencedirect.com/science/article/pii/S0167642323000084
+KW  - Self-driving cars
+KW  - Software simulation
+KW  - Regression testing
+KW  - Test case selection
+KW  - Continuous integration
+AB  - Simulation environments are essential for the continuous development of complex cyber-physical systems such as self-driving cars (SDCs). Previous results on simulation-based testing for SDCs have shown that many automatically generated tests do not strongly contribute to the identification of SDC faults, hence do not contribute towards increasing the quality of SDCs. Because running such “uninformative” tests generally leads to a waste of computational resources and a drastic increase in the testing cost of SDCs, testers should avoid them. However, identifying “uninformative” tests before running them remains an open challenge. Hence, this paper proposes SDC-Scissor, a framework that leverages Machine Learning (ML) to identify SDC tests that are unlikely to detect faults in the SDC software under test, thus enabling testers to skip their execution and drastically increase the cost-effectiveness of simulation-based testing of SDCs software. Our evaluation concerning the usage of six ML models on two large datasets characterized by 22'652 tests showed that SDC-Scissor achieved a classification F1-score up to 96%. Moreover, our results show that SDC-Scissor outperformed a randomized baseline in identifying more failing tests per time unit. Webpage & Video: https://github.com/ChristianBirchler/sdc-scissor
+ER  - 
+
+TY  - JOUR
+T1  - Implementation of home energy management system based on reinforcement learning
+AU  - Haq, Ejaz Ul
+AU  - Lyu, Cheng
+AU  - Xie, Peng
+AU  - Yan, Shuo
+AU  - Ahmad, Fiaz
+AU  - Jia, Youwei
+JO  - Energy Reports
+VL  - 8
+SP  - 560
+EP  - 566
+PY  - 2022
+DA  - 2022/04/01/
+T2  - 2021 The 8th International Conference on Power and Energy Systems Engineering
+SN  - 2352-4847
+DO  - https://doi.org/10.1016/j.egyr.2021.11.170
+UR  - https://www.sciencedirect.com/science/article/pii/S2352484721013172
+KW  - Home energy management system
+KW  - Reinforcement learning
+KW  - Energy cost
+KW  - Thermal comfort
+KW  - Energy storage systems
+AB  - The implementation of machine learning methods in home energy management have been shown to be a feasible alternative in the minimization of electricity cost. These methods regulate the home electric appliance systems, which contribute to the most critical loads in a household, thus enabling consumers to save electricity while still enhancing their comfort. Furthermore, renewable energy supplies are continuously integrating with other electricity resources in number of homes that is an important component to optimize energy consumption which result in the reduction of peak load and can bring economic benefits. In this paper, a reinforcement learning algorithm is explored for monitoring household electric appliances with the intention of lowering energy consumption through properly optimizing and addressing the best use renewable energy resources. The proposed method does not necessitate any previous information or knowledge of the uncertain dynamics and parameters of different household electric appliances. Simulation-based findings using real-time data validate the efficiency and reliability of the proposed method.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter Seventeen - Cloud native engineering for AI-driven ERP systems: Enhancing security, compliance and data privacy
+AU  - Singh, Bhupinder
+AU  - Dutta, Pushan Kumar
+A2  - Raj, Pethuru
+A2  - Agerstam, Mats
+A2  - Dutta, Pushan Kumar
+A2  - Sundaravadivazhagan, B.
+A2  - Nagasubramanian, Gayathri
+BT  - Advances in Computers
+PB  - Elsevier
+VL  - 141
+SP  - 439
+EP  - 463
+PY  - 2026
+DA  - 2026/01/01/
+T2  - Cloud-native Architecture (CNA) and Artificial Intelligence (AI) for the Future of Software Engineering: The Principles, Patterns, Platforms and Practices
+SN  - 0065-2458
+DO  - https://doi.org/10.1016/bs.adcom.2025.06.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0065245825001007
+KW  - IT sector
+KW  - Enterprise resource planning (ERP)
+KW  - AI
+KW  - Cloud-based system
+KW  - Data and privacy
+AB  - Cloud native engineering is redefining IT sector management by leveraging artificial intelligence (AI) to transform Enterprise Resource Planning (ERP) systems into agile, secure, and scalable cloud-based solutions. This chapter explores how integrating AI with cloud native ERP architectures not only streamlines critical business operations—ranging from finance and human resources to supply chain management—but also reinforces security measures and regulatory compliance in a dynamic digital environment. By harnessing containerization, microservices, and continuous integration/continuous delivery (CI/CD) practices, cloud native ERP systems facilitate rapid deployment and real-time data analysis. These advances enable proactive threat detection, automated compliance auditing, and robust privacy safeguards, thereby ensuring adherence to global data protection laws such as GDPR and CCPA. Ultimately, this integration paves the way for a resilient IT ecosystem that adapts seamlessly to evolving business needs and cybersecurity challenges.
+ER  - 
+
+TY  - JOUR
+T1  - Frouros: An open-source Python library for drift detection in machine learning systems
+AU  - Céspedes Sisniega, Jaime
+AU  - López García, Álvaro
+JO  - SoftwareX
+VL  - 26
+SP  - 101733
+PY  - 2024
+DA  - 2024/05/01/
+SN  - 2352-7110
+DO  - https://doi.org/10.1016/j.softx.2024.101733
+UR  - https://www.sciencedirect.com/science/article/pii/S2352711024001043
+KW  - Machine learning
+KW  - Drift detection
+KW  - Concept drift
+KW  - Data drift
+KW  - Python
+AB  - Frouros is an open-source Python library capable of detecting drift in machine learning systems. It provides a combination of classical and more recent algorithms for drift detection, covering both concept and data drift. We have designed it to be compatible with any machine learning framework and easily adaptable to real-world use cases. The library is developed following best development and continuous integration practices to ensure ease of maintenance and extensibility.
+ER  - 
+
+TY  - JOUR
+T1  - An empirical dataset combining repository metrics and pipeline workflows for predictive software analytics
+AU  - Sanusi, Funmilayo Abibat
+AU  - Faruna, Joshua Omaye
+JO  - Data in Brief
+VL  - 68
+SP  - 113128
+PY  - 2026
+DA  - 2026/08/01/
+SN  - 2352-3409
+DO  - https://doi.org/10.1016/j.dib.2026.113128
+UR  - https://www.sciencedirect.com/science/article/pii/S235234092600675X
+KW  - Continuous integration
+KW  - Continuous deployment
+KW  - Github actions
+KW  - Pipeline failure
+KW  - Machine learning
+KW  - Software engineering
+AB  - This data article presents a comprehensive dataset that captures the workflow history of Continuous Integration and Continuous Deployment (CI/CD) pipelines, along with the code-level repository metrics. There are 303,079 distinct execution records from August 2016 to April 2026 in the dataset. Specifically, the data comprises of archival Travis CI records from August to December 2016 which serves as the baseline, and live GitHub Actions workflows from May 2024 to April 2026. The data collection used a custom python extraction script which combined historical Travis CI data and live GitHub Actions workflow metadata with deep Git commit history. The chosen live repositories covered 34 highly active open-source projects across different domains like DevOps tools such as kubernetes/kubernetes, web frameworks like facebook/react, and machine learning like tensorflow/tensorflow. The variables collected consist of pipeline execution durations, pipeline final status, the conditions that triggered the events, code churn (additions and deletions), and the number of changed files. This resulted in a structured and tabular format (csv) dataset which is hosted and accessible on Mendeley Data and serves as a solid foundation for researchers and practitioners interested in discovering patterns in build breakages, creating predictive machine learning models for forecasting CI/CD pipelines' workflows, and advancing AIOps methodologies in software engineering.
+ER  - 
+
+TY  - JOUR
+T1  - Large scale quality transformation in hybrid development organizations – A case study
+AU  - Pradhan, Satya
+AU  - Nanniyur, Venky
+JO  - Journal of Systems and Software
+VL  - 171
+SP  - 110836
+PY  - 2021
+DA  - 2021/01/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2020.110836
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121220302284
+KW  - Quality transformation
+KW  - Quality management system
+KW  - Agile
+KW  - Waterfall
+KW  - Hybrid development organization
+AB  - As the software industry transitions to a subscription-based software-as-a-service (SaaS) model, software development companies are transforming to hybrid development organizations with increased adoption of Agile and Continuous Integration/ Continuous Delivery (CI/CD) development practices for newer products while continuing to use Waterfall methods for older products. This transformation is a huge undertaking impacting all aspects of the software development life cycle (SDLC), including the quality management system. This paper presents a case study of a large-scale transformation of a legacy quality management system to a modern system developed and implemented at Cisco Systems. The framework for this transformation is defined by six distinct areas: metrics, process, measurement, reporting, quality analytics, and culture & leadership. Our implementation leveraged recent advances in Machine Learning (ML), Artificial Intelligence (AI), connected data, integrated operations, and big data technologies to solve the challenges created by a hybrid software development organization. We believe this case study will help researchers and industry leaders understand the benefits and potential challenges of such sizeable transformations.
+ER  - 
+
+TY  - JOUR
+T1  - The pipeline for the continuous development of artificial intelligence models—Current state of research and practice
+AU  - Steidl, Monika
+AU  - Felderer, Michael
+AU  - Ramler, Rudolf
+JO  - Journal of Systems and Software
+VL  - 199
+SP  - 111615
+PY  - 2023
+DA  - 2023/05/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2023.111615
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121223000109
+KW  - Continuous development of AI
+KW  - Continuous (end-to-end) lifecycle pipeline for AI
+KW  - MLOps
+KW  - CI/CD for AI
+KW  - DevOps for AI
+KW  - Multivocal literature review
+AB  - Companies struggle to continuously develop and deploy Artificial Intelligence (AI) models to complex production systems due to AI characteristics while assuring quality. To ease the development process, continuous pipelines for AI have become an active research area where consolidated and in-depth analysis regarding the terminology, triggers, tasks, and challenges is required. This paper includes a Multivocal Literature Review (MLR) where we consolidated 151 relevant formal and informal sources. In addition, nine-semi structured interviews with participants from academia and industry verified and extended the obtained information. Based on these sources, this paper provides and compares terminologies for Development and Operations (DevOps) and Continuous Integration (CI)/Continuous Delivery (CD) for AI, Machine Learning Operations (MLOps), (end-to-end) lifecycle management, and Continuous Delivery for Machine Learning (CD4ML). Furthermore, the paper provides an aggregated list of potential triggers for reiterating the pipeline, such as alert systems or schedules. In addition, this work uses a taxonomy creation strategy to present a consolidated pipeline comprising tasks regarding the continuous development of AI. This pipeline consists of four stages: Data Handling, Model Learning, Software Development and System Operations. Moreover, we map challenges regarding pipeline implementation, adaption, and usage for the continuous development of AI to these four stages.
+ER  - 
+
+TY  - JOUR
+T1  - Impact of ChatGPT usage on nursing students education: A cross-sectional study
+AU  - Gonzalez-Garcia, Alberto
+AU  - Bermejo-Martinez, David
+AU  - Lopez-Alonso, Ana Isabel
+AU  - Trevisson-Redondo, Bibiana
+AU  - Martín-Vázquez, Cristian
+AU  - Perez-Gonzalez, Silvia
+JO  - Heliyon
+VL  - 11
+IS  - 1
+SP  - e41559
+PY  - 2025
+DA  - 2025/01/15/
+SN  - 2405-8440
+DO  - https://doi.org/10.1016/j.heliyon.2024.e41559
+UR  - https://www.sciencedirect.com/science/article/pii/S2405844024175901
+KW  - ChatGPT
+KW  - Nursing education
+KW  - Artificial intelligence
+KW  - Academic performance
+KW  - Technological innovations
+KW  - Student perceptions
+KW  - Nurse
+AB  - Background
+The use of artificial intelligence tools, such as ChatGPT, is on the rise in nursing education. In the field of healthcare, ChatGPT can offer unique opportunities to enhance the learning and clinical practice of nursing students. However, it is still necessary to explore how this tool affects students' performance and perception in their nursing education.
+Objective
+The objective of this study was to evaluate the impact of ChatGPT on nursing students' education and determine how it influences their learning outcomes.
+Design
+This study employed a quantitative cross-sectional design.
+Setting
+The study was conducted in the Bachelor of Nursing program at the University of León, Spain.
+Participants
+Ninety-eight nursing students enrolled in the Nursing Care and Services Management course during the second semester of 2024 participated in the study.
+Methods
+Data were collected using three validated questionnaires that assessed sociodemographic characteristics, knowledge of artificial intelligence, and perceptions of using ChatGPT as an educational tool. The data were analyzed using IBM SPSS Statistics, version 29.1.
+Results
+Students who used ChatGPT showed a significant improvement in their academic grades (p < 0.05). Additionally, 89.5 % of the students reported significant improvements in their academic performance. Women perceived ChatGPT as especially useful for completing academic tasks (85.14 % versus 50.00 % in men, p = 0.003). A positive correlation was observed between prior use of ChatGPT and GPA (ρ = 0.240, p = 0.026).
+Conclusions
+ChatGPT is a valuable tool that enhances the learning and satisfaction of nursing students. Its integration into nursing education programs not only boosts academic performance but also promotes the adoption of technological innovations in professional training. Continuous incorporation of AI tools in education is recommended to improve academic outcomes and prepare students for evolving healthcare environments.
+ER  - 
+
+TY  - JOUR
+T1  - Cybersecurity risks, DevSecOps challenges, and emerging security priorities: An empirical study across Brazilian organizations
+AU  - Canedo, Edna Dias
+AU  - Spósito, Stefano Luppi
+AU  - Peotta, Laerte
+AU  - Nunes, Rafael Rabelo
+AU  - Ladeira, Marcelo
+JO  - Computers & Security
+VL  - 170
+SP  - 105026
+PY  - 2026
+DA  - 2026/11/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2026.105026
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404826002026
+KW  - Cybersecurity governance
+KW  - Secure software development
+KW  - DevSecOps
+KW  - AI security
+KW  - Cyber resilience
+AB  - Context:
+Cybersecurity has become increasingly intertwined with organizational resilience, digital transformation, and regulatory pressure. Yet, many institutions still struggle to assess their structural risks, integrate secure-by-design practices, and prepare for emerging technologies such as AI-enabled cyber operations.
+Goal:
+This study aims to examine how Brazilian organizations perceive their cybersecurity posture across three dimensions: (i) infrastructure and governance risks, (ii) secure software development and DevSecOps challenges, and (iii) strategic priorities for emerging cybersecurity research and innovation.
+Method:
+We conducted a mixed-method survey with 88 practitioners from public, private, and critical infrastructure sectors. The instrument combined Likert scale assessments, multiple choice questions, and open-ended items. Quantitative data were analyzed using descriptive statistics, and qualitative responses were examined using inductive coding and thematic analysis.
+Results:
+Organizations report structural vulnerabilities linked to supply-chain dependencies, legacy systems, governance gaps, insider threats, and insufficient patch and vulnerability management. Challenges in secure development center on data exposure, limited security culture and training, insufficient security automation within Continuous Integration and Continuous Deployment (CI/CD) pipelines, and fragmented compliance integration. Emerging priorities include adversarial machine learning, AI security, cloud and hybrid architecture protection, cyber resilience, Governance, Risk, and Compliance (GRC) modernization, and Zero Trust adoption.
+Conclusion:
+Findings reveal systemic cybersecurity weaknesses and uneven DevSecOps maturity across sectors, underscoring the need for stronger governance, continuous workforce development, and resilience oriented security architectures. The study also identifies strategic research directions particularly in AI security, supply-chain defense, and cloud resilience that can guide national cybersecurity capacity building and policy making initiatives. This study also provides an evidence-based foundation to guide capability building programs, governance modernization, and future research collaborations across the Brazilian cybersecurity ecosystem.
+ER  - 

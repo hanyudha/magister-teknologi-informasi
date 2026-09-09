@@ -1,0 +1,840 @@
+TY  - CONF
+TI  - Importance of AIOps for Turn Metrics and Log Data: A Survey
+T2  - 2023 2nd International Conference on Edge Computing and Applications (ICECAA)
+SP  - 799
+EP  - 802
+AU  - L. N. Valli
+AU  - S. N.
+AU  - V. Geetha
+PY  - 2023
+KW  - Industries
+KW  - Surveys
+KW  - Machine learning
+KW  - Big Data
+KW  - Prediction algorithms
+KW  - Software
+KW  - Data models
+KW  - Artificial Intelligence
+KW  - Information Technology
+KW  - Turn Metrics
+KW  - Big data
+KW  - Log Data
+KW  - Machine Learning
+DO  - 10.1109/ICECAA58104.2023.10212414
+JO  - 2023 2nd International Conference on Edge Computing and Applications (ICECAA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 2nd International Conference on Edge Computing and Applications (ICECAA)
+Y1  - 19-21 July 2023
+AB  - AIOps is an information technology approach that automates and streamline IT operations by combining big data with machine learning models. For example, event correlation, anomaly detection, and root-cause analysis are some of the IT operations to be tackled. The whole software delivery lifecycle may benefit from a contemporary approach to AIOps. It provides quick responses and intelligent automation by addressing the volume, velocity, and diversity of data in complicated multicloud scenarios using cutting-edge AI approaches. Consequently, the capabilities of big data processing, machine learning and predictive analytics are the three primary areas that are targeted by an AI operations platform that is included into an AIOps platform which is an essential set of advantages for a company's bottom line. The goal of this study is to identify the significance of artificial intelligence to the services of information technology and to locate AI resources connected to software automation and management systems.
+ER  - 
+
+TY  - CONF
+TI  - SafeOps-LogMiner: Real-Time CI/CD Security Vulnerability Detection Using Hierarchical Machine Learning
+T2  - 2026 2nd International Conference on Global Aeronautical Engineering and Satellite Technology (GAST)
+SP  - 1
+EP  - 5
+AU  - H. Tabbaa
+AU  - O. Ouedrhiri
+AU  - A. Dahou
+AU  - W. Ahkouk
+AU  - H. Elghaoussal
+AU  - A. El Meziane
+AU  - M. Lachgar
+PY  - 2026
+KW  - Modeling
+KW  - Security
+KW  - Signal detection
+KW  - Labeling
+KW  - Machine learning
+KW  - Software development management
+KW  - Application programming interfaces
+KW  - Timing
+KW  - Noise
+KW  - Pipelines
+KW  - DevSecOps
+KW  - CI/CD Security
+KW  - GitHub Actions
+KW  - Hierarchical Machine Learning
+KW  - OWASP CI/CD Security
+KW  - Microservices Architecture
+KW  - Real-time Vulnerability Detection
+KW  - Robust ML Training
+DO  - 10.1109/GAST67799.2026.11523249
+JO  - 2026 2nd International Conference on Global Aeronautical Engineering and Satellite Technology (GAST)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 2nd International Conference on Global Aeronautical Engineering and Satellite Technology (GAST)
+Y1  - 22-24 April 2026
+AB  - The rapid adoption of Continuous Integration and Continuous Deployment (CI/CD) pipelines has revolutionized software delivery, with platforms like GitHub Actions processing over 100 million workflow runs daily. However, this velocity introduces significant security surfaces. In addition, 87% of organizations report experiencing CI/CD-related security incidents. Existing solutions predominantly rely on static analysis (SAST) or Infrastructure-as-Code (IaC) scanning, leaving a critical blind spot: runtime execution vulnerabilities. To address this, we present SafeOps-LogMiner, a real-time security monitoring framework that extends the SafeOps+ platform. Our system introduces a novel hierarchical two-phase machine learning pipeline designed for noise robustness. Phase 1 utilizes a binary logistic regression model with intentional label noise injection (2%) to distinguish benign from vulnerable logs with 97.40% accuracy. Phase 2 deploys a multi-class classifier trained with 3% feature perturbation to identify specific attack vectors (e.g., SQL Injection, Secret Leaks) with 97.00% accuracy. Implemented as a scalable 5-microservice architecture orchestrated via Docker Compose and RabbitMQ, the system processes 10,000+ webhooks per hour with an end-to-end latency of 340 ms. Furthermore, we integrate Generative AI (Google Gemini API) to provide automated remediation patches with 94% syntactic correctness.
+ER  - 
+
+TY  - CONF
+TI  - GenAI-Driven Autonomous DevSecOps Pipelines for Secure Financial Infrastructure
+T2  - 2026 6th International Conference on Electrical, Computer and Energy Technologies (ICECET)
+SP  - 1
+EP  - 6
+AU  - U. K. A. Sethupathy
+PY  - 2026
+KW  - Modeling
+KW  - Pipelines
+KW  - Security
+KW  - Machine learning
+KW  - Telemetry
+KW  - Testing
+KW  - Software
+KW  - Predictive analytics
+KW  - Machining
+KW  - Architecture
+KW  - GenAI
+KW  - DevSecOps
+KW  - CI/CD automation
+KW  - cybersecurity analytics
+KW  - software delivery pipelines
+DO  - 10.1109/ICECET65726.2026.11632669
+JO  - 2026 6th International Conference on Electrical, Computer and Energy Technologies (ICECET)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 6th International Conference on Electrical, Computer and Energy Technologies (ICECET)
+Y1  - 6-9 July 2026
+AB  - Modern financial software systems rely heavily on continuous integration and continuous delivery (CI/CD) pipelines to deploy features, security updates, and infrastructure changes at high velocity. While DevSecOps practices have improved automation in software delivery, most pipeline governance still depends on manual decision-making for handling failures, vulnerabilities, and deployment anomalies. This human dependency introduces operational delays, increases security risk exposure, and limits scalability of software delivery pipelines. This paper proposes a GenAI-driven autonomous DevSecOps orchestration framework designed to enable predictive security analytics and automated control actions in CI/CD pipelines. The framework integrates real-time pipeline telemetry with machine learning models capable of detecting anomalies, forecasting deployment failures, and identifying security risks prior to pipeline completion. A GenAI reasoning layer orchestrates remediation strategies including automated rollbacks, security gating, and adaptive pipeline optimization. Experimental evaluation using representative CI/CD telemetry demonstrates that the proposed system improves failure prediction accuracy, reduces mean time to recovery, and enhances overall deployment reliability in financial software infrastructure. The results indicate that integrating generative AI with DevSecOps orchestration can significantly enhance resilience and security in modern financial technology platforms.
+ER  - 
+
+TY  - CONF
+TI  - Prometheus and AIOps for the orchestration of Cloud-native applications in Ananke
+T2  - 2021 IEEE 30th International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE)
+SP  - 27
+EP  - 32
+AU  - A. Di Stefano
+AU  - A. Di Stefano
+AU  - G. Morana
+AU  - D. Zito
+PY  - 2021
+KW  - Measurement
+KW  - Automation
+KW  - Social networking (online)
+KW  - Time series analysis
+KW  - Collaboration
+KW  - Predictive models
+KW  - Prediction algorithms
+KW  - Cloud computing
+KW  - distributed computing
+KW  - middleware
+KW  - quality of service
+KW  - monitoring
+KW  - Platform as a service
+KW  - AIOps
+DO  - 10.1109/WETICE53228.2021.00017
+JO  - 2021 IEEE 30th International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE)
+IS  - 
+SN  - 2641-8169
+VO  - 
+VL  - 
+JA  - 2021 IEEE 30th International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE)
+Y1  - 27-29 Oct. 2021
+AB  - DevOps methodologies reduce the gap between Developers and Operations teams, enabling automation, integration, monitoring, and team collaboration by exploiting continuous integration and deployment and providing high-scale performance for the cloud software delivery life-cycle. AIOps seems to represent the future of IT automation by leveraging DevOps methodologies, Big Data, and AI-enabled strategies for the smart orchestration of Cloud-native applications. Based on the Ananke monitoring model, this paper investigates design issues and strategies required to enable integration between clusters and applications managed by Ananke, and their metrics stored in the Prometheus Monitoring system. Some classic algorithms for anomaly detection and forecasting of time series have been introduced in the proposed AIOps Prometheus Framework for the system analysis and orchestration of applications. Finally, we propose, as a case study, an auto-scaling strategy based on the prediction of traffic peeks for a web application using the Facebook Prophet model.
+ER  - 
+
+TY  - CONF
+TI  - The Future of Software Testing Automation: Innovations, Challenges, and Emerging Alternatives
+T2  - 2025 3rd International Conference on Inventive Computing and Informatics (ICICI)
+SP  - 1588
+EP  - 1593
+AU  - V. Shah
+AU  - P. Yadav
+PY  - 2025
+KW  - Software testing
+KW  - Technological innovation
+KW  - Automation
+KW  - Machine learning algorithms
+KW  - Pipelines
+KW  - Organizations
+KW  - Software
+KW  - Maintenance
+KW  - Software reliability
+KW  - Test pattern generators
+KW  - Software Testing Automation
+KW  - Artificial Intelligence High implementation costs and DevOps pipelines etc
+DO  - 10.1109/ICICI65870.2025.11069964
+JO  - 2025 3rd International Conference on Inventive Computing and Informatics (ICICI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 3rd International Conference on Inventive Computing and Informatics (ICICI)
+Y1  - 4-6 June 2025
+AB  - Software testing automation is seeing fast evolution, propelled by innovative developments in artificial intelligence (AI), machine learning (ML), and cloud computing technologies. These advances are transforming the software development environment, providing new opportunities to improve the effectiveness, precision, and adaptability of testing operation. This study investigates the future of software testing automation by analyzing the key advancements that are set to transform testing methodologies in the next years. Prominent advancements include AI-driven test generation methods that utilize machine learning algorithms to automatically produce test cases based on application behavior, as well as self-healing test scripts capable of autonomously identifying and adjusting to alterations in the application interface, thereby substantially minimizing maintenance burdens. Important developments include AI-driven test generation methods that utilize machine learning algorithms to automatically produce test cases based on application behavior, as well as self-healing test scripts that can independently identify and adjust to modifications in the application interface, thereby substantially decreasing maintenance burdens. The incorporation of continuous testing into DevOps pipelines is enhancing the agility and reliability of software delivery, enabling real-time feedback and expedited release cycles. Automation has many benefits, but implementing it is difficult. Maintaining automated test scripts may be complicated and resource-intensive, particularly for rapidly evolving codebases. Due to these constraints, low-code and no-code testing frameworks are becoming popular, democratizing automation by enabling testers without coding skills to build and execute automated tests. Combining these strategies with traditional automated techniques is improving software testing by offering a more complete and effective assessment framework. In research work focus on recent development in the area software testing also compare the different method which is involved in automated software testing.
+ER  - 
+
+TY  - CONF
+TI  - Resilience-Aware Software Engineering Framework Powered by Machine Learning
+T2  - 2026 25th International Symposium INFOTEH-JAHORINA (INFOTEH)
+SP  - 1
+EP  - 5
+AU  - D. Sundar
+AU  - Y. Jayaram
+AU  - J. Bhat
+PY  - 2026
+KW  - Radio broadcasting
+KW  - Frequency modulation
+KW  - Feedback
+KW  - Circuits
+KW  - Internet
+KW  - Protocols
+KW  - Cloud computing
+KW  - Radio access networks
+KW  - Regional area networks
+KW  - HTTP
+KW  - Resilience-Aware Software Engineering
+KW  - Machine Learning
+KW  - CI/CD Pipelines
+KW  - Software Resilience
+KW  - Predictive Analytics
+KW  - DevOps
+KW  - Adaptive Systems
+KW  - Failure Prediction
+KW  - Anomaly Detection
+KW  - Continuous Deployment
+KW  - RASEF-ML
+DO  - 10.1109/INFOTEH68759.2026.11477651
+JO  - 2026 25th International Symposium INFOTEH-JAHORINA (INFOTEH)
+IS  - 
+SN  - 2767-9470
+VO  - 
+VL  - 
+JA  - 2026 25th International Symposium INFOTEH-JAHORINA (INFOTEH)
+Y1  - 18-20 March 2026
+AB  - Continuous Integration and Continuous Deployment (CI/CD) pipelines are now part of the new software delivery reality but due to their growing size, complexity, and heterogeneity, they create serious problems in terms of system reliability, security, and operational stability. The current CI/CD platforms are largely based on reactive monitoring and ruledriven mechanisms, which do not excel at detecting failures, performance breakdowns, and cascading failures of dynamic cloud-native systems. To overcome these shortcomings, this paper puts forward a RASEF-ML (Resilience-Aware Software Engineering Framework with Machine Learning), which is an allencompassing framework used to actively achieve software system resilience throughout the lifecycle. RASEF-ML framework uses machine learning models that are trained on both historical and real-time data of pipelines to determine the probability of failures, system stability, recoverability, and resilience in the whole system. Extensive experimental testing shows that the RASEF-ML framework performs much better than the state-of-the-art structures, such as the Production Environment Analyzer Framework and Adaptive DevSecOps frameworks, regarding the accuracy of failure forecasting, service failure reduction, recovery time, and resilience measure. The findings support the hypothesis that integrating machine learning-based resilience intelligence into software engineering systems can allow proactive risk mitigation and accelerated recovery in CI/CD-powered software systems as well as operational resiliency.
+ER  - 
+
+TY  - CONF
+TI  - ServiceNow-Orchestrated Predictive Change Management: An Ensemble Machine Learning Framework for Automated Risk Governance in Enterprise DevOps Pipelines
+T2  - 2026 5th International Conference on Computer Networks, Big Data and IoT (ICCBI)
+SP  - 1064
+EP  - 1071
+AU  - V. Banka
+PY  - 2026
+KW  - Modeling
+KW  - Machine learning
+KW  - DevOps
+KW  - Pipelines
+KW  - Management
+KW  - Timing
+KW  - Long short term memory
+KW  - Machining
+KW  - Printing
+KW  - Internet
+KW  - ServiceNow
+KW  - Predictive Change Management
+KW  - AIOps
+KW  - DevOps Pipelines
+KW  - Ensemble Machine Learning
+KW  - CMDB
+KW  - Change Velocity
+KW  - ITIL 4
+KW  - CI/CD Risk Governance
+DO  - 10.1109/ICCBI68589.2026.11619664
+JO  - 2026 5th International Conference on Computer Networks, Big Data and IoT (ICCBI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 5th International Conference on Computer Networks, Big Data and IoT (ICCBI)
+Y1  - 18-20 June 2026
+AB  - Modern enterprise software delivery organizations have a chronic conflict between high-velocity DevOps deployment cadences and the governance rigor prescribed within ITIL-aligned change management frameworks. Machine learning-based risk prediction models show great promise for automating change governance decisions but existing research offers little specificity on the enterprise platforms which operationalize such models at scale. Here we introduce a ServiceNow-first architecture for predictive change management where ServiceNow becomes the end-to-end orchestration layer encompassing all five functional tiers of an ML-driven risk assessment pipeline: data ingestion, feature engineering, model inference, risk scoring and decision enforcement in the pipeline. In this architecture, ServiceNow becomes the main System of Record, providing historical incident records, CMDB telemetry as well as deployment logs delivered through DataStream actions and Kafka integrations. An ensemble of Random Forest, Gradient Boosting & LSTM networks learned over 24,680 enterprise change events reaches AUC-ROC 0.947 and F1-Score 90.0% a 48% than rule-based baselines. Risk scores are generated in real-time and automatically sent into ServiceNow’s DevOps Change Velocity module using REST APIs, where Low-Risk changes (~ 60% of all pipeline events) can immediately be approved and High-Risk changes routed for prioritized human review, completely displacing traditional Change Advisory Board processes. The Model Inference Layer is hosted within ServiceNow's Predictive Intelligence and AIOps modules correlating temporal deployment observables across multi-tenant infrastructure. ServiceNow Performance Analytics Dashboards surface SHAP-based interpretability rankings for audit in regulated environments. Operational outcomes confirm 41.3% fewer changes caused incidents, and a 18.7% reduction in deployment lead time, making ServiceNow an intelligent and scalable change governance orchestrator for enterprise DevOps pipelines.
+ER  - 
+
+TY  - CONF
+TI  - Predictive Analytics in CI/CD Pipelines: Machine Learning to Enhance Deployment Reliability and Performance
+T2  - 2026 4th International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)
+SP  - 901
+EP  - 909
+AU  - D. Sundar
+AU  - Y. Jayaram
+AU  - J. Bhat
+PY  - 2026
+KW  - Modeling
+KW  - Pipelines
+KW  - Machine learning
+KW  - Equations
+KW  - Timing
+KW  - Testing
+KW  - Printing
+KW  - Machining
+KW  - Software
+KW  - Codes
+KW  - Continuous Integration and Continuous Deployment (CI/CD)
+KW  - Predictive Analytics
+KW  - Machine Learning
+KW  - Deployment Reliability
+KW  - DevOps Automation
+KW  - Risk-Aware Deployment
+KW  - Pipeline Performance Optimization
+KW  - Cloud-Native Software Engineering
+KW  - Ensemble Learning
+KW  - MLOps
+DO  - 10.1109/ICSSAS68835.2026.11559332
+JO  - 2026 4th International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 4th International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)
+Y1  - 28-30 May 2026
+AB  - The core of the current software delivery is the Continuous Integration and Continuous Deployment (CI/CD) pipelines, but the problem of reliability and efficient deployments under the rising system complexity, scale, and heterogeneity becomes highly challenging. Current CI/CD models mainly rely on reactive monitoring and fixed rule-based mechanisms which are not sufficient to predict failures and performance risks in new dynamic cloud-native settings. To address such shortcomings, this paper also suggests PA-ML-CI/CD, a predictive learningbased analytics solution that actively assesses the risk of deployment reliability and performance before the pipeline is executed. The framework incorporates multi-source CI/CD telemetry, feature engineering at scale, ensemble learning models and risk conscious deployment controller to make intelligent, preemptive deployment decisions. This research indicates the presence of the challenge in implementing predictive machine learning and risk-aware decision-making into CI/CD pipelines to support proactive, self-adaptive software delivery in large-scale cloud-native settings.
+ER  - 
+
+TY  - CONF
+TI  - Operationalizing AI in Cloud-Native Systems: A DevSecOps Framework for Secure, Scalable, and Cost-Efficient Engineering
+T2  - 2025 International Conference on Computer and Applications (ICCA)
+SP  - 1
+EP  - 5
+AU  - M. Agrawal
+AU  - S. Sudarsan
+PY  - 2025
+KW  - Technological innovation
+KW  - Costs
+KW  - Scalability
+KW  - Production
+KW  - Software
+KW  - Reproducibility of results
+KW  - Safety
+KW  - Security
+KW  - Artificial intelligence
+KW  - Optimization
+KW  - Artificial Intelligence
+KW  - Cloud-Native Systems
+KW  - DevSecOps
+KW  - MLOps
+KW  - Kubernetes
+KW  - Autoscaling
+KW  - Cost Optimization
+KW  - Explainability
+DO  - 10.1109/ICCA66035.2025.11431002
+JO  - 2025 International Conference on Computer and Applications (ICCA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Computer and Applications (ICCA)
+Y1  - 22-24 Dec. 2025
+AB  - Cloud-native architectures and artificial intelligence (AI) have reshaped software delivery, but their convergence creates challenges in security, scalability, and cost control. Current practices in MLOps, container orchestration, and DevSecOps address these concerns independently, leaving gaps when AI workloads must meet production requirements simultaneously. We present an AI-augmented DevSecOps framework integrating four pillars: AI-driven security in Continuous Integration/Continuous Deployment (CI/CD) pipelines, reinforcement learning–based autoscaling, cost-aware orchestration, and explainable compliance. Evaluation on Kubernetes with NVIDIA A100 GPUs demonstrates 23% latency reduction, 35% faster vulnerability detection, and 22% cost savings versus rule-based baselines. Contributions include: (i) joint optimization of security, performance, and cost; (ii) explainable decision mechanisms; (iii) minimal adoption pathway for resource-constrained teams. The framework addresses operationalization—moving AI from prototypes to governed production deployments—by bridging MLOps reproducibility, DevSecOps threat mitigation, and cloud-native elasticity.
+ER  - 
+
+TY  - CONF
+TI  - Smart Software Coding and Predictive Analytics Using a Hybrid AI Approach
+T2  - 2025 IEEE First International Conference on Innovations in Engineering and Next-Generation Technologies for Sustainability (ICINVENTS)
+SP  - 1
+EP  - 5
+AU  - M. Banupriya
+AU  - P. Preetha
+AU  - K. Sindhu
+AU  - J. Sumitha
+AU  - S. Dhanishwaran
+AU  - R. J. Kiruthika
+PY  - 2025
+KW  - Analytical models
+KW  - Codes
+KW  - Explainable AI
+KW  - Software algorithms
+KW  - Predictive models
+KW  - Transformers
+KW  - Encoding
+KW  - Forecasting
+KW  - Predictive analytics
+KW  - Long short term memory
+KW  - Predictive analytics
+KW  - Gradient boosting
+KW  - LSTM networks
+KW  - Transformer models
+KW  - Explainable AI
+KW  - Time-series forecasting
+DO  - 10.1109/ICINVENTS64613.2025.11402172
+JO  - 2025 IEEE First International Conference on Innovations in Engineering and Next-Generation Technologies for Sustainability (ICINVENTS)
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - 2025 IEEE First International Conference on Innovations in Engineering and Next-Generation Technologies for Sustainability (ICINVENTS)
+Y1  - 7-8 Nov. 2025
+AB  - Recent advancements in Artificial Intelligence (AI) have significantly transformed both software engineering practices and predictive analytics, leading to the emergence of AI-driven coding and forecasting systems. These tools not only assist in code generation and optimization but also provide high-accuracy predictions for software performance, defect occurrence, and project outcomes. This work introduces an integrated framework that embeds predictive algorithms directly into the coding environment, combining Gradient Boosting Machines (GBM) for structured data analysis, Long Short-Term Memory systems designed for sequential dependency exhibiting along Transformer-based architectures for contextual sequence understanding in both natural language and programming code. GBM facilitates feature prioritization and high-dimensional pattern extraction, LSTM models capture long-range dependencies within project performance timelines, and Transformers enhance semantic comprehension for intelligent code recommendations and anomaly prediction. To address transparency in automated predictions, an Explainable AI (XAI) layer is incorporated, providing interpretable outputs for developers and project managers. Experimental evaluation on benchmark software repository datasets and historical project execution logs indicates an accuracy improvement of $\mathbf{8}-\mathbf{1 2} \boldsymbol{\%}$ over traditional statistical forecasting methods, along with reduced defect rates and improved development cycle efficiency. The findings demonstrate that AI-enhanced coding and forecasting systems, when augmented with hybrid predictive algorithms, can serve as critical enablers for proactive decision-making, optimized resource utilization, and accelerated software delivery in complex engineering environments.
+ER  - 
+
+TY  - CONF
+TI  - Intelligent Automation for Accelerating the Repair of Software Build Failures
+T2  - 2025 IEEE/ACM 47th International Conference on Software Engineering: Companion Proceedings (ICSE-Companion)
+SP  - 205
+EP  - 207
+AU  - G. Sun
+PY  - 2025
+KW  - Productivity
+KW  - Technological innovation
+KW  - Source coding
+KW  - Roads
+KW  - Surgery
+KW  - Maintenance engineering
+KW  - Software
+KW  - Proposals
+KW  - Software engineering
+KW  - Software development management
+KW  - build system
+KW  - automated program repair
+DO  - 10.1109/ICSE-Companion66252.2025.00062
+JO  - 2025 IEEE/ACM 47th International Conference on Software Engineering: Companion Proceedings (ICSE-Companion)
+IS  - 
+SN  - 2574-1934
+VO  - 
+VL  - 
+JA  - 2025 IEEE/ACM 47th International Conference on Software Engineering: Companion Proceedings (ICSE-Companion)
+Y1  - 27 April-3 May 2025
+AB  - Society has an insatiable hunger for software. It keeps our planes in the air, our cars on the road, and even guides surgical procedures. Yet as software enriches more and more aspects of our lives, its complexity (and that of its maintenance) presents an ever-growing challenge. To manage the development of complex software, build systems are widely adopted to perform routine checks after code submissions. The build system lies at the core of the software delivery process, responsible for transforming source code (pseudo-English machine instructions) into release-ready software that users can install or interact with. While build systems provide numerous benefits, the rapid pace of modern software development generates heavy workloads for them to process. Executing builds requires substantial computing resources and energy, and when a build fails, the consequences ripple throughout the development process. Failures not only block others from validating their work, but also necessitate repeated executions, incurring more resource consumption. In a case study of a software organization, 18% of builds failed, with an average of 56 minutes spent resolving each failure. Such inefficiencies contribute to wasted computing resources and energy and hinder productivity, emphasizing the need for more cost-effective solutions. This proposal aims to develop automated methods for repairing build failures by addressing four key areas: (1) compilation errors, (2) dependency-induced errors, (3) test execution errors, and (4) a comprehensive solution that integrates these aspects. The approach involves parsing and analyzing build action traces to identify root causes, cataloging and exploiting patterns of reusable build fixes to enable rapid resolution, and leveraging machine learning approaches, such as the fine-tuning and prompting of large language models, to assist developers in reimplementing failed test cases. These innovations will streamline the build repair process, reducing delays and improving overall development efficiency.
+ER  - 
+
+TY  - CONF
+TI  - AI-Driven Continuous Integration and Continuous Deployment in Software Engineering
+T2  - 2024 2nd International Conference on Disruptive Technologies (ICDT)
+SP  - 531
+EP  - 536
+AU  - A. S. Mohammed
+AU  - V. R. Saddi
+AU  - S. K. Gopal
+AU  - S. Dhanasekaran
+AU  - M. S. Naruka
+PY  - 2024
+KW  - Systematics
+KW  - Computer bugs
+KW  - Production
+KW  - Manuals
+KW  - Companies
+KW  - Software
+KW  - Artificial intelligence
+KW  - Automation
+KW  - Artificial Intelligence
+KW  - Machine Learning
+KW  - Adaptive Systems
+KW  - Cloud Computing
+DO  - 10.1109/ICDT61202.2024.10489475
+JO  - 2024 2nd International Conference on Disruptive Technologies (ICDT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 2nd International Conference on Disruptive Technologies (ICDT)
+Y1  - 15-16 March 2024
+AB  - AI driven Continuous Integration and Continuous Deployment is a new way of managing and continually updating a software project. This process, powered by Artificial Intelligence, automates the entire software delivery and deployment process - from code submission to monitoring and bug fixing. It eliminates manual errors and allows for multiple versions to be tested in parallel, saving time and effort. By increasing agility, it allows organizations to launch new features to production faster than ever. Continuous Integration and Continuous Deployment leverages artificial intelligence in implementation and execution. It automates the process of integration, testing, packaging and deployment. Furthermore, AI is used to detect and fix bugs which can prevent delays and costly production bugs. AI driven Continuous Integration and Continuous Deployment has become an increasingly popular development strategy. It helps reduce the overall cost and accelerate the software's production cycles, making it easier for developers to quickly get their features and services in the hands of the market.
+ER  - 
+
+TY  - CONF
+TI  - AI - Integrated DevSecOps for Scalable, Secure, and Modern Cloud Architectures
+T2  - 2026 International Conference on Electronics and Renewable Systems (ICEARS)
+SP  - 1742
+EP  - 1749
+AU  - R. K. Mahimalur
+AU  - V. G. Kolla
+AU  - C. D. Tank
+AU  - S. T. Meesala
+PY  - 2026
+KW  - Cloud computing
+KW  - Costs
+KW  - Codes
+KW  - Automation
+KW  - Pipelines
+KW  - Software
+KW  - Zero Trust
+KW  - Security
+KW  - Artificial intelligence
+KW  - Anomaly detection
+KW  - AI-Integrated DevSecOps
+KW  - Cloud-Native Security
+KW  - Policy-as-Code
+KW  - Secure CI/CD Pipelines
+KW  - Vulnerability Detection
+KW  - Machine Learning
+KW  - Anomaly Detection
+KW  - Risk-Based Prioritization
+KW  - Kubernetes Security
+KW  - Zero Trust Architecture
+DO  - 10.1109/ICEARS67481.2026.11416586
+JO  - 2026 International Conference on Electronics and Renewable Systems (ICEARS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Electronics and Renewable Systems (ICEARS)
+Y1  - 11-13 Feb. 2026
+AB  - Software delivery pipelines now need to be more secure, scalable, and robust due to the rapid use of cloud-native architectures. Security bottlenecks and lengthy release cycles are caused by traditional DevSecOps frameworks' high false positive rates, vulnerability to slow vulnerability alerts, and lack of automation. In order to solve these problems, this paper offers an AI-Integrated DevSecOps paradigm which integrates automation, intelligence, and continuous compliance into an already-existing CI/CD pipeline. The framework was developed through a design science research approach by combining reference architecture design, policy-as-code enforcement, artificial intelligence (AI) model integration and a controlled experiment. Fine-tuning of large language models for secure code review, risk-based vulnerability prioritisation based on machine learning, and a time-series anomaly detection model to track runtime telemetry were developed. Red team simulations and a production-scale cloud testbed with seeded controlled vulnerabilities were utilized to assess the system. With a mean time to detect of 4.5 minutes, a mean time to remediate of 12 minutes, a false positive rate of 3.2, and an F1-score of 97.5—much better than five state-of-the-art methods—the quantitative results are also encouraging. The findings demonstrate that the AI Integrated DevSecOps can provide software releases that are safe, quick, and dependable, which will aid in bridging the gap between security assurance and delivery agility after the tasks are carried out.
+ER  - 
+
+TY  - CONF
+TI  - Context-Aware Behavior-Driven Pipeline Generation
+T2  - 2025 13th International Symposium on Digital Forensics and Security (ISDFS)
+SP  - 1
+EP  - 6
+AU  - P. Gunathilaka
+AU  - D. Senadheera
+AU  - S. Perara
+AU  - C. Gunawardana
+AU  - S. Thelijjagoda
+AU  - J. Krishara
+PY  - 2025
+KW  - Automation
+KW  - DevOps
+KW  - Adaptive systems
+KW  - Reviews
+KW  - Pipelines
+KW  - Manuals
+KW  - Software
+KW  - Security
+KW  - Intelligent systems
+KW  - Testing
+KW  - CI/CD
+KW  - context-aware
+KW  - behavior-driven development
+KW  - GitHub activity analysis
+KW  - reviewer assignment
+KW  - workload optimization
+DO  - 10.1109/ISDFS65363.2025.11011952
+JO  - 2025 13th International Symposium on Digital Forensics and Security (ISDFS)
+IS  - 
+SN  - 2768-1831
+VO  - 
+VL  - 
+JA  - 2025 13th International Symposium on Digital Forensics and Security (ISDFS)
+Y1  - 24-25 April 2025
+AB  - An efficient CI/CD process is crucial for modern software teams, but manual pipeline creation is error-prone and requires high DevOps expertise, slowing deployment speed and reducing productivity. This research introduces a context-aware, behavior-driven approach to fully automating CI/CD pipeline generation by analyzing GitHub user activity patterns. The proposed solution utilizes a historical analysis of repository events, developer contributions, and workload distribution to dynamically generate pipelines and assign reviewers to pull requests based on expertise. Unlike previous template-based and generative AI solutions that require manual intervention, our approach leverages pattern recognition and adaptive decision-making to continuously refine automation. This paper presents the methodology behind data collection, analysis, and pipeline generation, demonstrating its effectiveness in reducing human effort while improving software delivery efficiency. This research highlights how behavior-driven automation streamlines the complexity of CI/CD pipeline creation, enabling more adaptive and intelligent systems that effectively respond to the evolving needs of software development teams.
+ER  - 
+
+TY  - JOUR
+TI  - Determinants of E-Commerce, Artificial Intelligence, and Agile Methods in Small- and Medium-Sized Enterprises
+T2  - IEEE Transactions on Engineering Management
+SP  - 6903
+EP  - 6917
+AU  - S. F. P. G. Barata
+AU  - F. A. F. Ferreira
+AU  - E. G. Carayannis
+AU  - J. J. M. Ferreira
+PY  - 2024
+KW  - Electronic commerce
+KW  - Artificial intelligence
+KW  - Companies
+KW  - Uncertainty
+KW  - Decision making
+KW  - Agile software development
+KW  - Decision making
+KW  - Agile methods
+KW  - artificial intelligence (AI)
+KW  - cognitive mapping
+KW  - decision-making trial and evaluation laboratory (DEMATEL)
+KW  - e-commerce
+KW  - multiple-criteria decision analysis (MCDA)
+KW  - strategic options development and analysis (SODA)
+KW  - technology
+DO  - 10.1109/TEM.2023.3269601
+JO  - IEEE Transactions on Engineering Management
+IS  - 
+SN  - 1558-0040
+VO  - 71
+VL  - 71
+JA  - IEEE Transactions on Engineering Management
+Y1  - 2024
+AB  - Small- and medium-sized enterprises (SMEs) are constrained by scarce resources, yet they are under strong pressure to maintain a competitive position in global markets, especially during crises such as the coronavirus disease-19 (COVID-19) pandemic. In this context, electronic commerce (hereafter e-commerce) platforms combining artificial intelligence (AI) and agile methods have been thriving. On the one hand, AI is a better way to process the data essential to platform customization and optimization. On the other hand, agile adoption ensures iterative software delivery as well as improved management practices that reduce uncertainty and allow SMEs to adapt more easily to new market requirements. A limited number of studies have covered all three topics, especially in relation to these companies. This research focused on creating an innovative model to identify determinants that favor or inhibit SME development of e-commerce, AI, and agile method projects. The model was developed using cognitive mapping—based on strategic options development and analysis—and decision-making trial and evaluation laboratory technique. Recommendations were generated to help SMEs use these tools to acquire a stronger competitive position in global markets.
+ER  - 
+
+TY  - CONF
+TI  - AI Integration for Sustainable DevOps & Cloud Interdisciplinary: Framework Optimized Resource Management and Carbon Efficiency
+T2  - 2025 International Conference on Sustainable Communication Networks and Application (ICSCN)
+SP  - 1836
+EP  - 1840
+AU  - H. Chamarthi
+AU  - M. Muppala
+PY  - 2025
+KW  - Cloud computing
+KW  - DevOps
+KW  - Software algorithms
+KW  - Reinforcement learning
+KW  - Prediction algorithms
+KW  - Sustainable development
+KW  - Artificial intelligence
+KW  - Predictive analytics
+KW  - Optimization
+KW  - Software engineering
+KW  - Artificial Intelligence
+KW  - DevOps
+KW  - Cloud Computing
+KW  - Sustainability
+KW  - Green Computing
+KW  - Resource Optimization
+KW  - Carbon Efficiency
+KW  - Reinforcement Learning
+DO  - 10.1109/ICSCN67106.2025.11306397
+JO  - 2025 International Conference on Sustainable Communication Networks and Application (ICSCN)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Sustainable Communication Networks and Application (ICSCN)
+Y1  - 15-17 Oct. 2025
+AB  - The exponential growth of cloud computing and DevOps practices has significantly increased the carbon footprint of digital infrastructure, necessitating innovative approaches to sustainable software delivery. This paper proposes an artificial intelligence (AI)-driven framework that integrates interdisciplinary approaches from software engineering, operational efficiency, and environmental science to enhance sustainability in DevOps pipelines. Our methodology employs reinforcement learning for dynamic resource optimization, predictive analytics for carbon-aware workload scheduling, and an intelligent query fragment caching algorithm to minimize computational overhead. The framework leverages multi-objective optimization to balance performance requirements with environmental impact, incorporating real-time telemetry data from cloud resources. Experimental results demonstrate a potential 30-45% reduction in energy consumption and a 25-40% decrease in carbon emissions compared to conventional DevOps practices while maintaining service level objectives. The proposed architecture provides a scalable foundation for achieving greener software development lifecycle management without compromising operational efficiency.
+ER  - 
+
+TY  - CONF
+TI  - Simplify Project Management by Incorporating of Artificial Intelligence Tool with Software Management Tool
+T2  - 2025 26th International Arab Conference on Information Technology (ACIT)
+SP  - 604
+EP  - 610
+AU  - F. Attari
+AU  - H. Fawareh
+AU  - G. Albesani
+PY  - 2025
+KW  - Artificial intelligence
+KW  - Tools
+KW  - Timing
+KW  - Printing
+KW  - Project management
+KW  - Software
+KW  - Conferences
+KW  - Information technology
+KW  - Testing
+KW  - Management
+KW  - Project Management
+KW  - Task Prioritization
+KW  - User Story
+KW  - AI Tools
+DO  - 10.1109/ACIT68900.2025.11510584
+JO  - 2025 26th International Arab Conference on Information Technology (ACIT)
+IS  - 
+SN  - 2831-4948
+VO  - 
+VL  - 
+JA  - 2025 26th International Arab Conference on Information Technology (ACIT)
+Y1  - 16-18 Dec. 2025
+AB  - Particularly software project management has seen fast and amazing development in recent years since the world has grown in need of sophisticated and large-scale software to easily and quickly meet our needs for daily life transactions. Nonetheless, several persistent issues continue to occur in the software sector despite the fierce and quick competition; one such issue is delay in client software delivery resulting from inadequate management policies. Conventional management techniques fall short in reaching the required efficiency and productivity in procedures of decision-making. To maintain competitiveness and productivity with better efficiency, some companies are looking for management methods and tools that help them achieve their goals with tools that reduce the percentage of errors, time, and effort. Artificial intelligence tools were among the most important advanced tools that contributed to keeping pace with this development, and because of the advanced and rapid features that these tools contain, managers resorted to using them to help them reduce the administrative burden during the project.
+ER  - 
+
+TY  - CONF
+TI  - Detecting and Mitigating Flaky Tests in Continuous Integration A Decision Catalogue for Quality Engineering Teams
+T2  - 2026 International Conference on Intelligent and Sustainable AI Systems (ICOSAAS)
+SP  - 1313
+EP  - 1320
+AU  - V. P. Javvadi
+AU  - R. S. Ganapathy
+AU  - M. S. Sri
+AU  - K. Nekkalapudi
+AU  - S. Pochincharla
+AU  - T. V. Akula
+PY  - 2026
+KW  - Testing
+KW  - Machine learning
+KW  - Signal detection
+KW  - Modeling
+KW  - Machining
+KW  - Software
+KW  - Timing
+KW  - Pipelines
+KW  - Poles and zeros
+KW  - Printing
+KW  - Continuous Integration
+KW  - Flaky Test Detection
+KW  - Quality Engineering
+KW  - CI/CD Automation
+KW  - Machine Learning
+DO  - 10.1109/ICOSAAS68663.2026.11648759
+JO  - 2026 International Conference on Intelligent and Sustainable AI Systems (ICOSAAS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Intelligent and Sustainable AI Systems (ICOSAAS)
+Y1  - 20-22 July 2026
+AB  - Continuous Integration (CI) has emerged as an essential method in contemporary software development, facilitating swift delivery and ongoing validation of software quality. The expanding volume and intricacy of automated test suites have engendered a recurrent issue referred to as test flakiness. Flaky tests demonstrate erratic results without any modifications to the application code, leading to ambiguity in build pipelines and diminishing trust in testing outputs. These inconsistent tests result in postponed releases, heightened maintenance expenses, decreased developer productivity, and eroded confidence in automation frameworks. Despite extensive research endeavors, several businesses find it challenging to properly discover, categorize, and prevent flaky tests inside continuous integration setups. This paper introduces a detailed decision catalog that aids quality engineering teams in identifying, diagnosing, prioritizing, and alleviating flaky tests. The proposed catalog brings together statistical analysis, machine learning detection methods, infrastructure monitoring, and automated repair solutions into a structured way to make decisions. A reference architecture is provided to enable practical implementation within business CI/CD ecosystems. The experimental evaluation demonstrates that the proposed framework significantly improves the precision of flaky test detection while reducing investigative effort and construct instability. The results offer practical recommendations for firms aiming to improve test reliability and expedite software delivery.
+ER  - 
+
+TY  - CONF
+TI  - Failure Prediction in CI/CD Pipelines Using XGBoost-Based Machine Learning
+T2  - 2026 International Conference on Innovations in Communication, Geoscience and Robotics (ICICGR)
+SP  - 1
+EP  - 6
+AU  - K. M. N.
+AU  - S. Makarand
+AU  - K. D. S.
+AU  - A. S. S.
+AU  - P. V. A.
+AU  - P. P. M.
+PY  - 2026
+KW  - Modeling
+KW  - Pipelines
+KW  - Machine learning
+KW  - Printing
+KW  - Machining
+KW  - Timing
+KW  - Software development management
+KW  - Software engineering
+KW  - Testing
+KW  - Metadata
+KW  - CI/CD pipelines
+KW  - failure prediction
+KW  - machine learning
+KW  - GitHub Actions
+KW  - log analysis
+KW  - XGBoost
+KW  - DevOps
+DO  - 10.1109/ICICGR68236.2026.11600250
+JO  - 2026 International Conference on Innovations in Communication, Geoscience and Robotics (ICICGR)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Innovations in Communication, Geoscience and Robotics (ICICGR)
+Y1  - 24-25 April 2026
+AB  - Modern DevOps approaches revolve around Continuous Integration and Continuous Deployment (CI/CD) pipelines, which automate software build, test, and deployment tasks. However, configuration mistakes, dependency conflicts, unstable tests, and flawed code modifications often cause pipeline executions to fail, which increases debugging effort, delays releases, and wastes computer resources. Automated failure prediction algorithms are desperately needed as CI/CD systems grow and manual post-failure analysis becomes unfeasible. Using actual GitHub Actions workflow data, this article suggests a machine learning-based framework for forecasting CI/CD pipeline problems. The suggested method incorporates a variety of information sources, such as statistical features taken from execution logs, temporal execution characteristics, workflow metadata, and semantic representations obtained from commit messages using textual feature modeling approaches. Systematic preprocessing and feature engineering are used to convert raw workflow data into structured representations, and resampling techniques are used to overcome the inherent class imbalance between successful and unsuccessful executions. In order to model intricate correlations between pipeline features and execution outcomes with little computational overhead appropriate for real time deployment, an ensemble learning model based on XGBoost is utilized. The suggested framework greatly outperforms metadata only baseline techniques, with an overall prediction accuracy of 94.46%, according to experimental evaluation on over 30,000 workflow executions. Additionally, feature analysis shows that commit-level semantics and log-derived statistics play a significant role in failure prediction. Proactive detection of high-risk pipeline executions is made possible by the suggested framework, which can be easily incorporated into current CI/CD workflows to promote dependable and effective software delivery in real-world DevOps environments.
+ER  - 
+
+TY  - CONF
+TI  - SCLAT: An LLM-Interpretable User Story Quality Evaluation Framework
+T2  - 2026 IEEE 50th Annual Computers, Software, and Applications Conference (COMPSAC)
+SP  - 406
+EP  - 415
+AU  - Z. Ma
+AU  - C. Wang
+AU  - T. Li
+AU  - Z. Liu
+AU  - Y. Zhai
+PY  - 2026
+KW  - Modeling
+KW  - Large language models
+KW  - Printing
+KW  - Cognition
+KW  - Cognitive systems
+KW  - Terminology
+KW  - Generative Pre-trained transformer
+KW  - Software
+KW  - Design methodology
+KW  - Requirements engineering
+KW  - Agile Development
+KW  - User Stories
+KW  - Requirements Engineering
+KW  - Quality Evaluation
+KW  - Large Language Models
+KW  - Defect Detection
+DO  - 10.1109/COMPSAC69091.2026.00061
+JO  - 2026 IEEE 50th Annual Computers, Software, and Applications Conference (COMPSAC)
+IS  - 
+SN  - 2836-3795
+VO  - 
+VL  - 
+JA  - 2026 IEEE 50th Annual Computers, Software, and Applications Conference (COMPSAC)
+Y1  - 7-10 July 2026
+AB  - User stories serve as the core requirement carriers in agile development, and their quality directly determines the development team's understanding of requirements, as well as software delivery efficiency and quality. With the expansion of software specifications, user story quality evaluation is constrained by issues such as subjectivity and low efficiency in manual assessment, as well as lack of comprehensiveness and insufficient accuracy in the evaluation dimensions of automated methods, such as Natural Language Processing(NLP), Machine Learning(ML), and Large Language Models (LLM). This paper proposes an LLM-interpretable user story quality evaluation framework. Constructed by integrating the 3C principle, IN-VEST criteria, and IEEE 830 standards, the framework divides 40 core quality attributes into four dimensions: Structural Specification, Content Specification, Logical Soundness, and Actionability & Traceability (collectively SCLAT framework). To complement the framework, an LLM-interpretable application paradigm is proposed (known as K-CoT). This paradigm provides detailed, LLM-tailored designs for core attributes, introduces a negative example guidance mechanism, and a Chain-of-Thought (CoT) prompting strategy. Experimental validation on the NFDI4Cat dataset shows that the SCLAT framework enables LLMs to achieve an average F1-score of 89.9%, representing a significant improvement over traditional frameworks. The experimental results indicate that the interpretability design for LLM can comprehensively improve the dimensions, efficiency, and quality of user story defect detection.
+ER  - 
+
+TY  - CONF
+TI  - Intelligent DevOps: Leveraging Machine Learning for Automated CI/CD, Monitoring, and Cloud Resource Optimization in Java-Based Systems
+T2  - 2026 International Conference on Computing Theory and Wireless Communications (ICCTWC)
+SP  - 1
+EP  - 11
+AU  - R. Namburi
+PY  - 2026
+KW  - DevOps
+KW  - Machine learning
+KW  - Modeling
+KW  - Optimization
+KW  - Pipelines
+KW  - Resource management
+KW  - Machining
+KW  - Timing
+KW  - Artificial intelligence
+KW  - Monitoring
+KW  - DevOps
+KW  - Machine Learning
+KW  - CI/CD
+KW  - AIOps
+KW  - Cloud Computing
+KW  - Kubernetes
+KW  - Java
+KW  - Monitoring
+KW  - Resource Optimization
+DO  - 10.1109/ICCTWC68241.2026.11583747
+JO  - 2026 International Conference on Computing Theory and Wireless Communications (ICCTWC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Computing Theory and Wireless Communications (ICCTWC)
+Y1  - 1-2 April 2026
+AB  - Modern software systems increasingly rely on DevOps practices to enable rapid and reliable software delivery. However, traditional CI/CD pipelines and monitoring systems often lack adaptability to dynamic workloads and evolving system behavior. This paper presents an intelligent DevOps framework that integrates machine learning with Java-based micro services, cloud-native platforms, and automated CI/CD pipelines. The proposed system leverages ML models for anomaly detection, predictive analytics, and resource optimization, enhancing system reliability and operational efficiency. The architecture incorporates tools such as Jenkins, Kubernetes, and Prometheus, deployed on cloud platforms including AWS. Experimental evaluation demonstrates improvements in deployment efficiency, anomaly detection accuracy, and resource utilization. The results highlight the effectiveness of integrating AI-driven intelligence into DevOps workflows for nextgeneration cloud-based systems.
+ER  - 
+
+TY  - CONF
+TI  - AI-Assisted Runtime Vulnerability Prediction in CI/CD Pipelines Using Behavioral Telemetry
+T2  - 2026 Fourth International Conference on Secure Cyber Computing and Communications (ICSCCC)
+SP  - 1320
+EP  - 1325
+AU  - S. Arora
+AU  - Anupriya
+PY  - 2026
+KW  - Pipelines
+KW  - Modeling
+KW  - Runtime
+KW  - Security
+KW  - Artificial intelligence
+KW  - Telemetry
+KW  - Signal detection
+KW  - Printing
+KW  - Testing
+KW  - Aluminum
+KW  - Runtime Security
+KW  - CI/CD Pipelines
+KW  - Vulnerability Prediction
+KW  - Behavioral Telemetry
+KW  - AI-Assisted Security
+KW  - DevSecOps
+DO  - 10.1109/ICSCCC69031.2026.11600256
+JO  - 2026 Fourth International Conference on Secure Cyber Computing and Communications (ICSCCC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 Fourth International Conference on Secure Cyber Computing and Communications (ICSCCC)
+Y1  - 29-31 May 2026
+AB  - Security enforcement in Continuous Integration and Continuous Deployment (CI/CD) pipelines largely depends on static and rule-based analysis techniques, which are ineffective in identifying vulnerabilities that manifest during runtime execution. Exposure to security risks is worsened by the delay in the existing vulnerability discovery processes. Subsequently, this paper presents an AI-supported Runtime vulnerability prediction system which uses behavioral telemetry collected in CI/CD pipeline executions. The framework constantly guides the indicators of runtime, such as execution history, API communications and resource usage statistics, and uses a lightweight machine-learning model to predict the vulnerabilities at the earliest possible phases of the pipeline. The main contributions are: (i) introduction of runtime-aware security in CI/CD pipelines; (ii) development of telemetry-based behavioral features of vulnerability prediction and (iii) application of an efficient AI-based prediction model, which can be implemented in a real world environment. Experimental results prove that the vulnerability discovery capabilities can be better detected and have lower latency compared to traditional statical security tools. The suggested methodology, in its turn, strengthens proactive security in the DevSecOps ecosystems, which creates more resilient, secure development pipelines in the form of software delivery.
+ER  - 
+
+TY  - CONF
+TI  - Extracting Insights from Big Source Code Repositories with Automatic Clustering of Projects by File Names and Types
+T2  - 2023 International Conference on Smart Applications, Communications and Networking (SmartNets)
+SP  - 1
+EP  - 6
+AU  - Y. Yakhno
+AU  - S. Metin
+PY  - 2023
+KW  - Text mining
+KW  - Codes
+KW  - Source coding
+KW  - Project management
+KW  - Manuals
+KW  - Machine learning
+KW  - Packaging
+KW  - software repository mining
+KW  - natural language processing
+KW  - machine learning
+KW  - unsupervised learning
+KW  - source code mining
+KW  - business intelligence
+DO  - 10.1109/SmartNets58706.2023.10215598
+JO  - 2023 International Conference on Smart Applications, Communications and Networking (SmartNets)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 International Conference on Smart Applications, Communications and Networking (SmartNets)
+Y1  - 25-27 July 2023
+AB  - Software project delivery requires a set of related activities to be conducted. The output of these activities form a collection of unstructured data such as specifications, requirements, manuals, source code and packaging files which is stored in configuration management systems. Software repositories are infrastructures to support project management activities and can be composed with several systems that include code change management, bug tracking, code review, build system, release binaries, wikis, forums, etc. This large and variable data collection provides opportunities for text mining tasks which further can be utilized for software delivery or business intelligence related goals. The proposed approach uses machine learning methods to inspect large software repositories and classifies the results to propose insights to project managers as an aide to make strategic business decisions. In the present work every software project is described by a certain representation (vector or set of vectors), which is constructed from names and types of the files from project content. These representations are used to find clusters of similar projects in big code repositories and highlight specific properties of the found groups: most used names and types of the file.
+ER  - 
+
+

@@ -1,0 +1,2074 @@
+TY  - CONF
+TI  - Cross-Domain DataOps with Federated Learning: Unlocking AI in Regulated and Consumer-Facing Systems
+T2  - 2025 International Conference on Computing Technologies & Data Communication (ICCTDC)
+SP  - 01
+EP  - 08
+AU  - G. Narain Natarajan
+AU  - S. Hassan
+AU  - R. Reddy Tuniki
+AU  - S. Zia Hassan
+PY  - 2025
+KW  - Training
+KW  - Data privacy
+KW  - Adaptation models
+KW  - Federated learning
+KW  - Soft sensors
+KW  - Pipelines
+KW  - Data models
+KW  - Regulation
+KW  - Data governance
+KW  - Testing
+KW  - Federated Learning
+KW  - DataOps
+KW  - Cross-Domain AI
+KW  - Privacy-Preserving Analytics
+KW  - Distributed Systems
+KW  - ComplianceAware Machine Learning
+KW  - Model Orchestration
+KW  - Regulated Environments
+KW  - Consumer-Facing Applications
+KW  - Data Governance
+DO  - 10.1109/ICCTDC64446.2025.11158826
+JO  - 2025 International Conference on Computing Technologies & Data Communication (ICCTDC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Computing Technologies & Data Communication (ICCTDC)
+Y1  - 4-5 July 2025
+AB  - The increasing pace of artificial intelligence (AI), its developments in domains like healthcare, finance and consumer applications require data solutions that can be robust, privacy oriented, and regulation ready. In this paper, a crossdomain framework, DataOps united with Federated Learning (FL), is presented to overcome the issues of distributed data governance, model accuracy and operational agility. Our solutions address the need by deploying DataOps to secure federated learning systems to allow the co-working of regulated institutions with front-end consumer systems, utilizing continuous integration, automated testing, and data pipeline orchestration. We introduce our new architecture which guarantees the data locality, compliance with the regulations of data privacy (e.g., GDPR, CA, HIPAA) as well as the adaptive updates to the models to respond to the new data sources (will be distributed across silos). Testing on heterogeneous data sets illustrates better training efficiency, reduced latency to convergence of a model and also a stable performance in situations they are deployed into. These are the implications of the study results; FL-enabled DataOps pipelines have the potential to revolutionize how to operationalize AI at scale with full respect of data sovereignty and consumer confidence.
+ER  - 
+
+TY  - JOUR
+TI  - The Deployment and Implementation of Cloud Platform for Remote Automatic Correction of Artificial Intelligence Models
+T2  - IEEE Transactions on Industrial Informatics
+SP  - 3466
+EP  - 3474
+AU  - J. C. Ku
+AU  - S. L. Chen
+PY  - 2025
+KW  - Artificial intelligence
+KW  - Cloud computing
+KW  - Training
+KW  - Computational modeling
+KW  - Production
+KW  - Monitoring
+KW  - Containers
+KW  - Virtual machines
+KW  - Manufacturing
+KW  - Biological system modeling
+KW  - Automated deployment
+KW  - automated integration
+KW  - cloud service
+KW  - dynamic model correction
+KW  - model monitoring
+KW  - smart manufacturing
+DO  - 10.1109/TII.2025.3528563
+JO  - IEEE Transactions on Industrial Informatics
+IS  - 4
+SN  - 1941-0050
+VO  - 21
+VL  - 21
+JA  - IEEE Transactions on Industrial Informatics
+Y1  - April 2025
+AB  - Despite the advanced research in artificial intelligence (AI) technology within the academic community, enterprises have yet to fully integrate this technology into practical applications. In the manufacturing sector, deploying professional IT personnel to implement AI for just a few machines is not ideal, posing a significant challenge for traditional factories. Additionally, the rising consumer demand for highly personalized and high-value-added products necessitates increased flexibility in production design and implementation. This study aims to establish an AI model cloud service platform that possesses the following features: 1) remote dynamic model adjustment, 2) automated continuous integration, 3) automated continuous deployment, 4) administrator web status display interface, 5) data security protection mechanism, 6) global remote deployment, and 7) multiscenario operations including deployment mechanisms, model adjustment mechanisms, server setup mechanisms, and more. The platform aims to address the issue of production lines struggling to integrate AI into practical applications. The innovation of this research lies in the proposed system architecture and platform for introducing AI into the manufacturing industry. Enterprises can use this study to establish their AI integration systems and deploy relevant technologies, or they can directly apply the research outcomes to their industrial control environments. This approach reduces the difficulties enterprises face when introducing AI technology, accelerates the transition from production automation to intelligent manufacturing, enhances production efficiency and sustainability, and improves the operational performance and management of the manufacturing industry, thereby strengthening global competitiveness.
+ER  - 
+
+TY  - CONF
+TI  - Enhancing Autonomous Driving Systems through ROS2 and AWS Cloud: V2I Interaction and HPC Data Processing
+T2  - 2024 IEEE 33rd International Symposium on Industrial Electronics (ISIE)
+SP  - 1
+EP  - 6
+AU  - S. W. Lee
+AU  - Y. G. Choi
+AU  - J. W. Jeon
+PY  - 2024
+KW  - Technological innovation
+KW  - Vehicle-to-infrastructure
+KW  - Wireless networks
+KW  - Memory management
+KW  - Data processing
+KW  - Throughput
+KW  - Software systems
+KW  - SDV
+KW  - V2I
+KW  - ROS2
+KW  - Middleware
+KW  - Docker
+DO  - 10.1109/ISIE54533.2024.10595834
+JO  - 2024 IEEE 33rd International Symposium on Industrial Electronics (ISIE)
+IS  - 
+SN  - 2163-5145
+VO  - 
+VL  - 
+JA  - 2024 IEEE 33rd International Symposium on Industrial Electronics (ISIE)
+Y1  - 18-21 June 2024
+AB  - The automotive industry is undergoing a significant shift towards software-defined computing to meet the evolving demands of technology and the increasing complexity of software systems. This transition is giving rise to innovations such as Software Defined Vehicles (SDVs), which aim to enhance safety and convenience features, relying on technologies like Artificial Intelligence (AI), Advanced driver assistance systems (ADAS), and Robot Operating System2 (ROS2) for autonomous driving research. To effectively manage the growing amount of software in vehicles, strategies such as partitioned processing and infrastructure utilization are being proposed to optimize High-Performance Computing (HPC) usage and ensure reliable real-time data processing while minimizing resource consumption. In this paper, we propose a system that utilizes infrastructure to reduce the services to be handled by HPC to meet the SDV research trend and builds a pipeline to manage and deploy application Software. To demonstrate the proposed system, we utilized ROS2, Docker technology, and continuous integration and continuous delivery/continuous deployment (CI/CD) deployment for Over-The-Air (OTA).
+ER  - 
+
+TY  - CONF
+TI  - TestAgentX: Leveraging Large Language Models and Reinforcement Learning for Scalable and Adaptive Software Testing
+T2  - 2026 International Conference on Next-Gen Quantum and Advanced Computing: Algorithms, Security, and Beyond (NQComp)
+SP  - 599
+EP  - 604
+AU  - Vijayamahantesh
+AU  - A. A
+AU  - N. E
+AU  - P. K. Pareek
+PY  - 2026
+KW  - Radio broadcasting
+KW  - Frequency modulation
+KW  - Feedback
+KW  - Circuits
+KW  - Location awareness
+KW  - Radio access networks
+KW  - Regional area networks
+KW  - Protocols
+KW  - Mobile communication
+KW  - HTTP
+KW  - resilient software testing
+KW  - large language models
+KW  - reinforcement learning
+KW  - adaptive test strategy
+KW  - defects4j dataset
+KW  - fuzzy logic
+DO  - 10.1109/NQComp68334.2026.11497649
+JO  - 2026 International Conference on Next-Gen Quantum and Advanced Computing: Algorithms, Security, and Beyond (NQComp)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Next-Gen Quantum and Advanced Computing: Algorithms, Security, and Beyond (NQComp)
+Y1  - 5-6 March 2026
+AB  - The goal of resilient software testing is to guarantee that software systems continue to work as intended in the face of failure, changes in their environment, or unexpected inputs. Software resilience under stress is evaluated using methods like adaptive test techniques, mutation testing, and chaos engineering to improve dependability in hostile or ever-changing environments. Automating and improving software quality assurance is the goal of this paper's agentic testing system, which makes use of artificial intelligence agents. To create context aware test cases, assess the effectiveness of patches, and discover regressions in real-time, the proposed approach blends reinforcement learning, fuzzy logic, knowledge graph reasoning, and large language models (LLMs). Agentic architecture allows for human-in-the-loop review for continual improvement and dynamically adapts to changing codebases, unlike conventional static testing techniques. To run a plethora of tests on the Defects4J dataset, which contains 835 actual Java errors. When contrasted with EvoSuite, the framework's results showed an 89% test coverage, an 84% mutation score, and a 55% reduction in test generation time. It also showed an 86% regression detection rate, a 91% accuracy rate for patch verification, and a very low false positive rate of only 8%. By a wide margin, fuzzy validation outperformed conventional methods, with an 82% developer acceptance rate and a contextual relevance score of 0.88. Notably, scores surpassing 75% were achieved in the areas of cross-project generalization, noisy tolerance, and idea drift adaptability. Positioned as a next generation solution for continuous integration pipelines in modern software engineering environments, the results underscore the framework's ability to deliver robust, explainable, and scalable testing automation.
+ER  - 
+
+TY  - CONF
+TI  - Evaluating AI-Based Unit Testing Tools: A Focus on Usability, Reliability, and Integration
+T2  - 2025 5th International Conference on Advanced Research in Computing (ICARC)
+SP  - 1
+EP  - 6
+AU  - H. Aarifeen
+AU  - D. Wickramaarachchi
+PY  - 2025
+KW  - Computer bugs
+KW  - Focusing
+KW  - Organizations
+KW  - Software quality
+KW  - Manuals
+KW  - Software reliability
+KW  - Reliability
+KW  - Usability
+KW  - Artificial intelligence
+KW  - Testing
+KW  - artificial intelligence
+KW  - reliability
+KW  - unit testing tools
+KW  - usability
+KW  - integration
+DO  - 10.1109/ICARC64760.2025.10963099
+JO  - 2025 5th International Conference on Advanced Research in Computing (ICARC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 5th International Conference on Advanced Research in Computing (ICARC)
+Y1  - 19-20 Feb. 2025
+AB  - This study presents an empirical comparison of Artificial Intelligence (AI)-based unit testing tools, focusing on their usability, reliability, and the challenges of integrating them into existing software testing frameworks. As AI-driven testing tools emerge as solutions to the limitations of traditional manual testing, particularly within agile methodologies and continuous integration/continuous deployment (CI/CD) pipelines, their effectiveness remains an area of active research. The research evaluates the potential of these tools to automate test generation and execution, thereby improving test coverage and bug detection while minimizing manual intervention. However, significant usability challenges persist, as developers often find these tools difficult to configure and deploy, especially in projects with varying complexities. Additionally, concerns about the reliability of AI-generated tests, particularly regarding consistent bug detection across different environments, are addressed. Integration into legacy systems poses further obstacles, as many organizations hesitate to overhaul established testing frameworks. The findings of this study offer insights into the current state of AI-based unit testing tools and provide recommendations for overcoming barriers to their widespread adoption in real-world development environments.
+ER  - 
+
+TY  - CONF
+TI  - Deployment and Design of AI-Powered Edge Systems for Wildlife Monitoring: A Survey
+T2  - 2025 International Conference on Emerging eLearning Technologies and Applications (ICETA)
+SP  - 566
+EP  - 571
+AU  - M. Martinský
+AU  - J. Papán
+AU  - S. Tatarka
+PY  - 2025
+KW  - Surveys
+KW  - Soft sensors
+KW  - Scalability
+KW  - Wildlife
+KW  - Edge AI
+KW  - Computer architecture
+KW  - Real-time systems
+KW  - Reliability
+KW  - Energy management
+KW  - Monitoring
+KW  - Edge AI
+KW  - Edge Computing
+KW  - IoT
+KW  - Deployment
+KW  - Wildlife Monitoring
+DO  - 10.1109/ICETA67772.2025.11280041
+JO  - 2025 International Conference on Emerging eLearning Technologies and Applications (ICETA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Emerging eLearning Technologies and Applications (ICETA)
+Y1  - 13-14 Nov. 2025
+AB  - Wildlife monitoring increasingly employs artificial intelligence (AI) for automated detection, classification, and tracking in natural habitats. While cloud-based approaches provide strong computational resources, they face latency, connectivity, and energy limitations in remote areas. Edge computing addresses these constraints by enabling local inference on distributed devices, reducing bandwidth demand and supporting real-time analytics. This survey reviews deployment and design strategies for AI-powered edge systems in wildlife monitoring, with focus on standalone, edge–cloud and federated architectures. We further examine containerization, orchestration frameworks, and continuous integration/continuous deployment (CI/CD) practices in distributed environments. Specific attention is given to device heterogeneity, energy management, and long-term reliability under field conditions. Finally, we outline open challenges and research directions toward scalable, sustainable and autonomous wildlife monitoring with edge AI.
+ER  - 
+
+TY  - CONF
+TI  - AI-Powered Vulnerability Management Using GitHub Actions for Secure Software Development
+T2  - 2026 International Conference on Emerging Trends in Mobile Computing and Sustainable Informatics (ICEMCSI)
+SP  - 1
+EP  - 9
+AU  - S. V. Nalluraya
+AU  - T. Dey
+PY  - 2026
+KW  - Security
+KW  - Software development management
+KW  - Tools
+KW  - Software
+KW  - Codes
+KW  - Artificial intelligence
+KW  - Modeling
+KW  - Pipelines
+KW  - Printing
+KW  - Testing
+KW  - GitHub Actions
+KW  - Vulnerability Detection
+KW  - Artificial Intelligence(AI)
+KW  - CI Security
+KW  - DevSecOps
+KW  - Software Security
+KW  - Automated Security Testing
+KW  - Static Code Analysis
+KW  - Dependency Scanning
+KW  - Secure Software Development
+DO  - 10.1109/ICEMCSI67638.2026.11602720
+JO  - 2026 International Conference on Emerging Trends in Mobile Computing and Sustainable Informatics (ICEMCSI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Emerging Trends in Mobile Computing and Sustainable Informatics (ICEMCSI)
+Y1  - 17-18 June 2026
+AB  - Considering the extensively software applications have come to be used, security is a very big concern in a period like this, and all of this is related especially to the way programming is done nowadays. While several tools exist to look for weaknesses, understanding what those weaknesses are is still quite hard, and so it's difficult for programmers to work out, understand and then correct them. As a result, important security faults can be left in place, and this means a higher chance of them being taken advantage of, and of systems failing. This paper aims to solve this problem by creating an automatic, clever system for handling weaknesses in software during the development process. The study details a GitHub process, powered by AI, which puts together looking at what program components depend on, and static code analysis, inside a CI system – using GitHub Actions. This process that's suggested runs security checks on every piece of code added and every request to pull code in and so helps find weaknesses early. As well as that, Artificial Intelligence is used to summarise complicated security reports into things people can read, which show the weaknesses and suggest how to put them right. Automatic replies are given as comments on pull requests, which helps people talk to each other in real time, and encourages people to write secure code. By bringing together continuous integration, automatic weakness-finding, and clever analysis of security reports, this process allows for solutions to software security problems which can be used on a large scale, and which don't cost much.
+ER  - 
+
+TY  - CONF
+TI  - Navigating the Landscape: An In-Depth Exploration of Modern Application Development Methodologies and Practices
+T2  - 2024 International Conference on Innovations and Challenges in Emerging Technologies (ICICET)
+SP  - 1
+EP  - 8
+AU  - M. Singh
+PY  - 2024
+KW  - Surveys
+KW  - Technological innovation
+KW  - DevOps
+KW  - Navigation
+KW  - Microservice architectures
+KW  - Serverless computing
+KW  - Organizations
+KW  - Agile
+KW  - DevOps
+KW  - Microservices Architecture
+KW  - Software Development
+KW  - Serverless Computing
+DO  - 10.1109/ICICET59348.2024.10616327
+JO  - 2024 International Conference on Innovations and Challenges in Emerging Technologies (ICICET)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Innovations and Challenges in Emerging Technologies (ICICET)
+Y1  - 7-8 June 2024
+AB  - Modern software development is a dynamic landscape, continually shaped by evolving technologies, methodologies, and organizational demands. This research paper delves into the intricate web of modern application development methodologies and practices, aiming to provide a comprehensive understanding of the choices available to developers and organizations. The study investigates the Agile methodology, DevOps practices, continuous integration/continuous delivery (CI/CD), Microservices Architecture, and Serverless Computing, scrutinizing their principles, benefits, challenges, and real-world applications. The research employs a systematic literature review and comparative analysis to examine the strengths and weaknesses of each methodology. Insights derived from case studies and best practices highlight successful implementation strategies, fostering a nuanced understanding of the diverse approaches within the realm of modern application development. Our findings reveal that the Agile methodology, with its iterative and collaborative approach, has become a cornerstone for many development teams. DevOps emerges as a transformative force, promoting seamless integration between development and operations. CI/CD practices enable efficient delivery pipelines, while Microservices Architecture and Serverless Computing offer scalable and flexible solutions. The comparative analysis dissects these methodologies, offering a roadmap for developers and organizations to navigate the complexities and select the most suitable approach based on project requirements. Looking ahead, the paper explores future trends in modern application development, considering the potential impact of emerging technologies such as artificial intelligence and blockchain. The research identifies challenges and opportunities on the horizon, urging the software development community to stay vigilant and adaptive in the face of evolving demands. This research not only provides an in-depth exploration of modern application development methodologies but also offers practical insights to guide developers and organizations in making informed decisions. As technology continues to advance, the findings presented herein serve as a valuable resource for navigating the ever-changing landscape of application development.
+ER  - 
+
+TY  - CONF
+TI  - AI-Powered Psychiatric Expert System with Continuous Improvement
+T2  - 2025 International Conference on Emerging Engineering Technologies and Applications (IC-EETA)
+SP  - 84
+EP  - 89
+AU  - Kirti
+AU  - T. Aggarwal
+AU  - C. Narang
+AU  - Paramjit
+PY  - 2025
+KW  - Modeling
+KW  - Artificial intelligence
+KW  - Printing
+KW  - Mental health
+KW  - Expert systems
+KW  - Training
+KW  - Testing
+KW  - Accuracy
+KW  - Organizations
+KW  - Reviews
+KW  - Artificial Intelligence (AI)
+KW  - Large Language Models (LLMs)
+KW  - Continuous Integration and Continuous Delivery (CI/CD)
+KW  - Psychiatric Disorders
+KW  - Expert Systems
+KW  - Machine Learning
+KW  - Natural Language Processing
+DO  - 10.1109/IC-EETA66496.2025.11548478
+JO  - 2025 International Conference on Emerging Engineering Technologies and Applications (IC-EETA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Emerging Engineering Technologies and Applications (IC-EETA)
+Y1  - 6-8 Nov. 2025
+AB  - With medical health disorders increasing their share of burdens towards the comprehensive burden of diseases, as per the World Health Organization (WHO), the disorder may account for 13% of the total illness by 2030 [1]. Inspire of this critical situation, the field has been continuously facing challenges. Be it social or be it limited access to resources, which may lead to delayed diagnosis. This research successfully presents an Artificial Intelligence based Expert System harnessed by the capabilities of large Language Models (LLMs) and backed by the highly efficient and reliable advanced Continuous-integration and Continuous-Delivery Mechanism (CI/CD) pipeline. The model’s robust AI based training shall help in simulating highly accurate Psychiatric-based decision making. CI/CD shall hold the responsibility of uninterrupted management of the model with the capabilities of Version Control, error-tracking, continuous deployment in minimal outage/downtime.
+ER  - 
+
+TY  - CONF
+TI  - Behavior Trees for the Application of ISO 26262 in Field Monitoring Processes for Autonomous Vehicles*
+T2  - 2024 IEEE 27th International Conference on Intelligent Transportation Systems (ITSC)
+SP  - 1045
+EP  - 1050
+AU  - C. Conejo
+AU  - V. Puig
+AU  - B. Morcego
+AU  - F. Navas
+AU  - V. Milanés
+PY  - 2024
+KW  - ISO Standards
+KW  - Software algorithms
+KW  - Road vehicles
+KW  - Software
+KW  - Road safety
+KW  - Safety
+KW  - Software reliability
+KW  - Autonomous vehicles
+KW  - Monitoring
+KW  - Standards
+DO  - 10.1109/ITSC58415.2024.10919931
+JO  - 2024 IEEE 27th International Conference on Intelligent Transportation Systems (ITSC)
+IS  - 
+SN  - 2153-0017
+VO  - 
+VL  - 
+JA  - 2024 IEEE 27th International Conference on Intelligent Transportation Systems (ITSC)
+Y1  - 24-27 Sept. 2024
+AB  - The rapid advancements in autonomous vehicle software present both opportunities and challenges, especially in enhancing road safety. The primary objective of autonomous vehicles is to reduce accident rates through improved safety measures. However, the integration of new algorithms into the autonomous vehicle, such as Artificial Intelligence methods, raises concerns about compliance with established safety regulations. This paper introduces a novel field monitoring process based on behavior trees. It is aligned with established standards and designed to monitor vehicle functional safety in real time. It specifically addresses the continuous integration of software into industrial road vehicles, adhering to the ISO 26262. This methodology, implemented in this study in a Renault Mégane (SAE level 3 of automation), not only guarantees compliance with safety standards, but also paves the way for safer and more reliable autonomous driving technologies.
+ER  - 
+
+TY  - CONF
+TI  - Driving Agile Transformation with RPA: A Review of Strategies and Outcomes
+T2  - 2025 International Conference on Engineering Innovations and Technologies (ICoEIT)
+SP  - 1376
+EP  - 1380
+AU  - R. Singh
+AU  - P. Maheshwary
+PY  - 2025
+KW  - Productivity
+KW  - Intelligent automation
+KW  - Technological innovation
+KW  - Cloud computing
+KW  - Scalability
+KW  - Key performance indicator
+KW  - Organizations
+KW  - Software
+KW  - Iterative methods
+KW  - Artificial intelligence
+KW  - Agile Methodologies
+KW  - Robotic Process Automation (RPA)
+KW  - Continuous Integration/Continuous Deployment (CIICD)
+KW  - Artificial Intelligence (AI)
+KW  - Cloud Computing
+KW  - Automation
+KW  - Agile Transformation
+KW  - Key Performance Indicators (KPIs)
+DO  - 10.1109/ICoEIT63558.2025.11211756
+JO  - 2025 International Conference on Engineering Innovations and Technologies (ICoEIT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Engineering Innovations and Technologies (ICoEIT)
+Y1  - 4-5 July 2025
+AB  - This study discusses the adoption of Robotic Process Automation (RPA) within Agile methods, focusing on its transformational impact on software development practices. Agile's nature of being iterative and flexible is well suited to the automation of repetitive, rule-based tasks by RPA to streamline workflows and increase efficiency. RPA removes bottlenecks and frees up teams from testing, data migration, and reporting mundane work to focus on high-value, strategic activities. This synergy helps in improving the delivery cycles, enhancing productivity, and high-quality software. The study researches strategies, challenges, and outcomes related to this integration, which emphasizes frameworks, such as Continuous Integration/Continuous Deployment (CI/CD), which allows automation deployment in an iterative, reliable manner. Emerging technologies, such as Artificial Intelligence (AI) and Cloud Computing, further enhance RPA capabilities by offering scalability, cognitive insights, and adaptability to dynamic project requirements, which enables Agile teams to maintain velocity while responding promptly to changing customer demands. By reviewing metrics and Key Performance Indicators such as velocity, sprint completion rates, ROI, and customer satisfaction, this study will evaluate RPA's effectiveness in supporting Agile goals. Real-world applications will show how these two may come together to ensure organizational agility and resilience. Insights presented can help practitioners better employ RPA in Agile workflows for optimizing scalability and maintaining continuous improvement.
+ER  - 
+
+TY  - JOUR
+TI  - High-Precision Identification of Power Quality Disturbances Under Strong Noise Environment Based on FastICA and Random Forest
+T2  - IEEE Transactions on Industrial Informatics
+SP  - 377
+EP  - 387
+AU  - J. Liu
+AU  - H. Song
+AU  - H. Sun
+AU  - H. Zhao
+PY  - 2021
+KW  - Power quality
+KW  - Independent component analysis
+KW  - Feature extraction
+KW  - Mathematical model
+KW  - Informatics
+KW  - Transforms
+KW  - Radio frequency
+KW  - Fast independent component analysis (FastICA)
+KW  - power quality (PQ) disturbance (PQD)
+KW  - random forest (RF)
+KW  - strong noise
+DO  - 10.1109/TII.2020.2966223
+JO  - IEEE Transactions on Industrial Informatics
+IS  - 1
+SN  - 1941-0050
+VO  - 17
+VL  - 17
+JA  - IEEE Transactions on Industrial Informatics
+Y1  - Jan. 2021
+AB  - The continuous integration of fluctuating distributed generators and nonlinear power electronic equipment have produced severe signal contamination and induced various power quality (PQ) problems to modern power systems. PQ disturbances (PQD) greatly ruin user experience and also bring significant power losses. Therefore, a high-precision machine learning-based PQD identification model is proposed in this article, which combines the advantages of the modified fast independent component analysis method and the improved random forest classifier. First, ten types of PQD models are established, and fast independent component analysis is adopted to denoise the PQD sample signals mixed with Gaussian noises. Second, the discrete wavelet transform is utilized to extract the statistical and wavelet-related features from the denoised PQD samples, so as to form the desired feature set. Finally, a random forest-based PQD identification model is proposed. Compared with several existing models, the proposed model has higher identification accuracy and stronger feasibility under strong noise environment, which could provide valuable information for future PQ management.
+ER  - 
+
+TY  - CONF
+TI  - Towards MLOps: A Case Study of ML Pipeline Platform
+T2  - 2020 International Conference on Artificial Intelligence and Computer Engineering (ICAICE)
+SP  - 494
+EP  - 500
+AU  - Y. Zhou
+AU  - Y. Yu
+AU  - B. Ding
+PY  - 2020
+KW  - Training
+KW  - Computational modeling
+KW  - Pipelines
+KW  - Graphics processing units
+KW  - Tools
+KW  - Data models
+KW  - Task analysis
+KW  - MLOps
+KW  - machine learning
+KW  - end-to-end platform
+KW  - DevOps
+KW  - continuous training
+DO  - 10.1109/ICAICE51518.2020.00102
+JO  - 2020 International Conference on Artificial Intelligence and Computer Engineering (ICAICE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 International Conference on Artificial Intelligence and Computer Engineering (ICAICE)
+Y1  - 23-25 Oct. 2020
+AB  - The development and deployment of machine learning (ML) applications differ significantly from traditional applications in many ways, which have led to an increasing need for efficient and reliable production of ML applications and supported infrastructures. Though platforms such as TensorFlow Extended (TFX), ModelOps, and Kubeflow have provided end-to-end lifecycle management for ML applications by orchestrating its phases into multistep ML pipelines, their performance is still uncertain. To address this, we built a functional ML platform with DevOps capability from existing continuous integration (CI) or continuous delivery (CD) tools and Kubeflow, constructed and ran ML pipelines to train models with different layers and hyperparameters while time and computing resources consumed were recorded. On this basis, we analyzed the time and resource consumption of each step in the ML pipeline, explored the consumption concerning the ML platform and computational models, and proposed potential performance bottlenecks such as GPU utilization. Our work provides a valuable reference for ML pipeline platform construction in practice.
+ER  - 
+
+TY  - JOUR
+TI  - Scalable and Accurate Test Case Prioritization in Continuous Integration Contexts
+T2  - IEEE Transactions on Software Engineering
+SP  - 1615
+EP  - 1639
+AU  - A. S. Yaraghi
+AU  - M. Bagherzadeh
+AU  - N. Kahani
+AU  - L. C. Briand
+PY  - 2023
+KW  - Feature extraction
+KW  - Codes
+KW  - Testing
+KW  - History
+KW  - Training
+KW  - Data collection
+KW  - Computational modeling
+KW  - Machine learning
+KW  - software testing
+KW  - test case prioritization
+KW  - test case selection
+KW  - continuous integration
+DO  - 10.1109/TSE.2022.3184842
+JO  - IEEE Transactions on Software Engineering
+IS  - 4
+SN  - 1939-3520
+VO  - 49
+VL  - 49
+JA  - IEEE Transactions on Software Engineering
+Y1  - 1 April 2023
+AB  - Continuous Integration (CI) requires efficient regression testing to ensure software quality without significantly delaying its CI builds. This warrants the need for techniques to reduce regression testing time, such as Test Case Prioritization (TCP) techniques that prioritize the execution of test cases to detect faults as early as possible. Many recent TCP studies employ various Machine Learning (ML) techniques to deal with the dynamic and complex nature of CI. However, most of them use a limited number of features for training ML models and evaluate the models on subjects for which the application of TCP makes little practical sense, due to their small regression testing time and low number of failed builds. In this work, we first define, at a conceptual level, a data model that captures data sources and their relations in a typical CI environment. Second, based on this data model, we define a comprehensive set of features that covers all features previously used by related studies. Third, we develop methods and tools to collect the defined features for 25 open-source software systems with enough failed builds and whose regression testing takes at least five minutes. Fourth, relying on the collected dataset containing a comprehensive feature set, we answer four research questions concerning data collection time, the effectiveness of ML-based TCP, the impact of the features on effectiveness, the decay of ML-based TCP models over time, and the trade-off between data collection time and the effectiveness of ML-based TCP techniques.
+ER  - 
+
+TY  - JOUR
+TI  - DeepMerge: Learning to Merge Programs
+T2  - IEEE Transactions on Software Engineering
+SP  - 1599
+EP  - 1614
+AU  - E. Dinella
+AU  - T. Mytkowicz
+AU  - A. Svyatkovskiy
+AU  - C. Bird
+AU  - M. Naik
+AU  - S. Lahiri
+PY  - 2023
+KW  - Reactive power
+KW  - Codes
+KW  - Merging
+KW  - Control systems
+KW  - Task analysis
+KW  - Software development management
+KW  - Java
+KW  - Merge conflicts
+KW  - conflict resolution
+KW  - software maintenance
+KW  - software tools
+DO  - 10.1109/TSE.2022.3183955
+JO  - IEEE Transactions on Software Engineering
+IS  - 4
+SN  - 1939-3520
+VO  - 49
+VL  - 49
+JA  - IEEE Transactions on Software Engineering
+Y1  - 1 April 2023
+AB  - In collaborative software development, program merging is the mechanism to integrate changes from multiple programmers. Merge algorithms in modern version control systems report a conflict when changes interfere textually. Merge conflicts require manual intervention and frequently stall modern continuous integration pipelines. Prior work found that, although costly, a large majority of resolutions involve re-arranging text without writing any new code. Inspired by this observation we propose the first data-driven approach to resolve merge conflicts with a machine learning model. We realize our approach in a tool DeepMerge that uses a novel combination of (i) an edit-aware embedding of merge inputs and (ii) a variation of pointer networks, to construct resolutions from input segments. We also propose an algorithm to localize manual resolutions in a resolved file and employ it to curate a ground-truth dataset comprising 8,719 non-trivial resolutions in JavaScript programs. Our evaluation shows that, on a held out test set, DeepMerge can predict correct resolutions for 37% of non-trivial merges, compared to only 4% by a state-of-the-art semistructured merge technique. Furthermore, on the subset of merges with upto 3 lines (comprising 24% of the total dataset), DeepMerge can predict correct resolutions with 78% accuracy.
+ER  - 
+
+TY  - CONF
+TI  - FastLane: Test Minimization for Rapidly Deployed Large-Scale Online Services
+T2  - 2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE)
+SP  - 408
+EP  - 418
+AU  - A. A. Philip
+AU  - R. Bhagwan
+AU  - R. Kumar
+AU  - C. S. Maddila
+AU  - N. Nagppan
+PY  - 2019
+KW  - Testing
+KW  - Correlation
+KW  - Minimization
+KW  - Predictive models
+KW  - Complexity theory
+KW  - Prediction algorithms
+KW  - Machine learning
+KW  - test prioritization
+KW  - commit risk
+KW  - machine learning
+DO  - 10.1109/ICSE.2019.00054
+JO  - 2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE)
+IS  - 
+SN  - 1558-1225
+VO  - 
+VL  - 
+JA  - 2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE)
+Y1  - 25-31 May 2019
+AB  - Today, we depend on numerous large-scale services for basic operations such as email. These services, built on the basis of Continuous Integration/Continuous Deployment (CI/CD) processes, are extremely dynamic: developers continuously commit code and introduce new features, functionality and fixes. Hundreds of commits may enter the code-base in a single day. Therefore one of the most time-critical, yet resource-intensive tasks towards ensuring code-quality is effectively testing such large code-bases. This paper presents FastLane, a system that performs data-driven test minimization. FastLane uses light-weight machine-learning models built upon a rich history of test and commit logs to predict test outcomes. Tests for which we predict outcomes need not be explicitly run, thereby saving us precious test-time and resources. Our evaluation on a large-scale email and collaboration platform service shows that our techniques can save 18.04%, i.e., almost a fifth of test-time while obtaining a test outcome accuracy of 99.99%.
+ER  - 
+
+TY  - CONF
+TI  - Learning-to-Rank vs Ranking-to-Learn: Strategies for Regression Testing in Continuous Integration
+T2  - 2020 IEEE/ACM 42nd International Conference on Software Engineering (ICSE)
+SP  - 1
+EP  - 12
+AU  - A. Bertolino
+AU  - A. Guerriero
+AU  - B. Miranda
+AU  - R. Pietrantuono
+AU  - S. Russo
+PY  - 2020
+KW  - Machine learning algorithms
+KW  - Software algorithms
+KW  - Reinforcement learning
+KW  - Time factors
+KW  - Tuning
+KW  - Testing
+KW  - Software engineering
+KW  - regression testing
+KW  - test selection
+KW  - test prioritization
+KW  - continuous integration
+KW  - machine learning
+DO  - 
+JO  - 2020 IEEE/ACM 42nd International Conference on Software Engineering (ICSE)
+IS  - 
+SN  - 1558-1225
+VO  - 
+VL  - 
+JA  - 2020 IEEE/ACM 42nd International Conference on Software Engineering (ICSE)
+Y1  - 5-11 Oct. 2020
+AB  - In Continuous Integration (CI), regression testing is constrained by the time between commits. This demands for careful selection and/or prioritization of test cases within test suites too large to be run entirely. To this aim, some Machine Learning (ML) techniques have been proposed, as an alternative to deterministic approaches. Two broad strategies for ML-based prioritization are learning-to-rank and what we call ranking-to-learn (i.e., reinforcement learning). Various ML algorithms can be applied in each strategy. In this paper we introduce ten of such algorithms for adoption in CI practices, and perform a comprehensive study comparing them against each other using subjects from the Apache Commons project. We analyze the influence of several features of the code under test and of the test process. The results allow to draw criteria to support testers in selecting and tuning the technique that best fits their context.
+ER  - 
+
+TY  - CONF
+TI  - TCP-Net: Test Case Prioritization using End-to-End Deep Neural Networks
+T2  - 2022 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)
+SP  - 122
+EP  - 129
+AU  - M. Abdelkarim
+AU  - R. ElAdawi
+PY  - 2022
+KW  - Deep learning
+KW  - Software testing
+KW  - Correlation
+KW  - Software packages
+KW  - Conferences
+KW  - Neural networks
+KW  - Metadata
+KW  - regression testing
+KW  - test case prioritization
+KW  - neural networks
+KW  - deep learning
+KW  - fusion network
+KW  - incremental learning
+KW  - hyperparameter optimization
+DO  - 10.1109/ICSTW55395.2022.00034
+JO  - 2022 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)
+IS  - 
+SN  - 2159-4848
+VO  - 
+VL  - 
+JA  - 2022 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)
+Y1  - 4-13 April 2022
+AB  - Regression testing is facing a bottleneck due to the growing number of test cases and the wide adoption of continuous integration (CI) in software projects, which increases the frequency of running software builds, making it challenging to run all the regression test cases. Machine learning (ML) techniques can be used to save time and hardware resources without compromising quality. In this work, we introduce a novel end-to-end, self-configurable, and incremental learning deep neural network (DNN) tool for test case prioritization (TCP-Net). TCP-Net is fed with source code-related features, test case metadata, test case coverage information, and test case failure history, to learn a high dimensional correlation between source files and test cases. We experimentally show that TCP-Net can be efficiently used for test case prioritization by evaluating it on three different real-life industrial software packages.
+ER  - 
+
+TY  - CONF
+TI  - Revisiting Machine Learning based Test Case Prioritization for Continuous Integration
+T2  - 2023 IEEE International Conference on Software Maintenance and Evolution (ICSME)
+SP  - 232
+EP  - 244
+AU  - Y. Zhao
+AU  - D. Hao
+AU  - L. Zhang
+PY  - 2023
+KW  - Measurement
+KW  - Bridges
+KW  - Software maintenance
+KW  - Costs
+KW  - Codes
+KW  - Training data
+KW  - Machine learning
+KW  - test prioritization
+KW  - machine learning
+KW  - continuous integration
+DO  - 10.1109/ICSME58846.2023.00032
+JO  - 2023 IEEE International Conference on Software Maintenance and Evolution (ICSME)
+IS  - 
+SN  - 2576-3148
+VO  - 
+VL  - 
+JA  - 2023 IEEE International Conference on Software Maintenance and Evolution (ICSME)
+Y1  - 1-6 Oct. 2023
+AB  - To alleviate the cost of regression testing in continuous integration (CI), a large number of machine learning-based (ML-based) test case prioritization techniques have been proposed. However, it is yet unknown how they perform under the same experimental setup, because they are evaluated on different datasets with different metrics. To bridge this gap, we conduct the first comprehensive study on these ML-based techniques in this paper. We investigate the performance of 11 representative ML-based prioritization techniques for CI on 11 open-source subjects and obtain a series of findings. For example, the performance of the techniques changes across CI cycles, mainly resulting from the changing amount of training data, instead of code evolution and test removal/addition. Based on the findings, we give some actionable suggestions on enhancing the effectiveness of ML-based techniques, e.g., pretraining a prioritization technique with cross-subject data to get it thoroughly trained and then finetuning it with within-subject data dramatically improves its performance. In particular, the pretrained MART achieves state-of-the-art performance, producing the optimal sequence on 80% subjects, while the existing best technique, the original MART, only produces the optimal sequence on 50% subjects.
+ER  - 
+
+TY  - CONF
+TI  - Tailoring MLOps Techniques for Industry 5.0 Needs
+T2  - 2023 19th International Conference on Network and Service Management (CNSM)
+SP  - 1
+EP  - 7
+AU  - C. Hegedűs
+AU  - P. Varga
+PY  - 2023
+KW  - Industries
+KW  - Technological innovation
+KW  - Supply chains
+KW  - Production
+KW  - Digital twins
+KW  - Telemetry
+KW  - Artificial intelligence
+DO  - 10.23919/CNSM59352.2023.10327814
+JO  - 2023 19th International Conference on Network and Service Management (CNSM)
+IS  - 
+SN  - 2165-963X
+VO  - 
+VL  - 
+JA  - 2023 19th International Conference on Network and Service Management (CNSM)
+Y1  - 30 Oct.-2 Nov. 2023
+AB  - It is a very popular era for machine learning (ML) applications, and Industry5.0 aims to have AI as one of its key technologies. Still, only a few ML initiatives make it to a production-grade implementation, mostly due to lacking proper Continuous Integration and Delivery framework and MLOps practices. This is especially true for industrial use cases, where the trust and reliability of ML applications are mission-critical. Most of these applications fail during the final stage of the development lifecycle, i.e. acceptance testing and validation of the ML application, while being integrated into Cyber-Physical System of Systems (CPSoS). This paper explores the key requirements for deploying ML applications in industrial scenarios, emphasizing the critical role of Digital Twins, edge AI, and responsible-explainable AI techniques in ensuring efficient and responsible operations. Building upon previous models, this paper suggests two process models: (i) the Olympics model for MLOps-coupled CPS engineering and (ii) the MLOps engineering toolchain for industrial applications.
+ER  - 
+
+TY  - JOUR
+TI  - Systematic Literature Review on Application of Learning-Based Approaches in Continuous Integration
+T2  - IEEE Access
+SP  - 135419
+EP  - 135450
+AU  - A. K. Arani
+AU  - T. H. M. Le
+AU  - M. Zahedi
+AU  - M. A. Babar
+PY  - 2024
+KW  - Task analysis
+KW  - Data mining
+KW  - Data models
+KW  - Training
+KW  - Reviews
+KW  - Continuous integration
+KW  - Machine learning
+KW  - Deep learning
+KW  - Continuous integration
+KW  - machine learning
+KW  - model training
+KW  - automation
+KW  - systematic literature review
+DO  - 10.1109/ACCESS.2024.3424276
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 12
+VL  - 12
+JA  - IEEE Access
+Y1  - 2024
+AB  - Machine learning (ML) and deep learning (DL) analyze raw data to extract valuable insights in specific phases. The rise of continuous practices in software projects emphasizes automating Continuous Integration (CI) with these learning-based methods, while the growing adoption of such approaches underscores the need for systematizing knowledge. Our objective is to comprehensively review and analyze existing literature concerning learning-based methods within the CI domain. We endeavour to identify and analyse various techniques documented in the literature, emphasizing the fundamental attributes of training phases within learning-based solutions in the context of CI. We conducted a Systematic Literature Review (SLR) involving 52 primary studies. Through statistical and thematic analyses, we explored the correlations between CI tasks and the training phases of learning-based methodologies across the selected studies, encompassing a spectrum from data engineering techniques to evaluation metrics. This paper presents an analysis of the automation of CI tasks utilizing learning-based methods. We identify and analyze nine types of data sources, four steps in data preparation, four feature types, nine subsets of data features, five approaches for hyperparameter selection and tuning, and fifteen evaluation metrics. Furthermore, we discuss the latest techniques employed, existing gaps in CI task automation, and the characteristics of the utilized learning-based techniques. This study provides a comprehensive overview of learning-based methods in CI, offering valuable insights for researchers and practitioners developing CI task automation. It also highlights the need for further research to advance these methods in CI.
+ER  - 
+
+TY  - CONF
+TI  - Machine Learning Regression Techniques for Test Case Prioritization in Continuous Integration Environment
+T2  - 2022 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)
+SP  - 196
+EP  - 206
+AU  - E. A. Da Roza
+AU  - J. A. P. Lima
+AU  - R. C. Silva
+AU  - S. R. Vergilio
+PY  - 2022
+KW  - Radio frequency
+KW  - Machine learning algorithms
+KW  - Recurrent neural networks
+KW  - Software algorithms
+KW  - Reinforcement learning
+KW  - Software
+KW  - History
+KW  - Recurrent Neural Networks
+KW  - Machine Learning
+KW  - Continuous Integration
+KW  - Regression Testing
+DO  - 10.1109/SANER53432.2022.00034
+JO  - 2022 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)
+IS  - 
+SN  - 1534-5351
+VO  - 
+VL  - 
+JA  - 2022 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)
+Y1  - 15-18 March 2022
+AB  - Test Case Prioritization (TCP) techniques are a key factor in reducing the regression testing costs even more when Continuous Integration (CI) practices are adopted. TCP approaches based on failure history have been adopted in this context because they are more suitable for CI environment constraints: test budget and test case volatility, that is, test cases may be added or removed over the CI cycles. Promising approaches are based on Reinforcement Learning (RL), which learns with past prioritization, guided by a reward function. In this work, we introduce a TCP approach for CI environments based on the sliding window method, which can be instantiated with different Machine Learning (ML) algorithms. Unlike other ML approaches, it does not require retraining the model to perform the prioritization and any code analysis. As an alternative for the RL approaches, we apply the Random Forest (RF) algorithm and a Long Short Term Memory (LSTM) deep learning network in our evaluation. We use three time budgets and eleven systems. The results show the applicability of the approach considering the prioritization time and the time between the CI cycles. Both algorithms take just a few seconds to execute. The RF algorithm obtained the best performance for more restrictive budgets compared to the RL approaches described in the literature. Considering all systems and budgets, RF reaches Normalized Average Percentage of Faults Detected (NAPFD) values that are the best or statistically equivalent to the best ones in around 72% of the cases, and the LSTM network in 55% of them. Moreover, we discuss some implications of our results for the usage of the algorithms evaluated.
+ER  - 
+
+TY  - JOUR
+TI  - GATEKEEPER Platform: Secure Processing Environment for European Health Data Space
+T2  - IEEE Access
+SP  - 34627
+EP  - 34638
+AU  - E. Gaeta
+AU  - M. Salman Haleem
+AU  - L. Lopez-Perez
+AU  - M. Manea
+AU  - M. Fernanda Cabrera Umpierrez
+AU  - M. Teresa Arredondo Waldmeyer
+AU  - L. Pecchia
+AU  - G. Fico
+PY  - 2025
+KW  - Security
+KW  - Logic gates
+KW  - Europe
+KW  - Scalability
+KW  - Collaboration
+KW  - Microservice architectures
+KW  - Computer architecture
+KW  - Interoperability
+KW  - DevOps
+KW  - Electronic healthcare
+KW  - CI/CD
+KW  - data scalability
+KW  - data security
+KW  - European health data space
+KW  - healthcare platform
+KW  - SecDevOps
+DO  - 10.1109/ACCESS.2025.3539559
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 13
+VL  - 13
+JA  - IEEE Access
+Y1  - 2025
+AB  - The European Health Data Space (EHDS) is a significant initiative within the European Union aimed at improving healthcare through better use of health data and collaboration. This involves sharing and utilization of health data in a secure and interoperable manner across EU member states. With the advent of modern technology, different types of health data are being acquired ranging from traditional electronic health records to real-time wearable signals for improved healthcare delivery and management. However, there are certain challenges associated with compliance to EHDS, such as secure continuous integration (CI) and continuous delivery (CD), scalability and adaptability towards new technologies and applications, tolerance against IoT cyber-attacks, requirement of advanced data storage methods, processing power, interoperability solutions for data analysis and connectivity. In order to address these, a flagship project of the European Commission, GATEKEEPER, represents a pioneering effort designed to transform healthcare delivery through the utilization of sophisticated digital technologies. The architecture of the GATEKEEPER platform has been meticulously crafted, in compliance with the EHDS, to integrate a multitude of data sources, deploying advanced analytical tools to enable the development of novel solutions for the effective prediction, detection, and management of chronic health conditions. GATEKEEPER addresses the aforementioned challenges by integrating collaborative tools for data management and consistency, machine learning modelling and management tool, activity feeds and issue tracking tools with developers authentication, CI/CD tools allowing, among others scalability in multiple formats, tools for assessing security, vulnerability and dependency for third party packages.
+ER  - 
+
+TY  - CONF
+TI  - Test Case Prioritization using Transfer Learning in Continuous Integration Environments
+T2  - 2023 IEEE/ACM International Conference on Automation of Software Test (AST)
+SP  - 191
+EP  - 200
+AU  - R. Mamata
+AU  - A. Azim
+AU  - R. Liscano
+AU  - K. Smith
+AU  - Y. -K. Chang
+AU  - G. Seferi
+AU  - Q. Tauseef
+PY  - 2023
+KW  - Data privacy
+KW  - Automation
+KW  - Transfer learning
+KW  - Software algorithms
+KW  - Software quality
+KW  - Regulation
+KW  - Data models
+KW  - Transfer Learning (TL)
+KW  - Test Case Prioritization (TCP)
+KW  - Continuous Integration (CI)
+DO  - 10.1109/AST58925.2023.00023
+JO  - 2023 IEEE/ACM International Conference on Automation of Software Test (AST)
+IS  - 
+SN  - 2833-9061
+VO  - 
+VL  - 
+JA  - 2023 IEEE/ACM International Conference on Automation of Software Test (AST)
+Y1  - 15-16 May 2023
+AB  - The continuous Integration (CI) process runs a large set of automated test cases to verify software builds. The testing phase in the CI systems has timing constraints to ensure software quality without significantly delaying the CI builds. Therefore, CI requires efficient testing techniques such as Test Case Prioritization (TCP) to run faulty test cases with priority. Recent research studies on TCP utilize different Machine Learning (ML) methods to adopt the dynamic and complex nature of CI. However, the performance of ML for TCP may decrease for a low volume of data and less failure rate, whereas using existing data with similar patterns from other domains can be valuable. We formulate this as a transfer learning (TL) problem. TL has proven to be beneficial for many real-world applications where source domains have plenty of data, but the target domains have a scarcity of it. Therefore, this research investigates leveraging the benefit of transfer learning for test case prioritization (TCP). However, only some industrial CI datasets are publicly available due to data privacy protection regulations. In such cases, model-based transfer learning is a potential solution to share knowledge among different projects without revealing data to other stakeholders. This paper applies TransBoost, a tree-kernel-based TL algorithm, to evaluate the TL approach for 24 study subjects and identify potential source datasets.
+ER  - 
+
+TY  - JOUR
+TI  - FLScalize: Federated Learning Lifecycle Management Platform
+T2  - IEEE Access
+SP  - 47212
+EP  - 47222
+AU  - S. Yang
+AU  - J. Moon
+AU  - J. Kim
+AU  - K. Lee
+AU  - K. Lee
+PY  - 2023
+KW  - Data models
+KW  - Servers
+KW  - Predictive models
+KW  - Task analysis
+KW  - Simulation
+KW  - Federated learning
+KW  - Product life cycle management
+KW  - Federated learning
+KW  - heterogeneous simulation
+KW  - lifecycle management
+KW  - platform
+DO  - 10.1109/ACCESS.2023.3275439
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 11
+VL  - 11
+JA  - IEEE Access
+Y1  - 2023
+AB  - Federated learning (FL) that can train using machine learning methods without moving data have attracted interest owing to the focus on data privacy. Several FL platforms and frameworks are being developed with various open datasets. However, FL has not yet been fully utilized in real-world projects; instead, centralized ML models are still being used for AI. Since FL is composed of numerous clients and executed, it is necessary to manage the lifecycle such as model deployment and status management to multiple clients in order to operate FL. This study proposes FLScalize to enable AI researchers to apply their own custom data and models to FL environments and to deploy and manage the FL lifecycle. Researchers who develop these models should be able to easily and conveniently apply custom data and models developed in a centralized environment to FL environments, deploy and train multiple clients, and manage the lifecycle of the entire FL process. FLScalize can be used to simulate system heterogeneity and data heterogeneity, both of which are FL issues that occur in real FL environments. Furthermore, FLScalize provides a manager component that continuously manages the FL client and server required for real-world FL tasks and realizes an FL lifecycle management implementation that enables continuous integration, deployment, and training.
+ER  - 
+
+TY  - CONF
+TI  - Learning CI Configuration Correctness for Early Build Feedback
+T2  - 2022 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)
+SP  - 1006
+EP  - 1017
+AU  - M. Santolucito
+AU  - J. Zhang
+AU  - E. Zhai
+AU  - J. Cito
+AU  - R. Piskac
+PY  - 2022
+KW  - Productivity
+KW  - Location awareness
+KW  - Codes
+KW  - Neural networks
+KW  - Static analysis
+KW  - Machine learning
+KW  - Software
+KW  - configuration files
+KW  - program analysis
+KW  - continuous integration
+DO  - 10.1109/SANER53432.2022.00118
+JO  - 2022 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)
+IS  - 
+SN  - 1534-5351
+VO  - 
+VL  - 
+JA  - 2022 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)
+Y1  - 15-18 March 2022
+AB  - Continuous Integration (CI) allows developers to check whether their code can build successfully and pass tests across various system environments with every commit. To use a CI platform, a developer must provide configuration files within a code repository to specify build conditions. Incorrect configuration settings lead to CI build failures, which can take hours to run, wasting valuable developer time and delaying product release dates. Debugging CI configurations is a slow and error-prone process. The only way to check the correctness of CI configurations is to push a commit and wait for the build result. We present VeriCI, the first system for localizing CI configuration errors at the code level. VeriCI runs as a static analysis tool, before the developer sends the build request to the CI server. Our key insight is that the commit history and the corresponding build histories available in CI environments can be used both for build error prediction and build error localization. We leverage the build history as a labeled dataset to automatically derive customized rules describing correct CI configurations, using supervised machine learning techniques. To more accurately identify root causes, we train a neural network that filters out constraints that are less likely to be connected to the root cause of build failure. We evaluate VeriCI on real world data from GitHub and achieve 91% accuracy of predicting a build failure and correctly identify the root cause in 75% of cases. We also conducted a between-subjects user study with 20 software developers, showing that VeriCI significantly helps users in identifying and fixing errors in CI.
+ER  - 
+
+TY  - CONF
+TI  - A Scheme for Data Deduplication Using Advance Machine Learning Architecture in Distributed Systems
+T2  - 2021 International Conference on Computing Sciences (ICCS)
+SP  - 53
+EP  - 60
+AU  - S. Tarun
+AU  - R. S. Batth
+AU  - S. Kaur
+PY  - 2021
+KW  - Support vector machines
+KW  - Machine learning algorithms
+KW  - Computational modeling
+KW  - System performance
+KW  - Distributed databases
+KW  - Machine learning
+KW  - Computer architecture
+KW  - Machine learning
+KW  - vector space model
+KW  - k-means
+KW  - computational cost
+KW  - similarity
+KW  - deduplication
+KW  - performance
+DO  - 10.1109/ICCS54944.2021.00019
+JO  - 2021 International Conference on Computing Sciences (ICCS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 International Conference on Computing Sciences (ICCS)
+Y1  - 4-5 Dec. 2021
+AB  - In a distributed architecture, data as a resource has its own value, but continuous integration of large amounts of data across several locations without cross-verification to preserve a single instance data pattern appears impossible. As a result, systems have encountered hurdles that have a direct influence on the efficiency and performance of distributed workforces. Users need high-quality data or information in order to continue working as improved data services in order to find future trends. However, duplicate data entries in storage repositories are considered a major flaw or stumbling block in the data analysis and query operations processes. As a result, businesses have invested significant resources in detecting duplicate data throughout the duplicate entry detection process. We've introduced a cutting-edge machine learning framework for detecting duplicate data on both current and new data entries. Textual data inputs or queries are imported into memory, preprocessed, and transformed to a vector space model using this technique. To arrange data in groups with equal capacity, a clustering K-means approach is used. To save time and money during the detection phase, similarity computations were done cluster-by-cluster rather than on a huge dataset. The suggested technique performs better than existing deduplication algorithms, with an optimal accuracy of 99.7%. If the result-test and gt-test outcomes are determined to be same during comparison, the accuracy performance parameter of the deduplication process is greater.
+ER  - 
+
+TY  - CONF
+TI  - Interplay of Machine Learning and Software Engineering for Quality Estimations
+T2  - 2020 International Conference on Communications, Computing, Cybersecurity, and Informatics (CCCI)
+SP  - 1
+EP  - 6
+AU  - H. Abubakar
+AU  - M. S. Obaidat
+AU  - A. Gupta
+AU  - P. Bhattacharya
+AU  - S. Tanwar
+PY  - 2020
+KW  - Software
+KW  - Maximum likelihood estimation
+KW  - Data models
+KW  - Software algorithms
+KW  - Training
+KW  - Task analysis
+KW  - Mathematical model
+KW  - Machine learning
+KW  - Software Engineering
+KW  - Effort estimation
+KW  - Quality estimation
+DO  - 10.1109/CCCI49893.2020.9256507
+JO  - 2020 International Conference on Communications, Computing, Cybersecurity, and Informatics (CCCI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 International Conference on Communications, Computing, Cybersecurity, and Informatics (CCCI)
+Y1  - 3-5 Nov. 2020
+AB  - In this era, the agile mindset has innovated the traditional software engineering (SE) process through the integration of DevOps flow engines, scrum iterations, and automation of continuous integration (CI) and continuous deployment (CD) cycles. However, the CI/CD integration requires manual code-revisions and refactoring at large scales. Recently, machine-learning (ML) is employed in SE that allows legacy codes to be highly dynamic, less coupling in related modules, automatic code versioning, and refactoring, with less coupling among related modules. However, over time, ML models tend to become bulky, with increasing monotonic losses during model training. To address this, SE techniques like code revisions are employed over ML codes to allow low-order training losses, that enables seamless and precise workflow structures. Motivated from the aforementioned discussions, the paper presents a systematic review of the close interplay of SE and ML and possible interactions in different applications. Suitable research questions and case studies are presented for possible adoption scenarios that depict the close ML-SE interplay share with each other, with the concluding remarks. The paper forms useful insights for ML engineers, data science practitioners, and SE quality estimators towards the building of efficient and scalable software solutions.
+ER  - 
+
+TY  - JOUR
+TI  - Effort Estimation in Agile and DevOps: A Systematic Literature Review of Stakeholder Dissatisfaction
+T2  - IEEE Access
+SP  - 167925
+EP  - 167941
+AU  - S. A. Ruk
+AU  - Y. Mahmood
+AU  - A. Azmi
+AU  - N. Firdaus Mohd Azmi
+AU  - S. Gul
+PY  - 2025
+KW  - Estimation
+KW  - DevOps
+KW  - Stakeholders
+KW  - Software development management
+KW  - Software
+KW  - Accuracy
+KW  - Systematic literature review
+KW  - Software engineering
+KW  - Libraries
+KW  - Search problems
+KW  - Agile software development
+KW  - DevOps
+KW  - estimation methods
+KW  - estimation accuracy
+KW  - forecasting
+KW  - system development life cycle
+DO  - 10.1109/ACCESS.2025.3600321
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 13
+VL  - 13
+JA  - IEEE Access
+Y1  - 2025
+AB  - Effort estimation is a critical aspect of software project management, directly influencing the budget, schedule, and resource allocation throughout the software development life cycle. Accurate estimation plays a central role in aligning team capabilities with stakeholder expectations, ensuring timely delivery and efficient use of resources. Despite the adoption of Agile and DevOps methodologies, which emphasize flexibility, rapid iterations and continuous integration, estimation inaccuracies remain a problematic area. These inaccuracies often result in project delays, cost overruns, and scope creep, ultimately leading to stakeholder dissatisfaction and a breakdown of trust in the development process. To investigate these challenges, a Systematic Literature Review (SLR) was conducted, surrounding 1,088 publications retrieved from six major digital libraries: Scopus (201), ScienceDirect (155), Springer (212), Google Scholar (145), IEEE (185), and ACM (190). This research examines the main drivers of estimation challenges in Agile and DevOps environments. Key findings indicate that human-centric issues (cognitive biases, lack of experience), technical issues (fluctuating requirements, lack of adequate history), and process inefficiencies (communication breakdown, poor planning) exert considerable influences on estimation accuracy. To address these challenges, the study categorizes and analyzes a range of estimation techniques, including machine learning models, expert-calibrated hybrid approaches, analogical estimation methods, and process calibration practices such as retrospectives. Findings reveal that a combination of data-driven tools and stakeholder-aligned strategies offers the most promise in narrowing the expectation experience gap. This research provides practitioners with practical recommendations and lays the ground for further study in developing estimation techniques to mitigate the expectation-experience gap.
+ER  - 
+
+TY  - CONF
+TI  - PrivBuild-Ai: An RL-Powered Framework for Differentially Private Data in DevSecOps
+T2  - 2025 5th International Conference on Artificial Intelligence, Automation and High Performance Computing (AIAHPC)
+SP  - 789
+EP  - 794
+AU  - A. Aggarwal
+AU  - J. J. Vora
+AU  - N. Sirikonda
+AU  - B. B. Sawant
+PY  - 2025
+KW  - Privacy
+KW  - Differential privacy
+KW  - Automation
+KW  - Runtime
+KW  - Accuracy
+KW  - Pipelines
+KW  - Organizations
+KW  - Throughput
+KW  - Security
+KW  - Testing
+KW  - Differential Privacy
+KW  - DevSecOps
+KW  - Privacy Budget Scheduling
+KW  - Data Privacy
+KW  - CI/CD
+KW  - Security Testing
+KW  - Reinforcement-Learning Optimizer
+KW  - Secure Software Supply Chain
+DO  - 10.1109/AIAHPC66801.2025.11290296
+JO  - 2025 5th International Conference on Artificial Intelligence, Automation and High Performance Computing (AIAHPC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 5th International Conference on Artificial Intelligence, Automation and High Performance Computing (AIAHPC)
+Y1  - 19-21 Sept. 2025
+AB  - Modern continuous integration / continuous delivery (CI/CD) pipelines run security tests—static analysis, dynamic fuzzing, policy checks—on production-like data long before code reaches production. This shift-left practice speeds feedback but exposes sensitive records to pre-production tools. Existing redaction and tokenisation often degrade test accuracy and provide no formal privacy guarantee, leaving DevSecOps teams torn between realism and compliance. We present a drop-in framework that delivers differentially private (DP) snapshots to every pipeline stage without slowing release cadence. Key features are: (i) multi-level privacy ledgers (user, build, organization); (ii) calibrated Laplace and Gaussian mechanisms plus a deep-Q-network scheduler that learns to allocate the per-query privacy budget; and (iii) a policy-as-code interface that lets builds request, reserve, and audit budget on demand. Formal analysis shows the design retains DP under arbitrary post-processing and subsampling. On representative payroll and healthcare workloads (up to 107 rows) the framework keeps aggregate error below two percent with a budget of ε = 1, adds only 8.7 percent runtime overhead, and sustains about 1400 builds per day—nearly doubling throughput versus strong-composition baselines. Accuracy improves by 40–110% compared with the best published sanitisation scheme. These results confirm that strong mathematical privacy, machine-learning budget control, and near-real-time DevSecOps automation can co-exist, enabling auditable security testing in highly regulated environments without sacrificing data utility.
+ER  - 
+
+TY  - CONF
+TI  - ML-Based Test Case Prioritization: A Research and Production Perspective in CI Environments
+T2  - 2025 IEEE Conference on Software Testing, Verification and Validation (ICST)
+SP  - 476
+EP  - 486
+AU  - M. A. Khan
+AU  - A. Azim
+AU  - R. Liscano
+AU  - K. Smith
+AU  - Y. -K. Chang
+AU  - G. Seferi
+AU  - Q. Tauseef
+PY  - 2025
+KW  - Training
+KW  - Software testing
+KW  - Production systems
+KW  - Fault detection
+KW  - Training data
+KW  - Machine learning
+KW  - Data models
+KW  - Software
+KW  - Software reliability
+KW  - Tuning
+KW  - Test case prioritization
+KW  - Machine Learning
+KW  - CI/CD
+KW  - IBM Open Liberty
+DO  - 10.1109/ICST62969.2025.10989029
+JO  - 2025 IEEE Conference on Software Testing, Verification and Validation (ICST)
+IS  - 
+SN  - 2159-4848
+VO  - 
+VL  - 
+JA  - 2025 IEEE Conference on Software Testing, Verification and Validation (ICST)
+Y1  - 31 March-4 April 2025
+AB  - Test case prioritization (TCP) is essential for improving testing efficiency in large-scale continuous integration (CI) environments by reducing feedback time and efficient resource usage. Machine learning (ML) has shown promise in enhancing TCP, however, demonstrating its effectiveness in production environments remains a challenge. Using the IBM Open Liberty dataset, we developed and validated an ML-based TCP framework, showing how we identified the best-performing model step by step-from feature extraction and model training to hyperparameter tuning. After validating the framework in a research setting, we deployed it in IBM's live production system. The practical implications of this study are as follows. The production results closely mirrored the research outcomes, with models trained on recent data consistently outperforming older models and non-prioritized approaches. Specifically, prioritized builds achieved a mean Average Percentage of Faults Detected (APFD) value 50% higher than that of non-prioritized builds, leading to a substantial improvement in early fault detection. The consistent improvement of models trained on newer data (M-2023) over those trained on older data (M-2022) underscores the importance of regular model updates in maintaining optimal performance. This paper comprehensively compares research and production data, illustrating how our ML-driven TCP framework ensures optimal performance and detailing the steps necessary for successful implementation in dynamic CI environments.
+ER  - 
+
+TY  - CONF
+TI  - TCP-Net++: Test Case Prioritization Using End-to-End Deep Neural Networks - Deployment Analysis and Enhancements
+T2  - 2023 IEEE International Conference On Artificial Intelligence Testing (AITest)
+SP  - 99
+EP  - 106
+AU  - M. Abdelkarim
+AU  - R. ElAdawi
+PY  - 2023
+KW  - Software testing
+KW  - Deep learning
+KW  - Artificial neural networks
+KW  - Software
+KW  - Hardware
+KW  - Usability
+KW  - software testing
+KW  - regression testing
+KW  - test case prioritization
+KW  - neural networks
+KW  - deep learning
+KW  - AI
+DO  - 10.1109/AITest58265.2023.00024
+JO  - 2023 IEEE International Conference On Artificial Intelligence Testing (AITest)
+IS  - 
+SN  - 2835-3560
+VO  - 
+VL  - 
+JA  - 2023 IEEE International Conference On Artificial Intelligence Testing (AITest)
+Y1  - 17-20 July 2023
+AB  - The increasing number of test cases and frequency of continuous integration in software projects has created a bottleneck in regression testing. To save time and hardware resources, machine learning techniques can be applied without compromising quality. In this work, we present a case study for deployment analysis and results of using our previous work: TCP-Net: Test Case Prioritization using End-to-End Deep Neural Networks [1] in a real-life industrial environment, showing roadblocks, challenges, and enhancements done to improve its performance and usability, achieving 90% to 100% failure coverage by running an average of 23% to 39% of the test cases.
+ER  - 
+
+TY  - CONF
+TI  - Supervised Learning for Test Suit Selection in Continuous Integration
+T2  - 2021 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)
+SP  - 239
+EP  - 246
+AU  - R. Martins
+AU  - R. Abreu
+AU  - M. Lopes
+AU  - J. Nadkarni
+PY  - 2021
+KW  - Measurement
+KW  - Training
+KW  - Software testing
+KW  - Conferences
+KW  - Pipelines
+KW  - Supervised learning
+KW  - Tools
+KW  - Continuous Integration
+KW  - Test Selection
+KW  - classifier model
+KW  - flaky tests
+KW  - innocent commits
+DO  - 10.1109/ICSTW52544.2021.00048
+JO  - 2021 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)
+Y1  - 12-16 April 2021
+AB  - Continuous Integration is the process of merging code changes into a software project. Keeping the master branch always updated and unfailingly is very computationally expensive due to the number of tests and code that needs to be executed. The waiting times also increase the time required for debugging. This paper proposes a solution to reduce the execution time of the testing phase, by selecting only a subset of all the tests, given some code changes. This is accomplished by training a Machine Learning (ML) Classifier with features such as code/test files history fails, extension code files that tend to generate more errors during the testing phase, and others. The results obtained by the best ML classifier showed results comparable with the recent literature done in the same area. This model managed to reduce the median test execution time by nearly 10 minutes while maintaining 97% of recall. Additionally, the impact of innocent commits and flaky tests was taken into account and studied to understand a particular industrial context.
+ER  - 
+
+TY  - JOUR
+TI  - Praxi: Cloud Software Discovery That Learns From Practice
+T2  - IEEE Transactions on Cloud Computing
+SP  - 872
+EP  - 884
+AU  - A. Byrne
+AU  - E. Ates
+AU  - A. Turk
+AU  - V. Pchelin
+AU  - S. Duri
+AU  - S. Nadgowda
+AU  - C. Isci
+AU  - A. K. Coskun
+PY  - 2022
+KW  - Software
+KW  - Cloud computing
+KW  - Training
+KW  - Security
+KW  - Manuals
+KW  - Packaging
+KW  - Learning systems
+KW  - Solution monitoring
+KW  - software discovery
+KW  - machine learning
+KW  - cloud analytics
+DO  - 10.1109/TCC.2020.2975439
+JO  - IEEE Transactions on Cloud Computing
+IS  - 2
+SN  - 2168-7161
+VO  - 10
+VL  - 10
+JA  - IEEE Transactions on Cloud Computing
+Y1  - 1 April-June 2022
+AB  - With today’s rapidly-evolving cloud landscape embracing continuous integration and delivery, users of cloud systems must monitor software running on their containers and virtual machines (VMs) to ensure compliance, security, and efficiency. Traditional solutions to this problem rely on manually-created rules that identify software installations and modifications, but these require expert authors and are often unmaintainable. Recently, automated techniques for software discovery have emerged. Some techniques use examples of software to train machine learning models to predict which software has been installed on a system. Others leverage the knowledge of packaging practices to aid in discovery without requiring any pre-training, but these practice-based methods cannot provide precise-enough information to perform discovery by themselves. This article introduces Praxi, a new software discovery method that builds upon the strengths of prior approaches by combining the accuracy of learning-based methods with the efficiency of practice-based methods. In tests using samples collected on real-world cloud systems, Praxi correctly classifies installations at least 97.6 percent of the time, while running 14.8 times faster and using 87 percent less disk space than a similar learning-based method. Using a diverse software dataset, this article quantitatively compares Praxi to systematic rule-, learning-, and practice-based methods, and discusses the best uses for each.
+ER  - 
+
+TY  - CONF
+TI  - Machine Learning Pipeline For Anomaly Detection In Next Generation Networks
+T2  - 2024 IEEE Conference on Standards for Communications and Networking (CSCN)
+SP  - 196
+EP  - 201
+AU  - A. Gopikrishnan
+AU  - A. Rao
+AU  - A. Prakash
+AU  - V. Gowtham
+AU  - F. Schreiner
+AU  - M. Corici
+AU  - C. Hein
+AU  - T. Magedanz
+PY  - 2024
+KW  - Scalability
+KW  - Pipelines
+KW  - Data collection
+KW  - Feature extraction
+KW  - Data models
+KW  - Delays
+KW  - Reliability
+KW  - Next generation networking
+KW  - Anomaly detection
+KW  - Standards
+KW  - NEMI
+KW  - Open5GCore
+KW  - Anomaly detection
+KW  - ML
+KW  - DL
+KW  - MLOps
+DO  - 10.1109/CSCN63874.2024.10849724
+JO  - 2024 IEEE Conference on Standards for Communications and Networking (CSCN)
+IS  - 
+SN  - 2644-3252
+VO  - 
+VL  - 
+JA  - 2024 IEEE Conference on Standards for Communications and Networking (CSCN)
+Y1  - 25-27 Nov. 2024
+AB  - Deploying Machine Learning (ML) models in Next Generation Network (NGN) presents significant challenges, particularly in managing the entire lifecycle of model creation, deployment, and operation. Traditional methods lack integrated pipelines that address the diverse and complex nature of the network, leading to inefficiencies and delays. The NEMI framework employs MLOps pipelines designed to streamline the ML lifecycle in NGN environments. The pipeline facilitates efficient data collection, model generation, and deployment, towards ensuring scalability, automation, and continuous integration. The approach in this article showcases the pipeline’s potential to enhance performance and reliability in NGN domains, emphasizing the critical role of advanced MLOps pipelines in optimizing ML operations within complex network environments. Using anomaly detection in a core network (Open5GCore) as a practical example, we demonstrate the pipeline’s features.
+ER  - 
+
+TY  - CONF
+TI  - An End-to-End Test Case Prioritization Framework using Optimized Machine Learning Models
+T2  - 2024 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)
+SP  - 1
+EP  - 8
+AU  - M. A. Khan
+AU  - A. Azim
+AU  - R. Liscano
+AU  - K. Smith
+AU  - Y. -K. Chang
+AU  - G. Seferi
+AU  - Q. Tauseef
+PY  - 2024
+KW  - Software testing
+KW  - Radio frequency
+KW  - Measurement
+KW  - Machine learning
+KW  - Production
+KW  - Continuous integration
+KW  - Market research
+KW  - test case prioritization
+KW  - hyperparameter tuning
+KW  - regression testing
+KW  - machine learning
+DO  - 10.1109/ICSTW60967.2024.00014
+JO  - 2024 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)
+IS  - 
+SN  - 2159-4848
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)
+Y1  - 27-31 May 2024
+AB  - Regression testing in software development is challenging due to the large number of test cases and continuous integration (CI) practices. Recently, test case prioritization (TCP) using machine learning (ML) has been shown to efficiently execute regression tests. This study introduces an automated, endto-end, self-contained ML-based framework, TCP-Tune, tailored exclusively for TCP. The framework utilizes open-source version control system data to combine code-change-related features with test execution results. This integration allows the automated optimization of hyperparameters across different ML models to improve the TCP. The framework also effectively visualizes and utilizes multiple evaluation metrics to evaluate the performance of the model over several builds. Unlike existing implementations, which rely on various frameworks, TCP-Tune enables the effortless incorporation of features from multiple sources and fine-tuned models, thereby providing optimum test prioritization in the ever-changing field of software development. Our approach has helped to provide efficient TCP through experimental assessments of a real-life, large-scale CI system.
+ER  - 
+
+TY  - CONF
+TI  - Test Case Selection in Continuous Regression Testing Using Machine Learning: An Industrial Case Study
+T2  - 2024 IEEE 48th Annual Computers, Software, and Applications Conference (COMPSAC)
+SP  - 33
+EP  - 38
+AU  - A. Ahmad
+AU  - D. Rentas
+AU  - D. Hasselqvist
+AU  - P. Sandberg
+AU  - K. Sandahl
+AU  - A. Vulgarakis
+PY  - 2024
+KW  - Productivity
+KW  - Accuracy
+KW  - Source coding
+KW  - Computational modeling
+KW  - Neural networks
+KW  - Predictive models
+KW  - Real-time systems
+KW  - Test Case Selection
+KW  - Machine Learning Models
+KW  - Test Case Selection on Code Changes
+KW  - Multi-factor Test Case Selection
+DO  - 10.1109/COMPSAC61105.2024.00015
+JO  - 2024 IEEE 48th Annual Computers, Software, and Applications Conference (COMPSAC)
+IS  - 
+SN  - 2836-3795
+VO  - 
+VL  - 
+JA  - 2024 IEEE 48th Annual Computers, Software, and Applications Conference (COMPSAC)
+Y1  - 2-4 July 2024
+AB  - Continuous integration and delivery (CI/CD) have transformed software development by reducing delivery time, improving product quality, and giving enterprises a competitive advantage. However, large-scale projects confront difficulties in giving fast feedback to developers due to large test suites, resulting in longer testing cycles and lower productivity. Traditional regression testing methods struggle to find a balance between efficacy and efficiency, demanding advanced approaches. This study investigates the use of machine learning (ML), specifically Neural Network and Random Forest models, to choose test cases based on source code changes, commit messages, and change file path in order to offer developers with faster feedback. The study investigates the predicted accuracy of ML models using a large industrial dataset from a telecom company, which included 15 million test executions over 15 months. The results show that Random Forest outperforms Neural Network models in test case selection, with up to 97% accuracy achieved. Real-time evaluations conducted over a month show significant savings in test executions (88 % -90 %) and testing time (44 % -74%) across multiple regression testing activities, illustrating the potential of ML-driven techniques to optimize CI/CD pipelines and increase developer productivity.
+ER  - 
+
+TY  - CONF
+TI  - Evaluating Machine Learning-Based Test Case Prioritization in the Real World: An Experiment with SAP HANA
+T2  - 2025 IEEE Conference on Software Testing, Verification and Validation (ICST)
+SP  - 522
+EP  - 532
+AU  - J. Son
+AU  - G. An
+AU  - J. Hong
+AU  - S. Yoo
+PY  - 2025
+KW  - Training
+KW  - Adaptation models
+KW  - Accuracy
+KW  - Incremental learning
+KW  - Costs
+KW  - Supervised learning
+KW  - Reinforcement learning
+KW  - Continuous integration
+KW  - Data models
+KW  - History
+KW  - test case prioritization
+KW  - machine learning
+DO  - 10.1109/ICST62969.2025.10989019
+JO  - 2025 IEEE Conference on Software Testing, Verification and Validation (ICST)
+IS  - 
+SN  - 2159-4848
+VO  - 
+VL  - 
+JA  - 2025 IEEE Conference on Software Testing, Verification and Validation (ICST)
+Y1  - 31 March-4 April 2025
+AB  - Test Case Prioritization (TCP) aims to find orderings of regression test suite execution so that failures can be detected as early as possible. Recently, Machine Learning (ML) based techniques have been proposed and evaluated using open-source projects and their test histories. We report our evaluation of these ML-based TCP techniques, both Reinforcement Learning (RL) and Supervised Learning (SL) based ones, using the industrial testing data collected from SAP HANA, a large-scale database management system. Specifically, our study compares 37 different TCP techniques, including 14 RL models on two datasets, 4 SL models, and 5 non-ML baselines, using real-world testing data of SAP HANA collected over eight months. Our evaluation focuses on both the performance and cost-efficiency of these techniques in the context of Continuous Integration for large-scale industrial projects. The results reveal that while RL models show promising performance, they require significant training time. RL models with sampled data offer a balance between performance and efficiency. Interestingly, the best-performing RL model outperformed or matched non-ML baselines. However, the gradient-boosted SL technique consistently outperformed both RL models and baselines in terms of effectiveness and efficiency, even with complete retraining at each test cycle. Despite RL's capability for incremental learning, it demands substantial training time and still falls short in accuracy compared to SL. Our findings suggest that, even in a large-scale industrial setting, fully retraining an SL model for each cycle proves to be the most effective and efficient approach for TCP, offering superior performance and cost-efficiency compared to RL and traditional methods.
+ER  - 
+
+TY  - CONF
+TI  - SoK: Machine Learning for Continuous Integration
+T2  - 2023 IEEE/ACM International Workshop on Cloud Intelligence & AIOps (AIOps)
+SP  - 8
+EP  - 13
+AU  - A. K. Arani
+AU  - M. Zahedi
+AU  - T. H. M. Le
+AU  - M. A. Babar
+PY  - 2023
+KW  - Systematics
+KW  - Codes
+KW  - Automation
+KW  - Bibliographies
+KW  - Machine learning
+KW  - Software
+KW  - Continuous Integration
+KW  - Machine Learning
+KW  - Systematic Literature Review
+DO  - 10.1109/AIOps59134.2023.00006
+JO  - 2023 IEEE/ACM International Workshop on Cloud Intelligence & AIOps (AIOps)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 IEEE/ACM International Workshop on Cloud Intelligence & AIOps (AIOps)
+Y1  - 15-15 May 2023
+AB  - Continuous Integration (CI) has become a well- established software development practice for automatically and continuously integrating code changes during software development. An increasing number of Machine Learning (ML) based approaches for automation of CI phases are being reported in the literature. It is timely and relevant to provide a Systemization of Knowledge (SoK) of ML-based approaches for CI phases. This paper reports an SoK of different aspects of the use of ML for CI. Our systematic analysis also highlights the deficiencies of the existing ML-based solutions that can be improved for advancing the state-of-the-art.
+ER  - 
+
+TY  - CONF
+TI  - CI at Scale: Lean, Green, and Fast
+T2  - 2025 IEEE/ACM 47th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)
+SP  - 437
+EP  - 447
+AU  - D. Juloori
+AU  - Z. Lin
+AU  - M. Williams
+AU  - E. Shin
+AU  - S. Mahajan
+PY  - 2025
+KW  - Job shop scheduling
+KW  - Green products
+KW  - Machine learning
+KW  - Software quality
+KW  - Predictive models
+KW  - Continuous integration
+KW  - Probabilistic logic
+KW  - Delays
+KW  - Resource management
+KW  - Software engineering
+KW  - Continuous Integration
+KW  - Merge Queue
+KW  - Monorepos
+KW  - Build Time Prediction
+KW  - Build Scheduling
+KW  - Probabilistic Modeling
+KW  - Speculative Execution
+KW  - Version Control
+DO  - 10.1109/ICSE-SEIP66354.2025.00044
+JO  - 2025 IEEE/ACM 47th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)
+IS  - 
+SN  - 2832-7659
+VO  - 
+VL  - 
+JA  - 2025 IEEE/ACM 47th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)
+Y1  - 27 April-3 May 2025
+AB  - Maintaining a “green” mainline branch—where all builds pass successfully—is crucial but challenging in fast-paced, large-scale software development environments, particularly with concurrent code changes in large monorepos. SubmitQueue, a system designed to address these challenges, speculatively executes builds and only lands changes with successful outcomes. However, despite its effectiveness, the system faces inefficiencies in resource utilization, leading to a high rate of premature build aborts and delays in landing smaller changes blocked by larger conflicting ones. This paper introduces enhancements to SubmitQueue, focusing on optimizing resource usage and improving build prioritization. Central to this is our innovative probabilistic model, which distinguishes between changes with shorter and longer build times to prioritize builds for more efficient scheduling. By leveraging a machine learning model to predict build times and incorporating this into the probabilistic framework, we expedite the landing of smaller changes blocked by conflicting larger time-consuming changes. Additionally, introducing a concept of speculation threshold ensures that only the most likely builds are executed, reducing unnecessary resource consumption. After implementing these enhancements across Uber's major monorepos (Go, iOS, and Android), we observed a reduction in Continuous Integration (CI) resource usage by approximately 53%, CPU usage by 44%, and P95 waiting times by 37%. These improvements highlight the enhanced efficiency of SubmitQueue in managing large-scale software changes while maintaining a green mainline.
+ER  - 
+
+TY  - CONF
+TI  - An Architecture of a Web Application for Deploying Machine Learning Models in Healthcare Domain
+T2  - 2024 International Symposium on Electronics and Telecommunications (ISETC)
+SP  - 1
+EP  - 6
+AU  - M. -E. -O. Ursan
+AU  - C. D. Căleanu
+AU  - M. Bucos
+PY  - 2024
+KW  - Solid modeling
+KW  - Analytical models
+KW  - Software architecture
+KW  - Computational modeling
+KW  - Pipelines
+KW  - Data models
+KW  - Stakeholders
+KW  - Usability
+KW  - Standards
+KW  - Monitoring
+KW  - Machine Learning Operations (MLOps)
+KW  - ML deployment
+KW  - microservices
+KW  - medical imaging
+KW  - AI
+KW  - Computer Aided Diagnosis (CAD) System
+KW  - containerization
+KW  - data modeling
+DO  - 10.1109/ISETC63109.2024.10797433
+JO  - 2024 International Symposium on Electronics and Telecommunications (ISETC)
+IS  - 
+SN  - 2475-7861
+VO  - 
+VL  - 
+JA  - 2024 International Symposium on Electronics and Telecommunications (ISETC)
+Y1  - 7-8 Nov. 2024
+AB  - An important gap exists between advanced Deep Learning (DL) models developed for medical imaging and their insitu implementation in clinical environments. Our research proposes a scalable software architecture for a web-based computer-aided diagnosis (CAD) application that bridges the gap between research and production. The main goals are: (1) creating an intuitive interface for non-technical users and, (2) designating a feedback mechanism to enhance the Machine Learning (ML) models with medical expertise. The architecture assumes a microservices approach, containerization, and current web technologies to enable seamless deployment and user-friendliness. Key components include ONNX-based model conversion for cross- platform compatibility, asynchronous processing based on FastAPI, and a modular data handling system using PostgreSQL. Our proof-of-concept (PoC) shows the system's feasibility by deploying it on the Google Cloud Platform (GCP) and getting initial feedback from clinicians. Early findings indicate potential improvements in model usability and stakeholder engagement. Future actions will involve implementing continuous integration and delivery pipelines to improve system resilience and scalability.
+ER  - 
+
+TY  - CONF
+TI  - Predicting Cache Behaviour of Concurrent Applications
+T2  - 2024 IEEE 29th International Conference on Emerging Technologies and Factory Automation (ETFA)
+SP  - 1
+EP  - 8
+AU  - S. Imtiaz
+AU  - M. Behnam
+AU  - G. Capannini
+AU  - J. Carlson
+AU  - M. Jägemar
+PY  - 2024
+KW  - Training
+KW  - Concurrent computing
+KW  - Time series analysis
+KW  - Machine learning
+KW  - Continuous integration
+KW  - Complexity theory
+KW  - Long short term memory
+KW  - Monitoring
+KW  - Manufacturing automation
+KW  - Performance monitoring counters
+KW  - L1 Cache
+KW  - Long Short-Term Memory Network
+KW  - Machine Learning
+DO  - 10.1109/ETFA61755.2024.10710908
+JO  - 2024 IEEE 29th International Conference on Emerging Technologies and Factory Automation (ETFA)
+IS  - 
+SN  - 1946-0759
+VO  - 
+VL  - 
+JA  - 2024 IEEE 29th International Conference on Emerging Technologies and Factory Automation (ETFA)
+Y1  - 10-13 Sept. 2024
+AB  - Modern digital solutions are built around a variety of applications. The continuous integration of these applications brings advancements in technology. Therefore, it is essential to understand how these applications will behave when they run together. However, this can be challenging to interpret due to the increasing complexity of the execution details. One such fundamental detail is the utilization of shared cache as it goes hand in hand with the computation capacity of computer systems. Since cache utilization behavior is not simple enough to translate with few assumptions we have investigated if this complex behavior can be predicted with the help of machine learning. We trained the deep neural network with enough examples that represent the cache behavior when applications were running alone and when they were running concurrently on the same core. The Long Short-Term Memory (LSTM) network learns the entire execution period of each application in the training set. As a result, without running two applications together in reality, provided with the L1 cache misses of two applications (running alone), it can predict how the cache will look like if two applications wish to run together. The model returns a time series that reflects the cache behavior in concurrency.
+ER  - 
+
+TY  - CONF
+TI  - MLPilot: An Intelligent CI/CD Flight Controller for Auto-Tuning Resource Allocation in MLOps Kubernetes Pipelines
+T2  - 2025 IEEE International Conference on Advances in Data-Driven Analytics And Intelligent Systems (ADACIS)
+SP  - 1
+EP  - 6
+AU  - R. K. Kripa
+PY  - 2025
+KW  - Costs
+KW  - DevOps
+KW  - Pipelines
+KW  - Graphics processing units
+KW  - Real-time systems
+KW  - Safety
+KW  - Telemetry
+KW  - Reliability
+KW  - Optimization
+KW  - Engines
+KW  - Serverless Computing
+KW  - MLOps
+KW  - Continuous Integration / Continuous Deployment (CI/CD)
+KW  - Kubernetes
+KW  - Reinforcement Learning
+KW  - Resource Scheduling and Optimization
+DO  - 10.1109/ADACIS65663.2025.11437289
+JO  - 2025 IEEE International Conference on Advances in Data-Driven Analytics And Intelligent Systems (ADACIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Advances in Data-Driven Analytics And Intelligent Systems (ADACIS)
+Y1  - 20-22 Nov. 2025
+AB  - The growing complexity of machine learning (ML) workflows, combined with the scale of continuous integration and continuous deployment (CI/CD) pipelines, has placed increasing pressure on infrastructure efficiency, cost-effectiveness, and deployment reliability. Traditional Kubernetes-based resource schedulers, while robust for stateless services, fall short when orchestrating dynamic, compute-intensive ML workloads. In this paper, we introduce MLPilot, a novel CI/CD-aware flight controller designed to intelligently auto-tune resource allocation across MLOps pipelines in Kubernetes environments. MLPilot integrates seamlessly with existing CI/CD tools and leverages a telemetry-driven deep reinforcement learning engine to dynamically adjust compute, memory, and GPU configurations across pipeline stages. Our system architecture includes a Kubernetes-native operator, real-time telemetry aggregator, and a learning-based policy optimizer that jointly minimize latency, reduce infrastructure cost, and enhance deployment stability. Through extensive experiments on real-world ML workloads—including NLP, computer vision, and tabular models—we demonstrate that MLPilot achieves up to 32% faster pipeline execution, 27% lower resource cost, and 20% higher GPU utilization compared to state-of-the-art baselines. These results highlight the importance of intelligent, learning-based orchestration in future MLOps deployments. Our current evaluation is on a single 3-node cluster and does not yet enforce formal safety constraints for multi-tenant isolation; we outline these as priorities for future work.
+ER  - 
+
+TY  - CONF
+TI  - Intelligent resource prediction for SAP HANA continuous integration build workloads
+T2  - 2026 IEEE International Conference on Software Testing, Verification and Validation (ICST)
+SP  - 671
+EP  - 681
+AU  - T. Mandel
+AU  - J. Bader
+AU  - H. Yoo
+AU  - S. Kraft
+PY  - 2026
+KW  - Memory
+KW  - Modeling
+KW  - Optimization
+KW  - Resource management
+KW  - Timing
+KW  - Training
+KW  - Machine learning
+KW  - Testing
+KW  - Printing
+KW  - Production
+KW  - Machine learning
+KW  - resource usage optimization
+KW  - automated build cluster provisioning
+DO  - 10.1109/ICST69053.2026.00088
+JO  - 2026 IEEE International Conference on Software Testing, Verification and Validation (ICST)
+IS  - 
+SN  - 2159-4848
+VO  - 
+VL  - 
+JA  - 2026 IEEE International Conference on Software Testing, Verification and Validation (ICST)
+Y1  - 18-22 May 2026
+AB  - Large enterprises often operate extensive Continuous Integration (CI) pipelines on large, heterogeneous compute clusters, where conservative, statically defined resource requirements are used to ensure build reliability. This practice leads to substantial system memory over-allocation, reduced cluster utilization, and increased operational costs. In this paper, we motivate the need for intelligent resource prediction by analyzing over 300,000 historical build executions from a production CI environment with more than one thousand compute nodes. Our analysis shows that, on average, more than $60 \%$ of allocated system memory remains unused. We then compare multiple machine learning approaches for predicting build task memory usage, including classificationbased methods and regression-based quantile prediction. Our final solution employs a LightGBM–XGBoost quantile regression ensemble optimized to minimize under-allocation while reducing over-provisioning. We integrate this solution into the production CI pipeline via a microservice-based orchestration layer, achieving average memory savings of approximately 36GB per build and reducing under-allocation rates to below $0.3 \%$ without negatively impacting build execution times.
+ER  - 
+
+TY  - CONF
+TI  - Predictive Analytics in CI/CD Pipelines: Machine Learning to Enhance Deployment Reliability and Performance
+T2  - 2026 4th International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)
+SP  - 901
+EP  - 909
+AU  - D. Sundar
+AU  - Y. Jayaram
+AU  - J. Bhat
+PY  - 2026
+KW  - Modeling
+KW  - Pipelines
+KW  - Machine learning
+KW  - Equations
+KW  - Timing
+KW  - Testing
+KW  - Printing
+KW  - Machining
+KW  - Software
+KW  - Codes
+KW  - Continuous Integration and Continuous Deployment (CI/CD)
+KW  - Predictive Analytics
+KW  - Machine Learning
+KW  - Deployment Reliability
+KW  - DevOps Automation
+KW  - Risk-Aware Deployment
+KW  - Pipeline Performance Optimization
+KW  - Cloud-Native Software Engineering
+KW  - Ensemble Learning
+KW  - MLOps
+DO  - 10.1109/ICSSAS68835.2026.11559332
+JO  - 2026 4th International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 4th International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)
+Y1  - 28-30 May 2026
+AB  - The core of the current software delivery is the Continuous Integration and Continuous Deployment (CI/CD) pipelines, but the problem of reliability and efficient deployments under the rising system complexity, scale, and heterogeneity becomes highly challenging. Current CI/CD models mainly rely on reactive monitoring and fixed rule-based mechanisms which are not sufficient to predict failures and performance risks in new dynamic cloud-native settings. To address such shortcomings, this paper also suggests PA-ML-CI/CD, a predictive learningbased analytics solution that actively assesses the risk of deployment reliability and performance before the pipeline is executed. The framework incorporates multi-source CI/CD telemetry, feature engineering at scale, ensemble learning models and risk conscious deployment controller to make intelligent, preemptive deployment decisions. This research indicates the presence of the challenge in implementing predictive machine learning and risk-aware decision-making into CI/CD pipelines to support proactive, self-adaptive software delivery in large-scale cloud-native settings.
+ER  - 
+
+TY  - CONF
+TI  - PCOS Care: A Machine Learning-Based Web Application for Early Risk Prediction of Polycystic Ovary Syndrome
+T2  - 2025 IEEE International Conference on Advanced Healthcare Systems (ICAHS)
+SP  - 1
+EP  - 6
+AU  - R. Cooray
+AU  - M. K. Chinnathai
+AU  - S. Chahed
+PY  - 2025
+KW  - Modeling
+KW  - Machine learning
+KW  - Testing
+KW  - Medical services
+KW  - Occupational health
+KW  - Machining
+KW  - Printing
+KW  - Random forests
+KW  - Logistic regression
+KW  - Medical diagnosis
+KW  - Polycystic Ovary Syndrome
+KW  - Machine Learning
+KW  - Reproductive Health
+KW  - Risk Prediction
+KW  - Medical Diagnosis
+KW  - SMOTE
+KW  - Streamlit
+KW  - Flask API
+KW  - Logistic Regression
+KW  - Healthcare Technology
+DO  - 10.1109/ICAHS66950.2025.11553077
+JO  - 2025 IEEE International Conference on Advanced Healthcare Systems (ICAHS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Advanced Healthcare Systems (ICAHS)
+Y1  - 5-6 Dec. 2025
+AB  - Polycystic Ovary Syndrome (PCOS) is a common but underdiagnosed hormonal disorder affecting women of reproductive age, with delayed diagnosis contributing to significant long-term health complications. Although various diagnostic methods exist, there remains a lack of accessible, predictive, and user-centered tools that support its early screening and risk assessment, especially for underserved populations. To address this gap, this paper presents PCOS Care, a Machine Learning (ML) based web application designed to provide early risk prediction of PCOS through a publicly available user-friendly screening. The system utilizes two levels of risk prediction, a simple model based on lifestyle and physical indicators, and an enhanced model incorporating hormonal test data. Models were trained on real-world data, publicly available on Kaggle, using supervised learning classification algorithms such as Logistic Regression, Random Forest, Support Vector Machine (SVM) and Gradient Boosting with hyperparameter tuning and 10-fold-cross-validation. The enhanced model achieved the best performance with Random Forest, reporting 93.75% recall and 92.66% accuracy. The simple model also demonstrated strong potential, with 83.33% recall and 81.82% accuracy with Logistic Regression. Feature selection was performed using statistical methods such as analysis of variance (ANOVA), chi-square, correlation analysis, and mutual information to select the most relevant predictors. The application integrates a Streamlit-based frontend with a Flask -backend and is deployed on Render using a continuous integration and continuous deployment (CI/CD) pipeline. The usability of the system was tested with 32 potential users, and the results showed high acceptance, ease of navigation and system reliability. Conclusively, PCOS Care illustrates the benefits of ML in healthcare by enabling preliminary risk assessments and empowering users with a digital tool for informed health decisions.
+ER  - 
+
+TY  - CONF
+TI  - MAGNET: An optimized DevOps framework for efficient software integration and orchestration in the IoT-Edge-Cloud Continuum
+T2  - 2025 6th International Conference in Electronic Engineering & Information Technology (EEITE)
+SP  - 1
+EP  - 6
+AU  - E. Agorogiannis
+AU  - K. Petrakis
+AU  - G. Antonopoulos
+AU  - T. Anagnostopoulos
+AU  - N. Grigoropoulos
+AU  - Z. Benomar
+PY  - 2025
+KW  - DevOps
+KW  - Smart cities
+KW  - Scalability
+KW  - Ecosystems
+KW  - Software
+KW  - Complexity theory
+KW  - Security
+KW  - Edge computing
+KW  - Testing
+KW  - Smart manufacturing
+KW  - CI/CD
+KW  - DevOps
+KW  - IoT-edge-cloud continuum
+KW  - service orchestration
+KW  - cognitive connectivity
+KW  - fog computing
+KW  - edge computing
+KW  - IoT
+DO  - 10.1109/EEITE65381.2025.11166038
+JO  - 2025 6th International Conference in Electronic Engineering & Information Technology (EEITE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 6th International Conference in Electronic Engineering & Information Technology (EEITE)
+Y1  - 4-6 June 2025
+AB  - This paper introduces MAGNET, a DevOps framework comprising Continuous Integration/Continuous Deployment practices, alongside flexible development and integration infrastructures, as applied in COGNIFOG, an innovative computing ecosystem currently under development that uses decentralized decision making, machine learning, and distributed computing to enhance autonomy, adaptability, and scalability within the IoT-edge-cloud continuum. The proposed approach ensures efficient, reliable, and seamless framework integration, offering key insights into integration architecture, data flow management, and the adoption of advanced technologies. This work demonstrates the efficiency and adaptability of the COGNIFOG ecosystem through three real-world trials in smart cities, e-health, and smart manufacturing, along with the creation of a comprehensive QuickStart Guide for deployment, offering a robust solution for the complexities of next-generation computing environments.
+ER  - 
+
+TY  - CONF
+TI  - Scalable Threat Assessment Machine Learning Framework for CI/CD DevSecOps Pipelines
+T2  - 2026 2nd International Conference on Federated Learning and Intelligent Computing Systems (FLICS)
+SP  - 281
+EP  - 289
+AU  - A. Kandadi
+AU  - S. Gupta
+AU  - R. Bhaskaran
+AU  - C. H. Muntean
+PY  - 2026
+KW  - Modeling
+KW  - Transformers
+KW  - Graph neural networks
+KW  - Printing
+KW  - Security
+KW  - Pipelines
+KW  - Signal detection
+KW  - Threat assessment
+KW  - Training
+KW  - Clouds
+DO  - 10.1109/FLICS70075.2026.11621927
+JO  - 2026 2nd International Conference on Federated Learning and Intelligent Computing Systems (FLICS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 2nd International Conference on Federated Learning and Intelligent Computing Systems (FLICS)
+Y1  - 9-12 June 2026
+AB  - Current Continuous Integration and Continuous Deployment (CI/CD) pipelines increasingly use machine learning (ML) to predict, detect, and respond to security risks, yet they remain vulnerable to sophisticated attacks that can bypass traditional security tooling. These approaches create a hurdle to code deployment due to frequent false-positive alerts, which add operational overhead for developers. In DevSecOps, security is expected to operate as an automated and integral part of the delivery workflow, but achieving this at scale remains challenging. This paper proposes a cloud-native threat assessment framework for CI/CD DevSecOps pipelines centered on a hybrid Transformer-GNN ensemble model, where the Transformer captures temporal attack dynamics from ordered event sequences andthe GNN approximates structural relationships based on feature similarity to identify coordinated anomalies. The framework is trained and evaluated using the CICIDS-2017 intrusion detection dataset, a widely used benchmark for network-based threat detection. While not CI/CD-specific, it enables validation of the model’s ability to capture temporal and structural attack patterns. Class imbalance is handled using focal loss with logdampened class weights and stratified sampling that preserves the temporal coherence required by sequential deep learning models. The proposed framework achieves 99.98% accuracy with a 0.0005% false positive rate, bridging the integration gap between advanced ML-based detection and practical DevSecOps requirements. Index Terms-intelligent computing systems, distributed AI systems, CI/CD pipelines, DevSecOps, threat assessment, transformer networks, graph neural networks, cloud-native platforms
+ER  - 
+
+TY  - CONF
+TI  - Enhancing Software Deployment Pipelines with the Application of ML Techniques
+T2  - 2025 2nd International Conference on New Frontiers in Communication, Automation, Management and Security (ICCAMS)
+SP  - 1
+EP  - 5
+AU  - S. Sanghi
+AU  - S. K. Shreeshapuranik
+AU  - N. Kyung Kim
+AU  - D. Ramachandran
+AU  - S. Sachi
+AU  - N. Singh
+PY  - 2025
+KW  - Support vector machines
+KW  - DevOps
+KW  - Pipelines
+KW  - Machine learning
+KW  - Continuous integration
+KW  - Software
+KW  - Software reliability
+KW  - Resource management
+KW  - Testing
+KW  - Software engineering
+KW  - Software Development
+KW  - Machine Learning
+KW  - Resource Allocation
+KW  - CD Pipeline
+KW  - DevOps
+DO  - 10.1109/ICCAMS65118.2025.11234027
+JO  - 2025 2nd International Conference on New Frontiers in Communication, Automation, Management and Security (ICCAMS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 2nd International Conference on New Frontiers in Communication, Automation, Management and Security (ICCAMS)
+Y1  - 11-12 July 2025
+AB  - Continuous integration and deployment (CI/CD) pipelines, which are infamous for their slowness, frequent failures, and protracted build times, are a crucial part of the modern software development process. This study introduces a framework that uses machine learning (ML) to predictably boost pipeline performance. A Support Vector Machine technique for pipeline failure prediction will be developed as part of this effort. The method will also optimize resource allocation to decrease build times and provide dynamic framework for continuous development of CI/CD pipelines. This study assumes a comprehensive review of the literature and introduces a new approach based on the support vector machine (SVM) technology. The results demonstrate that the framework optimizes memory utilization and CPU, reduces build time by 33% and declines test success and failure rates by 60%. It also dramatically lowers resource consumption. The results showed that current DevOps approaches are able to tackle long-standing issues with CI/CD since they are intelligently scalable. This study laid the framework for future work in software engineering workflows including adaptive systems by introducing the idea of ML to the CI/CD process with the goal of improving pipeline efficacy and reliability.
+ER  - 
+
+TY  - CONF
+TI  - Efficient Detection of Intermittent Job Failures Using Few-Shot Learning
+T2  - 2025 IEEE International Conference on Software Maintenance and Evolution (ICSME)
+SP  - 632
+EP  - 643
+AU  - H. Aïdasso
+AU  - F. Bordeleau
+AU  - A. Tizghadam
+PY  - 2025
+KW  - Software maintenance
+KW  - Data integrity
+KW  - Pipelines
+KW  - Manuals
+KW  - Organizations
+KW  - Continuous integration
+KW  - Magnetic heads
+KW  - Labeling
+KW  - Few shot learning
+KW  - Faces
+KW  - Continuous Integration
+KW  - Intermittent Job Failures
+KW  - Classification
+KW  - Small Language Models
+KW  - Few-Shot Learning
+DO  - 10.1109/ICSME64153.2025.00064
+JO  - 2025 IEEE International Conference on Software Maintenance and Evolution (ICSME)
+IS  - 
+SN  - 2576-3148
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Software Maintenance and Evolution (ICSME)
+Y1  - 7-12 Sept. 2025
+AB  - One of the main challenges developers face in the use of continuous integration (CI) and deployment pipelines is the occurrence of intermittent job failures, which result from unexpected non-deterministic issues (e.g., flaky tests or infrastructure problems) rather than regular code-related errors such as bugs. Prior studies developed machine learning (ML) models trained on large datasets of job logs to classify job failures as either intermittent or regular. As an alternative to costly manual labeling of large datasets, the state-of-the-art (SOTA) approach leveraged a heuristic based on non-deterministic job reruns. However, this method mislabels intermittent job failures as regular in contexts where rerunning suspicious job failures is not an explicit policy, and therefore limits the SOTA's performance in practice. In fact, our manual analysis of 2,125 job failures from 5 industrial and 1 open-source projects reveals that, on average, 32 % of intermittent job failures are mislabeled as regular. To address these limitations, this paper introduces a novel approach to intermittent job failure detection using fewshot learning (FSL). Specifically, we fine-tune a small language model using a few number of manually labeled log examples to generate rich embeddings, which are then used to train an ML classification head. Our FSL-based approach achieves 70 - 88% F1-score with only 12 shots in all projects, outperforming the SOTA, which proved ineffective (34-52% F1-score) in 4 projects. Overall, this study underlines the importance of data quality over quantity and provides a more efficient and practical framework for the detection of intermittent job failures in organizations.
+ER  - 
+
+TY  - CONF
+TI  - DANTE: Data-Driven Test Case Selection and Prioritization for Long-Running Test Suites
+T2  - 2026 IEEE International Conference on Software Testing, Verification and Validation (ICST)
+SP  - 577
+EP  - 588
+AU  - S. Reale
+AU  - E. D. Nitto
+AU  - L. Baresi
+AU  - M. D. Penta
+AU  - G. Quattrocchi
+PY  - 2026
+KW  - Testing
+KW  - Timing
+KW  - Printing
+KW  - Costing
+KW  - Costs
+KW  - Modeling
+KW  - Codes
+KW  - Conferences
+KW  - Radio access networks
+KW  - Regional area networks
+KW  - test case selection
+KW  - test case prioritization
+KW  - software testing
+KW  - continuous integration
+KW  - CI/CD
+DO  - 10.1109/ICST69053.2026.00080
+JO  - 2026 IEEE International Conference on Software Testing, Verification and Validation (ICST)
+IS  - 
+SN  - 2159-4848
+VO  - 
+VL  - 
+JA  - 2026 IEEE International Conference on Software Testing, Verification and Validation (ICST)
+Y1  - 18-22 May 2026
+AB  - As software systems evolve, large test suites increasingly delay developer feedback in Continuous Integration and Delivery (CI/CD). Test Case Selection and Prioritization (TCSP) mitigates this issue, and recent evidence shows that simple heuristics, such as prioritizing recently failed or fastrunning tests, often outperform sophisticated machine learning (ML) approaches, which incur high training costs and suffer from distribution shift. However, these simple heuristics remain rigid and fail to leverage the rich historical data generated continuously by CI/CD pipelines. This paper introduces DANTE, a data-driven, yet training-free framework that evolves simple TCSP heuristics into a data-driven selection and prioritization strategy. DANTE processes historical signals through a probabilistic stickiness metric that automatically adapts to projectspecific failure and fixing patterns, eliminating the need for manual tuning. This history-aware logic is complemented by a lightweight, commit-aware component that captures the relevance between code changes and test artifacts. We evaluated DANTE on the Long-Running Test Suite (LRTS) dataset, focusing on the Java projects, which constitute the vast majority in LRTS (9 out of 10 in total) and comprise more than 21,000 CI builds with multi-hour test suites. The results show that DANTE consistently outperforms state-of-the-art cost-history cognizant heuristics and ML baselines in both test selection and prioritization, while remaining robust to flaky tests.
+ER  - 
+
+TY  - CONF
+TI  - Designing Self-Healing Automation Frameworks for Flaky CI Environments
+T2  - 2025 International Conference on Computer and Applications (ICCA)
+SP  - 1
+EP  - 7
+AU  - J. B. Mehta
+PY  - 2025
+KW  - Adaptation models
+KW  - Automation
+KW  - Microservice architectures
+KW  - Companies
+KW  - Continuous integration
+KW  - Reliability engineering
+KW  - Software
+KW  - Timing
+KW  - Testing
+KW  - Sorting
+KW  - Self-Healing Automation
+KW  - Flaky Test Detection
+KW  - Machine Learning Models
+KW  - Continuous Integration Pipeline
+KW  - Adaptive Remediation Strategies
+DO  - 10.1109/ICCA66035.2025.11430985
+JO  - 2025 International Conference on Computer and Applications (ICCA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Computer and Applications (ICCA)
+Y1  - 22-24 Dec. 2025
+AB  - Self-healing automation systems are a game-changer for dependable continuous integration, tackling the problem of test flakiness that affects current software creation. These smart systems use machine learning and adaptive fixes to spot, sort, and fix test failures on their own. By mixing LSTM networks for spotting patterns over time, gradient boosting for sorting, and reinforcement learning, these systems accurately tell apart real software problems from environmental issues. The design relies on microservices and event-driven setups, using Apache Kafka for streaming messages, Kubernetes for organization, and Prometheus for gathering metrics. This allows the system to handle millions of test events very quickly. Using anomaly detection strategies that combine statistical process control with deep learning, the system keeps different models for various test types and adapts constantly through online learning. The rollout happens in stages: watching, shadow mode, and gradual automation. This makes sure it fits smoothly with current CI/CD tools and boosts trust within the organization. These systems change quality assurance by cutting down on false positives, speeding up resolution times, and saving a lot of money through automatic fixes.
+ER  - 
+
+TY  - CONF
+TI  - Energy-Efficient Container Orchestration for HPC Workloads using ML in Kubernetes on Cloud Platforms
+T2  - 2026 International Conference on Recent Advancement in Electrical, Computer and Communication Technologies (IECCT)
+SP  - 1
+EP  - 6
+AU  - A. Bajaj
+AU  - N.S.Pradeep
+AU  - V.Aarthi
+PY  - 2026
+KW  - High performance computing
+KW  - Schedules
+KW  - Modeling
+KW  - Scheduling
+KW  - Resource management
+KW  - Clouds
+KW  - Energy efficiency
+KW  - Containers
+KW  - Hardware
+KW  - Architecture
+KW  - Kubernetes
+KW  - Cloud Computing
+KW  - Orchestration
+KW  - Machine Learning
+KW  - Energy Efficiency
+DO  - 10.1109/IECCT68664.2026.11541572
+JO  - 2026 International Conference on Recent Advancement in Electrical, Computer and Communication Technologies (IECCT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Recent Advancement in Electrical, Computer and Communication Technologies (IECCT)
+Y1  - 10-11 April 2026
+AB  - Cloud computing has revolutionized application development by enabling scalable, flexible, and automated deployment. Kubernetes is at the heart of container orchestration and continuous integration. Although containerization and orchestration technologies are widely deployed, they have not yet been integrated into the High-Performance Computing (HPC) environment, especially for energy efficiency and smart workload distribution. The standard Kubernetes scheduling mechanisms tend to result in underutilized resources, and creating new custom schedulers introduces additional complexity, testing difficulty, and maintenance issues. This research presents an Energy-Efficient Container Orchestration (EE-CO) architecture for HPC workloads that combines Machine Learning (ML) with Kubernetes on the cloud infrastructure. EE-CO optimizes adaptive workload allocation, performance surveillance, and resource management in heterogeneous CPU architectures. It enhanced workload allocation efficiency and cost-effectiveness, and reduced energy consumption and computational costs. The potential of ML-powered Kubernetes orchestration for developing sustainable, scalable, and energy-efficient HPC deployments in the cloud.
+ER  - 
+
+TY  - CONF
+TI  - Optimizing Test Case Reduction in CI/CD Pipelines Using Integer Linear Programming
+T2  - 2025 IEEE International Conference on Collaborative Advances in Software and COmputiNg (CASCON)
+SP  - 539
+EP  - 544
+AU  - Y. Mahmoud
+AU  - A. Fariha
+AU  - A. Azim
+AU  - R. Liscano
+AU  - K. Smith
+AU  - Y. -K. Chang
+AU  - G. Seferi
+AU  - Q. Tauseef
+PY  - 2025
+KW  - Fault detection
+KW  - Pipelines
+KW  - Machine learning
+KW  - Integer linear programming
+KW  - Continuous integration
+KW  - Minimization
+KW  - Software
+KW  - Real-time systems
+KW  - Reliability
+KW  - Optimization
+KW  - Continuous Integration
+KW  - Test Case Reduction
+KW  - Test Failure Prediction
+KW  - Integer Linear Programming
+DO  - 10.1109/CASCON66301.2025.00085
+JO  - 2025 IEEE International Conference on Collaborative Advances in Software and COmputiNg (CASCON)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Collaborative Advances in Software and COmputiNg (CASCON)
+Y1  - 10-13 Nov. 2025
+AB  - In modern software development, Continuous Integration and Continuous Deployment (CI/CD) pipelines rely on the frequent execution of large test suites to detect regressions and maintain system reliability. However, executing the full suite in every build cycle imposes significant time and resource costs. While recent advancements in machine learning have enabled the prediction of test case failures, allowing for selective test execution, they may still lead to suboptimal coverage or high failure miss rates. This paper presents an optimization-based test case reduction approach that aims to minimize the number of wrongly eliminated test cases that would have failed in execution. By utilizing feature-engineered historical data from prior test executions, we compute a criticality score for each test case and use ILP to select an optimal subset to retain. This formulation minimizes the number of failed test cases that are wrongly excluded, while constraining test suite size to a desired execution range. We evaluate the method across large quantities of tests and demonstrate the practical viability of ILP-based test case reduction optimization for CI/CD pipelines.
+ER  - 
+
+TY  - CONF
+TI  - AI4SE for CI/CD: Explainable Code Smell Risk Analysis
+T2  - 2026 IEEE International Conference on Artificial Intelligence Testing (AITest)
+SP  - 50
+EP  - 55
+AU  - J. Domingues
+AU  - D. Duarte
+AU  - A. Sousa
+AU  - N. Pombo
+PY  - 2026
+KW  - Modeling
+KW  - Codes
+KW  - Measurement
+KW  - Printing
+KW  - Testing
+KW  - Software engineering
+KW  - Artificial intelligence
+KW  - Machine learning
+KW  - Labeling
+KW  - Training
+KW  - Code Smells
+KW  - Software Quality Analysis
+KW  - Explainable Artificial Intelligence
+KW  - Continuous Integration and Continuous Delivery (CI/CD)
+KW  - AI for Software Engineering (AI4SE)
+DO  - 10.1109/AITest70988.2026.00017
+JO  - 2026 IEEE International Conference on Artificial Intelligence Testing (AITest)
+IS  - 
+SN  - 2835-3560
+VO  - 
+VL  - 
+JA  - 2026 IEEE International Conference on Artificial Intelligence Testing (AITest)
+Y1  - 27-30 July 2026
+AB  - Continuous Integration and Continuous Delivery (CI/CD) pipelines accelerate software evolution but complicate the timely assessment of structural degradation. While code smells effectively indicate maintainability risks, their detection remains largely confined to isolated static analysis rather than being actively integrated into continuous workflows. To address this gap, we propose an explainable AI-driven approach for code smell classification designed specifically for software quality risk analysis in CI/CD environments. Using structural metrics related to complexity, coupling, and cohesion, we train a Random Forest model to classify four prevalent smells: Blob, Long Method, Feature Envy, and Data Class. Evaluated on labeled Java systems, our approach successfully captures the structural patterns indicative of software decay, achieving 82% accuracy and a 0.86 macro F1-score. Beyond raw performance, we operationalize these classifications as interpretable risk indicators within a prototype CI/CD pipeline, prioritizing human-centered evaluation. Ultimately, this work advances the AI for Software Engineering (AI4SE) domain by demonstrating how explainable machine learning can practically augment continuous quality assurance in agile development.
+ER  - 
+
+TY  - CONF
+TI  - Explainable Test Case Prioritization in Continuous Integration through Incremental Learning Approach
+T2  - 2024 International Conference on Communication, Control, and Intelligent Systems (CCIS)
+SP  - 1
+EP  - 6
+AU  - K. Garg
+AU  - R. Agarwal
+AU  - S. Shekhar
+PY  - 2024
+KW  - Software testing
+KW  - Measurement
+KW  - Adaptation models
+KW  - Logistic regression
+KW  - Transfer learning
+KW  - Refining
+KW  - Software quality
+KW  - Continuous integration
+KW  - Intelligent systems
+KW  - Open source software
+KW  - Continuous Integration
+KW  - Deep Learning Model
+KW  - Regression Testing
+KW  - Software Testing
+KW  - Test case Prioritization
+DO  - 10.1109/CCIS63231.2024.10932075
+JO  - 2024 International Conference on Communication, Control, and Intelligent Systems (CCIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Communication, Control, and Intelligent Systems (CCIS)
+Y1  - 6-7 Dec. 2024
+AB  - In Continuous Integration (CI) environments, where software undergoes frequent updates, regression testing is vital in ensuring software quality. However, rerunning every test case becomes impractical with the constant changes. Test Case Prioritization (TCP) addresses this issue, and Machine Learning (ML) is increasingly used to manage regression testing. However, many ML models struggle to adapt to new features or changes in CI and lack transparency, complicating the regression process. To address these issues, we propose an incremental learning-based explainable ML model for TCP in CI environments, which adaptively incorporates new changes. We use SHapley Additive exPlanations (SHAP) to evaluate feature contributions and help testers understand the model's functionality. Our model is trained and tested on 20 open-source software projects. Its performance is assessed using Accuracy and F1 Score, while test case prioritization is evaluated with the Average Percentage of Faults Detected (APFD) and a new metric, the Failed Test Ranking Score (FTRS).
+ER  - 
+
+TY  - CONF
+TI  - Failure Prediction in CI/CD Pipelines Using XGBoost-Based Machine Learning
+T2  - 2026 International Conference on Innovations in Communication, Geoscience and Robotics (ICICGR)
+SP  - 1
+EP  - 6
+AU  - K. M. N.
+AU  - S. Makarand
+AU  - K. D. S.
+AU  - A. S. S.
+AU  - P. V. A.
+AU  - P. P. M.
+PY  - 2026
+KW  - Modeling
+KW  - Pipelines
+KW  - Machine learning
+KW  - Printing
+KW  - Machining
+KW  - Timing
+KW  - Software development management
+KW  - Software engineering
+KW  - Testing
+KW  - Metadata
+KW  - CI/CD pipelines
+KW  - failure prediction
+KW  - machine learning
+KW  - GitHub Actions
+KW  - log analysis
+KW  - XGBoost
+KW  - DevOps
+DO  - 10.1109/ICICGR68236.2026.11600250
+JO  - 2026 International Conference on Innovations in Communication, Geoscience and Robotics (ICICGR)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Innovations in Communication, Geoscience and Robotics (ICICGR)
+Y1  - 24-25 April 2026
+AB  - Modern DevOps approaches revolve around Continuous Integration and Continuous Deployment (CI/CD) pipelines, which automate software build, test, and deployment tasks. However, configuration mistakes, dependency conflicts, unstable tests, and flawed code modifications often cause pipeline executions to fail, which increases debugging effort, delays releases, and wastes computer resources. Automated failure prediction algorithms are desperately needed as CI/CD systems grow and manual post-failure analysis becomes unfeasible. Using actual GitHub Actions workflow data, this article suggests a machine learning-based framework for forecasting CI/CD pipeline problems. The suggested method incorporates a variety of information sources, such as statistical features taken from execution logs, temporal execution characteristics, workflow metadata, and semantic representations obtained from commit messages using textual feature modeling approaches. Systematic preprocessing and feature engineering are used to convert raw workflow data into structured representations, and resampling techniques are used to overcome the inherent class imbalance between successful and unsuccessful executions. In order to model intricate correlations between pipeline features and execution outcomes with little computational overhead appropriate for real time deployment, an ensemble learning model based on XGBoost is utilized. The suggested framework greatly outperforms metadata only baseline techniques, with an overall prediction accuracy of 94.46%, according to experimental evaluation on over 30,000 workflow executions. Additionally, feature analysis shows that commit-level semantics and log-derived statistics play a significant role in failure prediction. Proactive detection of high-risk pipeline executions is made possible by the suggested framework, which can be easily incorporated into current CI/CD workflows to promote dependable and effective software delivery in real-world DevOps environments.
+ER  - 
+
+TY  - CONF
+TI  - AI-Assisted Runtime Vulnerability Prediction in CI/CD Pipelines Using Behavioral Telemetry
+T2  - 2026 Fourth International Conference on Secure Cyber Computing and Communications (ICSCCC)
+SP  - 1320
+EP  - 1325
+AU  - S. Arora
+AU  - Anupriya
+PY  - 2026
+KW  - Pipelines
+KW  - Modeling
+KW  - Runtime
+KW  - Security
+KW  - Artificial intelligence
+KW  - Telemetry
+KW  - Signal detection
+KW  - Printing
+KW  - Testing
+KW  - Aluminum
+KW  - Runtime Security
+KW  - CI/CD Pipelines
+KW  - Vulnerability Prediction
+KW  - Behavioral Telemetry
+KW  - AI-Assisted Security
+KW  - DevSecOps
+DO  - 10.1109/ICSCCC69031.2026.11600256
+JO  - 2026 Fourth International Conference on Secure Cyber Computing and Communications (ICSCCC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 Fourth International Conference on Secure Cyber Computing and Communications (ICSCCC)
+Y1  - 29-31 May 2026
+AB  - Security enforcement in Continuous Integration and Continuous Deployment (CI/CD) pipelines largely depends on static and rule-based analysis techniques, which are ineffective in identifying vulnerabilities that manifest during runtime execution. Exposure to security risks is worsened by the delay in the existing vulnerability discovery processes. Subsequently, this paper presents an AI-supported Runtime vulnerability prediction system which uses behavioral telemetry collected in CI/CD pipeline executions. The framework constantly guides the indicators of runtime, such as execution history, API communications and resource usage statistics, and uses a lightweight machine-learning model to predict the vulnerabilities at the earliest possible phases of the pipeline. The main contributions are: (i) introduction of runtime-aware security in CI/CD pipelines; (ii) development of telemetry-based behavioral features of vulnerability prediction and (iii) application of an efficient AI-based prediction model, which can be implemented in a real world environment. Experimental results prove that the vulnerability discovery capabilities can be better detected and have lower latency compared to traditional statical security tools. The suggested methodology, in its turn, strengthens proactive security in the DevSecOps ecosystems, which creates more resilient, secure development pipelines in the form of software delivery.
+ER  - 
+
+TY  - CONF
+TI  - AI-Augmented Pipeline Architecture for Continuous Integration and Continuous Deployment
+T2  - 2026 International Conference on Computer, Information and Telecommunication Systems (CITS)
+SP  - 1
+EP  - 7
+AU  - V. S. R. Dantuluri
+AU  - S. Bajaj
+AU  - A. Kolhe
+AU  - D. Rajput
+PY  - 2026
+KW  - Modeling
+KW  - Testing
+KW  - Artificial intelligence
+KW  - Pipelines
+KW  - Architecture
+KW  - Computer architecture
+KW  - Printing
+KW  - Codes
+KW  - Timing
+KW  - Measurement
+KW  - Continuous Integration
+KW  - Continuous Deployment
+KW  - Artificial Intelligence
+KW  - Machine Learning
+KW  - DevOps
+KW  - AIOps
+KW  - Predictive Testing
+KW  - Anomaly Detection
+KW  - Large Language Models
+DO  - 10.1109/CITS70307.2026.11637301
+JO  - 2026 International Conference on Computer, Information and Telecommunication Systems (CITS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Computer, Information and Telecommunication Systems (CITS)
+Y1  - 22-24 July 2026
+AB  - While Continuous Integration and Continuous Delivery (CI/CD) pipelines are the backbone of modern software engineering, they remain fundamentally rigid and reactive. Escalating systemic complexity has exposed the limitations of static, rule-based automation, resulting in exhaustive test cycles, wasted compute, and manual incident remediation. This paper proposes an AI-augmented CI/CD architecture comprising five intelligent stages: Code+AI, SmartBuild, Predictive Test, Canary+AI, and Self-Heal. By integrating predictive machine learning, anomaly detection, and large language models (LLMs) directly into the delivery lifecycle, we transition the pipeline from a deterministic conveyor belt into an adaptive ecosystem. We evaluate this architecture against traditional pipelines in an enterprise-scale microservice environment. The empirical results demonstrate a profound reduction in operational friction, including a 58% reduction in build times, a 69% reduction in test suite execution with maintained coverage, and a 65% improvement in meantime-to-recovery (MTTR). Ultimately, this framework illustrates how organizations can leverage historical pipeline telemetry to continuously optimize deployment velocity and systemic reliability.
+ER  - 
+
+

@@ -1,0 +1,65 @@
+TY  - CONF
+TI  - Security Anomaly Detection in Enterprise GitHub
+AU  - Jordan, Adam
+AU  - Chen, Yong
+T3  - PEARC '24
+AB  - Enterprises that build software on a large scale have complexities that are unique, where the software delivery community may scale to numbers that are difficult to oversee, either from a software engineering or security perspective. The ability to detect anomalies in Enterprise GitHub can open a new opportunity to gather insights on misuse, risky behaviors, and suspicious behaviors in software engineering services. An effective method to detect anomalies in a large enterprise is developed and a foundational step in maturing methods to improve software engineering practices and security at scale. This method utilizes machine learning and security indicators in audit logs to effectively identify anomalies at scale.
+C1  - New York, NY, USA
+C3  - Practice and Experience in Advanced Research Computing 2024: Human Powered Computing
+DA  - 2024/07/17/
+PY  - 2024
+DO  - 10.1145/3626203.3670591
+DP  - ACM Digital Library
+SP  - 1
+EP  - 5
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-0419-2
+UR  - https://dl.acm.org/doi/10.1145/3626203.3670591
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3626203.3670591?download=true
+ER  - 
+
+TY  - CONF
+TI  - Software Bug Count Prediction Using Abstract Syntax Trees (ASTs)
+AU  - Ibrahim, Rahmeh Fawaz
+AU  - Qusef, Abdallah
+T3  - ICSIE '24
+AB  - Predicting software defects is important for ensuring high-quality software delivery. This proposed study investigates the effectiveness of deep learning models in predicting software bug counts compared to traditional machine learning models. We concentrated our investigation on two fundamental questions: (1) Can deep learning techniques surpass traditional machine learning approaches in accurately predicting bug counts in software modules via regression analysis? (2) In the context of regression-based bug count prediction, does a deep learning model that leverages features extracted from Abstract Syntax Trees (ASTs) demonstrate superior performance compared to one that relies on Object-Oriented (OO) metrics? To address RQ-1, we trained layered Long Short-Term Memory (LSTM) networks and Convolutional Neural Networks (CNNs) on (17) OO metrics from the PROMISE and SPSC datasets and compared their performance. For RQ-2, we extracted relevant features from ASTs using specific node types and combined them with the OO metrics to train the LSTM and CNN models. Four experiments were conducted: LSTM on OO metrics, LSTM on AST features, CNN on OO metrics, and CNN on AST features. Evaluation using Mean Absolute Error (MAE) and Mean Relative Error (MRE) showed that deep learning models outperformed traditional machine learning models, with layered LSTM and CNN models trained on combined OO metrics and AST features achieving the best defect predictive accuracy. These findings highlight the potential of deep learning approaches in software defect prediction and show the importance of feature selection in achieving optimal results.
+C1  - New York, NY, USA
+C3  - Proceedings of the 2024 13th International Conference on Software and Information Engineering
+DA  - 2025/04/26/
+PY  - 2025
+DO  - 10.1145/3708635.3708652
+DP  - ACM Digital Library
+SP  - 39
+EP  - 45
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1776-5
+UR  - https://dl.acm.org/doi/10.1145/3708635.3708652
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3708635.3708652?download=true
+ER  - 
+
+TY  - CONF
+TI  - Env2Vec: accelerating VNF testing with deep learning
+AU  - Piao, Guangyuan
+AU  - Nicholson, Patrick K.
+AU  - Lugones, Diego
+T3  - EuroSys '20
+AB  - The adoption of fast-paced practices for developing virtual network functions (VNFs) allows for continuous software delivery and creates a market advantage for network operators. This adoption, however, is problematic for testing engineers that need to assure, in shorter development cycles, certain quality of highly-configurable product releases running on heterogeneous clouds. Machine learning (ML) can accelerate testing workflows by detecting performance issues in new software builds. However, the overhead of maintaining several models for all combinations of build types, network configurations, and other stack parameters, can quickly become prohibitive and make the application of ML infeasible.We propose Env2Vec, a deep learning architecture that combines contextual features with historical resource usage, and characterizes the various stack parameters that influence the test execution within an embedding space, which allows it to generalize model predictions to previously unseen environments. We integrate a single ML model in the testing workflow to automatically debug errors and pinpoint performance bottlenecks. Results obtained with real testing data show an accuracy between 86.2%-100%, while reducing the false alarm rate by 20.9%-38.1% when reporting performance issues compared to state-of-the-art approaches.
+C1  - New York, NY, USA
+C3  - Proceedings of the Fifteenth European Conference on Computer Systems
+DA  - 2020/04/17/
+PY  - 2020
+DO  - 10.1145/3342195.3387525
+DP  - ACM Digital Library
+SP  - 1
+EP  - 16
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-6882-7
+ST  - Env2Vec
+UR  - https://dl.acm.org/doi/10.1145/3342195.3387525
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3342195.3387525?download=true
+ER  - 
+

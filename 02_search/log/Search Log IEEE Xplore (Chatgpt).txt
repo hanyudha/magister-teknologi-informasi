@@ -1,0 +1,9 @@
+| ID    | Fokus                                 | Field    | Filter                                                                | Hasil |
+| ----- | ------------------------------------- | -------- | --------------------------------------------------------------------- | ----: |
+| IE-01 | `"DevOps"` + AI terms                 | Abstract | Conferences + Journals, 2016–2026                                     |   179 |
+| IE-02 | `"CI/CD"` + AI terms                  | Abstract | Conferences + Journals, 2016–2026                                     |   129 |
+| IE-03 | `"continuous integration"` + AI terms | Abstract | Conferences + Journals, 2016–2026                                     |   159 |
+| IE-04 | `"continuous delivery"` + AI terms    | Abstract | Conferences + Journals, 2016–2026                                     |    38 |
+| IE-05 | `"continuous deployment"` + AI terms  | Abstract | Conferences + Journals, 2016–2026                                     |    53 |
+| IE-06 | `"software delivery"` + AI terms      | Abstract | Conferences + Journals, 2016–2026                                     |    23 |
+| IE-07 | `"AIOps"`                             | Abstract | Conferences + Journals, requested 2016–2026; actual results 2019–2026 |   184 |

@@ -1,0 +1,351 @@
+TY  - CONF
+TI  - Decoding CI/CD Practices in Open-Source Projects with LLM Insights
+AU  - Chomątek, Łukasz
+AU  - Papuga, Jakub
+AU  - Nowak, Przemyslaw
+AU  - Poniszewska-Marańda, Aneta
+T3  - FSE Companion '25
+AB  - The analysis of continuous integration and continuous deployment (CI/CD) pipeline configurations offers critical insights into modern software development practices. This paper leverages advanced large language models (LLMs) — DeepSeek-V2 and GPT-4o — to examine pipeline definition files from 28,770 popular GitHub repositories, uncovering adoption trends across CI/CD practices. Our LLM-driven approach reveals near-universal implementation of build (80.0%) and test (80.2%) stages, contrasted by lower adoption of specialized practices like static application security testing (SAST) (12.1%), containerization (17.9%), and cloud deployment (4.2%). System-specific patterns emerge, with Travis CI leading in build automation (99.2%) and GitHub Actions excelling in linting (44.9%) and SAST (16.5%), reflecting distinct system strengths. By harnessing LLMs to parse and interpret complex pipeline files at scale, this study not only maps the CI/CD landscape but also demonstrates the transformative potential of artificial intelligence in software engineering research. We propose future work to refine LLM-based tools for pipeline analysis and address adoption gaps, aiming to enhance CI/CD accessibility and effectiveness across diverse projects.
+C1  - New York, NY, USA
+C3  - Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering
+DA  - 2025/07/28/
+PY  - 2025
+DO  - 10.1145/3696630.3728699
+DP  - ACM Digital Library
+SP  - 1638
+EP  - 1644
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1276-0
+UR  - https://dl.acm.org/doi/10.1145/3696630.3728699
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3696630.3728699?download=true
+ER  - 
+
+TY  - CONF
+TI  - Transforming CS Education with DevOps: Streamlined Assignment Validation and Delivery @ Scale
+AU  - Deshpande, Gururaj
+AU  - Cheekati, Shravan
+AU  - Patel, Shail
+AU  - Raj, Pranav
+AU  - Singh, Madhuri
+AU  - Pindur, Mark
+AU  - Al Soghyar, Nouf
+AU  - Zhao, Bryan
+AU  - Babolhavaeji, Parisa
+AU  - Taher, Mohammad
+AU  - Nathan, Krish
+AU  - Spaeth, Will
+AU  - Roozbahani, Max Mahdi
+T3  - L@S '24
+AB  - The surge in interest and demand for Artificial Intelligence (AI) skills has significantly increased student enrollment in AI and Machine Learning (ML) classes. In a large ML course at Georgia Institute of Technology, multi-week assignments encourage students to critically think about various ML algorithms theoretically and in an applied setting. Given the complexity of these large assignments, there exists the potential for bugs to remain undetected even after the verification process. These bugs lead to a significant increase in student questions and concerns, necessitate re-releasing assignment, and degrade the homework experience. To reduce and even prevent bugs in assignments, we adopt the DevOps methodology and implement a novel CI/CD pipeline along with Gitflow to automate the validation process of an assignment, from creation to release. An analysis of our classroom forum across semesters demonstrates that integrating a CI/CD pipeline with Gitflow effectively reduces the number of bug-related posts, allowing the instructional team to refocus on enhancing the student learning experience.
+C1  - New York, NY, USA
+C3  - Proceedings of the Eleventh ACM Conference on Learning @ Scale
+DA  - 2024/07/15/
+PY  - 2024
+DO  - 10.1145/3657604.3664676
+DP  - ACM Digital Library
+SP  - 259
+EP  - 264
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-0633-2
+ST  - Transforming CS Education with DevOps
+UR  - https://dl.acm.org/doi/10.1145/3657604.3664676
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3657604.3664676?download=true
+ER  - 
+
+TY  - CONF
+TI  - Advancing Software Security and Reliability in Cloud Platforms through AI-based Anomaly Detection
+AU  - Saleh, Sabbir M.
+AU  - Sayem, Ibrahim Mohammed
+AU  - Madhavji, Nazim
+AU  - Steinbacher, John
+T3  - CCSW '24
+AB  - Continuous Integration/Continuous Deployment (CI/CD) is fundamental for advanced software development, supporting faster and more efficient delivery of code changes into cloud environments. However, security issues in the CI/CD pipeline remain challenging, and incidents (e.g., DDoS, Bot, Log4j, etc.) are happening over the cloud environments. While plenty of literature discusses static security testing and CI/CD practices, only a few deal with network traffic pattern analysis to detect different cyberattacks. This research aims to enhance CI/CD pipeline security by implementing anomaly detection through AI (Artificial Intelligence) support. The goal is to identify unusual behaviour or variations from network traffic patterns in pipeline and cloud platforms. The system shall integrate into the workflow to continuously monitor pipeline activities and cloud infrastructure. Additionally, it aims to explore adaptive response mechanisms to mitigate the detected anomalies or security threats. This research employed two popular network traffic datasets, CSE-CIC-IDS2018 and CSE-CIC-IDS2017. We implemented a combination of Convolution Neural Network (CNN) and Long Short-Term Memory (LSTM) to detect unusual traffic patterns. We achieved an accuracy of 98.69% and 98.30% and generated log files in different CI/CD pipeline stages that resemble the network anomalies affected to address security challenges in modern DevOps practices, contributing to advancing software security and reliability.
+C1  - New York, NY, USA
+C3  - Proceedings of the 2024 on Cloud Computing Security Workshop
+DA  - 2024/11/19/
+PY  - 2024
+DO  - 10.1145/3689938.3694779
+DP  - ACM Digital Library
+SP  - 43
+EP  - 52
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1234-0
+UR  - https://dl.acm.org/doi/10.1145/3689938.3694779
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3689938.3694779?download=true
+ER  - 
+
+TY  - JOUR
+TI  - On the Reruns of GitHub Actions Workflows
+AU  - Huang, Jiangnan
+AU  - Lin, Bin
+T2  - ACM Transactions on Software Engineering and Methodology
+AB  - GitHub Actions, a built-in CI/CD solution of GitHub, is increasingly popular among developers for automating software development workflows. It has been observed that when automated workflow execution fails, developers sometimes only rerun the workflow or failed job without any modifications to the repository. The widespread use of these reruns has consumed considerable computing resources and raised concerns regarding the reliability and consistency of these workflows. Understanding how developers rerun GitHub Actions workflows and the rationale behind the rerun can provide valuable insights to further improve the reliability and efficiency of the software development process.In this work, we conducted an empirical study on 3,320 open-source Java repositories to understand how developers rerun GitHub Actions workflows and quantify both wasted time and computing resources. We further studied the cases where workflow reruns lead to successful outcomes and manually analyzed the reasons behind the workflow execution flakiness. Based on our findings, we tested four machine learning based models to predict the workflow execution outcome, aiming to reduce the potential resource waste caused by workflow reruns. Our study presents how developers deal with GitHub Actions execution failures, pinpoints root causes of workflow execution flakiness, and offers actionable insights to improve CI/CD workflow reliability and efficiency.
+DA  - 2026/02/09/
+PY  - 2026
+DO  - 10.1145/3795771
+DP  - ACM Digital Library
+J2  - ACM Trans. Softw. Eng. Methodol.
+SN  - 1049-331X
+UR  - https://dl.acm.org/doi/10.1145/3795771
+Y2  - 2026/09/07/08:45:12
+L1  - https://dl.acm.org/doi/pdf/10.1145/3795771?download=true
+ER  - 
+
+TY  - CONF
+TI  - Streamlining ML Training in Kubernetes: An MLOps Architecture with Kubeflow
+AU  - Korontanis, Ioannis
+AU  - Zacharia, Athina
+AU  - Makris, Antonios
+AU  - Pateraki, Maria
+AU  - Tserpes, Konstantinos
+T3  - IOT '25
+AB  - Machine Learning Operations (MLOps) is essential for automating the deployment, monitoring, and management of ML models. By integrating MLOps with DevOps practices, developers can create automated training pipelines. This paper explores using Kubeflow as an MLOps platform and GitHub Actions as a CI/CD pipeline for training and deploying ML models. Kubeflow provides a scalable framework for orchestrating ML workflows in containers, with Kubernetes enabling efficient resource management. Containerization ensures consistency, portability, and reproducibility across environments, while GitHub Actions automates testing, version control, and deployment. A real-world case study demonstrates this architecture and discusses challenges and best practices for modern MLOps workflows.
+C1  - New York, NY, USA
+C3  - Proceedings of the 15th International Conference on the Internet of Things
+DA  - 2025/12/12/
+PY  - 2025
+DO  - 10.1145/3770501.3771304
+DP  - ACM Digital Library
+SP  - 267
+EP  - 270
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1595-2
+ST  - Streamlining ML Training in Kubernetes
+UR  - https://dl.acm.org/doi/10.1145/3770501.3771304
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3770501.3771304?download=true
+ER  - 
+
+TY  - CONF
+TI  - TraceCaps: Inline Provenance and Risk Enforcement for Agentic Software Engineering
+AU  - Catarino, Andre
+AU  - Mamede, Claudia
+AU  - Melo, Rui
+AU  - Abreu, Rui
+T3  - ICSE-NIER '26
+AB  - Large Language Model (LLM) agents are increasingly embedded in software engineering (SE) workflows—planning, coding, testing, and CI/CD. Failures are frequent: prompt injection, unsafe tool use, supply-chain contamination, and memory poisoning. Existing defences —such as static analysers, provenance attestation, and prompt guardrails—are insufficient: they typically audit after-the-fact or operate without cryptographic guarantees or runtime enforcement. We propose TraceCaps, a runtime approach that (i) attaches cryptographically verifiable provenance capsules to each agent step (e.g. prompt, memory, tool call), and (ii) computes a monotone, persistent risk score that gates tool actions inline via policy thresholds (allow, warn, block). Capsules hash and sign events, link to parents, and embed risk features; an accumulator prevents “risk laundering” by subsequent benign steps. Early demonstrations on SWE-bench illustrate how TraceCaps can expose unsafe behaviors and apply runtime governance through risk accumulation, pointing toward enforceable agent safety. To our knowledge, TraceCaps is the first approach to bind provenance and risk into a single cryptographic substrate, pointing toward a shift from passive audit to runtime, enforceable safety in agentic SE workflows.
+C1  - New York, NY, USA
+C3  - Proceedings of the IEEE/ACM 48th International Conference on Software Engineering
+DA  - 2026/07/08/
+PY  - 2026
+DO  - 10.1145/3786582.3786832
+DP  - ACM Digital Library
+SP  - 166
+EP  - 170
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-2425-1
+ST  - TraceCaps
+UR  - https://dl.acm.org/doi/10.1145/3786582.3786832
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3786582.3786832?download=true
+ER  - 
+
+TY  - CHAP
+TI  - How are MLOps Frameworks Used in Open Source Projects? An Empirical Characterization
+AU  - Zampetti, Fiorella
+AU  - Stocchetti, Federico
+AU  - Razzano, Federica
+AU  - Tamburri, Damian Andrew
+AU  - Di Penta, Massimiliano (Max)
+T2  - Proceedings of the 23rd International Conference on Mining Software Repositories
+AB  - Machine Learning (ML) Operations (MLOps) frameworks have been conceived to support developers and AI engineers in managing the lifecycle of their ML models. While such frameworks provide a wide range of features, developers may leverage only a subset of them, while missing some highly desired features. This paper investigates the practical use and desired feature enhancements of eight popular open-source MLOps frameworks. Specifically, we analyze their usage by dependent projects on GitHub, examining how they invoke the frameworks’ APIs and commands. Then, we qualitatively analyze feature requests and enhancements mined from the frameworks’ issue trackers, relating these desired improvements to the previously identified usage features. Results indicate that MLOps frameworks are rarely used out-of-the-box and are infrequently integrated into GitHub Workflows, but rather, developers use their APIs to implement custom functionality in their projects. Used features concern core ML phases and whole infrastructure governance, sometimes leveraging multiple frameworks with complementary features. The mapping with feature requests highlights that users mainly ask for enhancements to core features of the frameworks, but also better API exposure and CI/CD integration.
+CY  - New York, NY, USA
+DA  - 2026/07/31/
+PY  - 2026
+DP  - ACM Digital Library
+SP  - 386
+EP  - 396
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-2474-9
+ST  - How are MLOps Frameworks Used in Open Source Projects?
+UR  - https://dl.acm.org/doi/10.1145/3793302.3793366
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3793302.3793366?download=true
+ER  - 
+
+TY  - CONF
+TI  - Generative AI Detection of Document Incompleteness, Inconsistencies, and Discrepancies
+AU  - Robert, John
+AU  - Olea, Carlos
+AU  - Hindka, Yash
+AU  - Brown, Nanette
+T3  - FSE Companion '25
+AB  - Software development activities must adhere to industry, national, and/or international regulatory standards to ensure security, safety, and other important properties in high-stakes, regulated domains, such as healthcare, automotive, and aerospace. These software standards are often codified via multiple documents, ranging from specific requirements to general guidance. Software developers must demonstrate—and regulatory authorities must then verify—the completeness and consistency between the software artifacts and the software regulatory documents. Detecting regulatory document incompleteness, inconsistencies, and/or discrepancies (DIID) with respect to software artifacts is important for both developers and regulators because they indicate potential non-conformance and/or software regulatory risk.DIID detection is currently a human-intensive activity where people learn the standards and then review or search software artifacts to find or detect potential issues. This tedious and error-prone manual process is even more challenging with continuous integration and continuous delivery (CI/CD) pipelines that create frequent software updates. In addition, software artifacts (such as requirements or architecture documents) and software standards also change as the software is maintained, requiring ongoing manual reviews and revisions.Generative AI can accelerate DIID detection for different documents and data sources. This paper explores how generative AI, specifically Large Language Models (LLMs), can accelerate DIID detection in software artifacts, particularly when comparing trusted documents like safety standards with software development artifacts. Integrating LLMs into the software development lifecycle (SDLC) to detect DIID can improve specific development activities, as well as enable transformative opportunities by accelerating end-to-end SDLC workflows and regulatory compliance. Current LLM benchmarks and testing frameworks do not sufficiently test for detecting DIID and require extension to adequately and consistently detect DIID across multiple SDLC activities. This position paper describes how LLMs can accelerate software assurance processes and ensure greater compliance with industry standards and government regulatory requirements.
+C1  - New York, NY, USA
+C3  - Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering
+DA  - 2025/07/28/
+PY  - 2025
+DO  - 10.1145/3696630.3728724
+DP  - ACM Digital Library
+SP  - 1381
+EP  - 1385
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1276-0
+UR  - https://dl.acm.org/doi/10.1145/3696630.3728724
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3696630.3728724?download=true
+ER  - 
+
+TY  - CONF
+TI  - A Preliminary Investigation of MLOps Practices in GitHub
+AU  - Calefato, Fabio
+AU  - Lanubile, Filippo
+AU  - Quaranta, Luigi
+T3  - ESEM '22
+AB  - Background.&nbsp;The rapid and growing popularity of machine learning (ML) applications has led to an increasing interest in MLOps, that is, the practice of continuous integration and deployment (CI/CD) of ML-enabled systems. Aims.&nbsp;Since changes may affect not only the code but also the ML model parameters and the data themselves, the automation of traditional CI/CD needs to be extended to manage model retraining in production. Method.&nbsp;In this paper, we present an initial investigation of the MLOps practices implemented in a set of ML-enabled systems retrieved from GitHub, focusing on GitHub Actions and CML, two solutions to automate the development workflow. Results.&nbsp;Our preliminary results suggest that the adoption of MLOps workflows in open-source GitHub projects is currently rather limited. Conclusions.&nbsp;Issues are also identified, which can guide future research work.
+C1  - New York, NY, USA
+C3  - Proceedings of the 16th ACM / IEEE International Symposium on Empirical Software Engineering and Measurement
+DA  - 2022/09/19/
+PY  - 2022
+DO  - 10.1145/3544902.3546636
+DP  - ACM Digital Library
+SP  - 283
+EP  - 288
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9427-7
+UR  - https://dl.acm.org/doi/10.1145/3544902.3546636
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3544902.3546636?download=true
+ER  - 
+
+TY  - CONF
+TI  - A Review of AI-augmented End-to-End Test Automation Tools
+AU  - Pham, Phuoc
+AU  - Nguyen, Vu
+AU  - Nguyen, Tien
+T3  - ASE '22
+AB  - Software testing is a process of evaluating and verifying whether a software product still works as expected, and it is repetitive, laborious, and time-consuming. To address this problem, automation tools have been developed to automate testing activities and enhance quality and delivery time. However, automation tools become less effective with continuous integration and continuous delivery (CI/CD) pipelines when the system under test is constantly changing. Recent advances in artificial intelligence and machine learning (AI/ML) present the potential for addressing important challenges in test automation. AI/ML can be applied to automate various testing activities such as detecting bugs and errors, maintaining existing test cases, or generating new test cases much faster than humans. In this study, we will outline testing activities where AI has significantly impacted and greatly enhanced the testing process. Based on that, we identify primary AI techniques that are used in each testing activity. Further, we conduct a comprehensive study of test automation tools to provide a clear look at the role of AI/ML technology in industrial testing tools. The results of this paper help researchers and practitioners understand the current state of AI/ML applied to software testing, which is the first important step towards achieving successful and efficient software testing.
+C1  - New York, NY, USA
+C3  - Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering
+DA  - 2023/01/05/
+PY  - 2023
+DO  - 10.1145/3551349.3563240
+DP  - ACM Digital Library
+SP  - 1
+EP  - 4
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9475-8
+UR  - https://dl.acm.org/doi/10.1145/3551349.3563240
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3551349.3563240?download=true
+ER  - 
+
+TY  - CONF
+TI  - Incident Prevention through Reliable Changes Deployment
+AU  - Kapel, Eileen
+T3  - ICSE '23
+AB  - Ensuring the reliability of changes deployment is essential to prevent incidents in businesses that strongly depend on software and services. Incidents should be avoided since they may lead to customer dissatisfaction, financial losses and reputational damage. Currently, the majority of outages are being caused by changes, so we believe there is a need for a higher focus on the risk management pre-change deployment. This paper presents a research plan that proposes a risk management AIOps framework utilising real-world change, CI/CD pipeline and incident data for incident prevention through reliable changes deployment. This research will explore 1) obtaining background information on the current state of practice of service management with a case study on a software-defined business; 2) a risk management AIOps framework that utilises the traces of change, incident and CI/CD pipeline code for predicting the risk of changes deployment; and 3) testing the generalisability of the framework for reducing the risk of change deployment.
+C1  - Melbourne, Victoria, Australia
+C3  - Proceedings of the 45th International Conference on Software Engineering: Companion Proceedings
+DA  - 2023/07/27/
+PY  - 2023
+DO  - 10.1109/ICSE-Companion58688.2023.00055
+DP  - ACM Digital Library
+SP  - 200
+EP  - 202
+PB  - IEEE Press
+SN  - 979-8-3503-2263-7
+UR  - https://dl.acm.org/doi/10.1109/ICSE-Companion58688.2023.00055
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - An Experimental Evaluation of Imbalanced Learning and Time-Series Validation in the Context of CI/CD Prediction
+AU  - Liu, Bohan
+AU  - Zhang, He
+AU  - Yang, Lanxin
+AU  - Dong, Liming
+AU  - Shen, Haifeng
+AU  - Song, Kaiwen
+T3  - EASE '20
+AB  - Background: Machine Learning (ML) has been widely used as a powerful tool to support Software Engineering (SE). The fundamental assumptions of data characteristics required for specific ML methods have to be carefully considered prior to their applications in SE. Within the context of Continuous Integration (CI) and Continuous Deployment (CD) practices, there are two vital characteristics of data prone to be violated in SE research. First, the logs generated during CI/CD for training are imbalanced data, which is contrary to the principles of common balanced classifiers; second, these logs are also time-series data, which violates the assumption of cross-validation. Objective: We aim to systematically study the two data characteristics and further provide a comprehensive evaluation for predictive CI/CD with the data from real projects. Method: We conduct an experimental study that evaluates 67 CI/CD predictive models using both cross-validation and time-series-validation. Results: Our evaluation shows that cross-validation makes the evaluation of the models optimistic in most cases, there are a few counter-examples as well. The performance of the top 10 imbalanced models are better than the balanced models in the predictions of failed builds, even for balanced data. The degree of data imbalance has a negative impact on prediction performance. Conclusion: In research and practice, the assumptions of the various ML methods should be seriously considered for the validity of research. Even if it is used to compare the relative performance of models, cross-validation may not be applicable to the problems with time-series features. The research community need to revisit the evaluation results reported in some existing research.
+C1  - New York, NY, USA
+C3  - Proceedings of the 24th International Conference on Evaluation and Assessment in Software Engineering
+DA  - 2020/04/17/
+PY  - 2020
+DO  - 10.1145/3383219.3383222
+DP  - ACM Digital Library
+SP  - 21
+EP  - 30
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-7731-7
+UR  - https://dl.acm.org/doi/10.1145/3383219.3383222
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3383219.3383222?download=true
+ER  - 
+
+TY  - CONF
+TI  - Automated Detection of Side Channels in Cryptographic Protocols: DROWN the ROBOTs!
+AU  - Drees, Jan Peter
+AU  - Gupta, Pritha
+AU  - Hüllermeier, Eyke
+AU  - Jager, Tibor
+AU  - Konze, Alexander
+AU  - Priesterjahn, Claudia
+AU  - Ramaswamy, Arunselvan
+AU  - Somorovsky, Juraj
+T3  - AISec '21
+AB  - Currently most practical attacks on cryptographic protocols like TLS are based on side channels, such as padding oracles. Some well-known recent examples are DROWN, ROBOT and Raccoon (USENIX Security 2016, 2018, 2021). Such attacks are usually found by careful and time-consuming manual analysis by specialists.In this paper, we consider the question of how such attacks can be systematically detected and prevented before (large-scale) deployment. We propose a new, fully automated approach, which uses supervised learning to identify arbitrary patterns in network protocol traffic. In contrast to classical scanners, which search for known side channels, the detection of general patterns might detect new side channels, even unexpected ones, such as those from the ROBOT attack.To analyze this approach, we develop a tool to detect Bleichenbacher-like padding oracles in TLS server implementations, based on an ensemble of machine learning algorithms. We verify that the approach indeed detects known vulnerabilities successfully and reliably. The tool also provides detailed information about detected patterns to developers, to assist in removing a potential padding oracle. Due to the automation, the approach scales much better than manual analysis and could even be integrated with a CI/CD pipeline of a development environment, for example.
+C1  - New York, NY, USA
+C3  - Proceedings of the 14th ACM Workshop on Artificial Intelligence and Security
+DA  - 2021/11/15/
+PY  - 2021
+DO  - 10.1145/3474369.3486868
+DP  - ACM Digital Library
+SP  - 169
+EP  - 180
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-8657-9
+ST  - Automated Detection of Side Channels in Cryptographic Protocols
+UR  - https://dl.acm.org/doi/10.1145/3474369.3486868
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3474369.3486868?download=true
+ER  - 
+
+TY  - CONF
+TI  - FastLane: test minimization for rapidly deployed large-scale online services
+AU  - Philip, Adithya Abraham
+AU  - Bhagwan, Ranjita
+AU  - Kumar, Rahul
+AU  - Maddila, Chandra Sekhar
+AU  - Nagappan, Nachiappan
+T3  - ICSE '19
+AB  - Today, we depend on numerous large-scale services for basic operations such as email. These services, built on the basis of Continuous Integration/Continuous Deployment (CI/CD) processes, are extremely dynamic: developers continuously commit code and introduce new features, functionality and fixes. Hundreds of commits may enter the code-base in a single day. Therefore one of the most time-critical, yet resource-intensive tasks towards ensuring code-quality is effectively testing such large code-bases.This paper presents FastLane, a system that performs data-driven test minimization. FastLane uses light-weight machine-learning models built upon a rich history of test and commit logs to predict test outcomes. Tests for which we predict outcomes need not be explicitly run, thereby saving us precious test-time and resources. Our evaluation on a large-scale email and collaboration platform service shows that our techniques can save 18.04%, i.e., almost a fifth of test-time while obtaining a test outcome accuracy of 99.99%.
+C1  - Montreal, Quebec, Canada
+C3  - Proceedings of the 41st International Conference on Software Engineering
+DA  - 2019/05/25/
+PY  - 2019
+DO  - 10.1109/ICSE.2019.00054
+DP  - ACM Digital Library
+SP  - 408
+EP  - 418
+PB  - IEEE Press
+ST  - FastLane
+UR  - https://dl.acm.org/doi/10.1109/ICSE.2019.00054
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - Auto-Logging: Al-Centred Logging Instrumentation
+AU  - Bogatinovski, Jasmin
+AU  - Kao, Odej
+T3  - ICSE-NIER '23
+AB  - Logging in software development plays a crucial role in bug-fixing, maintaining the code and operating the application. Logs are hints created by human software developers that aim to help human developers and operators in identifying root causes for application bugs or other misbehaviour types. They also serve as a bridge between the Devs and the Ops, allowing the exchange of information. The rise of the DevOps paradigm with the CI/CD pipelines led to a significantly higher number of deployments per month and consequently increased the logging requirements. In response, AI-enabled methods for IT operation (AIOps) are introduced to automate the testing and run-time fault tolerance to a certain extent. However, using logs tailored for human understanding to learn (automatic) AI methods poses an ill-defined problem: AI algorithms need no hints but structured, precise and indicative data. Until now, AIOps researchers adapt the AI algorithms to the properties of the existing human-centred data (e.g., log sentiment), which are not always trivial to model. By pointing out the discrepancy, we envision that there exists an alternative approach: the logging can be adapted such that the produced logs are better tailored towards the strengths of the AI-enabled methods. In response, in this vision paper, we introduce auto-logging, which devises the idea of how to automatically insert log instructions into the code that can better suit AI-enabled methods as end-log consumers.
+C1  - Melbourne, Australia
+C3  - Proceedings of the 45th International Conference on Software Engineering: New Ideas and Emerging Results
+DA  - 2023/09/20/
+PY  - 2023
+DO  - 10.1109/ICSE-NIER58687.2023.00023
+DP  - ACM Digital Library
+SP  - 95
+EP  - 100
+PB  - IEEE Press
+SN  - 979-8-3503-0039-0
+ST  - Auto-Logging
+UR  - https://dl.acm.org/doi/10.1109/ICSE-NIER58687.2023.00023
+Y2  - 2026/09/07/
+ER  - 
+

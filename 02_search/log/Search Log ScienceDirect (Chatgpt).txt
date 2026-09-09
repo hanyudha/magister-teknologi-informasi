@@ -1,0 +1,10 @@
+| ID    | Database      | Search Field                                 | Fokus                                 | Tahun     |   Hasil | Tanggal    |
+| ----- | ------------- | -------------------------------------------- | ------------------------------------- | --------- | ------: | ---------- |
+| SD-01 | ScienceDirect | Title, abstract or author-specified keywords | `"DevOps"` + AI terms                 | 2016–2026 |      48 | 2026-09-07 |
+| SD-02 | ScienceDirect | Title, abstract or author-specified keywords | `"CI/CD"` + AI terms                  | 2016–2026 |      28 | 2026-09-07 |
+| SD-03 | ScienceDirect | Title, abstract or author-specified keywords | `"continuous integration"` + AI terms | 2016–2026 |      50 | 2026-09-07 |
+| SD-04 | ScienceDirect | Title, abstract or author-specified keywords | `"continuous delivery"` + AI terms    | 2016–2026 |      11 | 2026-09-07 |
+| SD-05 | ScienceDirect | Title, abstract or author-specified keywords | `"continuous deployment"` + AI terms  | 2016–2026 |      12 | 2026-09-07 |
+| SD-06 | ScienceDirect | Title, abstract or author-specified keywords | `"software delivery"` + AI terms      | 2016–2026 |       3 | 2026-09-07 |
+| SD-07 | ScienceDirect | Title, abstract or author-specified keywords | `"AIOps"`                             | 2016–2026 |      33 | 2026-09-07 |
+|       |               |                                              | **Raw total**                         |           | **185** |            |

@@ -1,0 +1,1553 @@
+TY  - JOUR
+TI  - Why Transformers? A Comprehensive Overview of Transformers in Artificial Intelligence for IT Operations
+AU  - Shi, Binpeng
+AU  - Zhang, Shenglin
+AU  - Wang, Jingya
+AU  - Hao, Bowen
+AU  - Shao, Minyi
+AU  - Luo, Yu
+AU  - Gu, Wenwei
+AU  - Sun, Yongqian
+AU  - Xia, Sibo
+AU  - Zhao, Yongxin
+AU  - Pei, Dan
+T2  - ACM Transactions on Software Engineering and Methodology
+AB  - AIOps (Artificial Intelligence for IT Operations) has emerged as a key strategy for operating large-scale systems. Meanwhile, the Transformer architecture, renowned for its strong performance and potential, is driving advances in AIOps. However, prior reviews leave gaps in explaining why Transformers trigger a major shift in academia and industry, with limited coverage of multimodal data (logs, metrics, events), insufficient analysis of structural and methodological connections between Transformers and AIOps, fragmented views of capabilities, and a lack of consolidated evaluation strategies. To bridge these gaps, our work decomposes “Why Transformers” into three questions. First, we review what roles Transformers assume in AIOps across 70 representative papers, using a structured taxonomy that proceeds sequentially from data to targets, principles, and approaches, which present an evolutionary trajectory of role changes. Then, to explain why Transformers excel, we introduce a capability framework comprising two basic and four advanced capabilities. As for how to evaluate Transformers in AIOps, we consolidate evaluation resources and strategies, including offline datasets, standardized questions, and real-time simulations. Furthermore, probable best practices are distilled, offering actionable guidance for real-world adoption. These explorations aim to clarify the internal rationale and unlock the practical value of Transformers in AIOps.
+DA  - 2026/08/31/
+PY  - 2026
+DO  - 10.1145/3840387
+DP  - ACM Digital Library
+J2  - ACM Trans. Softw. Eng. Methodol.
+SN  - 1049-331X
+ST  - Why Transformers?
+UR  - https://dl.acm.org/doi/10.1145/3840387
+Y2  - 2026/09/07/09:16:54
+L1  - https://dl.acm.org/doi/pdf/10.1145/3840387?download=true
+ER  - 
+
+TY  - CHAP
+TI  - Cloud Intelligence/AIOps 2.0: Knowledge-Anchored Agentic AIOps
+AU  - Zhang, Dongmei
+AU  - Lin, Qingwei
+AU  - Qin, Si
+AU  - Li, Liqun
+AU  - Chi, Lianbin
+AU  - Song, Dawei
+AU  - Cheng, Biao
+AU  - Zhang, Chaoyun
+AU  - Dang, Yingnong
+AU  - Khalid, Samia
+AU  - Rajmohan, Saravan
+AU  - Lanka, Sitaram
+T2  - Proceedings of the 34th ACM International Conference on the Foundations of Software Engineering
+AB  - Cloud Intelligence/AIOps applies AI/ML to help design, build, and operate complex cloud systems at scale effectively and efficiently. Despite substantial progress, a persistent bottleneck remains. The operational knowledge, needed to understand what is happening, why it is happening, and what to do next, largely remains fragmented across teams, tools, dashboards, documents, and individual experience. In this position paper, we argue that the LLM era enables a step-function change, but only if we treat knowledge as a first-class operational asset rather than an incidental byproduct of tooling. We propose Knowledge-Anchored Agentic AIOps focusing on LLM-based agents grounded in standardized, governed knowledge anchors that attach to operational signals across service hierarchy, forming a cross-service knowledge fabric that becomes comprehensive, actionable, shareable, and continuously evolving. Using incident management as a concrete scenario, StepFly, an agentic troubleshooting guide automation framework, is discussed as a manifestation of this vision in knowledge-anchored agentic incident response. We also discuss implications beyond incident management to more scenarios in AIOps and the software development lifecycle.
+CY  - New York, NY, USA
+DA  - 2026/07/17/
+PY  - 2026
+DP  - ACM Digital Library
+SP  - 1728
+EP  - 1732
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-2636-1
+ST  - Cloud Intelligence/AIOps 2.0
+UR  - https://dl.acm.org/doi/10.1145/3803437.3806091
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3803437.3806091?download=true
+ER  - 
+
+TY  - JOUR
+TI  - A Survey of AIOps in the Era of Large Language Models
+AU  - Zhang, Lingzhe
+AU  - Jia, Tong
+AU  - Jia, Mengxi
+AU  - Wu, Yifan
+AU  - Liu, Aiwei
+AU  - Yang, Yong
+AU  - Wu, Zhonghai
+AU  - Hu, Xuming
+AU  - Yu, Philip
+AU  - Li, Ying
+T2  - ACM Computing Surveys
+AB  - As large language models (LLMs) grow increasingly sophisticated and pervasive, their application to various Artificial Intelligence for IT Operations (AIOps) tasks has garnered significant attention. However, a comprehensive understanding of the impact, potential, and limitations of LLMs in AIOps remains in its infancy. To address this gap, we conducted a detailed survey of LLM4AIOps, focusing on how LLMs can optimize processes and improve outcomes in this domain. We analyzed 183 research articles published between January 2020 and December 2024 to answer four key research questions (RQs). In RQ1, we examine the diverse failure data sources utilized, including advanced LLM-based processing techniques for legacy data and the incorporation of new data sources enabled by LLMs. RQ2 explores the evolution of AIOps tasks, highlighting the emergence of novel tasks and the publication trends across these tasks. RQ3 investigates the various LLM-based methods applied to address AIOps challenges. Finally, RQ4 reviews evaluation methodologies tailored to assess LLM-integrated AIOps approaches. Based on our findings, we discuss the state-of-the-art advancements and trends, identify gaps in existing research, and propose promising directions for future exploration.
+DA  - 2025/09/09/
+PY  - 2025
+DO  - 10.1145/3746635
+DP  - ACM Digital Library
+VL  - 58
+IS  - 2
+SP  - 44:1
+EP  - 44:35
+J2  - ACM Comput. Surv.
+SN  - 0360-0300
+UR  - https://dl.acm.org/doi/10.1145/3746635
+Y2  - 2026/09/07/09:16:59
+L1  - https://dl.acm.org/doi/pdf/10.1145/3746635?download=true
+ER  - 
+
+TY  - CONF
+TI  - AIOpsLab in Action: An Open Platform for AIOps Research
+AU  - Ma, Minghua
+AU  - Clark, Jackson
+AU  - Zhang, Shenglin
+T3  - FSE Companion '25
+AB  - The significant advances in AI have been driving a blooming landscape of research on developing AI agents for various kinds of cloud system operations, which is often referred to as AIOps. For example, AI-based fault detection, root cause analysis, and failure mitigation have been a hot topic in recent years with many research papers published at Software Engineering conferences like FSE, ICSE, ASE, and ISSTA. However, AIOps research today faces major practical challenges such as benchmarking, workload simulation, and reproducibility.This tutorial introduces AIOpsLab, an open platform and benchmark suites designed with the goal of significantly boosting the design, implementation, and evaluation of AI agents for cloud system operations. Specifically, AIOpsLab addresses following needs:• Standard benchmark suites for evaluating AIOps techniques comprehensively and fairly;• A usable platform with push-button deployment to let researchers focus on the essence of AIOps research and development;• An extensible framework that can be easily enriched and customized for different AIOps tasks and scenarios;• Reproducibility of the research results and artifacts.Specifically, we will cover the following topics in the tutorial:• The vision and objectives of AIOpsLab;• The design and implementation of AIOpsLab;• The use cases of AIOpsLab with a hands-on session;• The benchmark suites in AIOpsLab and how to extend them;• The design of a fault localization agent and the results obtained using AIOpsLab;• A discussion on next steps and future endeavors of AIOpsLab.The source code, blog, and additional resources for AIOpsLab are available at https://aka.ms/aiopslab.
+C1  - New York, NY, USA
+C3  - Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering
+DA  - 2025/07/28/
+PY  - 2025
+DO  - 10.1145/3696630.3728619
+DP  - ACM Digital Library
+SP  - 1223
+EP  - 1227
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1276-0
+ST  - AIOpsLab in Action
+UR  - https://dl.acm.org/doi/10.1145/3696630.3728619
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3696630.3728619?download=true
+ER  - 
+
+TY  - CONF
+TI  - LLM Agents for AIOps in Kubernetes: An Industrial Experience Report with Red Hat OpenShift
+AU  - Vitui, Arthur
+AU  - Chen, Tse-Hsun (Peter)
+T3  - FSE Companion '26
+AB  - The integration of Artificial Intelligence (AI) into IT Operations Management (ITOM), commonly referred to as AIOps, offers substantial potential for automating workflows, enhancing efficiency, and supporting informed decision-making. However, practical implementation of AI within IT operations remains challenging, particularly due to data quality issues, the complexity of cloud-native environments, and skill gaps within operational teams. The emergence of Large Language Models (LLMs) presents new opportunities to address these barriers by leveraging their advanced natural language understanding, enabling the analysis of unstructured data such as logs, incident reports, and technical documentation. In this paper, we present an industry experience report conducted on Red Hat OpenShift to explore how LLMs can be operationalized in real-world Kubernetes-based environments. We integrate predictive machine learning models with LLM agents through tool-augmented reasoning, highlighting novel methods to automate IT tasks, enhance observability, and reduce operator burden. Our findings provide insights into both the capabilities and limitations of LLMs in production-grade AIOps scenarios.
+C1  - New York, NY, USA
+C3  - Proceedings of the 34th ACM International Conference on the Foundations of Software Engineering
+DA  - 2026/07/17/
+PY  - 2026
+DO  - 10.1145/3803437.3805240
+DP  - ACM Digital Library
+SP  - 678
+EP  - 689
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-2636-1
+ST  - LLM Agents for AIOps in Kubernetes
+UR  - https://dl.acm.org/doi/10.1145/3803437.3805240
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3803437.3805240?download=true
+ER  - 
+
+TY  - JOUR
+TI  - On the Model Update Strategies for Supervised Learning in AIOps Solutions
+AU  - Lyu, Yingzhe
+AU  - Li, Heng
+AU  - Jiang, Zhen Ming (Jack)
+AU  - Hassan, Ahmed E.
+T2  - ACM Transactions on Software Engineering and Methodology
+AB  - AIOps (Artificial Intelligence for IT Operations) solutions leverage the massive data produced during the operation of large-scale systems and machine learning models to assist software engineers in their system operations. As operation data produced in the field are constantly evolving due to factors such as the changing operational environment and user base, the models in AIOps solutions need to be constantly maintained after deployment. While prior works focus on innovative modeling techniques to improve the performance of AIOps models before releasing them into the field, when and how to update AIOps models remain an under-investigated topic. In this work, we performed a case study on three large-scale public operation data: two trace datasets from the cloud computing platforms of Google and Alibaba and one disk stats dataset from the BackBlaze cloud storage data center. We empirically assessed five different types of model update strategies for supervised learning regarding their performance, updating cost, and stability. We observed that active model update strategies (e.g., periodical retraining, concept drift guided retraining, time-based model ensembles, and online learning) achieve better and more stable performance than a stationary model. Particularly, applying sophisticated model update strategies (e.g., concept drift detection, time-based ensembles, and online learning) could provide better performance, efficiency, and stability than simply retraining AIOps models periodically. In addition, we observed that, although some update strategies (e.g., time-based ensemble and online learning) can save model training time, they significantly sacrifice model testing time, which could hinder their applications in AIOps solutions where the operation data arrive at high pace and volume and where immediate inferences are required. Our findings highlight that practitioners should consider the evolution of operation data and actively maintain AIOps models over time. Our observations can also guide researchers and practitioners in investigating more efficient and effective model update strategies that fit in the context of AIOps.
+DA  - 2024/08/26/
+PY  - 2024
+DO  - 10.1145/3664599
+DP  - ACM Digital Library
+VL  - 33
+IS  - 7
+SP  - 184:1
+EP  - 184:38
+J2  - ACM Trans. Softw. Eng. Methodol.
+SN  - 1049-331X
+UR  - https://dl.acm.org/doi/10.1145/3664599
+Y2  - 2026/09/07/09:17:05
+L1  - https://dl.acm.org/doi/pdf/10.1145/3664599?download=true
+ER  - 
+
+TY  - CONF
+TI  - LLM-based AIOps via Log Prioritization in Air-Gapped Systems
+AU  - Song, SangHee
+AU  - Kim, Hwajung
+T3  - EuroMLSys '26
+AB  - Large-scale computing systems generate massive volumes of operational logs across diverse components. Although LLMs offer new opportunities for automated AIOps analysis, directly applying them to raw log streams is impractical due to input length and resource constraints, especially in air-gapped and edge environments. In this paper, we propose an LLM-based AIOps pipeline that converts raw logs into structured events through rule-based transformation and temporal aggregation. The structured events are then prioritized to enable efficient LLM-driven diagnosis. We implement the pipeline in a real-world isolated edge environment and evaluate it using production-scale system logs. Experimental results show that our pipeline enables efficient LLM-guided analysis while preserving system-level diagnostic effectiveness. Our pipeline reduces log volume by 76% through the log transformation stage. After aggregation into structured events, the log prioritization stage further reduces the event set by 51% before LLM analysis, resulting in a 43% reduction in LLM token requirements compared to the non-prioritized case, significantly lowering resource consumption in constrained environments.
+C1  - New York, NY, USA
+C3  - Proceedings of the Sixth European Workshop on Machine Learning and Systems
+DA  - 2026/04/28/
+PY  - 2026
+DO  - 10.1145/3805621.3807626
+DP  - ACM Digital Library
+SP  - 426
+EP  - 432
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-2605-7
+UR  - https://dl.acm.org/doi/10.1145/3805621.3807626
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3805621.3807626?download=true
+ER  - 
+
+TY  - CONF
+TI  - Predictive Resource Management in the Computing Continuum: Transfer Learning from Virtual Machines to Containers using Transformers
+AU  - De Novi, Danny
+AU  - Carnevale, Lorenzo
+AU  - Balouek, Daniel
+AU  - Parashar, Manish
+AU  - Villari, Massimo
+T3  - UCC '25
+AB  - Efficient workload forecasting is a key enabler of modern AIOps (Artificial Intelligence for IT Operations), supporting proactive and autonomous resource management across the computing continuum, from edge environments to large-scale cloud infrastructures. In this paper, we propose a Temporal Transformer architecture for CPU utilization prediction, designed to capture both short-term fluctuations and long-range temporal dependencies in workload dynamics. The model is first pretrained on a large-scale Microsoft Azure VM dataset and subsequently fine-tuned on the Alibaba container dataset, enabling effective transfer learning across heterogeneous virtualization environments. Experimental results demonstrate that the proposed approach achieves high predictive accuracy while maintaining a compact model size and inference times compatible with real-time operation. Qualitative analyses further highlight the model’s ability to reproduce workload patterns with high fidelity. These findings indicate that the proposed Temporal Transformer constitutes a lightweight and accurate forecasting component for next-generation AIOps pipelines, suitable for deployment across both cloud and edge intelligence scenarios.
+C1  - New York, NY, USA
+C3  - Proceedings of the 18th IEEE/ACM International Conference on Utility and Cloud Computing
+DA  - 2026/12/31/
+PY  - 2026
+DO  - 10.1145/3773274.3774856
+DP  - ACM Digital Library
+SP  - 1
+EP  - 8
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-2285-1
+ST  - Predictive Resource Management in the Computing Continuum
+UR  - https://dl.acm.org/doi/10.1145/3773274.3774856
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3773274.3774856?download=true
+ER  - 
+
+TY  - JOUR
+TI  - Summary Report of the 6th Cloud Intelligence / AIOps Workshop 2025
+AU  - Zhang, Jian
+AU  - Lin, Qingwei
+AU  - Peng, Xin
+T2  - ACM SIGSOFT Software Engineering Notes
+AB  - The International Workshop on Cloud Intelligence / AIOps is a forum for researchers, scientists, engineers, and practitioners to share and learn AI/ML powered DevOps solutions for cloud services. The workshop was inaugurated at AAAI'20 and has been hosted at ICSE, MLSys, and ASPLOS conferences with intention to bring technical leaders in AI, Software Engineering, and Systems together to tackle challenges in design, building, and operating cloud service.The 6th International workshop on Cloud Intelligence / AIOps was successfully hosted as an in-person event in conjunction with the 47th International Conference of Software Engineering (ICSE'25) on May 3rd, 2025 at Ottawa, Canada. The workshop received 10 submitted papers, from which 6 papers were accepted including 5 technical papers and 1 project showcase.
+DA  - 2025/10/29/
+PY  - 2025
+DO  - 10.1145/3772008.3772014
+DP  - ACM Digital Library
+VL  - 50
+IS  - 4
+SP  - 28
+EP  - 29
+J2  - SIGSOFT Softw. Eng. Notes
+SN  - 0163-5948
+UR  - https://dl.acm.org/doi/10.1145/3772008.3772014
+Y2  - 2026/09/07/09:17:12
+L1  - https://dl.acm.org/doi/pdf/10.1145/3772008.3772014?download=true
+ER  - 
+
+TY  - JOUR
+TI  - A Joint Study of the Challenges, Opportunities, and Roadmap of MLOps and AIOps: A Systematic Survey
+AU  - Diaz-de-Arcaya, Josu
+AU  - Torre-Bastida, Ana I.
+AU  - Zárate, Gorka
+AU  - Miñón, Raúl
+AU  - Almeida, Aitor
+T2  - ACM Computing Surveys
+AB  - Data science projects represent a greater challenge than software engineering for organizations pursuing their adoption. The diverse stakeholders involved emphasize the need for a collaborative culture in organizations. This article aims to offer joint insights into the role of MLOps and AIOps methodologies for raising the success of data science projects in various fields, ranging from pure research to more traditional industries. We analyze the open issues, opportunities, and future trends organizations face when implementing MLOps and AIOps. Then, the frameworks and architectures that promote these paradigms are presented, as are the different fields in which they are being utilized. This systematic review was conducted using an automated procedure that identified 44,903 records, which were filtered down to 93 studies. These articles are meant to better clarify the problem at hand and highlight the future areas in both research and industry in which MLOPs and AIOps are thriving. Our findings indicate that AIOps flourish in challenging circumstances like those presented by 5G and 6G technologies, whereas MLOps is more prevalent in traditional industrial environments. The use of AIOps in certain stages of the ML lifecycle, such as deployment, remains underrepresented in scientific literature.
+DA  - 2023/10/21/
+PY  - 2023
+DO  - 10.1145/3625289
+DP  - ACM Digital Library
+VL  - 56
+IS  - 4
+SP  - 84:1
+EP  - 84:30
+J2  - ACM Comput. Surv.
+SN  - 0360-0300
+ST  - A Joint Study of the Challenges, Opportunities, and Roadmap of MLOps and AIOps
+UR  - https://dl.acm.org/doi/10.1145/3625289
+Y2  - 2026/09/07/09:17:15
+L1  - https://dl.acm.org/doi/pdf/10.1145/3625289?download=true
+ER  - 
+
+TY  - CONF
+TI  - An AIOps Approach to Data Cloud Based on Large Language Models
+AU  - Chen, Honghua
+AU  - Qiu, Xinyuan
+AU  - Ren, Kelan
+AU  - Cui, Xiaolong
+T3  - CAIBDA '24
+AB  - In order to overcome the challenges of inefficiency, high error rate and poor scalability in the traditional operations model, and to ensure that the data cloud can provide efficient and stable quality of service, this study explores AIOps strategies for data clouds. This study proposes an AIOps approach based on a large-scale language model, aiming to achieve AIOps of data clouds. The approach builds a system architecture containing an operations big data platform, an intelligent decision-making platform and a tool platform through a comprehensive demand and capability analysis, and details its workflow and functional modules. This approach enables the data cloud to achieve safe and efficient operations in an “unattended” situation, thus providing solid support for the continuous and stable operation of the data cloud platform.
+C1  - New York, NY, USA
+C3  - Proceedings of the 2024 4th International Conference on Artificial Intelligence, Big Data and Algorithms
+DA  - 2024/10/24/
+PY  - 2024
+DO  - 10.1145/3690407.3690515
+DP  - ACM Digital Library
+SP  - 634
+EP  - 641
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1024-7
+UR  - https://dl.acm.org/doi/10.1145/3690407.3690515
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3690407.3690515?download=true
+ER  - 
+
+TY  - CONF
+TI  - A Case Study of AIOPs in Large Enterprises Using Predictive Analytics for IT Operations
+AU  - Sujatha, N.
+AU  - Narayanan Valliammal, Latha
+AU  - E, Joice Rathinam
+AU  - V S, Lokesh
+AU  - Mech, Mukul
+T3  - ICIMMI '23
+AB  - Large enterprises and business processes are using Artificial Intelligence for IT Operations (AIOPs) to evaluate the use of predictive analytics and how major businesses are optimized and integrated. A survey will be conducted from a representative sample of big business organizations that have already integrated their IT operations using AIOPs with predictive analytics. This study aims to determine the types of predictive analytics techniques utilized in AIOPs, the degree to which these techniques successfully identify and resolve IT issues, and the advantages that result from their utilization. In addition, the research investigates the limitations that large businesses face when adopting and implementing AIOPs, such as the complexity of the technological aspects, the organizations' resistance, and data quality problems. The data obtained from the survey will be analysed using a research approach that includes both descriptive and inferential statistical methods, such as frequency distribution, correlation analysis, and regression analysis. The findings of this study will provide valuable insights into the use of AIOPs with predictive analytics in large enterprises to optimize IT operations and will identify challenges encountered during implementation and provide recommendations to overcome these challenges.
+C1  - New York, NY, USA
+C3  - Proceedings of the 5th International Conference on Information Management & Machine Intelligence
+DA  - 2024/05/13/
+PY  - 2024
+DO  - 10.1145/3647444.3647911
+DP  - ACM Digital Library
+SP  - 1
+EP  - 5
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-0941-8
+UR  - https://dl.acm.org/doi/10.1145/3647444.3647911
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3647444.3647911?download=true
+ER  - 
+
+TY  - CONF
+TI  - Building AI Agents for Autonomous Clouds: Challenges and Design Principles
+AU  - Shetty, Manish
+AU  - Chen, Yinfang
+AU  - Somashekar, Gagan
+AU  - Ma, Minghua
+AU  - Simmhan, Yogesh
+AU  - Zhang, Xuchao
+AU  - Mace, Jonathan
+AU  - Vandevoorde, Dax
+AU  - Las-Casas, Pedro
+AU  - Gupta, Shachee Mishra
+AU  - Nath, Suman
+AU  - Bansal, Chetan
+AU  - Rajmohan, Saravan
+T3  - SoCC '24
+AB  - The rapid growth in the use of Large Language Models (LLMs) and AI Agents as part of software development and deployment is revolutionizing the information technology landscape. While code generation receives significant attention, a higher-impact application lies in using agents for the operational resilience of cloud services, which currently require significant human effort and domain knowledge. There is a growing interest in AI for IT Operations (AIOps), which aims to automate complex operational tasks, like fault localization and root cause analysis, reducing human intervention and customer impact. However, achieving the vision of autonomous and self-healing clouds through AIOps is hampered by the lack of standardized frameworks for building, evaluating, and improving AIOps agents. This vision paper lays the groundwork for such a framework by framing the requirements and then discussing design decisions that satisfy them. We also propose AIOpsLab, a prototype implementation leveraging agent-cloud-interface that orchestrates an application, injects real-time faults using chaos engineering, and interfaces with an agent to localize and resolve the faults. We report promising results and lay the groundwork to build a modular and robust framework for building, evaluating, and improving agents for autonomous clouds.
+C1  - New York, NY, USA
+C3  - Proceedings of the 2024 ACM Symposium on Cloud Computing
+DA  - 2024/11/20/
+PY  - 2024
+DO  - 10.1145/3698038.3698525
+DP  - ACM Digital Library
+SP  - 99
+EP  - 110
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1286-9
+ST  - Building AI Agents for Autonomous Clouds
+UR  - https://dl.acm.org/doi/10.1145/3698038.3698525
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3698038.3698525?download=true
+ER  - 
+
+TY  - CONF
+TI  - Proactive Continuous Operations using Large Language Models (LLMs) and AIOps
+AU  - Hausi A., Müller
+AU  - Litoiu, Marin
+AU  - Rivera, Luis F.
+AU  - Rasolroveicy, Mohammadreza
+AU  - Villegas, Norha M.
+AU  - Tamura, Gabriel
+AU  - Watts, Ian
+AU  - Erpenbach, Eric
+AU  - Shwartz, Laura
+T3  - CASCON '23
+AB  - Advances and synergies between AI and Cloud computing are driv-ing increased levels of automation and autonomy in the strenuous operation of modern and complex IT systems and environments (IT-Sys|Envs). This notion, often termed as AIOps, is transforming the landscape of IT-Sys|Env operations by a providing a framework to augment DevOps teams’ capabilities to cope with inevitable complexities and uncertainties. Through operational optimization and rapid response and risk mitigation mechanisms, AIOps sup-presses factors that might threaten service-level agreement com-pliance or value delivery. A pivotal aspect of this transformation, and its promising future, lies in the integration of AIOps with other groundbreaking technologies such as Large Language Models (LLMs) and Digital Twins (DTs), especially in the context of Cloud environments. The 1st CASCON Workshop on Proactive Continuous Operations Using LLMs and AIOps provided a dynamic platform for researchers and industry practitioners to exchange insights, advancements, and ideas in AI, Cloud, and automation.
+C1  - USA
+C3  - Proceedings of the 33rd Annual International Conference on Computer Science and Software Engineering
+DA  - 2023/09/11/
+PY  - 2023
+DP  - ACM Digital Library
+SP  - 198
+EP  - 199
+PB  - IBM Corp.
+UR  - https://dl.acm.org/doi/10.5555/3615924.3615948
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - On-Premise AIOps Infrastructure for a Software Editor SME: An Experience Report
+AU  - Bendimerad, Anes
+AU  - Remil, Youcef
+AU  - Mathonat, Romain
+AU  - Kaytoue, Mehdi
+T3  - ESEC/FSE 2023
+AB  - Information Technology has become a critical component in various industries, leading to an increased focus on software maintenance and monitoring. With the complexities of modern software systems, traditional maintenance approaches have become insufficient. The concept of AIOps has emerged to enhance predictive maintenance using Big Data and Machine Learning capabilities. However, exploiting AIOps requires addressing several challenges related to the complexity of data and incident management. Commercial solutions exist, but they may not be suitable for certain companies due to high costs, data governance issues, and limitations in covering private software. This paper investigates the feasibility of implementing on-premise AIOps solutions by leveraging open-source tools. We introduce a comprehensive AIOps infrastructure that we have successfully deployed in our company, and we provide the rationale behind different choices that we made to build its various components. Particularly, we provide insights into our approach and criteria for selecting a data management system and we explain its integration. Our experience can be beneficial for companies seeking to internally manage their software maintenance processes with a modern AIOps approach.
+C1  - New York, NY, USA
+C3  - Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
+DA  - 2023/11/30/
+PY  - 2023
+DO  - 10.1145/3611643.3613876
+DP  - ACM Digital Library
+SP  - 1820
+EP  - 1831
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-0327-0
+ST  - On-Premise AIOps Infrastructure for a Software Editor SME
+UR  - https://dl.acm.org/doi/10.1145/3611643.3613876
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3611643.3613876?download=true
+ER  - 
+
+TY  - CHAP
+TI  - Eagle: Leveraging Operations Documents for Comprehensive Benchmark Question Generation
+AU  - Liu, Yuhe
+AU  - Pei, Changhua
+AU  - Wang, Hang
+AU  - Xu, Longlong
+AU  - Dong, Xiaogang
+AU  - Feng, Zhen
+AU  - Zheng, Li
+AU  - Ji, Kehang
+AU  - Pei, Dan
+T2  - Proceedings of the 34th ACM International Conference on the Foundations of Software Engineering
+AB  - The rapid growth in scale and complexity of modern software systems has intensified the need for intelligent and reliable IT operations. While Artificial Intelligence for IT Operations (AIOps) addresses some challenges, existing solutions predominantly rely on isolated, task-specific models that struggle with interpreting multimodal data, incur high maintenance costs, and lack sufficient transparency. Operations Large Language Models (OpsLLMs) offer unified, knowledge-rich reasoning capabilities, yet their evaluation faces significant barriers, including the absence of Ops-centric evaluation taxonomies, limited availability of public datasets, simplistic question-generation methods, and inadequate quality standards for comprehensive operations tasks.We present Eagle, a comprehensive benchmarking framework tailored for evaluating OpsLLMs. Deployed inside Huawei, Eagle ingests enterprise product documentation and synthesizes 4,845 domain-grounded QA pairs across logs, metrics, traces, and configurations, which are paired with a standardized model evaluation system. This deployment supported multiple evaluations of OpsLLM and culminated in an internal horizontal benchmarking report that informed model selection and rollout decisions. Methodologically, Eagle (i) defines an operations-centric taxonomy aligning core LLM abilities with end-to-end operations tasks; (ii) implements an automated question-generation pipeline with multi-granular quality controls validated by human annotation; and (iii) provides reproducible evaluation suites and metrics for scenario-driven reasoning. In offline studies, Eagle-generated test suites improve expert-rated rubric scores by 22%–49% over state-of-the-art baselines, enabling more precise assessments of anomaly detection, fault diagnosis, and root-cause analysis abilities in OpsLLMs. To foster community adoption and reproducibility, we open-source the framework1 and a sanitized dataset2. By bridging general LLM evaluation and operations practice, Eagle delivers a deployable foundation for advancing large-model applications in AIOps.
+CY  - New York, NY, USA
+DA  - 2026/07/17/
+PY  - 2026
+DP  - ACM Digital Library
+SP  - 404
+EP  - 414
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-2636-1
+ST  - Eagle
+UR  - https://dl.acm.org/doi/10.1145/3803437.3805214
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3803437.3805214?download=true
+ER  - 
+
+TY  - CONF
+TI  - Research on Big Data Analysis and Anomaly Detection Algorithms in Intelligent Operations and Maintenance
+AU  - Bai, Liang
+AU  - Aizaizi, Guzainuer
+AU  - Guo, Xinying
+AU  - Pan, Xudong
+AU  - Bolati, Yedeli
+T3  - ICBDIE '25
+AB  - With the increasing complexity and scale of IT infrastructure, intelligent operations and maintenance (AIOps) has become the key to improving system reliability, reducing costs, and optimizing resource utilization. KPI anomaly detection is an important part of AIOps, which can detect potential failures in Internet services in a timely manner. This article introduces the basic concepts of KPI anomaly detection and proposes an anomaly detection method based on the LSTM Encoder Decoder model. This method detects anomalies by reconstructing normal KPI time series and introduces an Attention mechanism to improve the limitations of traditional Encoder Decoder models. The experimental section selected two types of operation and maintenance data from IT companies and insurance companies for testing, and the results showed that this method can effectively solve the problem of abnormal detection of operation and maintenance data, with high accuracy and recall rates. In addition, this method avoids the problem of requiring a large amount of manual labeling in traditional classification problem solving methods, providing new ideas and directions for intelligent operation and maintenance.
+C1  - New York, NY, USA
+C3  - Proceedings of the 2025 International Conference on Big Data and Informatization Education
+DA  - 2025/05/27/
+PY  - 2025
+DO  - 10.1145/3729605.3729705
+DP  - ACM Digital Library
+SP  - 568
+EP  - 572
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1440-5
+UR  - https://dl.acm.org/doi/10.1145/3729605.3729705
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3729605.3729705?download=true
+ER  - 
+
+TY  - CONF
+TI  - On the Difficulty of Identifying Incident-Inducing Changes
+AU  - Kapel, Eileen
+AU  - Cruz, Luis
+AU  - Spinellis, Diomidis
+AU  - Van Deursen, Arie
+T3  - ICSE-SEIP '24
+AB  - Effective change management is crucial for businesses heavily reliant on software and services to minimise incidents induced by changes. Unfortunately, in practice it is often difficult to effectively use artificial intelligence for IT Operations (AIOps) to enhance service management, primarily due to inadequate data quality. Establishing reliable links between changes and the induced incidents is crucial for identifying patterns, improving change deployment, identifying high-risk changes, and enhancing incident response. In this research, we investigate the enhancement of traceability between changes and incidents through AIOps methods. Our approach involves a close examination of incident-inducing changes, the replication of methods linking incidents to the changes that caused them, introducing an adapted method, and demonstrating its results using historical data and practical evaluations. Our findings reveal that incident-inducing changes exhibit different characteristics dependent on context. Furthermore, a significant disparity exists between assessments based on historical data and real-world observation, with an increased occurrence of false positives when identifying links between unlabeled changes and incidents. This study highlights the complex nature of identifying links between changes and incidents, emphasising the contextual influence on AIOps method effectiveness. While we are actively working on improving the quality of current data through AIOps approaches, it remains apparent that further measures are necessary to address issues like data imbalances and promote a postmortem culture that brings attention to the value of properly administrating tickets. A better overview of change failure rates contributes to improved risk compliance and reliable change management.
+C1  - New York, NY, USA
+C3  - Proceedings of the 46th International Conference on Software Engineering: Software Engineering in Practice
+DA  - 2024/05/31/
+PY  - 2024
+DO  - 10.1145/3639477.3639755
+DP  - ACM Digital Library
+SP  - 36
+EP  - 46
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-0501-4
+UR  - https://dl.acm.org/doi/10.1145/3639477.3639755
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3639477.3639755?download=true
+ER  - 
+
+TY  - CONF
+TI  - Using Digital Twins for Software Change Risk Assessment Toward Proactive AIOps
+AU  - Rivera, Luis F.
+AU  - Villegas, Norha M.
+AU  - Tamura, Gabriel
+AU  - Muller, Hausi A.
+AU  - Watts, Ian
+AU  - Erpenbach, Eric
+AU  - Shwartz, Laura
+AU  - Liu, Xiaotong
+T3  - CASCON '23
+AB  - The increasing structural and behavioural complexity of modern IT systems and environments (IT-Sys|Envs) calls for adopting automated fault anticipation and forecasting mechanisms to mitigate risks, limit system disturbances and damage, and improve problem resolution readiness. Preventing unexpected or undesired ITSys| Envs behaviour is crucial not only to maximize customer value and satisfaction but also to fulfill strict service-level agreements. Given the constant need for operational changes in today’s dynamic IT-Sys|Envs as a response to evolving user requirements and expectations, DevOps teams face several challenges and uncertainties to limit the potential introduction of faults, foresee their occurrence, and comprehend their associated risks. While the accomplishments attained in the application of artificial intelligence to the operation of IT-Sys|Envs (i.e., AIOps) show promise, further research is necessary to facilitate the transition from reactive AIOps to its anticipated proactive, and risk-focused, manifestation. This involves advancing AIOps conceptualization and tooling for enabling improved software fault prognosis and remediation, augmented risk management, and enhanced explainability. We describe our vision for proactive AIOps and report our progress toward its viable realization through the application of relevant notions from the revolutionary concept of Digital Twins. Moreover, we discuss challenges and opportunities regarding this promising integration and its impact on the future of software development and operation life cycles.
+C1  - USA
+C3  - Proceedings of the 33rd Annual International Conference on Computer Science and Software Engineering
+DA  - 2023/09/11/
+PY  - 2023
+DP  - ACM Digital Library
+SP  - 211
+EP  - 216
+PB  - IBM Corp.
+UR  - https://dl.acm.org/doi/10.5555/3615924.3615951
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - JOUR
+TI  - Unsupervised Anomaly Detection in Multivariate Time Series across Heterogeneous Domains
+AU  - Jacob, Vincent
+AU  - Diao, Yanlei
+T2  - Proceedings of the VLDB Endowment
+AB  - The widespread adoption of digital services, along with the scale and complexity at which they operate, has made incidents in IT operations increasingly more likely, diverse, and impactful. This has led to the rapid development of a central aspect of "Artificial Intelligence for IT Operations" (AIOps), focusing on detecting anomalies in vast amounts of multivariate time series data generated by service entities. In this paper, we begin by introducing a unifying framework for benchmarking unsupervised anomaly detection (AD) methods, and highlight the problem of shifts in normal behaviors that can occur in practical AIOps scenarios. To tackle anomaly detection under domain shift, we then cast the problem in the framework of domain generalization and propose a novel approach, Domain-Invariant VAE for Anomaly Detection (DIVAD), to learn domain-invariant representations for unsupervised anomaly detection. Our evaluation results using the Exathlon benchmark show that the two main DIVAD variants significantly outperform the best unsupervised AD method in maximum performance, with 20% and 15% improvements in maximum peak F1-scores, respectively. Evaluation using the Application Server Dataset further demonstrates the broader applicability of our domain generalization methods.
+DA  - 2025/02/01/
+PY  - 2025
+DO  - 10.14778/3725688.3725699
+DP  - ACM Digital Library
+VL  - 18
+IS  - 6
+SP  - 1691
+EP  - 1704
+J2  - Proc. VLDB Endow.
+SN  - 2150-8097
+UR  - https://dl.acm.org/doi/10.14778/3725688.3725699
+Y2  - 2026/09/07/09:17:37
+ER  - 
+
+TY  - JOUR
+TI  - Towards a Consistent Interpretation of AIOps Models
+AU  - Lyu, Yingzhe
+AU  - Rajbahadur, Gopi Krishnan
+AU  - Lin, Dayi
+AU  - Chen, Boyuan
+AU  - Jiang, Zhen Ming (Jack)
+T2  - ACM Transactions on Software Engineering and Methodology (TOSEM)
+AB  - Artificial Intelligence for IT Operations (AIOps) has been adopted in organizations in various tasks, including interpreting models to identify indicators of service failures. To avoid misleading practitioners, AIOps model interpretations should be consistent (i.e., different AIOps models on the same task agree with one another on feature importance). However, many AIOps studies violate established practices in the machine learning community when deriving interpretations, such as interpreting models with suboptimal performance, though the impact of such violations on the interpretation consistency has not been studied.In this article, we investigate the consistency of AIOps model interpretation along three dimensions: internal consistency, external consistency, and time consistency. We conduct a case study on two AIOps tasks: predicting Google cluster job failures and Backblaze hard drive failures. We find that the randomness from learners, hyperparameter tuning, and data sampling should be controlled to generate consistent interpretations. AIOps models with AUCs greater than 0.75 yield more consistent interpretation compared to low-performing models. Finally, AIOps models that are constructed with the Sliding Window or Full History approaches have the most consistent interpretation with the trends presented in the entire datasets. Our study provides valuable guidelines for practitioners to derive consistent AIOps model interpretation.
+DA  - 2021/11/15/
+PY  - 2021
+DO  - 10.1145/3488269
+DP  - ACM Digital Library
+VL  - 31
+IS  - 1
+SP  - 16:1
+EP  - 16:38
+J2  - ACM Trans. Softw. Eng. Methodol.
+SN  - 1049-331X
+UR  - https://dl.acm.org/doi/10.1145/3488269
+Y2  - 2026/09/07/09:17:39
+L1  - https://dl.acm.org/doi/pdf/10.1145/3488269?download=true
+ER  - 
+
+TY  - CONF
+TI  - Causal Software Engineering: A Vision and Roadmap
+AU  - Pietrantuono, Roberto
+AU  - Giamattei, Luca
+AU  - Russo, Stefano
+AU  - Siebert, Julien
+AU  - Walkinshaw, Neil
+T3  - FSE Companion '26
+AB  - Software engineering increasingly involves making high-stakes decisions under uncertainty, using signals from code, field data, and socio-technical processes. Recent AI-driven support (e.g., anomaly detection, predictive analytics, AIOps, as well as LLM-based agents) has amplified engineers' ability to detect patterns and synthesize content and recommendations, but many critical questions are interventional or counterfactual: What is the expected impact of changing a load-balancing strategy? Would an outage have been avoided under a different release plan? Correlational models answer "what tends to co-occur"; they struggle to answer "what would happen if we act." We propose Causal Software Engineering (CSE) as a future paradigm in which causal models and causal reasoning systematically inform activities across the software lifecycle, augmenting existing practices with explicit assumptions, uncertainty-aware effect estimates, and counterfactual diagnosis. We outline (i) a causal-first workflow view spanning development and operations, (ii) a staged roadmap for tools and organizational adoption, and (iii) an evaluation and benchmark agenda for measuring progress.
+C1  - New York, NY, USA
+C3  - Proceedings of the 34th ACM International Conference on the Foundations of Software Engineering
+DA  - 2026/07/17/
+PY  - 2026
+DO  - 10.1145/3803437.3805585
+DP  - ACM Digital Library
+SP  - 1346
+EP  - 1350
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-2636-1
+ST  - Causal Software Engineering
+UR  - https://dl.acm.org/doi/10.1145/3803437.3805585
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3803437.3805585?download=true
+ER  - 
+
+TY  - CONF
+TI  - LTB25: 13th International Workshop on Load Testing and Benchmarking of Software Systems
+AU  - Fan, Stephen
+AU  - Liao, Lizhi
+AU  - Li, Zhenhao
+T3  - ICPE '25
+AB  - It is our great pleasure to welcome you to the 13th edition of the International Workshop on Load Testing and Benchmarking of Software Systems - LTB 2025, (https://ltb2025.github.io). This workshop brings together software testing and software performance researchers, practitioners, and tool developers to discuss the challenges and opportunities of conducting research on load testing and benchmarking software systems, including theory, applications, and experiences. LTB 2025 includes 1 keynote talk and 4 research papers. The topics cover AIOps, performance and load testing, workload tracing, benchmarking, and performance verification.
+C1  - New York, NY, USA
+C3  - Companion of the 16th ACM/SPEC International Conference on Performance Engineering
+DA  - 2025/05/05/
+PY  - 2025
+DO  - 10.1145/3680256.3721301
+DP  - ACM Digital Library
+SP  - 121
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1130-5
+ST  - LTB25
+UR  - https://dl.acm.org/doi/10.1145/3680256.3721301
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3680256.3721301?download=true
+ER  - 
+
+TY  - CONF
+TI  - Leveraging Time Series Foundation Models to Detect Performance Anomalies in Software Systems
+AU  - Di Menna, Federico
+AU  - Traini, Luca
+AU  - Cortellessa, Vittorio
+T3  - ICPE Companion '26
+AB  - Anomaly detection is widely used in software performance engineering to identify performance degradations in production systems and to automatically trigger alerts. Over the years, several algorithms have been employed for this task, ranging from recurrent neural networks to traditional statistical models. Recently, a new class of algorithms, known as time series foundation models, has demonstrated remarkable effectiveness across a variety of time series analysis tasks. Despite these promising results, there is still limited understanding of how such models behave in the context of software anomaly detection. In this paper, we provide preliminary empirical insights into the effectiveness of two time series foundation models, Chronos and TSPulse, evaluated on two publicly available software anomaly detection datasets, AIOps and MSCloud. Our results show that foundation models can achieve comparable performance with respect to four representative TSAD baseline models, with the advantage of zero-shot prompting setup and the elimination of training stages and training data.
+C1  - New York, NY, USA
+C3  - Companion of the 17th ACM/SPEC International Conference on Performance Engineering
+DA  - 2026/05/03/
+PY  - 2026
+DO  - 10.1145/3777911.3800632
+DP  - ACM Digital Library
+SP  - 268
+EP  - 276
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-2326-1
+UR  - https://dl.acm.org/doi/10.1145/3777911.3800632
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3777911.3800632?download=true
+ER  - 
+
+TY  - CONF
+TI  - Using Dynamic Knowledge Hypergraphs Toward Proactive AlOps through Digital Twins
+AU  - Rivera, Luis F.
+AU  - Villegas, Norha M.
+AU  - Tamura, Gabriel
+AU  - Muller, Hausi A.
+AU  - Akkiraju, Rama
+AU  - Watts, Ian
+AU  - Erpenbach, Eric
+T3  - CASCON '22
+AB  - The necessity of minimizing the disruption of offered software­based products and services is becoming progressively prominent in IT operations to maximize quality of service and improve per­ceived value. Nevertheless, the increased operational complexities and uncertainties of modern IT systems overwhelm human compe­tencies and challenge the effectiveness of traditional monitoring systems. Consequently, guaranteeing the expected performance ofIT systems demands augmented autonomic (self-management) capabilities. The introduction and continuous advancement of arti­ficial intelligence for IT operations (i.e., AIOPs) represent a break­through in this regard. Moreover, the integration of AIOPs with the revolutionary concept of digital twins (DTs) might signify a step forward toward the achievement of proactive, AI-led IT op­erations. However, the definition of appropriate mechanisms and infrastructures to realize this integration remains an unexplored field, limiting anticipated benefits and blurring its potential impact. Especially, the modelling of DTs for AIOPs, and in general for soft­ware systems, is an emerging research area yet to be exploited. This short paper describes our vision for applying dynamic knowledge hypergraphs as an instrument to capture and utilize OT-driven information to improve risk mitigation, root cause analysis, and problem resolution in the proactive AIOPs realm.
+C1  - USA
+C3  - Proceedings of the 32nd Annual International Conference on Computer Science and Software Engineering
+DA  - 2022/11/15/
+PY  - 2022
+DP  - ACM Digital Library
+SP  - 163
+EP  - 168
+PB  - IBM Corp.
+UR  - https://dl.acm.org/doi/10.5555/3566055.3566074
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - JOUR
+TI  - An Empirical Study of the Impact of Data Splitting Decisions on the Performance of AIOps Solutions
+AU  - Lyu, Yingzhe
+AU  - Li, Heng
+AU  - Sayagh, Mohammed
+AU  - Jiang, Zhen Ming (Jack)
+AU  - Hassan, Ahmed E.
+T2  - ACM Transactions on Software Engineering and Methodology (TOSEM)
+AB  - AIOps (Artificial Intelligence for IT Operations) leverages machine learning models to help practitioners handle the massive data produced during the operations of large-scale systems. However, due to the nature of the operation data, AIOps modeling faces several data splitting-related challenges, such as imbalanced data, data leakage, and concept drift. In this work, we study the data leakage and concept drift challenges in the context of AIOps and evaluate the impact of different modeling decisions on such challenges. Specifically, we perform a case study on two commonly studied AIOps applications: (1) predicting job failures based on trace data from a large-scale cluster environment and (2) predicting disk failures based on disk monitoring data from a large-scale cloud storage environment. First, we observe that the data leakage issue exists in AIOps solutions. Using a time-based splitting of training and validation datasets can significantly reduce such data leakage, making it more appropriate than using a random splitting in the AIOps context. Second, we show that AIOps solutions suffer from concept drift. Periodically updating AIOps models can help mitigate the impact of such concept drift, while the performance benefit and the modeling cost of increasing the update frequency depend largely on the application data and the used models. Our findings encourage future studies and practices on developing AIOps solutions to pay attention to their data-splitting decisions to handle the data leakage and concept drift challenges.
+DA  - 2021/07/23/
+PY  - 2021
+DO  - 10.1145/3447876
+DP  - ACM Digital Library
+VL  - 30
+IS  - 4
+SP  - 54:1
+EP  - 54:38
+J2  - ACM Trans. Softw. Eng. Methodol.
+SN  - 1049-331X
+UR  - https://dl.acm.org/doi/10.1145/3447876
+Y2  - 2026/09/07/09:17:50
+L1  - https://dl.acm.org/doi/pdf/10.1145/3447876?download=true
+ER  - 
+
+TY  - CHAP
+TI  - RuntimeSlicer: Towards Generalizable Unified Runtime State Representation for Failure Management
+AU  - Zhang, Lingzhe
+AU  - Jia, Tong
+AU  - Hong, Weijie
+AU  - Wang, Mingyu
+AU  - Duan, Chiming
+AU  - He, Minghua
+AU  - Wang, Rongqian
+AU  - Peng, Xi
+AU  - Wang, Meiling
+AU  - Zhang, Nicholas
+AU  - Chen, Renhai
+AU  - Li, Ying
+T2  - Proceedings of the 34th ACM International Conference on the Foundations of Software Engineering
+AB  - Modern software systems operate at unprecedented scale and complexity, making effective failure management both critical and increasingly challenging. Metrics, traces, and logs provide complementary views of runtime behavior, yet existing approaches typically rely on task-specific pipelines that tightly couple modality-specific preprocessing, representation learning, and downstream models, limiting generalization across tasks and systems. To address this gap, we propose RuntimeSlicer, a unified runtime state representation model for generalizable failure management. RuntimeSlicer pre-trains a task-agnostic model that directly encodes metrics, traces, and logs into a single aligned system-state embedding capturing the overall runtime condition. To train RuntimeSlicer, we introduce Unified Runtime Contrastive Learning, which integrates heterogeneous training data and optimizes complementary objectives for cross-modality alignment and temporal consistency. Building on the learned embeddings, we further propose State-Aware Task-Oriented Tuning, which partitions runtime states in an unsupervised manner and enables state-conditioned adaptation for downstream tasks. Preliminary experiments on the AIOps 2022 dataset demonstrate the feasibility and effectiveness of RuntimeSlicer for system state modeling and failure management.
+CY  - New York, NY, USA
+DA  - 2026/07/17/
+PY  - 2026
+DP  - ACM Digital Library
+SP  - 1217
+EP  - 1221
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-2636-1
+ST  - RuntimeSlicer
+UR  - https://dl.acm.org/doi/10.1145/3803437.3805559
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3803437.3805559?download=true
+ER  - 
+
+TY  - JOUR
+TI  - LLM4Log: A Systematic Review of Large Language Model-based Log Analysis
+AU  - Ma, Zeyang
+AU  - Yang, Jinqiu
+AU  - Chen, Tse-Hsun (Peter)
+T2  - ACM Transactions on Software Engineering and Methodology
+AB  - Software systems generate massive, evolving, semi-structured logs that are central to reliability engineering and AIOps, yet difficult to analyze at scale under drift and limited labels. Recent advances in pretrained Transformer models and instructiontuned large language models (LLMs) have reshaped log analysis by enabling semantic generalization and cross-source evidence integration, but also introducing deployment risks such as context limits, latency and cost, privacy constraints, and hallucinations. This paper presents LLM4Log, a systematic review of LLM-based log analysis across the end-to-end pipeline, from upstream logging-statement generation and maintenance to log parsing/structuring and downstream tasks including anomaly detection, failure prediction, root cause analysis, and log summarization. Following a structured search and manual screening protocol, we completed literature collection in November 2025 and identified 145 unique papers across seven logging tasks. We organize the research area through a unified, task-driven taxonomy, summarize common design patterns (prompting/ICL, retrieval grounding, fine-tuning, tool/agent augmentation, and verification), and analyze evaluation practices, datasets, metrics, and reproducibility. Based on these cross-paper analyses, we summarize key lessons and open challenges for reliable real-world adoption. We emphasize robustness under drift and long-tail events, grounding and faithfulness for operator-facing outputs, and deployment-oriented designs with verifiable behavior.
+DA  - 2026/08/24/
+PY  - 2026
+DO  - 10.1145/3842759
+DP  - ACM Digital Library
+J2  - ACM Trans. Softw. Eng. Methodol.
+SN  - 1049-331X
+ST  - LLM4Log
+UR  - https://dl.acm.org/doi/10.1145/3842759
+Y2  - 2026/09/07/09:17:54
+L1  - https://dl.acm.org/doi/pdf/10.1145/3842759?download=true
+ER  - 
+
+TY  - JOUR
+TI  - A Survey of AIOps Methods for Failure Management
+AU  - Notaro, Paolo
+AU  - Cardoso, Jorge
+AU  - Gerndt, Michael
+T2  - ACM Transactions on Intelligent Systems and Technology (TIST)
+AB  - Modern society is increasingly moving toward complex and distributed computing systems. The increase in scale and complexity of these systems challenges O&amp;M teams that perform daily monitoring and repair operations, in contrast with the increasing demand for reliability and scalability of modern applications. For this reason, the study of automated and intelligent monitoring systems has recently sparked much interest across applied IT industry and academia. Artificial Intelligence for IT Operations (AIOps) has been proposed to tackle modern IT administration challenges thanks to Machine Learning, AI, and Big Data. However, AIOps as a research topic is still largely unstructured and unexplored, due to missing conventions in categorizing contributions for their data requirements, target goals, and components. In this work, we focus on AIOps for Failure Management (FM), characterizing and describing 5 different categories and 14 subcategories of contributions, based on their time intervention window and the target problem being solved. We review 100 FM solutions, focusing on applicability requirements and the quantitative results achieved, to facilitate an effective application of AIOps solutions. Finally, we discuss current development problems in the areas covered by AIOps and delineate possible future trends for AI-based failure management.
+DA  - 2021/11/30/
+PY  - 2021
+DO  - 10.1145/3483424
+DP  - ACM Digital Library
+VL  - 12
+IS  - 6
+SP  - 81:1
+EP  - 81:45
+J2  - ACM Trans. Intell. Syst. Technol.
+SN  - 2157-6904
+UR  - https://dl.acm.org/doi/10.1145/3483424
+Y2  - 2026/09/07/09:17:57
+L1  - https://dl.acm.org/doi/pdf/10.1145/3483424?download=true
+ER  - 
+
+TY  - CONF
+TI  - Meta-learning Generalized AIOps Models for Multi-cloud Computer using Digital Twins
+AU  - Yang, Xi
+AU  - Jha, Saurabh
+AU  - Palmes, Paulito
+AU  - Turkkan, Bekir
+AU  - Vanloo, Gerard
+AU  - Narayanaswami, Chandra
+AU  - Shwartz, Larisa
+T3  - CASCON '23
+AB  - Multi-cloud computing is a vitally important topic from both busi-ness and technical perspectives since it guarantees resiliency, avail-ability, and security. Due to the vast number of configurations among cloud providers, it is quite challenging to migrate AIOps models across different clouds. Although it is possible to train these models from scratch on the target cloud, this process can be time-consuming and prone to delays. Consequently, the objective of this paper is to create a generalized AIOps model from the original cloud that can be seamlessly applied to target cloud with minimal to zero-shot observations. To achieve this goal, we present a novel framework in this position paper, which harnesses the potential of digital twins to enhance data generalization. Additionally, our proposed framework employs meta-learning techniques to ensure effective model generalization across different cloud environments.
+C1  - USA
+C3  - Proceedings of the 33rd Annual International Conference on Computer Science and Software Engineering
+DA  - 2023/09/11/
+PY  - 2023
+DP  - ACM Digital Library
+SP  - 206
+EP  - 210
+PB  - IBM Corp.
+UR  - https://dl.acm.org/doi/10.5555/3615924.3615950
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - Incident Prevention through Reliable Changes Deployment
+AU  - Kapel, Eileen
+T3  - ICSE '23
+AB  - Ensuring the reliability of changes deployment is essential to prevent incidents in businesses that strongly depend on software and services. Incidents should be avoided since they may lead to customer dissatisfaction, financial losses and reputational damage. Currently, the majority of outages are being caused by changes, so we believe there is a need for a higher focus on the risk management pre-change deployment. This paper presents a research plan that proposes a risk management AIOps framework utilising real-world change, CI/CD pipeline and incident data for incident prevention through reliable changes deployment. This research will explore 1) obtaining background information on the current state of practice of service management with a case study on a software-defined business; 2) a risk management AIOps framework that utilises the traces of change, incident and CI/CD pipeline code for predicting the risk of changes deployment; and 3) testing the generalisability of the framework for reducing the risk of change deployment.
+C1  - Melbourne, Victoria, Australia
+C3  - Proceedings of the 45th International Conference on Software Engineering: Companion Proceedings
+DA  - 2023/07/27/
+PY  - 2023
+DO  - 10.1109/ICSE-Companion58688.2023.00055
+DP  - ACM Digital Library
+SP  - 200
+EP  - 202
+PB  - IEEE Press
+SN  - 979-8-3503-2263-7
+UR  - https://dl.acm.org/doi/10.1109/ICSE-Companion58688.2023.00055
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - JOUR
+TI  - Cross-System Categorization of Abnormal Traces in Microservice-Based Systems via Meta-Learning
+AU  - Wang, Yuqing
+AU  - Mäntylä, Mika V.
+AU  - Demeyer, Serge
+AU  - Beyazıt, Mutlu
+AU  - Kisaakye, Joanna
+AU  - Nyyssölä, Jesse
+T2  - Proceedings of the ACM on Software Engineering
+AB  - Microservice-based systems (MSS) may fail with various fault types, due to their complex and dynamic nature. While existing AIOps methods excel at detecting abnormal traces and locating the responsible service(s), human efforts from practitioners are still required for further root cause analysis to diagnose specific fault types and analyze failure reasons for detected abnormal traces, particularly when abnormal traces do not stem directly from specific services. In this paper, we propose a novel AIOps framework, TraFaultDia, to automatically classify abnormal traces into fault categories for MSS. We treat the classification process as a series of multi-class classification tasks, where each task represents an attempt to classify abnormal traces into specific fault categories for a MSS. TraFaultDia is trained on several abnormal trace classification tasks with a few labeled instances from a MSS using a meta-learning approach. After training, TraFaultDia can quickly adapt to new, unseen abnormal trace classification tasks with a few labeled instances across MSS. TraFaultDia’s use cases are scalable depending on how fault categories are built from anomalies within MSS. We evaluated TraFaultDia on two representative MSS, TrainTicket and OnlineBoutique, with open datasets. In these datasets, each fault category is tied to the faulty system component(s) (service/pod) with a root cause. Our TraFaultDia automatically classifies abnormal traces into these fault categories, thus enabling the automatic identification of faulty system components and root causes without manual analysis. Our results show that, within the MSS it is trained on, TraFaultDia achieves an average accuracy of 93.26% and 85.20% across 50 new, unseen abnormal trace classification tasks for TrainTicket and OnlineBoutique respectively, when provided with 10 labeled instances for each fault category per task in each system. In the cross-system context, when TraFaultDia is applied to a MSS different from the one it is trained on, TraFaultDia gets an average accuracy of 92.19% and 84.77% for the same set of 50 new, unseen abnormal trace classification tasks of the respective systems, also with 10 labeled instances provided for each fault category per task in each system.
+DA  - 2025/06/19/
+PY  - 2025
+DO  - 10.1145/3715742
+DP  - ACM Digital Library
+VL  - 2
+IS  - FSE
+SP  - FSE027:576
+EP  - FSE027:598
+J2  - Proc. ACM Softw. Eng.
+UR  - https://dl.acm.org/doi/10.1145/3715742
+Y2  - 2026/09/07/09:18:04
+L1  - https://dl.acm.org/doi/pdf/10.1145/3715742?download=true
+ER  - 
+
+TY  - CONF
+TI  - The 13th CASCON workshop on cloud computing: engineering AIOps
+AU  - Litoiu, Marin
+AU  - Watts, Ian
+AU  - Wigglesworth, Joe
+T3  - CASCON '21
+AB  - AIOps, or Artificial Intelligence for IT Operations, is the application of AI to enhance IT operations. AIOps include activities such as collection and aggregation of data from services, applications and infrastructure; identification of events, such as anomalies, workload trends and patterns related to system and application quality of services; diagnosis of root causes and remediation recommendation for IT runtime issues. This workshop brought together researchers and practitioners to present and discuss the state of the art and practice in AIOps, to identify challenges and opportunities for further research and commercialization. The workshop agenda consisted of industrial talks that presented the state of the practice; research talks that presented current research projects; and a round table that discussed the research challenges and opportunities.
+C1  - USA
+C3  - Proceedings of the 31st Annual International Conference on Computer Science and Software Engineering
+DA  - 2021/11/22/
+PY  - 2021
+DP  - ACM Digital Library
+SP  - 280
+EP  - 281
+PB  - IBM Corp.
+ST  - The 13th CASCON workshop on cloud computing
+UR  - https://dl.acm.org/doi/10.5555/3507788.3507838
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - DualLane: Fast and Reliable LLM Agents for Interactive AIOps via Dual-Path Planning
+AU  - Wang, Haoyu
+AU  - Ma, Wenxuan
+AU  - Hu, Bing
+AU  - Li, Haozhe
+AU  - Si, Qingqian
+AU  - Guo, Hongke
+AU  - Huang, Boyang
+AU  - Zhu, Zhaoliang
+AU  - Zhang, You
+AU  - Zhou, Yu
+AU  - Zheng, Xudong
+T3  - KDD '26
+AB  - Ticket support in cloud services involves technical engineers using expert tools to resolve customer queries—% a process closely resembling information integration. To enhance both operational efficiency and resolution accuracy, we propose DualLane, a novel parallel dual-path planning architecture designed for AI agents. This framework adaptively manages the highly skewed frequency distribution characteristic of real-world user queries. For low-frequency long-tail scenarios, the slow path employs a two-stage planning mechanism that decouples task decomposition from parameter generation, effectively optimizing dependency propagation and reducing context complexity. In contrast, for high-frequency routine scenarios, the fast path bypasses expensive LLM-based full-plan generation by utilizing pre-validated execution templates, thereby improving response accuracy and reducing latency. After more than one year of extensive deployment in Alibaba Cloud's ECS production environment, DualLane has demonstrated remarkable robustness and stability. Offline benchmarks indicate a high accuracy rate of 96.5%, accompanied by superior latency performance. Crucially, online metrics reveal a median plan-execution latency of merely 4.2 seconds, with an agent-induced error rate maintained at a low 7.1%. These results underscore the practical viability and effectiveness of adaptive dual-path planning in large-scale, interactive AIOps systems.
+C1  - New York, NY, USA
+C3  - Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2
+DA  - 2026/08/08/
+PY  - 2026
+DO  - 10.1145/3770855.3818380
+DP  - ACM Digital Library
+SP  - 8124
+EP  - 8134
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-2259-2
+ST  - DualLane
+UR  - https://dl.acm.org/doi/10.1145/3770855.3818380
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3770855.3818380?download=true
+ER  - 
+
+TY  - CONF
+TI  - Challenges for the Industrial Adoption of AIOps Innovations
+AU  - E. Hassan, Ahmed
+T3  - ISEC '22
+AB  - Over the past two decades, my team has worked extensively on improving the quality of ultra-large-scale software systems. This talk discusses several AIOps innovations that we developed to cope with the enormous complexities of such systems while highlighting the key challenges that we faced to ensure the industrial adoption of such innovations. In particular, I will emphasize that focusing on top-performing AI models is not sufficient. Instead, AIOps solutions must be trustable, interpretable, scalable, maintainable, and evaluated in context.
+C1  - New York, NY, USA
+C3  - Proceedings of the 15th Innovations in Software Engineering Conference
+DA  - 2022/02/24/
+PY  - 2022
+DO  - 10.1145/3511430.3511916
+DP  - ACM Digital Library
+SP  - 1
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9618-9
+UR  - https://dl.acm.org/doi/10.1145/3511430.3511916
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3511430.3511916?download=true
+ER  - 
+
+TY  - CONF
+TI  - 1st workshop on AIOps and systems compliance
+AU  - Kontogiannis, Kostas
+AU  - Giammaria, Alberto
+AU  - Brealey, Chris
+AU  - Grigoriou, Marios
+T3  - CASCON '20
+AB  - Over the past two years we have seen a growth on AIOps. AIOps is the area of software engineering which aims to apply Artificial Intelligence on IT operations and on the big data which are harvested from different IT systems across an organisation. AIOps comes as a direct response to the dire need to break the siloed approach to IT operations in order to support a holistic system analysis which allows not only for the identification and proactive or even predictive resolution of issues, but also for assessing the compliance of a system against certain policies such as policies related to safety, security, and regulatory. This workshop brought together researchers and practitioners to discuss the latest developments on AIOps and system compliance and identified key challenge issues.
+C1  - USA
+C3  - Proceedings of the 30th Annual International Conference on Computer Science and Software Engineering
+DA  - 2020/11/10/
+PY  - 2020
+DP  - ACM Digital Library
+SP  - 254
+EP  - 255
+PB  - IBM Corp.
+UR  - https://dl.acm.org/doi/10.5555/3432601.3432636
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - AIOps: real-world challenges and research innovations
+AU  - Dang, Yingnong
+AU  - Lin, Qingwei
+AU  - Huang, Peng
+T3  - ICSE '19
+AB  - AIOps is about empowering software and service engineers (e.g., developers, program managers, support engineers, site reliability engineers) to efficiently and effectively build and operate online services and applications at scale with artificial intelligence (AI) and machine learning (ML) techniques. AIOps can help improve service quality and customer satisfaction, boost engineering productivity, and reduce operational cost. In this technical briefing, we first summarize the real-world challenges in building AIOps solutions based on our practice and experience in Microsoft. We then propose a roadmap of AIOps related research directions, and share a few successful AIOps solutions we have built for Microsoft service products.
+C1  - Montreal, Quebec, Canada
+C3  - Proceedings of the 41st International Conference on Software Engineering: Companion Proceedings
+DA  - 2019/05/25/
+PY  - 2019
+DO  - 10.1109/ICSE-Companion.2019.00023
+DP  - ACM Digital Library
+SP  - 4
+EP  - 5
+PB  - IEEE Press
+ST  - AIOps
+UR  - https://dl.acm.org/doi/10.1109/ICSE-Companion.2019.00023
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - AIOps and Sustainability: Transforming Data Centers for a Greener Future
+AU  - Joshi, Subrahmanya Vinayak
+AU  - Serebryakov, Sergey
+AU  - Nanjundaiah, Deepak
+AU  - Hegde, Tejas
+T3  - SC-W '24
+AB  - Enterprise and high-performance computing (HPC) data centers are dealing with thousands of sensor metrics and associated data. A top-end target for exascale machines is 10 million data points per second. The escalating volume and speed of data generation are making management of such systems more difficult, and outages are increasing. The latest Uptime Institute's Outage Analysis report [1], published in June 2022, states that 30% of all outages in 2021 lasted more than 24 hours, a disturbing increase from 8% in 2017. While equipment is idle during downtime, it often continues to consume power, especially for cooling systems. This leads to wasted energy and higher operational costs. We propose an AIOps solution that uses advanced data analytics, machine learning, and deep learning methods to develop automated and advanced anomaly detection and predictive tools for data centers. They perform at scale and speed, and improve data center resiliency and energy efficiency, thereby promoting the sustainability of data centers.
+C1  - Atlanta, GA, USA
+C3  - Proceedings of the SC '24 Workshops of the International Conference on High Performance Computing, Network, Storage, and Analysis
+DA  - 2025/02/11/
+PY  - 2025
+DO  - 10.1109/SCW63240.2024.00234
+DP  - ACM Digital Library
+SP  - 1867
+EP  - 1871
+PB  - IEEE Press
+SN  - 979-8-3503-5554-3
+ST  - AIOps and Sustainability
+UR  - https://dl.acm.org/doi/10.1109/SCW63240.2024.00234
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1109/SCW63240.2024.00234?download=true
+ER  - 
+
+TY  - JOUR
+TI  - Predicting Node Failures in an Ultra-Large-Scale Cloud Computing Platform: An AIOps Solution
+AU  - Li, Yangguang
+AU  - Jiang, Zhen Ming (Jack)
+AU  - Li, Heng
+AU  - Hassan, Ahmed E.
+AU  - He, Cheng
+AU  - Huang, Ruirui
+AU  - Zeng, Zhengda
+AU  - Wang, Mian
+AU  - Chen, Pinan
+T2  - ACM Transactions on Software Engineering and Methodology (TOSEM)
+AB  - Many software services today are hosted on cloud computing platforms, such as Amazon EC2, due to many benefits like reduced operational costs. However, node failures in these platforms can impact the availability of their hosted services and potentially lead to large financial losses. Predicting node failures before they actually occur is crucial, as it enables DevOps engineers to minimize their impact by performing preventative actions. However, such predictions are hard due to many challenges like the enormous size of the monitoring data and the complexity of the failure symptoms. AIOps (Artificial Intelligence for IT Operations), a recently introduced approach in DevOps, leverages data analytics and machine learning to improve the quality of computing platforms in a cost-effective manner. However, the successful adoption of such AIOps solutions requires much more than a top-performing machine learning model. Instead, AIOps solutions must be trustable, interpretable, maintainable, scalable, and evaluated in context. To cope with these challenges, in this article we report our process of building an AIOps solution for predicting node failures for an ultra-large-scale cloud computing platform at Alibaba. We expect our experiences to be of value to researchers and practitioners, who are interested in building and maintaining AIOps solutions for large-scale cloud computing platforms.
+DA  - 2020/04/29/
+PY  - 2020
+DO  - 10.1145/3385187
+DP  - ACM Digital Library
+VL  - 29
+IS  - 2
+SP  - 13:1
+EP  - 13:24
+J2  - ACM Trans. Softw. Eng. Methodol.
+SN  - 1049-331X
+ST  - Predicting Node Failures in an Ultra-Large-Scale Cloud Computing Platform
+UR  - https://dl.acm.org/doi/10.1145/3385187
+Y2  - 2026/09/07/09:18:19
+L1  - https://dl.acm.org/doi/pdf/10.1145/3385187?download=true
+ER  - 
+
+TY  - JOUR
+TI  - Assessing and Advancing Benchmarks for Evaluating Large Language Models in Software Engineering Tasks
+AU  - Hu, Xing
+AU  - Niu, Feifei
+AU  - Chen, Junkai
+AU  - Zhou, Xin
+AU  - Zhang, Junwei
+AU  - He, Junda
+AU  - Xia, Xin
+AU  - Lo, David
+T2  - ACM Transactions on Software Engineering and Methodology
+AB  - Large language models (LLMs) are gaining increasing popularity in software engineering (SE) due to their unprecedented performance across various applications. These models are increasingly being utilized for a range of SE tasks, including requirements engineering and design, code analysis and generation, software maintenance, and quality assurance. As LLMs become more integral to SE, evaluating their effectiveness is crucial for understanding their potential in this field. In recent years, substantial efforts have been made to assess LLM performance in various SE tasks, resulting in the creation of several benchmarks tailored to this purpose. This paper offers a thorough review of 291&nbsp;benchmarks, addressing three main aspects: what benchmarks are available, how benchmarks are constructed, and the future outlook for these benchmarks. We begin by examining SE tasks such as requirements engineering and design, coding assistant, software testing, AIOps, software maintenance, and quality management. We then analyze the benchmarks and their development processes, highlighting the limitations of existing benchmarks. Additionally, we discuss the successes and failures of LLMs in different software tasks and explore future opportunities and challenges for SE-related benchmarks. We aim to provide a comprehensive overview of benchmark research in SE and offer insights to support the creation of more effective evaluation tools.
+DA  - 2026/12/29/
+PY  - 2026
+DO  - 10.1145/3786771
+DP  - ACM Digital Library
+J2  - ACM Trans. Softw. Eng. Methodol.
+SN  - 1049-331X
+UR  - https://dl.acm.org/doi/10.1145/3786771
+Y2  - 2026/09/07/09:18:22
+L1  - https://dl.acm.org/doi/pdf/10.1145/3786771?download=true
+ER  - 
+
+TY  - CONF
+TI  - Utilizing persistence for post facto suppression of invalid anomalies using system logs
+AU  - Guhathakurta, Dipanwita
+AU  - Aggarwal, Pooja
+AU  - Nagar, Seema
+AU  - Arora, Rohan
+AU  - Zhou, Bing
+T3  - ICSE-NIER '22
+AB  - The robustness and availability of cloud services are becoming increasingly important as more applications migrate to the cloud. The operations landscape today is more complex, than ever. Site reliability engineers (SREs) are expected to handle more incidents than ever before with shorter service-level agreements (SLAs). By exploiting log, tracing, metric, and network data, Artificial Intelligence for IT Operations (AIOps) enables detection of faults and anomalous issues of services. A wide variety of anomaly detection techniques have been incorporated in various AIOps platforms (e.g. PCA and autoencoder), but they all suffer from false positives. In this paper, we propose an unsupervised approach for persistent anomaly detection on top of the traditional anomaly detection approaches, with the goal of reducing false positives and providing more trustworthy alerting signals. We test our method on both simulated and real-world datasets. Our technique reduces false positive anomalies by at least 28%, resulting in more reliable and trustworthy notifications.
+C1  - New York, NY, USA
+C3  - Proceedings of the ACM/IEEE 44th International Conference on Software Engineering: New Ideas and Emerging Results
+DA  - 2022/10/17/
+PY  - 2022
+DO  - 10.1145/3510455.3512774
+DP  - ACM Digital Library
+SP  - 121
+EP  - 125
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9224-2
+UR  - https://dl.acm.org/doi/10.1145/3510455.3512774
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3510455.3512774?download=true
+ER  - 
+
+TY  - CONF
+TI  - How can subgroup discovery help AIOps?
+AU  - Remil, Youcef
+T3  - ASE '21
+AB  - The genuine supervision of modern IT systems brings new challenges as it requires higher standards of scalability, reliability and efficiency when analysing and monitoring big data streams. Rule-based inference engines are a key component of maintenance systems in detecting anomalies and automating their resolution. However, they remain confined to simple and general rules and cannot handle the huge amount of data, nor the large number of alerts raised by IT systems, a lesson learned from expert systems era. Artificial Intelligence for Operation Systems (AIOps) proposes to take advantage of advanced analytics and machine learning on big data to improve and automate every step of supervision systems and aid incident management in detecting outages, identifying root causes and applying appropriate healing actions. Nevertheless, the best AIOps techniques rely on opaque models, strongly limiting their adoption. As a part of this PhD thesis, we study how Subgroup Discovery can help AIOps. This promising data mining technique offers possibilities to extract interesting hypothesis from data and understand the underlying process behind predictive models. To ensure relevancy of our propositions, this project involves both data mining researchers and practitioners from Infologic, a French software editor.
+C1  - Melbourne, Australia
+C3  - Proceedings of the 36th IEEE/ACM International Conference on Automated Software Engineering
+DA  - 2022/06/24/
+PY  - 2022
+DO  - 10.1109/ASE51524.2021.9678697
+DP  - ACM Digital Library
+SP  - 1098
+EP  - 1100
+PB  - IEEE Press
+SN  - 978-1-6654-0337-5
+UR  - https://dl.acm.org/doi/10.1109/ASE51524.2021.9678697
+Y2  - 2026/09/07/
+L1  - https://arxiv.org/pdf/2109.04909
+ER  - 
+
+TY  - CONF
+TI  - Hypothesize-Then-Verify: Speculative Root Cause Analysis for Microservices with Pathwise Parallelism
+AU  - Zhang, Lingzhe
+AU  - Jia, Tong
+AU  - Zhai, Yunpeng
+AU  - Pan, Leyi
+AU  - Duan, Chiming
+AU  - He, Minghua
+AU  - Xiao, Pei
+AU  - Li, Ying
+T3  - ICSE-NIER '26
+AB  - Microservice systems have become the backbone of cloud-native enterprise applications due to their resource elasticity, loosely coupled architecture, and lightweight deployment. Yet, the intrinsic complexity and dynamic runtime interactions of such systems inevitably give rise to anomalies. Ensuring system reliability therefore hinges on effective root cause analysis (RCA), which entails not only localizing the source of anomalies but also characterizing the underlying failures in a timely and interpretable manner. Recent advances in intelligent RCA techniques, particularly those powered by large language models (LLMs), have demonstrated promising capabilities, as LLMs reduce reliance on handcrafted features while offering cross-platform adaptability, task generalization, and flexibility. However, existing LLM-based methods still suffer from two critical limitations: (a) limited exploration diversity, which undermines accuracy, and (b) heavy dependence on large-scale LLMs, which results in slow inference. To overcome these challenges, we propose SpecRCA, a speculative root cause analysis framework for microservices that adopts a hypothesize-then-verify paradigm. SpecRCA first leverages a hypothesis drafting module to rapidly generate candidate root causes, and then employs a parallel root cause verifier to efficiently validate them. Preliminary experiments on the AIOps 2022 dataset demonstrate that SpecRCA achieves superior accuracy and efficiency compared to existing approaches, highlighting its potential as a practical solution for scalable and interpretable RCA in complex microservice environments.
+C1  - New York, NY, USA
+C3  - Proceedings of the IEEE/ACM 48th International Conference on Software Engineering
+DA  - 2026/07/08/
+PY  - 2026
+DO  - 10.1145/3786582.3786803
+DP  - ACM Digital Library
+SP  - 21
+EP  - 25
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-2425-1
+ST  - Hypothesize-Then-Verify
+UR  - https://dl.acm.org/doi/10.1145/3786582.3786803
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3786582.3786803?download=true
+ER  - 
+
+TY  - JOUR
+TI  - An Intelligent Framework for Timely, Accurate, and Comprehensive Cloud Incident Detection
+AU  - Li, Yichen
+AU  - Zhang, Xu
+AU  - He, Shilin
+AU  - Chen, Zhuangbin
+AU  - Kang, Yu
+AU  - Liu, Jinyang
+AU  - Li, Liqun
+AU  - Dang, Yingnong
+AU  - Gao, Feng
+AU  - Xu, Zhangwei
+AU  - Rajmohan, Saravan
+AU  - Lin, Qingwei
+AU  - Zhang, Dongmei
+AU  - Lyu, Michael R.
+T2  - ACM SIGOPS Operating Systems Review
+AB  - Cloud incidents (service interruptions or performance degradation) dramatically degrade the reliability of large-scale cloud systems, causing customer dissatisfaction and revenue loss. With years of efforts, cloud providers are able to solve most incidents automatically and rapidly. The secret of this ability is intelligent incident detection. Only when incidents are detected timely, accurately, and comprehensively, can they be diagnosed and mitigated at a satisfiable speed. To overcome the limitations of traditional rule-based detection, we carried out years of incident detection research. We developed a comprehensive AIOps (Artificial Intelligence for IT Operations) framework for incident detection containing a set of data-driven methods. This paper shares our recent experience of developing and deploying such an intelligent incident detection system at Microsoft. We first discuss the real-world challenges of incident detection that constitute the pain points of engineers. Then, we summarize our intelligent solutions proposed in recent years to tackle these challenges. Finally, we show the deployment of the incident detection AIOps framework and demonstrate its practical benefits conveyed to Microsoft cloud services with real cases.
+DA  - 2022/06/14/
+PY  - 2022
+DO  - 10.1145/3544497.3544499
+DP  - ACM Digital Library
+VL  - 56
+IS  - 1
+SP  - 1
+EP  - 7
+J2  - SIGOPS Oper. Syst. Rev.
+SN  - 0163-5980
+UR  - https://dl.acm.org/doi/10.1145/3544497.3544499
+Y2  - 2026/09/07/09:18:31
+L1  - https://dl.acm.org/doi/pdf/10.1145/3544497.3544499?download=true
+ER  - 
+
+TY  - CONF
+TI  - Auto-Logging: Al-Centred Logging Instrumentation
+AU  - Bogatinovski, Jasmin
+AU  - Kao, Odej
+T3  - ICSE-NIER '23
+AB  - Logging in software development plays a crucial role in bug-fixing, maintaining the code and operating the application. Logs are hints created by human software developers that aim to help human developers and operators in identifying root causes for application bugs or other misbehaviour types. They also serve as a bridge between the Devs and the Ops, allowing the exchange of information. The rise of the DevOps paradigm with the CI/CD pipelines led to a significantly higher number of deployments per month and consequently increased the logging requirements. In response, AI-enabled methods for IT operation (AIOps) are introduced to automate the testing and run-time fault tolerance to a certain extent. However, using logs tailored for human understanding to learn (automatic) AI methods poses an ill-defined problem: AI algorithms need no hints but structured, precise and indicative data. Until now, AIOps researchers adapt the AI algorithms to the properties of the existing human-centred data (e.g., log sentiment), which are not always trivial to model. By pointing out the discrepancy, we envision that there exists an alternative approach: the logging can be adapted such that the produced logs are better tailored towards the strengths of the AI-enabled methods. In response, in this vision paper, we introduce auto-logging, which devises the idea of how to automatically insert log instructions into the code that can better suit AI-enabled methods as end-log consumers.
+C1  - Melbourne, Australia
+C3  - Proceedings of the 45th International Conference on Software Engineering: New Ideas and Emerging Results
+DA  - 2023/09/20/
+PY  - 2023
+DO  - 10.1109/ICSE-NIER58687.2023.00023
+DP  - ACM Digital Library
+SP  - 95
+EP  - 100
+PB  - IEEE Press
+SN  - 979-8-3503-0039-0
+ST  - Auto-Logging
+UR  - https://dl.acm.org/doi/10.1109/ICSE-NIER58687.2023.00023
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - Fault Prediction in Large-Scale Cluster Environments Based on Improved TCN and DenseNet
+AU  - Liu, Chongyang
+AU  - Yuan, Shuai
+AU  - Zheng, Yu
+AU  - Su, Jia
+T3  - CAICE '25
+AB  - Cluster node fault prediction is an important issue in the field of AIOps, and various methods have been proposed to solve it. However, these proposed approaches face limitations in prediction performance because they fail to fully consider the unique characteristics of cluster metric data.  To tackle issues of noisy data and repetitive information in cluster time series, we propose a cluster fault prediction model called Dense-TiCN which combines DenseNet with an improved Temporal Convolutional Network (TCN). The model uses feature reuse in DenseBlocks to improve robustness against noisy data, use TCN  with channel attention mechanisms to make it effective to capture long-term dependencies in time series data and amplify key features. These advancements considerably improve the precision and reliability of forecasts. Experimental results indicate that the Dense-TiCN model outperforms conventional fault prediction methods in terms of both precision and efficiency. It achieves a prediction precision of 95.6% and an F1 score exceeding 0.92. This work demonstrates the potential of combining DenseNet and TCN with channel attention to handle complex, noisy time series data in cluster environments, providing an efficient and accurate solution for large-scale cluster fault prediction.
+C1  - New York, NY, USA
+C3  - Proceedings of the 4th International Conference on Computer, Artificial Intelligence and Control Engineering
+DA  - 2025/06/02/
+PY  - 2025
+DO  - 10.1145/3727648.3727802
+DP  - ACM Digital Library
+SP  - 940
+EP  - 946
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1264-7
+UR  - https://dl.acm.org/doi/10.1145/3727648.3727802
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3727648.3727802?download=true
+ER  - 
+
+TY  - CONF
+TI  - KPI anomaly detection method for Data Center AIOps based on GRU-GAN
+AU  - Su, Hang
+AU  - He, Qian
+AU  - Guo, Biao
+T3  - ICICSE 2021
+AB  - The system architecture and application services of the data center are becoming increasingly large. To ensure the stable operation of the systems and businesses carried by the data center, the operations engineer needs to collect and monitor the generating KPIs during the operation of the systems and services. Traditional KPI anomaly detection methods are faced with the challenges of the huge amount of KPIs and constantly changing data characteristics, which are gradually no longer suitable for highly dynamic systems and services. With the popularity of artificial intelligence algorithms, machine learning and deep learning methods have also begun to be applied in operation and maintenance scenarios, that is the emergence of Artificial Intelligence for IT Operations (AIOps). KPI anomaly detection is the underlying core technology of AIOps. This paper proposes a hybrid model based on GRU-GAN (GGAN) for KPI anomaly detection in data center AIOps. The Gated Recurrent Unit (GRU) network is selected as the generator and discriminator of Generative adversarial network (GAN) in this model, which get the time correlation and data distribution of KPI through the adversarial training between the generator and the discriminator to make use of the reconstruction ability of the generator and the discriminant ability of the discriminator at the same time. At the anomaly detection stage, the anomaly score is formed by integrating reconstruction difference and discrimination loss to complete the anomaly detection task. Experimental results show that the proposed method can more accurately capture the variable data characteristics of KPI compared with the traditional KPI anomaly detection method and the general unsupervised method, as well as achieve better performance in the KPI anomaly detection task.
+C1  - New York, NY, USA
+C3  - 2021 10th International Conference on Internet Computing for Science and Engineering
+DA  - 2022/01/24/
+PY  - 2022
+DO  - 10.1145/3485314.3485323
+DP  - ACM Digital Library
+SP  - 23
+EP  - 29
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-8495-7
+UR  - https://dl.acm.org/doi/10.1145/3485314.3485323
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3485314.3485323?download=true
+ER  - 
+
+TY  - CONF
+TI  - 6G-XSec: Explainable Edge Security for Emerging OpenRAN Architectures
+AU  - Wen, Haohuang
+AU  - Sharma, Prakhar
+AU  - Yegneswaran, Vinod
+AU  - Porras, Phillip
+AU  - Gehani, Ashish
+AU  - Lin, Zhiqiang
+T3  - HotNets '24
+AB  - The evolution from 5G to 6G cellular networks signifies a crucial advancement towards enhanced robustness and automation driven by the promise of ubiquitous Artificial Intelligence (AI) to overhaul network operations, commonly referred to as AIOps. However, 6G network operators also need to deal with evolving threats at the edge to ensure data integrity and availability. We introduce 6G-XSEC, the first framework that seeks to automatically monitor, analyze, and explain anomalies and threats at the cellular network edge. Our framework enhances the emerging Open Radio Access Network (O-RAN) control plane with run-time analytic capabilities and explainability. A distinguishing aspect of our framework is the use of expert referencing, a coupling of lightweight unsupervised deep learning-based anomaly detection with large language models (LLMs) to first detect, analyze, and subsequently explain complicated real-world cellular threats and anomalies at run-time, based on enhanced security telemetry from the O-RAN data plane. We build a prototype 6G-XSEC framework and evaluate it against 5 end-to-end cellular attacks from the literature, achieving 100% detection rate with our best model. We also propose effective LLM prompt templates for attack analysis and present qualitative results from 5 popular LLMs.
+C1  - New York, NY, USA
+C3  - Proceedings of the 23rd ACM Workshop on Hot Topics in Networks
+DA  - 2024/11/18/
+PY  - 2024
+DO  - 10.1145/3696348.3696881
+DP  - ACM Digital Library
+SP  - 77
+EP  - 85
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1272-2
+ST  - 6G-XSec
+UR  - https://dl.acm.org/doi/10.1145/3696348.3696881
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3696348.3696881?download=true
+ER  - 
+
+TY  - CONF
+TI  - MemSeer: Leverage Memory Failure Distinctions and Multi-Grained Prediction in Ultra-Scale Heterogeneous X86/ARM Clusters
+AU  - Gu, Yunfei
+AU  - Liu, Yixuan
+AU  - Wu, Xinyuan
+AU  - Shao, Bo
+AU  - Wu, Chentao
+AU  - Li, Shiyi
+AU  - Zhao, Jieru
+AU  - Li, Jie
+AU  - Guo, Minyi
+AU  - Yang, Kunlin
+AU  - Zhang, Wengui
+AU  - Lin, Feilong
+T3  - DAC '25
+AB  - In high-performance ultra-scale cloud computing, heterogeneous clusters consisting of x86 and ARM architecture platforms have become increasingly common to boost performance and energy efficiency. Ensuring high availability in these environments is crucial for meeting service-level agreements. However, DRAM failures, a primary cause of server downtimes, present significant challenges to reliability, availability, and serviceability. This paper provides an in-depth analysis of memory failure characteristics across cross-architecture platforms in large-scale heterogeneous clusters. We introduce MemSeer, an AIOps-integrated tool that utilizes a multi-grained memory failure prediction approach for x86/ARM heterogeneous clusters. MemSeer improves the F1-score by 17.3% and increases recall by an average of 27% across different lead times compared to state-of-the-art methods. These advancements show great promise in reducing memory failures in cluster environments, decreasing VM interruptions by up to 42.7% and averaging 24.2% in real-world implementations.
+C1  - San Francisco, California, United States
+C3  - Proceedings of the 62nd Annual ACM/IEEE Design Automation Conference
+DA  - 2025/11/26/
+PY  - 2025
+DO  - 10.1109/DAC63849.2025.11132417
+DP  - ACM Digital Library
+SP  - 1
+EP  - 7
+PB  - IEEE Press
+SN  - 979-8-3315-0304-8
+ST  - MemSeer
+UR  - https://dl.acm.org/doi/10.1109/DAC63849.2025.11132417
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - KubeKlone: A Digital Twin for Simulating Edge and Cloud Microservices
+AU  - Bhardwaj, Ayush
+AU  - Benson, Theophilus A.
+T3  - APNet '22
+AB  - Microservices are terraforming the computing landscape with web-scale infrastructures (e.g., Facebook, Google, Amazon) and telecom infrastructures (e.g., ATT, Ericsson) adopting them. At it’s core, the microservices paradigm promotes a decoupling of applications into multiple services – a decoupling that promotes better scalability, fault-tolerance, and deployability. Unfortunately, this decoupling significantly increases the space of configuration options and performance problems, rendering traditional approaches to management ineffective. Recent efforts to address this problem embrace Artificial Intelligence for IT Operations (AIOps). However, training effective AI models requires significant amounts of data and, in some instances, a framework for quickly exploring or analyzing model performance. Digital twins, or simulators, have effectively enabled AI-based management frameworks within other domains (e.g., manufacturing, industrial and automotive). In this paper, we propose the design of KubeKlone, the first comprehensive and opensource digital twin for modeling cloud-native microservices applications. KubeKlone is motivated by our need for accurate, efficient, and general model training. KubeKlone satisfies these goals by decoupling the simulation of microservices from the training of machine learning (ML) models while simultaneously ensuring efficiency and simplifying model design. In particular, KubeKlone introduces a queue-based simulator that abstracts infrastructure details and focuses on modeling, with queues, resource contentions across host and network components. To simplify model design, KubeKlone provides interfaces that hide simulator details and provides wrappers around popular ML packages. To illustrate the strengths of KubeKlone, we validate it against a deployment on Google Cloud Engine and implement several AIOps resource management algorithms (including PARTIES).
+C1  - New York, NY, USA
+C3  - Proceedings of the 6th Asia-Pacific Workshop on Networking
+DA  - 2023/11/07/
+PY  - 2023
+DO  - 10.1145/3542637.3542642
+DP  - ACM Digital Library
+SP  - 29
+EP  - 35
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9748-3
+ST  - KubeKlone
+UR  - https://dl.acm.org/doi/10.1145/3542637.3542642
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3542637.3542642?download=true
+ER  - 
+
+TY  - CONF
+TI  - LogExpert: Log-based Recommended Resolutions Generation using Large Language Model
+AU  - Wang, Jiabo
+AU  - Chu, Guojun
+AU  - Wang, Jingyu
+AU  - Sun, Haifeng
+AU  - Qi, Qi
+AU  - Wang, Yuanyi
+AU  - Qi, Ji
+AU  - Liao, Jianxin
+T3  - ICSE-NIER'24
+AB  - Software logs play a vital role in ensuring the reliability and availability of large-scale software systems. In recent years, researchers have made significant efforts to build log analysis approaches to manage software systems. However, these approaches focus on log compression, log parsing and log anomaly detection. In the current context, engineers continue to spend substantial time and effort on resolving errors once anomalous logs have been detected. To achieve truly automated software system management and high-level Artificial Intelligence for IT Operations (AIOps), it's necessary to bridge the gap between anomalous logs and their resolutions.In this paper, we propose a novel framework LogExpert to automatically generate recommended resolutions for anomalous logs. Specifically, we build a log recognizer to utilize the wealth of software knowledge in technical forums such as Stack Overflow (SO). In addition, LogExpert combines the great power of a Large Language Model (LLM) with domain-specific knowledge to generate the resolution. We conducted a preliminary evaluation of our framework on datasets from SO. Our log recognizer achieves the F1 score of 0.936. Our lexical metrics and human evaluation show the overall LogExpert framework achieves excellent performance in log-based resolution generation.
+C1  - New York, NY, USA
+C3  - Proceedings of the 2024 ACM/IEEE 44th International Conference on Software Engineering: New Ideas and Emerging Results
+DA  - 2024/05/24/
+PY  - 2024
+DO  - 10.1145/3639476.3639773
+DP  - ACM Digital Library
+SP  - 42
+EP  - 46
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-0500-7
+ST  - LogExpert
+UR  - https://dl.acm.org/doi/10.1145/3639476.3639773
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3639476.3639773?download=true
+ER  - 
+
+TY  - CONF
+TI  - Towards intelligent incident management: why we need it and how we make it
+AU  - Chen, Zhuangbin
+AU  - Kang, Yu
+AU  - Li, Liqun
+AU  - Zhang, Xu
+AU  - Zhang, Hongyu
+AU  - Xu, Hui
+AU  - Zhou, Yangfan
+AU  - Yang, Li
+AU  - Sun, Jeffrey
+AU  - Xu, Zhangwei
+AU  - Dang, Yingnong
+AU  - Gao, Feng
+AU  - Zhao, Pu
+AU  - Qiao, Bo
+AU  - Lin, Qingwei
+AU  - Zhang, Dongmei
+AU  - Lyu, Michael R.
+T3  - ESEC/FSE 2020
+AB  - The management of cloud service incidents (unplanned interruptions or outages of a service/product) greatly affects customer satisfaction and business revenue. After years of efforts, cloud enterprises are able to solve most incidents automatically and timely. However, in practice, we still observe critical service incidents that occurred in an unexpected manner and orchestrated diagnosis workflow failed to mitigate them. In order to accelerate the understanding of unprecedented incidents and provide actionable recommendations, modern incident management system employs the strategy of AIOps (Artificial Intelligence for IT Operations). In this paper, to provide a broad view of industrial incident management and understand the modern incident management system, we conduct a comprehensive empirical study spanning over two years of incident management practices at Microsoft. Particularly, we identify two critical challenges (namely, incomplete service/resource dependencies and imprecise resource health assessment) and investigate the underlying reasons from the perspective of cloud system design and operations. We also present IcM BRAIN, our AIOps framework towards intelligent incident management, and show its practical benefits conveyed to the cloud services of Microsoft.
+C1  - New York, NY, USA
+C3  - Proceedings of the 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering
+DA  - 2020/11/08/
+PY  - 2020
+DO  - 10.1145/3368089.3417055
+DP  - ACM Digital Library
+SP  - 1487
+EP  - 1497
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-7043-1
+ST  - Towards intelligent incident management
+UR  - https://dl.acm.org/doi/10.1145/3368089.3417055
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3368089.3417055?download=true
+ER  - 
+
+TY  - CONF
+TI  - OpsEval: A Comprehensive Benchmark Suite for Evaluating Large Language Models’ Capability in IT Operations Domain
+AU  - Liu, Yuhe
+AU  - Pei, Changhua
+AU  - Xu, Longlong
+AU  - Chen, Bohan
+AU  - Sun, Mingze
+AU  - Zhang, Zhirui
+AU  - Sun, Yongqian
+AU  - Zhang, Shenglin
+AU  - Wang, Kun
+AU  - Zhang, Haiming
+AU  - Li, Jianhui
+AU  - Xie, Gaogang
+AU  - Wen, Xidao
+AU  - Nie, Xiaohui
+AU  - Ma, Minghua
+AU  - Pei, Dan
+T3  - FSE Companion '25
+AB  - In recent decades, the field of software engineering has driven the rapid evolution of Information Technology (IT) systems, including advances in cloud computing, 5G networks, and financial information platforms. Ensuring the stability, reliability, and robustness of these complex IT systems has emerged as a critical challenge. Large language models (LLMs) that have exhibited remarkable capabilities in NLP-related tasks are showing great potential in AIOps, such as root cause analysis of failures, generation of operations and maintenance scripts, and summarizing of alert information. Unlike knowledge in general corpora, knowledge of Ops varies with the different IT systems, encompassing various private sub-domain knowledge, sensitive to prompt engineering due to various sub-domains, and containing numerous terminologies. Existing NLP-related benchmarks can not guide the selection of suitable LLMs for Ops (OpsLLM), and current metrics (e.g., BLEU, ROUGE) can not adequately reflect the question-answering (QA) effectiveness in the Ops domain. We propose a comprehensive benchmark suite, OpsEval, including an Ops-oriented evaluation dataset, an Ops evaluation benchmark, and a specially designed Ops QA evaluation method. Our dataset contains 7,334 multiple-choice questions and 1,736 QA questions. We have carefully selected and released 20% of the dataset written by domain experts in various sub-domains to assist current researchers in preliminary evaluations of OpsLLMs1. We test over 24 latest LLMs under various settings such as self-consistency, chain-of-thought, and in-context learning, revealing findings when applying LLMs to Ops. We also propose an evaluation method for QA in Ops, which has a coefficient of 0.9185 with human experts and is improved by 0.4471 and 1.366 compared to BLEU and ROUGE, respectively. Over the past one year, our dataset and leaderboard have been continuously updated.
+C1  - New York, NY, USA
+C3  - Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering
+DA  - 2025/07/28/
+PY  - 2025
+DO  - 10.1145/3696630.3728572
+DP  - ACM Digital Library
+SP  - 503
+EP  - 513
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1276-0
+ST  - OpsEval
+UR  - https://dl.acm.org/doi/10.1145/3696630.3728572
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3696630.3728572?download=true
+ER  - 
+
+TY  - CONF
+TI  - Advancing Multivariate Time Series Anomaly Detection: A Comprehensive Benchmark with Real-World Data from Alibaba Cloud
+AU  - Zhang, Chaoli
+AU  - Zhang, Yingying
+AU  - Peng, Lanshu
+AU  - Wen, Qingsong
+AU  - Yang, Yiyuan
+AU  - Fan, Chongjiong
+AU  - Jiang, Minqi
+AU  - Fan, Lunting
+AU  - Sun, Liang
+T3  - CIKM '24
+AB  - Time series anomaly detection is of significant importance in many real-world applications, including finance, healthcare, network security, industrial equipment, complex computing systems, and space probes. Most of these applications involve multi-sensor systems, thus how to perform multivariate time series anomaly detection (MTSAD) has garnered widespread attention. This broad attention has fueled extensive research endeavors aimed to innovate and develop methods and techniques to improve the efficiency and precision of anomaly detection on multivariate time series data, including both classic machine learning methods and deep learning methods. However, evaluating the performance of these methods remains challenging due to the limited availability of public benchmark datasets for MTSAD, which are often criticized for various reasons. Additionally, there is no consensus on the best metrics for time series anomaly detection, further complicating MTSAD research. In this paper, we advance the benchmarking of time series anomaly detection by addressing datasets, evaluation metrics, and algorithm comparison. To the best of our knowledge, we have generated the largest real-world datasets for MTSAD using the Hologres AIOps system in the Alibaba Cloud platform. We review and compare popular evaluation metrics including recently proposed ones. To evaluate classic machine learning and recent deep learning methods fairly, we have conducted extensive comparisons of these methods on various datasets. We believe that our benchmarks and datasets will promote reproducible results and accelerate the progress of MTSAD research.
+C1  - New York, NY, USA
+C3  - Proceedings of the 33rd ACM International Conference on Information and Knowledge Management
+DA  - 2024/10/21/
+PY  - 2024
+DO  - 10.1145/3627673.3679128
+DP  - ACM Digital Library
+SP  - 5410
+EP  - 5414
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-0436-9
+ST  - Advancing Multivariate Time Series Anomaly Detection
+UR  - https://dl.acm.org/doi/10.1145/3627673.3679128
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3627673.3679128?download=true
+ER  - 
+
+TY  - CONF
+TI  - DeInfer: A GPU resource allocation algorithm with spatial sharing for near-deterministic inferring tasks
+AU  - Chen, Yingwen
+AU  - Li, Wenxin
+AU  - Zhou, Huan
+AU  - Yang, Xiangrui
+AU  - Yin, Yanfei
+T3  - ICPP '24
+AB  - For the applications of artificial intelligence, training models with GPUs are widely noted, while inferring requirements are somehow neglected. In some scenario, it is quite important to finish the deep learning inference (DLI) task and get the response in time, e.g., anomaly detection in AIOps or QoE (Quality of Experience) assurance for customers. However, the challenges of GPU inferring are as follows: 1) the interference among inferring tasks on the shared GPU are not well studied and even not considered, which may cause a surge in the inference latency due to the hardware contention; 2) the deadline miss rate caused by the arrival rate is not clearly considered, which often exhibits significant fluctuations in real-world cases. Therefore, the interference among tasks and arrival rates of tasks should be well designed to decrease the deadline miss rate, when sharing GPU resources. To tackle the issue, we propose the algorithm, DeInfer, through following manners: 1) we identify the key factors that lead to interference, conduct a systematic study and develop a highly accurate interference prediction algorithm based on the random forest algorithm, achieving a four times improvement compared to the state-of-the-art interference prediction algorithms; 2) we utilize the queue theory to model the randomness of the arrival process and put forward a GPU resource allocation algorithm, which reduces the deadline miss rate by an average of over 30%.
+C1  - New York, NY, USA
+C3  - Proceedings of the 53rd International Conference on Parallel Processing
+DA  - 2024/08/12/
+PY  - 2024
+DO  - 10.1145/3673038.3673091
+DP  - ACM Digital Library
+SP  - 701
+EP  - 711
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1793-2
+ST  - DeInfer
+UR  - https://dl.acm.org/doi/10.1145/3673038.3673091
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3673038.3673091?download=true
+ER  - 
+
+TY  - JOUR
+TI  - LogBase: A Large-Scale Benchmark for Semantic Log Parsing
+AU  - Zhang, Chenbo
+AU  - Xu, Wenying
+AU  - Liu, Jinbu
+AU  - Zhang, Lu
+AU  - Liu, Guiyang
+AU  - Guan, Jihong
+AU  - Zhou, Qi
+AU  - Zhou, Shuigeng
+T2  - Proceedings of the ACM on Software Engineering
+AB  - Logs generated by large-scale software systems contain a huge amount of useful information. As the first step of automated log analysis, log parsing has been extensively studied. General log parsing techniques focus on identifying static templates from raw logs, but overlook the more important semantics implied in dynamic log parameters. With the popularity of Artificial Intelligence for IT Operations (AIOps), traditional log parsing methods no longer meet the requirements of various downstream tasks. Researchers are now exploring the next generation of log parsing techniques, i.e., semantic log parsing, to identify both log templates and semantics in log parameters. However, the absence of semantic annotations in existing datasets hinders the training and evaluation of semantic log parsers, thereby stalling the progress of semantic log parsing.To fill this gap and advance the field of semantic log parsing, we construct LogBase, the first semantic log parsing benchmark dataset. LogBase consists of logs from 130 popular open-source projects, containing 85,300 semantically annotated log templates, surpassing existing datasets in both log source diversity and template richness. To build Logbase, we develop the framework GenLog for constructing semantic log parsing datasets. GenLog mines log template-parameter-context triplets from popular open-source repositories on GitHub, and uses chain-of-thought (CoT) techniques with large language models (LLMs) to generate high-quality logs. Meanwhile, GenLog employs human feedback to improve the quality of the generated data and ensure its reliability. GenLog is highly automated and cost-effective, enabling researchers to easily and efficiently construct semantic log parsing datasets. Furthermore, we also design a set of comprehensive evaluation metrics for LogBase, including general log parser metrics and the metrics specifically for semantic log parsers and LLM-based parsers.With LogBase, we extensively evaluate 15 existing log parsers, revealing their true performance in complex scenarios. We believe that this work provides researchers with valuable data, reliable tools, and insightful findings to support and guide the future research of semantic log parsing.
+DA  - 2025/06/22/
+PY  - 2025
+DO  - 10.1145/3728969
+DP  - ACM Digital Library
+VL  - 2
+IS  - ISSTA
+SP  - ISSTA092:2091
+EP  - ISSTA092:2112
+J2  - Proc. ACM Softw. Eng.
+ST  - LogBase
+UR  - https://dl.acm.org/doi/10.1145/3728969
+Y2  - 2026/09/07/09:20:44
+L1  - https://dl.acm.org/doi/pdf/10.1145/3728969?download=true
+ER  - 
+
+TY  - CONF
+TI  - MARINA: An MLP-Attention Model for Multivariate Time-Series Analysis
+AU  - Xie, Jiandong
+AU  - Cui, Yue
+AU  - Huang, Feiteng
+AU  - Liu, Chao
+AU  - Zheng, Kai
+T3  - CIKM '22
+AB  - The proliferation of real-time monitoring applications such as Artificial Intelligence for IT Operations (AIOps) and the Internet of Things (IoT) has led to the generation of a vast amount of time-series data. To extract the underlying value of the data, both the industry and the academia are in dire need of efficient and effective methods for time-series analysis. To this end, in this paper, we propose a Multi-layer perceptron (&lt;u&gt;M&lt;/u&gt;LP)-&lt;u&gt;a&lt;/u&gt;ttention based multivariate time-se&lt;u&gt;ri&lt;/u&gt;es a&lt;u&gt;na&lt;/u&gt;lysis model MARINA. MARINA is designed to simultaneously learn the temporal and spatial correlations among multivariate time-series. Also, the model is versatile in that it is suitable for major time-series analysis tasks such as forecasting and anomaly detection. Through extensive comparisons with the representative multivariate time-series forecasting and anomaly detection algorithms, MARINA is shown to achieve state-of-the-art (SOTA) performance in both forecasting and anomaly detection tasks.
+C1  - New York, NY, USA
+C3  - Proceedings of the 31st ACM International Conference on Information & Knowledge Management
+DA  - 2022/10/17/
+PY  - 2022
+DO  - 10.1145/3511808.3557386
+DP  - ACM Digital Library
+SP  - 2230
+EP  - 2239
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9236-5
+ST  - MARINA
+UR  - https://dl.acm.org/doi/10.1145/3511808.3557386
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3511808.3557386?download=true
+ER  - 
+
+TY  - CONF
+TI  - Automated Root Causing of Cloud Incidents using In-Context Learning with GPT-4
+AU  - Zhang, Xuchao
+AU  - Ghosh, Supriyo
+AU  - Bansal, Chetan
+AU  - Wang, Rujia
+AU  - Ma, Minghua
+AU  - Kang, Yu
+AU  - Rajmohan, Saravan
+T3  - FSE 2024
+AB  - Root Cause Analysis (RCA) plays a pivotal role in the incident diagnosis process for cloud services, requiring on-call engineers to identify the primary issues and implement corrective actions to prevent future recurrences. Improving the incident RCA process is vital for minimizing service downtime, customer impact and manual toil. Recent advances in artificial intelligence have introduced state-of-the-art Large Language Models (LLMs) like GPT-4, which have proven effective in tackling various AIOps problems, ranging from code authoring to incident management. Nonetheless, the GPT-4 model’s immense size presents challenges when trying to fine-tune it on user data because of the significant GPU resource demand and the necessity for continuous model fine-tuning with the emergence of new data. To address the high cost of fine-tuning LLM, we propose an in-context learning approach for automated root causing, which eliminates the need for fine-tuning. We conduct extensive study over 100,000 production incidents from Microsoft, comparing several large language models using multiple metrics. The results reveal that our in-context learning approach outperforms the previous fine-tuned large language models such as GPT-3 by an average of 24.8% across all metrics, with an impressive 49.7% improvement over the zero-shot model. Moreover, human evaluation involving actual incident owners demonstrates its superiority over the fine-tuned model, achieving a 43.5% improvement in correctness and an 8.7% enhancement in readability. The impressive results demonstrate the viability of utilizing a vanilla GPT model for the RCA task, thereby avoiding the high computational and maintenance costs associated with a fine-tuned model.
+C1  - New York, NY, USA
+C3  - Companion Proceedings of the 32nd ACM International Conference on the Foundations of Software Engineering
+DA  - 2024/07/10/
+PY  - 2024
+DO  - 10.1145/3663529.3663846
+DP  - ACM Digital Library
+SP  - 266
+EP  - 277
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-0658-5
+UR  - https://dl.acm.org/doi/10.1145/3663529.3663846
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3663529.3663846?download=true
+ER  - 
+
+TY  - CONF
+TI  - The 14th CASCON Workshop on Cloud Computing
+AU  - Watts, Ian
+AU  - Litoiu, Marin
+T3  - CASCON '22
+AB  - Artificial Intelligence and Cloud computing are often used together for implementing automated tasks, that is, activities that execute without or with limited human supervision. Automated tasks range from pure software activities such automated cloud operations (also known as AIOps), to tasks that include mechanical or/and electrical systems (also known as Cyber Physical Systems and Internet of Things). Automation is based on feedback loops, made of services such as collection and aggregation of data from the system to be automated and from the environment in which it operates; identification of events, such as anomalies, trends and patterns related to system operation or to the environment; identification, planning and execution of remediation steps. This workshop brought together researchers and practitioners to present and discuss the state of the art and practice in AI, Cloud and Automation, to identify challenges and opportunities for further research and commercialization. The workshop agenda consisted of industrial talks that presented the state of the practice; research talks that presented current research projects; and a round table that discussed the research challenges and opportunities.
+C1  - USA
+C3  - Proceedings of the 32nd Annual International Conference on Computer Science and Software Engineering
+DA  - 2022/11/15/
+PY  - 2022
+DP  - ACM Digital Library
+SP  - 225
+EP  - 226
+PB  - IBM Corp.
+UR  - https://dl.acm.org/doi/10.5555/3566055.3566085
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - Proactive AIOps through digital twins
+AU  - Müller, Hausi A.
+AU  - Rivera, Luis F.
+AU  - Jiménez, Miguel
+AU  - Villegas, Norha M.
+AU  - Tamura, Gabriel
+AU  - Akkiraju, Rama
+AU  - Watts, Ian
+AU  - Erpenbach, Eric
+T3  - CASCON '21
+AB  - The rise of advanced IT environments (IT ·Envs) that meet ever increasing user expectations on software quality necessitates innovative practices in the development and operation of software-intensive systems. DevOps teams find themselves searching for ways to deliver value by attacking operational challenges that tend to overwhelm human capabilities. Most of these challenges relate to the structural and behavioural complexities of modern IT·Envs. While the former concerns the orchestration of multiple technologies, the latter involves the exploitation of the huge data streams produced that are integral to DevOps activities. As automation, autonomy, and artificial intelligence technologies are maturing and permeating various activities in the software development lifecycle, opportunities arise from their integration with DevOps practices to improve risk mitigation, root cause analysis, problem resolution, and operational optimization in IT·Envs. This CASCON x EVOKE 2021 workshop discussed challenges and opportunities in developing proactive AIOps through digital twin technologies.
+C1  - USA
+C3  - Proceedings of the 31st Annual International Conference on Computer Science and Software Engineering
+DA  - 2021/11/22/
+PY  - 2021
+DP  - ACM Digital Library
+SP  - 275
+EP  - 276
+PB  - IBM Corp.
+UR  - https://dl.acm.org/doi/10.5555/3507788.3507833
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - Log anomaly to resolution: AI based proactive incident remediation
+AU  - Mahindru, Ruchi
+AU  - Kumar, Harshit
+AU  - Bansal, Sahil
+T3  - ASE '21
+AB  - Based on 2020 SRE report, 80% of SREs work on postmortem analysis of incidents due to lack of provided information and 16% of toil come from investigating false positives/negatives. As a cloud service provider, the desire is to proactively identify signals that can help reduce outages and/or reduce the mean time to resolution. By leveraging AI for Operations (AIOps), this work proposes a novel methodology for proactive identification of log anomalies and its resolutions by sifting through the log lines. Typically, relevant information to retrieve resolutions corresponding to logs is spread across multiple heterogeneous corpora that exist in silos, namely historical ticket data, historical log data, and symptom resolution available in product documentation, for example. In this paper, we focus on augmented dataset preparation from multiple heterogeneous corpora, metadata selection and prediction, and finally, using these elements during run-time to retrieve contextual resolutions for signals triggered via logs. For early evaluation, we used logs from a production middleware application server, predicted log anomalies and their resolutions, and conducted qualitative evaluation with subject matter experts; the accuracy of metadata prediction and resolution retrieval are 78.57% and 65.7%, respectively.
+C1  - Melbourne, Australia
+C3  - Proceedings of the 36th IEEE/ACM International Conference on Automated Software Engineering
+DA  - 2022/06/24/
+PY  - 2022
+DO  - 10.1109/ASE51524.2021.9678815
+DP  - ACM Digital Library
+SP  - 1353
+EP  - 1357
+PB  - IEEE Press
+SN  - 978-1-6654-0337-5
+ST  - Log anomaly to resolution
+UR  - https://dl.acm.org/doi/10.1109/ASE51524.2021.9678815
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - Robust Time Series Analysis and Applications: An Industrial Perspective
+AU  - Wen, Qingsong
+AU  - Yang, Linxiao
+AU  - Zhou, Tian
+AU  - Sun, Liang
+T3  - KDD '22
+AB  - Time series analysis is ubiquitous and important in various areas, such as Artificial Intelligence for IT Operations (AIOps) in cloud computing, AI-powered Business Intelligence (BI) in E-commerce, Artificial Intelligence of Things (AIoT), etc. In real-world scenarios, time series data often exhibit complex patterns with trend, seasonality, outlier, and noise. In addition, as more time series data are collected and stored, how to handle the huge amount of data efficiently is crucial in many applications. We note that these significant challenges exist in various tasks like forecasting, anomaly detection, and fault cause localization. Therefore, how to design effective and efficient time series models for different tasks, which are robust to address the aforementioned challenging patterns and noise in real-world scenarios, is of great theoretical and practical interests. In this tutorial, we provide a comprehensive and organized tutorial on the state-of-the-art algorithms of robust time series analysis, ranging from traditional statistical methods to the most recent deep learning based methods. We will not only introduce the principle of time series algorithms, but also provide insights into how to apply them effectively in practical real-world industrial applications. Specifically, we organize the tutorial in a bottom-up framework. We first present preliminaries from different disciplines including robust statistics, signal processing, optimization, and deep learning. Then, we identify and discuss those most-frequently processing blocks in robust time series analysis, including periodicity detection, trend filtering, seasonal-trend decomposition, and time series similarity. Lastly, we discuss recent advances in multiple time series tasks including forecasting, anomaly detection, fault cause localization, and autoscaling, as well as practical lessons of large-scale time series applications from an industrial perspective.
+C1  - New York, NY, USA
+C3  - Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+DA  - 2022/08/14/
+PY  - 2022
+DO  - 10.1145/3534678.3542612
+DP  - ACM Digital Library
+SP  - 4836
+EP  - 4837
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9385-0
+ST  - Robust Time Series Analysis and Applications
+UR  - https://dl.acm.org/doi/10.1145/3534678.3542612
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3534678.3542612?download=true
+ER  - 
+
+TY  - CONF
+TI  - Studying the Practices of Deploying Machine Learning Projects on Docker
+AU  - Openja, Moses
+AU  - Majidi, Forough
+AU  - Khomh, Foutse
+AU  - Chembakottu, Bhagya
+AU  - Li, Heng
+T3  - EASE '22
+AB  - Docker is a containerization service that allows for convenient deployment of websites, databases, applications’ APIs, and machine learning (ML) models with a few lines of code. Studies have recently explored the use of Docker for deploying general software projects with no specific focus on how Docker is used to deploy ML-based projects. In this study, we conducted an exploratory study to understand how Docker is being used to deploy ML-based projects. As the initial step, we examined the categories of ML-based projects that use Docker. We then examined why and how these projects use Docker, and the characteristics of the resulting Docker images. Our results indicate that six categories of ML-based projects use Docker for deployment, including ML Applications, MLOps/ AIOps, Toolkits, DL Frameworks, Models, and Documentation. We derived the taxonomy of 21 major categories representing the purposes of using Docker, including those specific to models such as model management tasks (e.g., testing, training). We then showed that ML engineers use Docker images mostly to help with the platform portability, such as transferring the software across the operating systems, runtimes such as GPU, and language constraints. However, we also found that more resources may be required to run the Docker images for building ML-based software projects due to the large number of files contained in the image layers with deeply nested directories. We hope to shed light on the emerging practices of deploying ML software projects using containers and highlight aspects that should be improved.
+C1  - New York, NY, USA
+C3  - Proceedings of the 26th International Conference on Evaluation and Assessment in Software Engineering
+DA  - 2022/06/13/
+PY  - 2022
+DO  - 10.1145/3530019.3530039
+DP  - ACM Digital Library
+SP  - 190
+EP  - 200
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9613-4
+UR  - https://dl.acm.org/doi/10.1145/3530019.3530039
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3530019.3530039?download=true
+ER  - 
+

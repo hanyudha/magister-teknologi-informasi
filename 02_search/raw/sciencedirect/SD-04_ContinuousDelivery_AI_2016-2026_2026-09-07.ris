@@ -1,0 +1,255 @@
+TY  - JOUR
+T1  - MLOps for Enterprise AI: A Systematic Literature Review of Frameworks, Interpretability Practices, and Organisational Readiness
+AU  - Varma, Deepkumar K
+AU  - Parmar, Rajendra
+AU  - Bhat, Sneha
+AU  - Dutta, Pankaj
+JO  - Future Generation Computer Systems
+SP  - 108807
+PY  - 2026
+DA  - 2026/09/06/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2026.108807
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X26004413
+KW  - MLOps
+KW  - Machine Learning Operations
+KW  - DevOps
+KW  - FinTech
+KW  - Model Governance
+KW  - Organisational Readiness
+KW  - Enterprise AI
+AB  - The rapid industrialisation of artificial intelligence has elevated Machine Learning Operations (MLOps) into a foundational discipline for organisations seeking to deploy, monitor, and sustain machine learning models in production. Despite a growing body of literature on technical pipeline orchestration and continuous delivery for ML, significant gaps persist in how enterprises-particularly within the financial services and FinTech sectors-integrate interpretability requirements, address organisational readiness, and govern data-driven decision-making at scale. This paper presents a systematic literature review (SLR) following the PRISMA protocol, synthesising findings from 170 peer-reviewed publications spanning 2015 to 2025. We examine three interconnected themes: (i) MLOps frameworks, maturity models, and pipeline orchestration practices; (ii) explainability and interpretability integration within MLOps lifecycles; and (iii) organisational, team-level, and governance factors that determine successful enterprise MLOps adoption. Drawing on the SPACE and DORA frameworks for developer productivity analogy, we further contextualise these findings within large-scale FinTech settings, highlighting the particular pressures of regulatory compliance (SR 11-7, GDPR, EU AI Act), model risk management, and real-time fraud detection pipelines. We propose a four-tier integrative MLOps Maturity and Interpretability Framework (MMIF) and identify eight priority research gaps requiring empirical investigation. Our findings offer actionable guidance for practitioners, engineering leads, and product managers responsible for operationalising AI within enterprise environments.
+ER  - 
+
+TY  - JOUR
+T1  - MLOps in freight rail operations
+AU  - Pineda-Jaramillo, Juan
+AU  - Viti, Francesco
+JO  - Engineering Applications of Artificial Intelligence
+VL  - 123
+SP  - 106222
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 0952-1976
+DO  - https://doi.org/10.1016/j.engappai.2023.106222
+UR  - https://www.sciencedirect.com/science/article/pii/S0952197623004062
+KW  - Freight rail operations
+KW  - Machine learning
+KW  - MLOps
+KW  - CI/CD/CT
+KW  - Apache airflow
+KW  - ML deployment
+AB  - Railways are essential for freight transport due to their operational reliability advantages, but maintaining this advantage requires optimised railway infrastructure. Previous research has developed models to predict freight rail disruptions/disturbances and their associated delay times, in order to better understand the impact of multiple factors on them. However, because these models are built on static datasets, extracting real value from a model in a production environment remains difficult. This paper presents a methodology that demonstrates the potential of MLOps in automating the entire workflow, from data extraction to model deployment for real-time delay predictions in freight rail operations, including good practices of Continuous-Integration, Continuous-Delivery, and Continuous-Training, as well as a tool list for each process. Our research advances the field of railway operations by developing an entire MLOps workflow using data from the freight rail operations of the Luxembourgish National Freight Railway Company over a seventeen-month period. Furthermore, we employed a LightGBM model that had previously performed well in another study. This workflow can be automatically triggered to develop the processes and thus maintain an ML model capable of predicting delay times for CFL Multimodal operations in real-time. Our findings demonstrate that MLOps have the potential to automate the entire process, opening up new avenues for future research in this field. Although the methodology presented is intended to optimise freight rail operations for a specific company, it can be easily transferable to other railway companies or other transportation industries, such as aviation, shipping, and trucking.
+ER  - 
+
+TY  - JOUR
+T1  - Driving innovation in 6G wireless technologies: The OpenAirInterface approach
+AU  - Kaltenberger, Florian
+AU  - Melodia, Tommaso
+AU  - Ghauri, Irfan
+AU  - Polese, Michele
+AU  - Knopp, Raymond
+AU  - Nguyen, Tien Thinh
+AU  - Velumani, Sakthivel
+AU  - Villa, Davide
+AU  - Bonati, Leonardo
+AU  - Schmidt, Robert
+AU  - Arora, Sagar
+AU  - Irazabal, Mikel
+AU  - Nikaein, Navid
+JO  - Computer Networks
+VL  - 269
+SP  - 111410
+PY  - 2025
+DA  - 2025/09/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2025.111410
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128625003779
+KW  - OpenAirInterface
+KW  - 6G networks
+KW  - Open RAN
+KW  - Open-source software
+AB  - The development of 6G wireless technologies is rapidly advancing, with the 3rd Generation Partnership Project (3GPP) entering the pre-standardization phase and aiming to deliver the first specifications by 2028. This paper explores the OpenAirInterface (OAI) project, an open-source initiative that plays a crucial role in the evolution of 5G and future 6G networks. OAI provides a comprehensive implementation of 3GPP and O-RAN compliant networks, including Radio Access Network (RAN), Core Network (CN), and software-defined User Equipment (UE) components. This paper details the history and evolution of OAI, its licensing model, and the various projects under its umbrella, such as RAN, the CN, and the Operations, Administration and Maintenance (OAM) projects. It also highlights the development methodology, Continuous Integration/Continuous Delivery (CI/CD) processes, and end-to-end systems powered by OAI. Furthermore, the paper discusses the potential of OAI for 6G research, focusing on spectrum, reflective intelligent surfaces, and Artificial Intelligence (AI)/Machine Learning (ML) integration. The open-source approach of OAI is emphasized as essential for tackling the challenges of 6G, fostering community collaboration, and driving innovation in next-generation wireless technologies.
+ER  - 
+
+TY  - JOUR
+T1  - A model-driven, metrics-based approach to assessing support for quality aspects in MLOps system architectures
+AU  - Warnett, Stephen John
+AU  - Ntentos, Evangelos
+AU  - Zdun, Uwe
+JO  - Journal of Systems and Software
+VL  - 220
+SP  - 112257
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2024.112257
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121224003017
+KW  - Software architecture quality
+KW  - Metrics
+KW  - Distributed system modelling
+KW  - Distributed software architecture
+KW  - MLOps
+KW  - Machine learning
+AB  - In machine learning (ML) and machine learning operations (MLOps), automation serves as a fundamental pillar, streamlining the deployment of ML models and representing an architectural quality aspect. Support for automation is especially relevant when dealing with ML deployments characterised by the continuous delivery of ML models. Taking automation in MLOps systems as an example, we present novel metrics that offer reliable insights into support for this vital quality attribute, validated by ordinal regression analysis. Our method introduces novel, technology-agnostic metrics aligned with typical Architectural Design Decisions (ADDs) for automation in MLOps. Through systematic processes, we demonstrate the feasibility of our approach in evaluating automation-related ADDs and decision options. Our approach can itself be automated within continuous integration/continuous delivery pipelines. It can also be modified and extended to evaluate any relevant architectural quality aspects, thereby assisting in enhancing compliance with non-functional requirements and streamlining development, quality assurance and release cycles.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter Seventeen - Cloud native engineering for AI-driven ERP systems: Enhancing security, compliance and data privacy
+AU  - Singh, Bhupinder
+AU  - Dutta, Pushan Kumar
+A2  - Raj, Pethuru
+A2  - Agerstam, Mats
+A2  - Dutta, Pushan Kumar
+A2  - Sundaravadivazhagan, B.
+A2  - Nagasubramanian, Gayathri
+BT  - Advances in Computers
+PB  - Elsevier
+VL  - 141
+SP  - 439
+EP  - 463
+PY  - 2026
+DA  - 2026/01/01/
+T2  - Cloud-native Architecture (CNA) and Artificial Intelligence (AI) for the Future of Software Engineering: The Principles, Patterns, Platforms and Practices
+SN  - 0065-2458
+DO  - https://doi.org/10.1016/bs.adcom.2025.06.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0065245825001007
+KW  - IT sector
+KW  - Enterprise resource planning (ERP)
+KW  - AI
+KW  - Cloud-based system
+KW  - Data and privacy
+AB  - Cloud native engineering is redefining IT sector management by leveraging artificial intelligence (AI) to transform Enterprise Resource Planning (ERP) systems into agile, secure, and scalable cloud-based solutions. This chapter explores how integrating AI with cloud native ERP architectures not only streamlines critical business operations—ranging from finance and human resources to supply chain management—but also reinforces security measures and regulatory compliance in a dynamic digital environment. By harnessing containerization, microservices, and continuous integration/continuous delivery (CI/CD) practices, cloud native ERP systems facilitate rapid deployment and real-time data analysis. These advances enable proactive threat detection, automated compliance auditing, and robust privacy safeguards, thereby ensuring adherence to global data protection laws such as GDPR and CCPA. Ultimately, this integration paves the way for a resilient IT ecosystem that adapts seamlessly to evolving business needs and cybersecurity challenges.
+ER  - 
+
+TY  - JOUR
+T1  - Applying generative artificial intelligence for vulnerability fixing in a proprietary software ecosystem
+AU  - Costa, Luiz Alexandre
+AU  - Fontão, Awdren
+AU  - Santos, Rodrigo Pereira dos
+AU  - Serebrenik, Alexander
+JO  - Journal of Systems and Software
+VL  - 234
+SP  - 112723
+PY  - 2026
+DA  - 2026/04/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2025.112723
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121225003929
+KW  - Software ecosystems
+KW  - Software quality
+KW  - Software asset management
+KW  - Incident management
+KW  - Generative artificial intelligence
+AB  - Context: Large organizations often operate within proprietary software ecosystems (PSECO), composed of interdependent software artifacts, multiple actors, and centralized governance. In such environments, addressing security vulnerabilities is particularly challenging due to strict quality standards, regulatory constraints, and the risk of cascading failures. These challenges can compromise delivery schedules, increase operational risk, and force teams to interrupt planned work to address urgent issues. Goal: In response to these challenges, recent advances in Generative Artificial Intelligence (GenAI), particularly large language models (LLM), have emerged as a promising avenue to support software engineering tasks such as code generation and automated repair. This study investigates how a GenAI-based approach can support vulnerability remediation in PSECO while preserving delivery cadence in Continuous Integration and Continuous Delivery (CI/CD) pipelines. Methods: We conducted a participative case study in a large global organization to design and evaluate PSECO-SafePatch, an approach composed of: (i) a structured remediation process tailored to enterprise constraints; and (ii) a web-based tool integrating Fortify static analysis with GenAI-based patch generation. The approach includes human-in-the-loop validation and aligns with DevOps practices. Results: PSECO-SafePatch reduced mean remediation time by 84 % with an 89 % patch success rate. It also reduced cognitive overload by guiding developers through structured validation, fostering trust without overreliance. Conclusion: The findings show that GenAI-supported remediation is feasible and effective in PSECO. Human-in-the-loop validation preserved critical thinking, addressing concerns about blind automation and knowledge erosion, and reinforcing the value of responsible automation at scale.
+ER  - 
+
+TY  - JOUR
+T1  - Large scale quality transformation in hybrid development organizations – A case study
+AU  - Pradhan, Satya
+AU  - Nanniyur, Venky
+JO  - Journal of Systems and Software
+VL  - 171
+SP  - 110836
+PY  - 2021
+DA  - 2021/01/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2020.110836
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121220302284
+KW  - Quality transformation
+KW  - Quality management system
+KW  - Agile
+KW  - Waterfall
+KW  - Hybrid development organization
+AB  - As the software industry transitions to a subscription-based software-as-a-service (SaaS) model, software development companies are transforming to hybrid development organizations with increased adoption of Agile and Continuous Integration/ Continuous Delivery (CI/CD) development practices for newer products while continuing to use Waterfall methods for older products. This transformation is a huge undertaking impacting all aspects of the software development life cycle (SDLC), including the quality management system. This paper presents a case study of a large-scale transformation of a legacy quality management system to a modern system developed and implemented at Cisco Systems. The framework for this transformation is defined by six distinct areas: metrics, process, measurement, reporting, quality analytics, and culture & leadership. Our implementation leveraged recent advances in Machine Learning (ML), Artificial Intelligence (AI), connected data, integrated operations, and big data technologies to solve the challenges created by a hybrid software development organization. We believe this case study will help researchers and industry leaders understand the benefits and potential challenges of such sizeable transformations.
+ER  - 
+
+TY  - JOUR
+T1  - The pipeline for the continuous development of artificial intelligence models—Current state of research and practice
+AU  - Steidl, Monika
+AU  - Felderer, Michael
+AU  - Ramler, Rudolf
+JO  - Journal of Systems and Software
+VL  - 199
+SP  - 111615
+PY  - 2023
+DA  - 2023/05/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2023.111615
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121223000109
+KW  - Continuous development of AI
+KW  - Continuous (end-to-end) lifecycle pipeline for AI
+KW  - MLOps
+KW  - CI/CD for AI
+KW  - DevOps for AI
+KW  - Multivocal literature review
+AB  - Companies struggle to continuously develop and deploy Artificial Intelligence (AI) models to complex production systems due to AI characteristics while assuring quality. To ease the development process, continuous pipelines for AI have become an active research area where consolidated and in-depth analysis regarding the terminology, triggers, tasks, and challenges is required. This paper includes a Multivocal Literature Review (MLR) where we consolidated 151 relevant formal and informal sources. In addition, nine-semi structured interviews with participants from academia and industry verified and extended the obtained information. Based on these sources, this paper provides and compares terminologies for Development and Operations (DevOps) and Continuous Integration (CI)/Continuous Delivery (CD) for AI, Machine Learning Operations (MLOps), (end-to-end) lifecycle management, and Continuous Delivery for Machine Learning (CD4ML). Furthermore, the paper provides an aggregated list of potential triggers for reiterating the pipeline, such as alert systems or schedules. In addition, this work uses a taxonomy creation strategy to present a consolidated pipeline comprising tasks regarding the continuous development of AI. This pipeline consists of four stages: Data Handling, Model Learning, Software Development and System Operations. Moreover, we map challenges regarding pipeline implementation, adaption, and usage for the continuous development of AI to these four stages.
+ER  - 
+
+TY  - JOUR
+T1  - Digital Twin Aggregates for adaptive MLOps retraining policies in healthcare
+AU  - Domini, Davide
+AU  - Micelli, Leonardo
+AU  - Burattini, Samuele
+AU  - Montagna, Sara
+JO  - Future Generation Computer Systems
+VL  - 185
+SP  - 108674
+PY  - 2026
+DA  - 2026/12/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2026.108674
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X26003080
+KW  - MLOps
+KW  - Digital Twin Aggregate
+KW  - Healthcare
+AB  - Digital Twins (DTs) are increasingly adopted as a technical solution for the digital representation of complex physical entities through models that process near-real-time data streams and provide feedback on the state and behavior of the Physical Twin (PT). When DT models are trained using Machine Learning (ML) techniques, their performance may degrade over time as the DT acquires new operational data that may differ from the data observed during initial training. In this paper, following Machine Learning Operations (MLOps) principles, we investigate how Digital Twin Aggregates (DTAs) can be integrated into DT-based systems to enable continuous monitoring of model performance and to support adaptive retraining strategies for the continuous delivery and maintenance of ML models ensuring that the DT remains a reliable representation of the PT throughout its lifecycle. We evaluate the approach in a healthcare case study involving DTs for diabetic patients and compare adaptive with periodic retraining showing that performance-based retraining maintains stable accuracy while reducing model updates. These results suggest that DTA-level monitoring enables more efficient adaptive MLOps lifecycles by triggering retraining in response to actual performance degradation rather than fixed schedules.
+ER  - 
+
+TY  - JOUR
+T1  - Deep learning based continuous integration and continuous delivery software defect prediction with effective optimization strategy
+AU  - Mishra, Anurag
+AU  - Sharma, Ashish
+JO  - Knowledge-Based Systems
+VL  - 296
+SP  - 111835
+PY  - 2024
+DA  - 2024/07/19/
+SN  - 0950-7051
+DO  - https://doi.org/10.1016/j.knosys.2024.111835
+UR  - https://www.sciencedirect.com/science/article/pii/S0950705124004696
+KW  - Gated recurrent units
+KW  - Synthetic minority oversampling technique
+KW  - Bidirectional encoder representations from transformers
+KW  - Levy flight distribution
+KW  - Rao optimization and bidirectional long short-term memory
+AB  - Software defect prediction is one of the most difficult tasks in the IT sector. Continuous Integration and Continuous Delivery (CI/CD) software defect prediction is used in earlier stage, which consumes less amount of time. Various learning algorithms, such as convolutional neural networks and other machine learning algorithms (ML), are employed to forecast the flaws in the software model. In these existing algorithms, some issues are noticed, such as high computational complexity, excessive time consumption, the need for more energy to predict the model and a high-loss function. To address these issues, a novel deep learning (DL)-based CI/CD software defect prediction technique applying an effective optimization strategy is provided to improve the model's efficiency. The numerical data are collected from open source, and the obtained data is initially labeled based on time domain limitations. Initially, the Modified Synthetic Minority Over-Sampling Technique (M-SMOTE) mechanism is applied to balance the data to avoid overfitting problems, and data normalization is performed to rescale and normalize the data properly. After moralization, the optimal set of features is extracted from the data using Focal Bidirectional Encoder Representations from Transformers (F-BERT) to enhance the efficiency of the model. Finally, the software defects are predicted using Bidirectional Long Short-Term Memory (Bi-LSTM) integrated into the convolutional Gated recurrent units (GRU) model (Bi-CGRU) based on collected features. Hybrid Levy Rao (HLR) optimization is used to tune the hyperparameters properly in the classifier model. The proposed model's performance indicators are examined. The proposed model has a 95.32 % accuracy, a 93.3 % recall, a 94.98 % Matthews correlation coefficient, and an F1-score of 91.355 %. The proposed model generates less labeling noise and wait time than existing methods.
+ER  - 
+
+TY  - JOUR
+T1  - Multilayer perceptron neural network model development for mechanical ventilator parameters prediction by real time system learning
+AU  - Radhakrishnan, Sita
+AU  - Nair, Suresh G.
+AU  - Isaac, Johney
+JO  - Biomedical Signal Processing and Control
+VL  - 71
+SP  - 103170
+PY  - 2022
+DA  - 2022/01/01/
+SN  - 1746-8094
+DO  - https://doi.org/10.1016/j.bspc.2021.103170
+UR  - https://www.sciencedirect.com/science/article/pii/S1746809421007679
+KW  - Multilayer perceptron
+KW  - Pairwise analysis
+KW  - Blood oxygen saturation
+KW  - Inspired oxygen
+KW  - Mechanical ventilation
+AB  - Background and objective
+In pandemic situations like COVID 19, real time monitoring of patient condition and continuous delivery of inspired oxygen can be made possible only through artificial intelligence-based system modeling. Even now manual control of mechanical ventilator parameters is continuing despite the ever-increasing number of patients in critical epidemic conditions. Here a suggestive multi-layer perceptron neural network model is developed to predict the level of inspired oxygen delivered by the mechanical ventilator along with mode and positive end expiratory pressure (PEEP) changes for reducing the effort of health care professionals.
+Methods
+The artificial neural network model is developed by Python programming using real time data. Parameter identification for model inputs and outputs is done by in corporating consistent real time patient data including periodical arterial blood gas analysis, continuous pulse oximetry readings and mechanical ventilator settings using statistical pairwise analysis using R programming.
+Results
+Mean square error values and R values of the model are calculated and found to be an average of 0.093 and 0.81 respectively for various data sets. Accuracy loss will be in good fit with validation loss for a comparable number of epochs.
+Conclusions
+Comparison of the model output is undertaken with physician’s prediction using statistical analysis and shows an accuracy error of 4.11 percentages which is permissible for a good predictive system.
+ER  - 

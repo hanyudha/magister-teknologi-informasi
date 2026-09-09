@@ -1,0 +1,1163 @@
+TY  - JOUR
+T1  - Survey and insights on digital twins design and smart grid’s applications
+AU  - Djebali, Sonia
+AU  - Guerard, Guillaume
+AU  - Taleb, Ihab
+JO  - Future Generation Computer Systems
+VL  - 153
+SP  - 234
+EP  - 248
+PY  - 2024
+DA  - 2024/04/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2023.11.033
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X23004466
+KW  - Digital twin
+KW  - DevOps
+KW  - Smart grid
+KW  - Design methodology
+AB  - Digital twins are a promising technology for simulating complex systems, especially in the smart grid domain. This paper offers a comprehensive literature review on digital twins, focusing on data gathering, data management, and human-in-the-loop control design aspects. Emphasizing the integration of AI and machine learning in big data, it enhances analytics and decision-making capabilities. We introduce a collaborative framework involving multiple stakeholders to maximize the potential of digital twins. The paper examines digital twin applications in smart grids, covering areas like asset management, predictive maintenance, energy optimization, and demand response. By synthesizing research and implementation findings, we identify trends, challenges, and opportunities in the field.
+ER  - 
+
+TY  - JOUR
+T1  - Emerging trends in software architecture from the practitioner’s perspective: A five-year review
+AU  - Su, Ruoyu
+AU  - Ahmad, Noman
+AU  - Esposito, Matteo
+AU  - Janes, Andrea
+AU  - Taibi, Davide
+AU  - Lenarduzzi, Valentina
+JO  - Journal of Systems and Software
+VL  - 236
+SP  - 112820
+PY  - 2026
+DA  - 2026/06/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2026.112820
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121226000543
+KW  - Empirical software engineering
+KW  - Software architecture
+KW  - Trend review
+KW  - LLMs
+KW  - Centrality analysis
+AB  - CONTEXT. Software architecture plays a central role in the design, development, and maintenance of software systems. With the rise of cloud computing, microservices, and containers, architectural practices have diversified. Understanding these shifts is vital. This study analyzes software architecture trends across seven leading industry conferences over five years. AIM. We investigate the evolution of software architecture by analyzing talks from top practitioner conferences, focusing on the motivations and contexts driving technology adoption. METHODS. We analyzed 5703 talks from seven major industry conferences (2020-2024), using large language models and expert validation to extract technologies, their purposes, and usage contexts. We also explored how technologies interrelate and fit within DevOps and deployment pipelines. RESULTS. Among 450 technologies, Kubernetes, Cloud Native, Serverless, and Containers dominate by frequency and centrality. Practitioners present technology mainly related to deployment, communication, AI, and observability. We identify five technology communities covering automation, coordination, cloud AI, monitoring, and cloud-edge. Most technologies span multiple DevOps stages and support hybrid deployment. CONCLUSIONS. Our study reveals that a few core technologies, like Kubernetes and Serverless, dominate the contemporary software architecture practice. These are mainly applied in later DevOps stages, with limited focus on early phases like planning and coding in recent years. We also show how practitioners frame technologies by purpose and context, reflecting evolving industry priorities. Finally, we observe how only research can provide a more holistic lens on architectural design, quality, and evolution.
+ER  - 
+
+TY  - JOUR
+T1  - Agile Development for Safety Assurance of Machine Learning in Autonomous Systems (AgileAMLAS)
+AU  - Hodge, Victoria J.
+AU  - Osborne, Matt
+JO  - Array
+VL  - 27
+SP  - 100482
+PY  - 2025
+DA  - 2025/09/01/
+SN  - 2590-0056
+DO  - https://doi.org/10.1016/j.array.2025.100482
+UR  - https://www.sciencedirect.com/science/article/pii/S2590005625001092
+KW  - Agile development
+KW  - Autonomous systems
+KW  - DevOps
+KW  - Machine learning
+KW  - Safety assurance
+KW  - Software engineering
+KW  - Through-life
+AB  - Recent advances in ML have enabled the development of autonomous cyber–physical systems for a broad range of applications. Using ML, these autonomous systems are able to learn, adapt, and operate with no human intervention. However, this autonomous operation poses a problem when proving that they are acceptably safe. Designers and engineers have traditionally used ‘Waterfall’ or V-model development lifecycles to develop safe systems, but ML engineering requires iteration and adaptation. Iterative development necessitates enhanced lifecycles, augmented methodologies, and the need to systematically integrate rigorous safety assurance with ML development and operation activities. In this paper, we introduce a novel lifecycle, and comprehensive methodology for safely developing, operating, and assuring autonomous systems which use ML. The lifecycle combines Agile software engineering, ML engineering, and a safety engineering framework using iterative and incremental development. This paper provides systematic step-by-step guidelines for developing and deploying ML for autonomous systems using DevOps and MLOps, and for generating compelling safety cases. We have developed and refined our methodology on a recent set of projects undertaken to develop autonomous robots across a variety of domains.
+ER  - 
+
+TY  - JOUR
+T1  - MLOps:
+AU  - Watson, Hugh J.
+AU  - Larson, Deanne
+JO  - International Journal of Business Intelligence Research
+VL  - 15
+IS  - 1
+PY  - 2024
+DA  - 2024/07/17/
+SN  - 1947-3591
+DO  - https://doi.org/10.4018/IJBIR.358916
+UR  - https://www.sciencedirect.com/science/article/pii/S1947359124000032
+KW  - DataOps
+KW  - Decision Support Systems
+KW  - DevOps
+KW  - Information Systems Development Methodology
+KW  - Machine Learning Operations (MLOps)
+KW  - Machine Learning
+KW  - Model Management
+AB  - ABSTRACT
+Companies are moving from a cottage industry to a factory approach to analytics, especially in regard to machine learning (ML) models. This change is motivating companies to adopt ML operations (MLOps) as a methodology for the timely development, deployment, and maintenance of ML models in order to positively impact business outcomes. The adoption of MLOps requires changes in processes, technology, and people, and these changes are informed by previous work on decision support systems (DSS), development operations (DevOps), and data operations (DataOps). The processes, technologies, and people needed for MLOps are discussed and illustrated using a customer purchase recommendation example. Current and future directions for MLOps practice driven by artificial intelligence (AI) are explored. Suggestions for further academic research are provided.
+ER  - 
+
+TY  - JOUR
+T1  - MLOps pipeline generation for reinforcement learning: A low-code approach using large language models
+AU  - Warnett, Stephen John
+AU  - Ntentos, Evangelos
+AU  - Zdun, Uwe
+JO  - Journal of Systems and Software
+VL  - 235
+SP  - 112760
+PY  - 2026
+DA  - 2026/05/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2025.112760
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121225004297
+KW  - MLOps
+KW  - RLOps
+KW  - Machine learning
+KW  - Reinforcement learning
+KW  - Low-code development
+KW  - Large language models
+KW  - Automated pipeline generation
+AB  - MLOps (Machine Learning Operations) and its application to Reinforcement Learning (RL) involve various challenges when integrating Machine Learning and RL models into production systems, entailing considerable expertise and manual effort, which can be error-prone and obstruct scalability and rapid deployment. We propose a new approach to address these challenges in generating MLOps pipelines. We present a low-code, template-based approach leveraging Large Language Models (LLMs) to automate RL pipeline generation, validation and deployment. In our approach, the Pipes and Filters pattern allows for the fine-grained generation of MLOps pipeline configuration files. Built-in error detection and correction help maintain high-quality output standards. To empirically evaluate our solution, we assess the correctness of pipelines generated with seven LLMs for three open-source RL projects. Our initial approach achieved an average error rate of 0.187 across all seven LLMs. OpenAI GPT-4o performed the best with an error rate of just 0.09, followed by Qwen2.5 Coder with an error rate of 0.15. We implemented a single round of improvements to our implementation and low-code template. We reevaluated our solution on the best-performing LLM from the initial evaluation, achieving perfect results with an overall error rate of zero for OpenAI GPT-4o. Our findings indicate that pipelines generated by our approach have low error rates, potentially enabling rapid scaling and deployment of reliable MLOps for RL pipelines, particularly for practitioners lacking advanced software engineering or DevOps skills. Our approach contributes towards demonstrating increased reliability and trustworthiness in LLM-based solutions, despite the uncertainty hitherto associated with LLMs.
+ER  - 
+
+TY  - JOUR
+T1  - DevOps and Neural Network Based Full Lifecycle Management Model for Power Information Systems
+AU  - Sun, Zhen
+AU  - Li, Yan
+AU  - Wen, Lei
+JO  - Procedia Computer Science
+VL  - 208
+SP  - 642
+EP  - 649
+PY  - 2022
+DA  - 2022/01/01/
+T2  - 7th International Conference on Intelligent, Interactive Systems and Applications
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2022.10.088
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050922015290
+KW  - DevOps
+KW  - neural networks
+KW  - power information systems
+KW  - lifecycle management
+AB  - With the construction and development of smart grid, the traditional power information system operation architecture is facing the pressure brought by the rapid growth of company business and the rapid development of information technology. In the process of information system lifecycle management, there are some problems, such as unclear division of responsibilities, long system construction time, high risk of system upgrade, etc. In order to solve the existing problems, this paper introduces and analyzes the DevOps engineering thought and technology which takes the development and operation and maintenance of information system as a whole, and studies the application model of DevOps in the current power information system management process. In recent years, with the development of machine learning and deep learning, artificial neural network algorithms have made breakthroughs in different fields, and various network mechanisms and training algorithms have emerged. For example, in the field of load forecasting, there are methods based on probability forecasting and so on. Therefore, it is of great significance to study the application of the new algorithm in the power system to improve the accuracy of power load forecasting and improve the reliability of power network operation. By studying the application model based on DevOps in the whole life cycle process of the power information system, it provides a research basis for the development of the power information system operation structure, and promotes the management of the information system to continuously meet the requirements of lean management and meet the needs of the company's business development.
+ER  - 
+
+TY  - JOUR
+T1  - Design of a Full-Process Transaction Monitoring and Risk Feedback System for DevOps Based on Microservices Architecture and Machine Learning Methods
+AU  - Liu, Ziwei
+JO  - Procedia Computer Science
+VL  - 262
+SP  - 948
+EP  - 954
+PY  - 2025
+DA  - 2025/01/01/
+T2  - The 5th International Conference on Multi-modal Information Analytics (MMIA)
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2025.05.129
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050925019763
+KW  - Microservices Architecture
+KW  - Machine Learning
+KW  - Devops
+KW  - Transaction Monitoring
+KW  - Risk Feedback
+AB  - In the current age, with industries undergoing digital transformation, there exists a significant issue regarding transaction systems that are characterized by high rates of concurrency and complexity. These systems impose considerable demands on how monitoring is conducted and how feedback regarding risk is communicated. Traditional mechanisms for monitoring are oftentimes struggling with processing large volume of transactional data in real time, and there is an urgent necessity to improve predictions related to risk accuracy. This paper brings forward a monitoring and risk feedback system that uses a full-process approach specifically designed for DevOps. This is based on a framework comprising of microservices architecture along with techniques rooted in machine learning. The main goal is to achieve improved service decoupling and flexible deployment by utilizing microservices architecture effectively. The accuracy of identifying risks and the efficiency of risk identification processes are meant to be enhanced through the application of machine learning algorithms. Moreover, continuous integration alongside continuous deployment and continuous monitoring of the system is intended to be ensured via practices affiliated with DevOps methodology. The system facilitates modular and scalable transaction monitoring, which supports handling high concurrency as well as low-latency processing of data. Finally, machine learning methods are employed to enable predictive measures regarding risks and facilitating timely feedback in the event of potential risks.
+ER  - 
+
+TY  - JOUR
+T1  - An analysis of the challenges in the adoption of MLOps
+AU  - Amrit, Chintan
+AU  - Narayanappa, Ashwini Kolar
+JO  - Journal of Innovation & Knowledge
+VL  - 10
+IS  - 1
+SP  - 100637
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 2444-569X
+DO  - https://doi.org/10.1016/j.jik.2024.100637
+UR  - https://www.sciencedirect.com/science/article/pii/S2444569X24001768
+KW  - Machine learning operations (MLOps)
+KW  - Grounded theory
+KW  - Data science
+AB  - The field of MLOps (Machine Learning Operations), which focuses on effectively managing and operationalizing ML workflows, has grown because of the advancements in machine learning (ML). The goal of this study is to examine and contrast the difficulties encountered in the implementation of MLOps in enterprises with those encountered in DevOps. An SLR (Systematic Literature Review) is the first step in the research process to find the issues raised in the literature. The results of this study are based on qualitative content analysis using grounded theory and semi-structured interviews with 12 ML practitioners from different sectors. Organisational, technical, operational, and business problems are the four distinct aspects of challenges for MLOps that our study highlights. These challenges are further defined by eleven different themes. Our research indicates that while some issues, such as data and model complexity, are unique to MLOps, others are shared by DevOps and MLOps as well. The report offers suggestions for further research and summarises the difficulties.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter Thirteen - Cloud native engineering: A comprehensive review of principles, practices, and challenges
+AU  - Brojabasi, Subhajit
+AU  - Paul, Subrata
+AU  - Mitra, Anirban
+A2  - Raj, Pethuru
+A2  - Agerstam, Mats
+A2  - Dutta, Pushan Kumar
+A2  - Sundaravadivazhagan, B.
+A2  - Nagasubramanian, Gayathri
+BT  - Advances in Computers
+PB  - Elsevier
+VL  - 141
+SP  - 331
+EP  - 353
+PY  - 2026
+DA  - 2026/01/01/
+T2  - Cloud-native Architecture (CNA) and Artificial Intelligence (AI) for the Future of Software Engineering: The Principles, Patterns, Platforms and Practices
+SN  - 0065-2458
+DO  - https://doi.org/10.1016/bs.adcom.2025.06.013
+UR  - https://www.sciencedirect.com/science/article/pii/S0065245825001044
+KW  - Cloud native engineering
+KW  - Microservices
+KW  - Container orchestration
+KW  - DevOps
+KW  - Observability
+KW  - Security
+KW  - Edge computing
+AB  - The innovative technique known as "cloud native engineering" has revolutionized the art and science of modern software development by redesigning the architecture, development, and deployment of software to maximize the advantages of cloud computing. Based on insights gleaned from published studies, industry practices, and empirical findings, the current review paper provides an inclusive assessment of the fundamental concepts, required methods, and inherent challenges that come with cloud native engineering. We look at popular architectural patterns such as serverless computing, microservices, and service mesh, as well as automation strategies enabled by infrastructure as code (IaC), container orchestration, and continuous integration and deployment (CI/CD). We also go over operational procedures that enhance cloud native environments’ scalability, robustness, and efficiency. Strong solutions are required to handle compliance, threat detection, and system stability as security, monitoring, and observability become crucial factors. The use of AI and machine learning to enhance cloud operations, as well as performance optimization techniques, are also covered in the article. Finally, we discuss future trends including edge computing, multi-cloud methods, and green cloud practices, outlining key areas of research that will shape cloud native engineering in the future.
+ER  - 
+
+TY  - JOUR
+T1  - A rule-based automated machine learning approach in the evaluation of recommender engine
+AU  - Behera, Rajat Kumar
+AU  - Bala, Pradip Kumar
+AU  - Jain, Rashmi
+JO  - Benchmarking: An International Journal
+VL  - 27
+IS  - 10
+SP  - 2721
+EP  - 2757
+PY  - 2020
+DA  - 2020/08/12/
+SN  - 1463-5771
+DO  - https://doi.org/10.1108/BIJ-01-2020-0051
+UR  - https://www.sciencedirect.com/science/article/pii/S1463577120000931
+KW  - Recommendation system
+KW  - Recommender engine
+KW  - Automated recommender engine evaluation
+KW  - Recommender engine evaluation metrics
+KW  - Machine learning in software testing
+KW  - Personalization
+AB  - Purpose
+Any business that opts to adopt a recommender engine (RE) for various potential benefits must choose from the candidate solutions, by matching to the task of interest and domain. The purpose of this paper is to choose RE that fits best from a set of candidate solutions using rule-based automated machine learning (ML) approach. The objective is to draw trustworthy conclusion, which results in brand building, and establishing a reliable relation with customers and undeniably to grow the business.
+Design/methodology/approach
+An experimental quantitative research method was conducted in which the ML model was evaluated with diversified performance metrics and five RE algorithms by combining offline evaluation on historical and simulated movie data set, and the online evaluation on business-alike near-real-time data set to uncover the best-fitting RE.
+Findings
+The rule-based automated evaluation of RE has changed the testing landscape, with the removal of longer duration of manual testing and not being comprehensive. It leads to minimal manual effort with high-quality results and can possibly bring a new revolution in the testing practice to start a service line “Machine Learning Testing as a service” (MLTaaS) and the possibility of integrating with DevOps that can specifically help agile team to ship a fail-safe RE evaluation product targeting SaaS (software as a service) or cloud deployment.
+Research limitations/implications
+A small data set was considered for A/B phase study and was captured for ten movies from three theaters operating in a single location in India, and simulation phase study was captured for two movies from three theaters operating from the same location in India. The research was limited to Bollywood and Ollywood movies for A/B phase, and Ollywood movies for simulation phase.
+Practical implications
+The best-fitting RE facilitates the business to make personalized recommendations, long-term customer loyalty forecasting, predicting the company's future performance, introducing customers to new products/services and shaping customer's future preferences and behaviors.
+Originality/value
+The proposed rule-based ML approach named “2-stage locking evaluation” is self-learned, automated by design and largely produces time-bound conclusive result and improved decision-making process. It is the first of a kind to examine the business domain and task of interest. In each stage of the evaluation, low-performer REs are excluded which leads to time-optimized and cost-optimized solution. Additionally, the combination of offline and online evaluation methods offer benefits, such as improved quality with self-learning algorithm, faster time to decision-making by significantly reducing manual efforts with end-to-end test coverage, cognitive aiding for early feedback and unattended evaluation and traceability by identifying the missing test metrics coverage.
+ER  - 
+
+TY  - JOUR
+T1  - Strategic digital product management: Nine approaches
+AU  - Olsson, Helena Holmström
+AU  - Bosch, Jan
+JO  - Information and Software Technology
+VL  - 177
+SP  - 107594
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 0950-5849
+DO  - https://doi.org/10.1016/j.infsof.2024.107594
+UR  - https://www.sciencedirect.com/science/article/pii/S095058492400199X
+KW  - Strategic digital product management
+KW  - DevOps
+KW  - Data
+KW  - Artificial intelligence
+KW  - Digital ecosystems
+KW  - Digitalization
+KW  - Digital transformation
+AB  - Context:
+The role of product management (PM) is key for building, implementing and managing software-intensive systems. Whereas engineering is concerned with how to build systems, PM is concerned with ‘what’ to build and ‘why’ we should build the product. The role of PM is recognized as critical for the success of any product. However, few studies explore how the role of PM is changing due to recent trends that come with digitalization and digital transformation.
+Objectives:
+Although there is prominent research on PM, few studies explore how this role is changing due to the digital transformation of the software-intensive industry. In this paper, we study how trends such as DevOps and short feedback loops, data and artificial intelligence (AI), as well as the emergence of digital ecosystems, are changing current product management practices.
+Methods:
+This study employs a qualitative approach using multi-case study research as the method. For our research, we selected five case companies in the software-intensive systems domain. Through workshop sessions, frequent meetings and interviews, we explore how DevOps and short feedback loops, data and artificial intelligence (AI), and digital ecosystems challenge current PM practices.
+Results:
+Our study yielded an in-depth understanding of how digital transformation of the software-intensive systems industry is changing current PM practices. We present empirical results from workshops and from interviews in which case company representatives share their insights on how software, data and AI impact current PM practices. Based on these results, we present a framework organized along two dimensions, i.e. a certainty dimension and an approach dimension. The framework helps structure the approaches product managers can employ to select and prioritize development of new functionality.
+Contributions:
+The contribution of this paper is a framework for ‘Strategic Digital Product Management’ (SDPM). The framework outlines nine approaches that product managers can employ to maximize the return on investment (RoI) of R&D using new digital technologies.
+ER  - 
+
+TY  - JOUR
+T1  - Navigating the DevOps landscape
+AU  - Zhang, Xinrui
+AU  - Zhao, Pincan
+AU  - Jaskolka, Jason
+JO  - Journal of Systems and Software
+VL  - 223
+SP  - 112331
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2024.112331
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121224003753
+KW  - DevOps
+KW  - Multivocal Literature Review
+KW  - Research Roadmap
+AB  - Context:
+DevOps, with its increasing prevalence in both industry and academia, has evolved into various DevOps variants (namely XOps) to address emerging technological and operational challenges. However, this proliferation has created confusion and a lack of clarity about the systematic understanding of these XOps and their interrelationship in the DevOps landscape, leading to fragmented knowledge and application.
+Objective:
+This research seeks to construct a comprehensive picture of the existing DevOps landscape, clarifying the nature and nuances of various XOps, to guide effective future studies and implementations.
+Method:
+Utilizing Multivocal Literature Review (MLR), 80 gathered documents are thoroughly examined from throughout the whole community, encompassing both white and grey literature, to map the DevOps landscape.
+Results:
+Our review systematically discovered 38 XOps terms and 13 well-studied XOps including AIOps, BizDevOps, CloudOps, DataOps, DevSecOps, FinOps, GitOps, MLOps, ModelOps, NetDevOps, NoOps, SecDevOps and TwinOps. We provided dictionary-like resource that elucidates the core concepts and main ideas associated with each XOps. An in-depth understanding of intricate evolution from DevOps to XOps is delved into, supplemented by the research of relationships between XOps and various technological enablers as well as relationships between XOps and organizational teams, contributing to the ongoing dialogue surrounding their application and evolution.
+Implications:
+This paper provides a foundational understanding of the DevOps landscape including open issues and challenges, current and future trends, assisting both researchers and practitioners in navigating this complex field. It establishes a platform for further research and practical applications in the evolving field of DevOps and XOps.
+ER  - 
+
+TY  - JOUR
+T1  - Semantic Feedback Processing with LLMs: Automating Issue Detection and Prioritization in DevOps
+AU  - Paduraru, Ciprian
+AU  - Zavelca, Miruna
+AU  - Stefanescu, Alin
+JO  - Procedia Computer Science
+VL  - 270
+SP  - 2205
+EP  - 2214
+PY  - 2025
+DA  - 2025/01/01/
+T2  - 29th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES 2025)
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2025.09.341
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050925030145
+KW  - Large Language Models (LLMs)
+KW  - User Feedback Mining
+KW  - Issue Tracking Automation
+KW  - Semantic Similarity
+KW  - Component Classification
+KW  - DevOps Integration
+KW  - Natural Language Processing (NLP)
+AB  - This paper introduces an LLM-augmented pipeline for automating the transformation of unstructured Reddit feedback into structured Jira issues. Designed for DevOps environments, the system performs a two-layered sentiment analysis - combining fast, lightweight classification with high-accuracy LLM-based scoring - followed by LLM-driven summarization and component-aware semantic matching. Feedback is either linked to existing issues or triggers new ticket creation based on similarity thresholds and component alignment. A hybrid graph-relational backend supports issue clustering, trend detection, and historical traceability. Based on real-world game development data, the system shows high scalability and significantly improves triage efficiency and developer feedback coverage.
+ER  - 
+
+TY  - JOUR
+T1  - SHCRGuard: Security risk analysis of self-hosted CI/CD runners in GitHub Actions
+AU  - Shi, Pengfei
+AU  - Huang, Jiaqi
+AU  - Xu, Yifan
+AU  - Chen, Jinfu
+AU  - Lu, Jie
+AU  - Qi, Fangyuan
+AU  - Peng, Hanzhong
+AU  - Chen, Huashan
+AU  - Liu, Feng
+JO  - Journal of Systems and Software
+VL  - 241
+SP  - 113018
+PY  - 2026
+DA  - 2026/11/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2026.113018
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121226002517
+KW  - GitHub Actions (GHA)
+KW  - CI/CD security
+KW  - Self-hosted runners
+KW  - Security risk
+AB  - GitHub Actions (GHA) has become one of the most widely adopted CI/CD platforms in DevOps ecosystems. While GitHub-hosted runners offer standardized and controlled execution environments, many projects employ self-hosted runners to meet customized operational requirements, which unfortunately introduce new vectors for security compromise. Existing detection tools often fail to identify these risks accurately. To address this gap, this paper presents SHCRGuard, a novel framework for detecting and analyzing security risks in GHA workflows that employ self-hosted runners. SHCRGuard enhances static abstract syntax tree (AST) analysis with improved variable resolution for precise data tracing and integrates large language model (LLM)-assisted reasoning only as an optional fallback for rare cases where static analysis cannot produce a definitive result. It further incorporates four threat classification modules that operationalize the defined threat model for systematic risk evaluation. We assess SHCRGuard using a large-scale dataset of 1925 real-world GHA self-hosted workflow jobs. Experimental results show that SHCRGuard outperforms the state-of-the-art tool GHAST in detecting self-hosted runners, achieving a macro-F1 of 94.3%. Further analysis reveals that 1/3 of the corresponding CI/CD jobs exhibit at least one security alert, and 31.18% of them contain multiple alerts. Besides, 99.12% of the corresponding CI/CD jobs were found to have at least one kind of security risk, with permission-related flaws being the most severe and widespread. These findings call for tailored defense strategies to mitigate systemic risks in self-hosted runner environments.
+ER  - 
+
+TY  - JOUR
+T1  - Anomaly detection in offshore open radio access network using long short-term memory models on a novel artificial intelligence-driven cloud-native data platform
+AU  - Ahmad, Abdelrahim
+AU  - Li, Peizheng
+AU  - Piechocki, Robert
+AU  - Inacio, Rui
+JO  - Engineering Applications of Artificial Intelligence
+VL  - 161
+SP  - 112274
+PY  - 2025
+DA  - 2025/12/12/
+SN  - 0952-1976
+DO  - https://doi.org/10.1016/j.engappai.2025.112274
+UR  - https://www.sciencedirect.com/science/article/pii/S0952197625022821
+KW  - Open radio access network
+KW  - Anomaly detection
+KW  - Long short-term memory models
+KW  - Artificial intelligence
+KW  - Big data platform
+KW  - Telecommunications
+KW  - Machine learning operations
+KW  - Data engineering
+KW  - Development operations
+KW  - Cloud-native private networks
+AB  - The Radio Access Network (RAN) is a critical component of modern telecommunications infrastructure, currently evolving towards disaggregated and open architectures. These advancements are pivotal for integrating intelligent, data-driven applications aimed at enhancing network reliability and operational autonomy through the introduction of cognitive capabilities, as exemplified by the emerging Open Radio Access Network (O-RAN) standards. Despite its potential, the nascent nature of O-RAN technology presents challenges, primarily due to the absence of mature operational standards. This complicates the management of data and intelligent applications, particularly when integrating with traditional network management and operational support systems. Divergent vendor-specific design approaches further hinder migration and limit solution reusability. These challenges are compounded by a skills gap in telecommunications business-oriented engineering, which remains a key barrier to effective O-RAN deployment and intelligent application development. To address these challenges, Boldyn Networks developed a novel cloud-native data analytics platform, specifically designed to support scalable Artificial Intelligence (AI) integration within O-RAN deployments. This platform underwent rigorous testing in real-world scenarios, and applied advanced AI techniques to improve operational efficiency and customer experience. Implementation involved adopting Development Operations (DevOps) practices, leveraging data lakehouse architectures tailored for AI applications, and employing sophisticated data engineering strategies. The platform successfully addresses connectivity challenges inherent in real-world offshore wind farm deployments using Long Short-Term Memory (LSTM) models for anomaly detection in network connectivity. After integrating the LSTM models into the network control, more than 90 percent of connectivity issues were reduced in runtime. This marks a step toward autonomous, self-organizing, and self-healing networks.
+ER  - 
+
+TY  - CHAP
+T1  - 9 - Data collection, wrangling, and pre-processing for AI assurance
+AU  - Rahman, Abdul
+A2  - Batarseh, Feras A.
+A2  - Freeman, Laura J.
+BT  - AI Assurance
+PB  - Academic Press
+SP  - 321
+EP  - 338
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 978-0-323-91919-7
+DO  - https://doi.org/10.1016/B978-0-32-391919-7.00022-6
+UR  - https://www.sciencedirect.com/science/article/pii/B9780323919197000226
+KW  - Data management
+KW  - data assurance
+KW  - data science
+AB  - Data collection, wrangling, and pre-processing are critical steps within any AI/ML model development lifecycle. These steps precede every model building activity culminating in feature engineering for model formation. This chapter emphasizes the design, development, and implementation of raw data transformation into features in support of AI/ML model development. Integration and preparation of data sets from various sources, such as files, databases, big data storage, sensors or social networks is a key task when you want to build an appropriate analytic model using machine learning or deep learning techniques. Critical to the model building endeavor is the need to have high-quality data that, unfortunately, has shown to take up 50 to 80 percent of the time for an AI/ML development project. This chapter presents ways to reduce this processing time using data-driven operations “DataOps” (i.e., DevOps for data processing and workflows) pipelines for AI/ML.
+ER  - 
+
+TY  - JOUR
+T1  - ACCORDANT: A domain specific-model and DevOps approach for big data analytics architectures
+AU  - Castellanos, Camilo
+AU  - Varela, Carlos A.
+AU  - Correal, Dario
+JO  - Journal of Systems and Software
+VL  - 172
+SP  - 110869
+PY  - 2021
+DA  - 2021/02/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2020.110869
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121220302594
+KW  - Software architecture
+KW  - Big data analytics deployment
+KW  - DevOps
+KW  - Domain-specific model
+KW  - Quality scenarios
+KW  - Performance monitoring
+AB  - Big data analytics (BDA) applications use machine learning algorithms to extract valuable insights from large, fast, and heterogeneous data sources. New software engineering challenges for BDA applications include ensuring performance levels of data-driven algorithms even in the presence of large data volume, velocity, and variety (3Vs). BDA software complexity frequently leads to delayed deployments, longer development cycles, and challenging performance assessment. This paper proposes a Domain-Specific Model (DSM), and DevOps practices to design, deploy, and monitor performance metrics in BDA applications. Our proposal includes a design process, and a framework to define architectural inputs, software components, and deployment strategies through integrated high-level abstractions to enable QS monitoring. We evaluate our approach with four use cases from different domains to demonstrate a high level of generalization. Our results show a shorter deployment and monitoring times, and a higher gain factor per iteration compared to similar approaches.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 13 - DataOps
+AU  - Dehury, Chinmaya Kumar
+AU  - Srirama, Satish Narayana
+BT  - Mastering DevOps
+PB  - Morgan Kaufmann
+SP  - 287
+EP  - 305
+PY  - 2026
+DA  - 2026/01/01/
+SN  - 978-0-443-45032-7
+DO  - https://doi.org/10.1016/B978-0-443-45032-7.00013-4
+UR  - https://www.sciencedirect.com/science/article/pii/B9780443450327000134
+KW  - Data analytics
+KW  - DataOps
+KW  - Data engineer
+KW  - Data-intensive applications
+KW  - Data life cycle
+KW  - Data governance
+KW  - Data pipeline
+KW  - Data scientist
+KW  - Data team
+AB  - In today's data-driven world, organizations are producing, processing, and analyzing vast volumes of data at unprecedented speeds. To keep up with this rapid pace without compromising accuracy, collaboration among team members, and efficiency in operating the software product, a new variant of DevOps, also known as DataOps, has emerged. Much like DevOps, which brought cultural transformation to software development, DataOps applies agile principles and automation to the data life cycle—streamlining everything from data ingestion and validation to deployment and monitoring of data pipelines. This chapter introduces the data-intensive application and core concepts of DataOps, explains its life cycle, compares it with related practices like DevOps, MLOps, and AIOps, and explores key tools and real-world applications.
+ER  - 
+
+TY  - JOUR
+T1  - Integrating generative AI into forensic workflows: A case study from the Netherlands Forensic Institute
+AU  - Meconi, Timo N.T.
+AU  - Henseler, Hans
+JO  - Forensic Science International
+VL  - 388
+SP  - 113074
+PY  - 2026
+DA  - 2026/11/01/
+SN  - 0379-0738
+DO  - https://doi.org/10.1016/j.forsciint.2026.113074
+UR  - https://www.sciencedirect.com/science/article/pii/S0379073826002616
+KW  - Generative AI
+KW  - Large Language Models
+KW  - ChatGPT
+KW  - Forensic AI
+KW  - AI assistance
+KW  - AI Governance
+AB  - Large Language Models (LLMs) such as ChatGPT promise efficiency gains in routine text-based work, but their use in forensic settings raises challenges for confidentiality, governance, and forensic validation. Prior studies have evaluated LLMs on single tasks within single forensic disciplines, leaving open the question under which conditions such models can be embedded in the day-to-day workflows of a forensic institute. This paper reports a three-month pilot at the Netherlands Forensic Institute, in which 50 forensic and support staff used Robin, a ChatGPT-4o instance hosted in a Trusted Cloud environment of the Dutch Ministry of Justice and Security, governed by a Data Protection Impact Assessment and a GDPR-compliant processing agreement. We report user-experienced applications gathered from semi-structured interviews, walk-in sessions, and follow-up mini-projects, and group them into three recurring categories: generating new text, reducing larger inputs to relevant information, and transforming text between styles, languages, or representations. Participants found Robin most useful for low-risk writing support, while expectations quickly extended towards system integration, document-grounded retrieval, coding assistance, and case-oriented support. We also discuss the technical, organisational, ethical, and legal conditions for sustainable deployment, and argue that workflow support and forensic reasoning require different levels of human oversight and discipline-specific validation. The pilot is presented as an exploratory institutional case study rather than as a performance evaluation of an LLM for forensic analysis.
+ER  - 
+
+TY  - JOUR
+T1  - ChatOps for microservice systems: A low-code approach using service composition and large language models
+AU  - Wang, Sheng-Kai
+AU  - Ma, Shang-Pin
+AU  - Lai, Guan-Hong
+AU  - Chao, Chen-Hao
+JO  - Future Generation Computer Systems
+VL  - 161
+SP  - 518
+EP  - 530
+PY  - 2024
+DA  - 2024/12/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2024.07.029
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X24003911
+KW  - Microservices
+KW  - DevOps
+KW  - ChatOps
+KW  - Service composition
+KW  - Low-code
+KW  - Large language model
+KW  - Prompt engineering
+AB  - The Microservice Architecture (MSA) plays a pivotal role in contemporary e-business, promoting service independence, autonomy, and continual evolution in line with the principles of DevOps. However, the distributed nature of the MSA introduces additional complexity, which requires familiarity with multiple DevOps (Development and Operations) tools, thereby increasing the learning curve. This paper presents a specialized ChatOps (Chat Operations) approach that allows MSA developers to compose new ChatOps capabilities in a low-code way (i.e., with minimal coding). The proposed ChatOps4Msa approach leverages established ChatOps functionalities to facilitate the real-time monitoring of service status, conduct service testing, track issues, and receive alerts using natural language or the proposed ChatOps Query Language (CQL). The use of large language models (LLMs) for functional intents also enhances the usability of the DevOps toolchain in microservices systems to streamline implementation.
+ER  - 
+
+TY  - JOUR
+T1  - The future of Artificial Intelligence for the BioTech Big Data landscape
+AU  - Artico, Fausto
+AU  - Edge III, Arthur L
+AU  - Langham, Kyle
+JO  - Current Opinion in Biotechnology
+VL  - 76
+SP  - 102714
+PY  - 2022
+DA  - 2022/08/01/
+SN  - 0958-1669
+DO  - https://doi.org/10.1016/j.copbio.2022.102714
+UR  - https://www.sciencedirect.com/science/article/pii/S0958166922000477
+AB  - Recent Industry 4.0 advancements are making available massive amounts of data for the development of innovative BioTech solutions. However, several challenges need to be overcome to correctly use data and novel, non-pharma technologies to greatly speed up discovery, optimization and market delivery of products, and services. In this review, we bring your attention to the important aspects of Big Data and Artificial Intelligence (AI) that have an impact on the future of the field and briefly touch upon how disciplines such as Hyper-Automation, Infrastructure as Code (IaC) and DevOps — a set of practices that combines software development with Information Technology (IT) operations (Ops) — can accelerate Big Data and AI adoption in your Agile Digital Transformation journey.
+ER  - 
+
+TY  - JOUR
+T1  - Decoding developer password patterns: A comparative analysis of password extraction and selection practices
+AU  - Lykousas, Nikolaos
+AU  - Patsakis, Constantinos
+JO  - Computers & Security
+VL  - 145
+SP  - 103974
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2024.103974
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404824002797
+KW  - Passwords
+KW  - DevOps
+KW  - Hard-coded passwords
+KW  - Source code
+KW  - DevSecOps
+KW  - Large language models
+AB  - Passwords play a crucial role in authentication, ensuring that only authorised entities can access sensitive information. However, user password choices are often weak and predictable, making them susceptible to cyber-attacks. Additionally, hard-coded credentials in source code can expose organisations and infrastructure to significant risks. This paper explores the patterns of passwords used by developers, examining their similarities to those of typical users. We also investigate the efficacy of large language models (LLMs) in identifying hard-coded credentials in source code. Our findings suggest that developers foster more complex and, hence, more secure password selection patterns than regular users. Nevertheless, they can use worse patterns when the context allows them. The latter, combined with the ample commits in public code repositories containing secrets, exemplifies the need for more targeted awareness campaigns and tighter integration of code security tools in the development lifecycle. Finally, we explore the capacity of LLMs to detect hard-coded credentials, highlighting their differences and limitations.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 2 - Lesson 2: Team building – people over things
+AU  - Georgiou, Harris V.
+BT  - Data Science for Teams
+PB  - Morgan Kaufmann
+SP  - 15
+EP  - 23
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 978-0-443-36406-8
+DO  - https://doi.org/10.1016/B978-0-44-336406-8.00012-4
+UR  - https://www.sciencedirect.com/science/article/pii/B9780443364068000124
+KW  - Data science
+KW  - team organization
+KW  - team building
+KW  - team leader
+KW  - hiring strategies
+KW  - MLOps
+KW  - incentives
+KW  - job interviews
+AB  - In this second lesson, the focus shifts toward building the Data Science team with people of appropriate skill sets and expertise. A quick reference is made to the relatively modern approach of MLOps for such team management and operations, highlighting the overlap of Machine Learning, DevOps methodology, and Data Engineering, while focusing on the aspects of Integration, Resource Allocation, and Scaling over time. Although not compatible per-se, common methodologies from Software Engineering are useful in organizing and running such R&D workflows too, as it will be explored further in subsequent lessons. Several complexities and trade-offs have to be addressed at this stage, including setting up proper criteria and procedures of getting people onboard, clarifying misconceptions, and avoiding bad tactics. The aspect of letting people go is also analyzed, using the use-case fictitious team as an example, as member departures are always a challenge, especially for teams of small size.
+ER  - 
+
+TY  - JOUR
+T1  - Building A Platform for Machine Learning Operations from Open Source Frameworks
+AU  - Liu, Yan
+AU  - Ling, Zhijing
+AU  - Huo, Boyu
+AU  - Wang, Boqian
+AU  - Chen, Tianen
+AU  - Mouine, Esma
+JO  - IFAC-PapersOnLine
+VL  - 53
+IS  - 5
+SP  - 704
+EP  - 709
+PY  - 2020
+DA  - 2020/01/01/
+T2  - 3rd IFAC Workshop on Cyber-Physical & Human Systems CPHS 2020
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2021.04.161
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896321003013
+KW  - Machine Learning
+KW  - DevOps
+KW  - Software Architecture
+KW  - Open Source
+AB  - Machine Learning Operations (MLOps) aim to establish a set of practices that put tools, pipelines, and processes to build fast time-to-value machine learning development projects. The lifecycle of machine learning project development encompasses a set of roles, stacks of software frameworks and multiple types of computing resources. Such complexity makes MLOps support usually bundled with commercial cloud platforms that is referred as vendor lock. In this paper, we provide an alternative solution that devises a MLOps platform with open source frameworks on any virtual resources. Our MLOps approach is driven by the development roles of machine learning models. The tool chain of our MLOps connects to the typical CI/CD workflow of machine learning applications. We demonstrate a working example of training and deploying a machine learning model for the application of detecting software repository code vulnerability.
+ER  - 
+
+TY  - JOUR
+T1  - Towards building a Deep Learning based Automated Indian Classical Music Tutor for the Masses
+AU  - Pendyala, Vishnu S.
+AU  - Yadav, Nupur
+AU  - Kulkarni, Chetan
+AU  - Vadlamudi, Lokesh
+JO  - Systems and Soft Computing
+VL  - 4
+SP  - 200042
+PY  - 2022
+DA  - 2022/12/01/
+SN  - 2772-9419
+DO  - https://doi.org/10.1016/j.sasc.2022.200042
+UR  - https://www.sciencedirect.com/science/article/pii/S2772941922000084
+KW  - Machine Learning
+KW  - Indian Classical Music
+KW  - Deep Learning
+KW  - Long Short-term Memory
+KW  - Cloud Computing
+KW  - DevOps
+AB  - Music can play an important role in the well-being of the world. Indian classical music is unique in its requirement for rigorous, disciplined, expert-led training that typically goes on for years before the learner can reach a reasonable level of performance. This keeps many, including the first author of this paper, away from mastering the skill. The problem is particularly compounded in rural areas, where the available expertise may be limited and prohibitively expensive, but the interest in learning classical music still prevails, nevertheless. Machine Learning has been complementing, enhancing, and replacing many white-collar jobs and we believe it can help with this problem as well. This paper describes efforts at using Machine Learning techniques, particularly, Long Short-Term Memory for building a system that is a step toward provisioning an Indian Classical Music Tutor for the masses. The system is deployed in the cloud using orchestrated containerization for potential worldwide access, load balancing, and other robust features.
+ER  - 
+
+TY  - JOUR
+T1  - Software development effort prediction using a hybrid of LeNet and Shepard convolutional neural networks
+AU  - Rajeswarappa, G
+AU  - Ravuri, Vasavi
+AU  - Perumalla, Subhadra
+AU  - Konkepudi, Bhagya Rekha
+AU  - Kodali, Hari Priya
+AU  - Gopisetti, Laxmi Deepthi
+JO  - Engineering Applications of Artificial Intelligence
+VL  - 166
+SP  - 113546
+PY  - 2026
+DA  - 2026/02/15/
+SN  - 0952-1976
+DO  - https://doi.org/10.1016/j.engappai.2025.113546
+UR  - https://www.sciencedirect.com/science/article/pii/S0952197625035778
+KW  - Software development effort prediction
+KW  - Shepard convolutional neural network
+KW  - LeNet
+KW  - Chi-square similarity
+KW  - Angular separation distance
+AB  - Software development uses a variety of techniques, such as Agile, Waterfall, and Development and Operations (DevOps), which offer various ways to manage projects. The area of Information Technology (IT) is changing with the emergence of technologies like mobile development, cloud computing, and artificial intelligence. The inaccurate estimation of software development projects leads to huge losses in financial resources available for the project, as well as time required to complete it. To tackle these issues, a LeNet-fused Shepard Convolutional Neural Network (LeNet-ShCNN) approach is developed for software development effort (SDE) prediction. Initially, input software data is obtained from a specific dataset to perform SDE prediction. Then, suitable features are selected in feature selection by Chi-square similarity and Angular separation distance. Finally, SDE prediction is conducted by implementing a newly designed LeNet-ShCNN. The LeNet-ShCNN is the combination of two networks, namely LeNet and the Shepard Convolutional Neural Network (ShCNN). In addition, LeNet-ShCNN acquired a minimum Mean Magnitude Relative Error (MMRE) of 0.147, a minimum Mean Square Error (MSE) of 0.137, and a minimum Root Mean Square Error (RMSE) of 0.370.
+ER  - 
+
+TY  - JOUR
+T1  - MLOps best practices, challenges and maturity models: A systematic literature review
+AU  - Zarour, Mohammad
+AU  - Alzabut, Hamza
+AU  - Al-Sarayreh, Khalid T.
+JO  - Information and Software Technology
+VL  - 183
+SP  - 107733
+PY  - 2025
+DA  - 2025/07/01/
+SN  - 0950-5849
+DO  - https://doi.org/10.1016/j.infsof.2025.107733
+UR  - https://www.sciencedirect.com/science/article/pii/S0950584925000722
+KW  - MLOps
+KW  - DevOps
+KW  - ML
+KW  - Best practices
+KW  - Automation
+KW  - Deployment
+AB  - Context:
+Agile and DevOps methodologies have revolutionized software development, leading to increased efficiency and reliability in product delivery. Building on this success, Machine Learning Operations (MLOps) has emerged to streamline the development and deployment of machine learning (ML) models, addressing challenges unique to ML workflows.
+Objectives:
+This study aims to explore the complexities organizations face when adopting MLOps, focusing on three main challenges: the lack of standardized practices, difficulties in maintaining model consistency and scalability, and ambiguities in assessing MLOps maturity. The study also aims to identify best practices and common pitfalls, contributing to a clearer understanding and standardization of MLOps.
+Methods:
+A comprehensive literature review was conducted, analyzing 45 articles that address MLOps best practices, challenges, maturity models, and lessons from previous implementations. This review categorizes findings to provide insights into successful and unsuccessful MLOps applications.
+Results:
+The study identifies nine best practices, eight common challenges, and five maturity models relevant to MLOps adoption. Key lessons from successful and unsuccessful MLOps implementations are outlined, with a focus on improving standardization and reducing ambiguity in MLOps practices.
+Conclusion:
+The findings highlight the importance of establishing standardized MLOps practices to address the unique challenges of machine learning workflows. By categorizing best practices, maturity models, and lessons learned, this study aims to contribute to a robust MLOps framework that enhances the reliability and scalability of machine learning in production environments.
+ER  - 
+
+TY  - JOUR
+T1  - An empirical study on ML DevOps adoption trends, efforts, and benefits analysis
+AU  - Rzig, Dhia Elhaq
+AU  - Hassan, Foyzul
+AU  - Kessentini, Marouane
+JO  - Information and Software Technology
+VL  - 152
+SP  - 107037
+PY  - 2022
+DA  - 2022/12/01/
+SN  - 0950-5849
+DO  - https://doi.org/10.1016/j.infsof.2022.107037
+UR  - https://www.sciencedirect.com/science/article/pii/S0950584922001537
+KW  - Machine learning
+KW  - DevOps
+AB  - Context:
+Machine Learning (ML), including Deep Learning(DL), based systems, have become ubiquitous in today’s solutions to many real-world problems. ML-based approaches are being applied to solve complex problems such as autonomous driving, recommendation systems, etc.
+Objective:
+To improve the quality and deliverability of ML-based applications, the software development community is adopting state-of-the-art DevOps practices within them. However, we currently lack knowledge about the DevOps adoption trends, maintenance efforts and benefits among ML-based projects, and this work attempts to remedy this knowledge-gap.
+Methods:
+In this research work, we conducted a large-scale empirical analysis on 4031 ML projects, including 1116 ML Tools and 2915 ML Applied projects to quantify DevOps adoption, maintenance effort and benefits. To characterize the development behaviors, we performed configuration-script-analysis and commit-change-analysis on DevOps configuration files. To compare the characteristics of ML DevOps to those of traditional software projects, we performed the same analysis on 4076 non-ML projects.
+Results:
+Our analysis identified that ML projects, more specifically ML-Applied projects, have a slower, lower, and less efficient adoption of DevOps tools in general. DevOps configuration files in ML-Applied projects tended to experience more frequent changes than ML-Tool projects and were less likely to occur in conjunction with build and bug fixes. It’s also evident that adopting DevOps in ML projects correlates with an increase in development productivity, code quality, and a decrease in bug resolution time, especially in ML-Applied projects which have the most to gain by adopting these tools.
+Conclusion:
+We identified the characteristics and improvement scopes of ML DevOps, such as the slower adoption of DevOps in certain ML projects, and the need for automatic configuration synchronization tools for these projects. We also identified the improvements the productivity of ML teams and projects associated with DevOps adoption, including better code quality, more frequent code sharing and integration and faster issue resolution.
+ER  - 
+
+TY  - JOUR
+T1  - The Evolution of Technical Debt from DevOps to Generative AI: A multivocal literature review
+AU  - Moreschini, Sergio
+AU  - Arvanitou, Elvira-Maria
+AU  - Kanidou, Elisavet-Persefoni
+AU  - Nikolaidis, Nikolaos
+AU  - Su, Ruoyu
+AU  - Ampatzoglou, Apostolos
+AU  - Chatzigeorgiou, Alexander
+AU  - Lenarduzzi, Valentina
+JO  - Journal of Systems and Software
+VL  - 231
+SP  - 112599
+PY  - 2026
+DA  - 2026/01/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2025.112599
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121225002687
+KW  - Technical debt
+KW  - Multivocal literature review
+AB  - Background:
+The rapid integration of Artificial Intelligence (AI) – including Machine Learning (ML) and Generative AI – into software systems is reshaping the software development lifecycle. As AI-driven systems become more dynamic and complex, traditional approaches to Technical Debt (TD) management face increasing limitations. Simultaneously, AI-assisted development introduces new forms of TD, particularly in relation to maintainability, explainability, and data governance.
+Objective:
+This study aims to explore how Technical Debt Management (TDM) must adapt in the context of AI-enhanced software development. It investigates (1) the evolution of TD in AI-driven systems, and (2) the implications of using AI technologies within the software engineering process.
+Methods:
+We conducted a multivocal literature review, combining insights from both peer-reviewed research and industry sources. Following established guidelines, we systematically analyzed 61 primary sources, categorized TD types and management activities, and identified key challenges and practices emerging in the AI era.
+Results:
+Our findings reveal that data-related, infrastructure, and pipeline-related TD are particularly prevalent in ML systems. Machine Learning Operations (MLOps) practices are increasingly recognized as essential for managing such debt, especially in relation to dynamic data dependencies and model retraining. In parallel, AI-generated artifacts and automated pipelines introduce new governance and maintainability challenges.
+Conclusion:
+Technical Debt in AI systems demands continuous, automated, and cross-functional management strategies. As software evolves in response to data and usage, new operational paradigms – grounded in practices like MLOps and Small Language Model Operations (SLMOps) – will be vital to ensure long-term software sustainability. This study provides a foundational map for researchers and practitioners navigating the intersection of AI and TD management.
+ER  - 
+
+TY  - JOUR
+T1  - Framework for automatic detection of anomalies in DevOps
+AU  - Hany Fawzy, Ahmed
+AU  - Wassif, Khaled
+AU  - Moussa, Hanan
+JO  - Journal of King Saud University - Computer and Information Sciences
+VL  - 35
+IS  - 3
+SP  - 8
+EP  - 19
+PY  - 2023
+DA  - 2023/03/01/
+SN  - 1319-1578
+DO  - https://doi.org/10.1016/j.jksuci.2023.02.010
+UR  - https://www.sciencedirect.com/science/article/pii/S1319157823000393
+KW  - DevOps
+KW  - AIOps
+KW  - CI/CD
+KW  - Anomaly detection
+KW  - Release management
+KW  - Machine learning
+AB  - Log-based anomaly detection is important for improving the reliability and availability of software systems, especially those evolving using DevOps, owing to the huge number of logs generated during continuous practices. However, DevOps practitioners typically inspect and interpret the generated data and logs manually on specific occasions as part of the troubleshooting process. This process of manual inspection is time consuming and challenging because these data and logs have grown to an unmanageable size owing to the increasing size and complexity of the systems. In this research paper, we introduce the DevOps Anomaly Detection Framework (DADF). DADF is composed of two components that rely on Machine Learning (ML) and Artificial Intelligence (AI) to analyze the data and logs generated during DevOps practices to automatically detect anomalies. The first component is Anomaly Detection Before Production (ADBP), which intends to detect anomalies in the prospective release before its operation in the production environment by adopting the Local Outlier Factor (LOF) technique on the data collected during implementation, building, testing, and deployment. The second component is Anomaly Detection After Staging (ADAS), which intends to detect anomalies after the operation of the released system by adopting the Vector Auto-Regression (VAR) technique on the data collected during monitoring from the system log, application log, and performance metrics (CPU and memory). We experimentally evaluated ADBP and ADAS in two different real-world industrial projects. The experimental results demonstrated that the accuracy, precision, recall, and F1-score of the ADBP component were 96%, 87.5%, 100%, and 93.3%, respectively, and the normalized Root Mean Squared Error (nRMSE) of the ADAS component was 2–19%. Hence, the results demonstrate the effectiveness of DADF in helping DevOps practitioners and researchers automatically detect anomalies throughout the lifecycle of DevOps by monitoring all DevOps’ practices.
+ER  - 
+
+TY  - JOUR
+T1  - The role of program analysis in security vulnerability detection: Then and now
+AU  - Cifuentes, Cristina
+AU  - Gauthier, François
+AU  - Hassanshahi, Behnaz
+AU  - Krishnan, Padmanabhan
+AU  - McCall, Davin
+JO  - Computers & Security
+VL  - 135
+SP  - 103463
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2023.103463
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404823003735
+KW  - Static analysis
+KW  - Dynamic analysis
+KW  - Industrial scale application
+KW  - DevOps
+AB  - Program analysis techniques play an important role in detecting security vulnerabilities. In this paper we describe our experiences in developing a variety of tools that detect security vulnerabilities in an industrial setting. The main driving forces for adoption of program analysis tools by a development organisation are low false positive rate, ease of integration in the developer's workflow, scalability to handle industrial size systems and results that are easy to understand. Even if one the above dimensions is not supported, the tool will not be used in practice. We show how the analyses of program analysis tools have changed over more than a decade due to differences in languages, e.g., code written in systems-level languages like C tend to focus on memory-related vulnerabilities, in contrast to languages like Java, JavaScript and Python where the focus is more on injection vulnerabilities in web or cloud applications. Based on language, static or dynamic analysis approaches are needed, including hybrid approaches. We conclude with our vision on Intelligent Application Security – how program analysis tools will keep changing to enable the DevSecOps model given the fertile ground that the DevOps model provides today. We foresee different program analysis tools working together by sharing information, including the results they produce, while addressing newer security issues such as those related to supply chain issues. In this way, program analysis tools would be extended with relevant machine learning techniques and be integrated in all different phases of the code development, building, testing, deployment and monitoring cycle.
+ER  - 
+
+TY  - JOUR
+T1  - ProLoaF: Probabilistic load forecasting for power systems
+AU  - Gürses-Tran, Gonca
+AU  - Oppermann, Florian
+AU  - Monti, Antonello
+JO  - SoftwareX
+VL  - 23
+SP  - 101487
+PY  - 2023
+DA  - 2023/07/01/
+SN  - 2352-7110
+DO  - https://doi.org/10.1016/j.softx.2023.101487
+UR  - https://www.sciencedirect.com/science/article/pii/S2352711023001838
+KW  - Machine Learning
+KW  - MLOps
+KW  - PyTorch
+KW  - Python
+KW  - Short-term load forecasting
+AB  - Today, the energy supply does not follow the demand in a controlled manner anymore. Thus, forecasting the electricity consumption became essential for the operation of power systems. Already numerous open source software tools exist that provide forecasting models, which are configurable for different forecasting tasks. In the case of electrical energy demand, a change in the geographical or temporal settings, requires specific domain knowledge on relevant data and influencing factors that are to be considered when developing data-driven forecasting models. With ProLoaF, we propose a holistic machine-learning based forecasting project, which offers the developer a continuous deployment of reliable forecasts for the power system domain. ProLoaF serves for probabilistic forecasts of the electric energy consumption and non-controllable generation in future power system operation. By overlapping Machine Learning (ML), DevOps and power systems engineering disciplines, we aim to accelerate future forecasting model development by reducing consultation work between domain experts.
+ER  - 
+
+TY  - JOUR
+T1  - Designing a cloud-native MLOps pipeline using Databricks: A case study in industrial practice
+AU  - Moreschini, Sergio
+AU  - Raitaniemi, Sandra
+AU  - Mäkelä, Elias
+AU  - Laukkanen, Tommi
+AU  - Hästbacka, David
+JO  - Future Generation Computer Systems
+VL  - 184
+SP  - 108585
+PY  - 2026
+DA  - 2026/11/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2026.108585
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X26002190
+KW  - MLOps
+KW  - Databricks
+KW  - Cloud-native
+KW  - Operations
+AB  - We present a engineering case study on the design and evolution of a cloud-native MLOps pipeline in an industrial setting using Databricks. Motivated by the operational and lifecycle challenges of deploying machine-learning models at scale, the project adopted a platform-centric approach to automation, reproducibility, and scalable operation. The pipeline integrates versioned data management, experiment tracking and registry-based promotion, CI/CD for ML, and environment isolation to bridge experimentation and production. Security and data-privacy constraints are operationalized through workspace isolation, role-based access control, and secrets management integrated into deployment automation. Our methodological approach entailed an engineering case-study design, incorporating triangulation across development artifacts, CI/CD records, and collaborative design episodes. The paper delivers three contributions: (i) a platform-grounded reference architecture documenting the design decisions, trade-offs, and deliberate deviations from vendor guidance that shaped the final implementation; (ii) collaboration practices that align roles across DataOps, ModelOps, and DevOps showing how shared artifacts and platform constraints structure cross-role coordination; and (iii) recurring implementation patterns and practitioners lessons that are capability-oriented and transferable beyond the specific platform. The results provide practitioners with empirical evidence on how MLOps automation is realized and constrained in practice, filling a gap that vendor documentation and conceptual frameworks alone do not address.
+ER  - 
+
+TY  - JOUR
+T1  - Enabling adaptive analytics at the edge with the Bi-Rex Big Data platform
+AU  - Venanzi, Riccardo
+AU  - Dahdal, Simon
+AU  - Solimando, Michele
+AU  - Campioni, Lorenzo
+AU  - Cavalucci, Alberto
+AU  - Govoni, Marco
+AU  - Tortonesi, Mauro
+AU  - Foschini, Luca
+AU  - Attana, Loredana
+AU  - Tellarini, Matteo
+AU  - Stefanelli, Cesare
+JO  - Computers in Industry
+VL  - 147
+SP  - 103876
+PY  - 2023
+DA  - 2023/05/01/
+SN  - 0166-3615
+DO  - https://doi.org/10.1016/j.compind.2023.103876
+UR  - https://www.sciencedirect.com/science/article/pii/S016636152300026X
+KW  - Zero defect manufacturing
+KW  - Industry 4.0
+KW  - Big data
+KW  - Edge computing
+KW  - MLOps
+KW  - Data-driven applications
+KW  - Machine learning
+AB  - Zero Defect Manufacturing (ZDM) is an emergent and disruptive paradigm that aims to optimize industrial process efficiency and sustainability by leveraging innovative and sophisticated data-driven approaches. It is a technology intensive concept that has the ambition of achieving and maintaining “first-time-right” quality goals in spite of varying processes and input material. As a result, developing ZDM applications might become overwhelming for small enterprises due to the multitude of diverse platform, the lack of know-how, and the need to adapt general purpose solutions to meet their needs. The Big Data Innovation and Research Excellence (Bi-Rex) is an Italian consortium that aims to accelerate the industrial innovation process of small enterprises. Within this consortium we developed a Big Data platform that enables adaptive analytics at the IT/OT boundary by leveraging innovative solutions for the safe and automatic deployment of data-driven apps, using MLOps and DevOps techniques and technologies, and evaluated it in real use cases provided by the world leading industrial partners involved in the project.
+ER  - 
+
+TY  - JOUR
+T1  - ChatGPT vs human expertise in the context of IT recruitment
+AU  - Szandała, Tomasz
+JO  - Expert Systems with Applications
+VL  - 264
+SP  - 125868
+PY  - 2025
+DA  - 2025/03/10/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2024.125868
+UR  - https://www.sciencedirect.com/science/article/pii/S0957417424027350
+KW  - DevOps
+KW  - Recruitment
+KW  - Generative AI
+KW  - Large language models
+KW  - Human resources
+AB  - This study aims to address the gap in understanding the extent to which AI can replace human technical interviewers in the recruitment process. It investigates the potential of a Large Language Models, specifically ChatGPT, Google Gemini and Mistral, in assessing candidates’ competencies in Information Technology (IT) compared to evaluations made by human experts. The experiment involved three experienced DevOps specialists who assessed the written responses of 21 candidates to ten industry-relevant questions; each limited to 500 characters. The evaluation was conducted using a simple yet effective −2 to 2 scale, with −2 indicating a negative assessment for incorrect answers, 0 for ambiguous or incomplete answers, and 2 for excellent responses. The same set of responses was then evaluated by LLMs, adhering to the identical criteria and scale. This comparative analysis aims to determine the reliability and accuracy of AI in replicating expert human judgement in IT recruitment. The study’s findings, backed by the Fleiss kappa test, show that human reviewers are not perfectly aligned in their judgement. On the other hand, the AI tool also lacks consistency, as the consequent repetition of the same review request may result in a different decision. The results are anticipated to contribute to the ongoing discourse on AI-assisted decision-making and its practical applications in human resource management and recruitment.
+ER  - 
+
+TY  - JOUR
+T1  - MLOps for Enterprise AI: A Systematic Literature Review of Frameworks, Interpretability Practices, and Organisational Readiness
+AU  - Varma, Deepkumar K
+AU  - Parmar, Rajendra
+AU  - Bhat, Sneha
+AU  - Dutta, Pankaj
+JO  - Future Generation Computer Systems
+SP  - 108807
+PY  - 2026
+DA  - 2026/09/06/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2026.108807
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X26004413
+KW  - MLOps
+KW  - Machine Learning Operations
+KW  - DevOps
+KW  - FinTech
+KW  - Model Governance
+KW  - Organisational Readiness
+KW  - Enterprise AI
+AB  - The rapid industrialisation of artificial intelligence has elevated Machine Learning Operations (MLOps) into a foundational discipline for organisations seeking to deploy, monitor, and sustain machine learning models in production. Despite a growing body of literature on technical pipeline orchestration and continuous delivery for ML, significant gaps persist in how enterprises-particularly within the financial services and FinTech sectors-integrate interpretability requirements, address organisational readiness, and govern data-driven decision-making at scale. This paper presents a systematic literature review (SLR) following the PRISMA protocol, synthesising findings from 170 peer-reviewed publications spanning 2015 to 2025. We examine three interconnected themes: (i) MLOps frameworks, maturity models, and pipeline orchestration practices; (ii) explainability and interpretability integration within MLOps lifecycles; and (iii) organisational, team-level, and governance factors that determine successful enterprise MLOps adoption. Drawing on the SPACE and DORA frameworks for developer productivity analogy, we further contextualise these findings within large-scale FinTech settings, highlighting the particular pressures of regulatory compliance (SR 11-7, GDPR, EU AI Act), model risk management, and real-time fraud detection pipelines. We propose a four-tier integrative MLOps Maturity and Interpretability Framework (MMIF) and identify eight priority research gaps requiring empirical investigation. Our findings offer actionable guidance for practitioners, engineering leads, and product managers responsible for operationalising AI within enterprise environments.
+ER  - 
+
+TY  - JOUR
+T1  - A reference architecture for an orchestrated collaborative MLOps: A ground-up design from literature combining human and LLM expertise
+AU  - Daoud, Charbel
+AU  - Azar, Danielle
+AU  - Urtado, Christelle
+AU  - Vauttier, Sylvain
+JO  - Future Generation Computer Systems
+VL  - 185
+SP  - 108700
+PY  - 2026
+DA  - 2026/12/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2026.108700
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X26003341
+KW  - Software engineering
+KW  - Machine learning operations
+KW  - MLOps actors
+KW  - MLOps activities
+KW  - MLOps Reference architecture
+KW  - Collaborative MLOps
+KW  - Orchestration
+AB  - With the increasing adoption of Machine Learning (ML), the need to manage, in a tailored manner, the end-to-end engineering of ML-powered software arises. Machine Learning Operations (MLOps) extends DevOps to address the specific challenges of the development and lifelong management of this new type of software. Despite the growing attention to this domain, an accepted, accessible, and modular reference architecture for MLOps is still missing. This paper presents SkeltyMLOps, a reference architecture aimed at promoting collaboration among the diverse actors involved in MLOps. SkeltyMLOps is built as rigorously as possible from knowledge gathered through a systematic literature review. First, sets of MLOps actors and activities are manually extracted from the literature by two independent authors. The extracted terms are then clustered and normalized through a process involving human and Large Language Model (LLM) experts. To carefully build the artificial expertise, several experiments are conducted using various LLMs, with or without additional contextual knowledge and under different parameter settings. The resulting clusters and labels serve as the foundation for the design of the SkeltyMLOps architecture. There, special attention is paid to designing the orchestration of MLOps activities and to the coordination of contributions of various actors. Therefore, the originality of the contribution is twofold: (1) the careful knowledge gathering process that grounds the proposed architecture, and (2) the central role given to orchestration and coordination at the heart of the architecture.
+ER  - 
+
+TY  - JOUR
+T1  - Applying generative artificial intelligence for vulnerability fixing in a proprietary software ecosystem
+AU  - Costa, Luiz Alexandre
+AU  - Fontão, Awdren
+AU  - Santos, Rodrigo Pereira dos
+AU  - Serebrenik, Alexander
+JO  - Journal of Systems and Software
+VL  - 234
+SP  - 112723
+PY  - 2026
+DA  - 2026/04/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2025.112723
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121225003929
+KW  - Software ecosystems
+KW  - Software quality
+KW  - Software asset management
+KW  - Incident management
+KW  - Generative artificial intelligence
+AB  - Context: Large organizations often operate within proprietary software ecosystems (PSECO), composed of interdependent software artifacts, multiple actors, and centralized governance. In such environments, addressing security vulnerabilities is particularly challenging due to strict quality standards, regulatory constraints, and the risk of cascading failures. These challenges can compromise delivery schedules, increase operational risk, and force teams to interrupt planned work to address urgent issues. Goal: In response to these challenges, recent advances in Generative Artificial Intelligence (GenAI), particularly large language models (LLM), have emerged as a promising avenue to support software engineering tasks such as code generation and automated repair. This study investigates how a GenAI-based approach can support vulnerability remediation in PSECO while preserving delivery cadence in Continuous Integration and Continuous Delivery (CI/CD) pipelines. Methods: We conducted a participative case study in a large global organization to design and evaluate PSECO-SafePatch, an approach composed of: (i) a structured remediation process tailored to enterprise constraints; and (ii) a web-based tool integrating Fortify static analysis with GenAI-based patch generation. The approach includes human-in-the-loop validation and aligns with DevOps practices. Results: PSECO-SafePatch reduced mean remediation time by 84 % with an 89 % patch success rate. It also reduced cognitive overload by guiding developers through structured validation, fostering trust without overreliance. Conclusion: The findings show that GenAI-supported remediation is feasible and effective in PSECO. Human-in-the-loop validation preserved critical thinking, addressing concerns about blind automation and knowledge erosion, and reinforcing the value of responsible automation at scale.
+ER  - 
+
+TY  - JOUR
+T1  - An empirical dataset combining repository metrics and pipeline workflows for predictive software analytics
+AU  - Sanusi, Funmilayo Abibat
+AU  - Faruna, Joshua Omaye
+JO  - Data in Brief
+VL  - 68
+SP  - 113128
+PY  - 2026
+DA  - 2026/08/01/
+SN  - 2352-3409
+DO  - https://doi.org/10.1016/j.dib.2026.113128
+UR  - https://www.sciencedirect.com/science/article/pii/S235234092600675X
+KW  - Continuous integration
+KW  - Continuous deployment
+KW  - Github actions
+KW  - Pipeline failure
+KW  - Machine learning
+KW  - Software engineering
+AB  - This data article presents a comprehensive dataset that captures the workflow history of Continuous Integration and Continuous Deployment (CI/CD) pipelines, along with the code-level repository metrics. There are 303,079 distinct execution records from August 2016 to April 2026 in the dataset. Specifically, the data comprises of archival Travis CI records from August to December 2016 which serves as the baseline, and live GitHub Actions workflows from May 2024 to April 2026. The data collection used a custom python extraction script which combined historical Travis CI data and live GitHub Actions workflow metadata with deep Git commit history. The chosen live repositories covered 34 highly active open-source projects across different domains like DevOps tools such as kubernetes/kubernetes, web frameworks like facebook/react, and machine learning like tensorflow/tensorflow. The variables collected consist of pipeline execution durations, pipeline final status, the conditions that triggered the events, code churn (additions and deletions), and the number of changed files. This resulted in a structured and tabular format (csv) dataset which is hosted and accessible on Mendeley Data and serves as a solid foundation for researchers and practitioners interested in discovering patterns in build breakages, creating predictive machine learning models for forecasting CI/CD pipelines' workflows, and advancing AIOps methodologies in software engineering.
+ER  - 
+
+TY  - JOUR
+T1  - From challenges to metrics: An LLM-driven DevOps recommendation system grounded in evidence-based mappings
+AU  - Khadem, Ehsan Azizi
+AU  - Movaghar, Ali
+JO  - Array
+VL  - 28
+SP  - 100547
+PY  - 2025
+DA  - 2025/12/01/
+SN  - 2590-0056
+DO  - https://doi.org/10.1016/j.array.2025.100547
+UR  - https://www.sciencedirect.com/science/article/pii/S2590005625001742
+KW  - DevOps
+KW  - Large language models (LLMs)
+KW  - Recommendation systems
+KW  - Evidence-based software engineering
+KW  - Software process improvement
+AB  - DevOps is widely adopted, yet many organizations continue to face barriers such as integration gaps, unclear objectives, and fragmented decision support. These barriers limit the alignment of DevOps initiatives with organizational goals. This study introduces an empirically grounded recommendation system that connects DevOps adoption challenges to success factors, operational processes, and performance metrics. The system is built on a structured mapping model and uses a semantic recommendation engine enhanced with large language model capabilities. It interprets natural-language descriptions of challenges and generates context-aware recommendations by combining semantic retrieval with evidence from 378 peer-reviewed studies. Evaluation shows that the system outperforms keyword-based retrieval, achieving higher precision at rank three and improved expert-rated relevance. By linking practitioner challenges with systematically curated evidence, the approach provides actionable and auditable guidance for DevOps transformation planning. The results highlight the potential of semantic reasoning and structured knowledge extraction to support evidence-based decision-making in software engineering practice.
+ER  - 
+
+TY  - JOUR
+T1  - Evaluating the layout quality of UML class diagrams using machine learning
+AU  - Bergström, Gustav
+AU  - Hujainah, Fadhl
+AU  - Ho-Quang, Truong
+AU  - Jolak, Rodi
+AU  - Rukmono, Satrio Adi
+AU  - Nurwidyantoro, Arif
+AU  - Chaudron, Michel R.V.
+JO  - Journal of Systems and Software
+VL  - 192
+SP  - 111413
+PY  - 2022
+DA  - 2022/10/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2022.111413
+UR  - https://www.sciencedirect.com/science/article/pii/S016412122200125X
+KW  - Quality of layout
+KW  - Machine learning
+KW  - Quality of UML class diagrams
+AB  - UML is the de facto standard notation for graphically representing software. UML diagrams are used in the analysis, construction, and maintenance of software systems. Mostly, UML diagrams capture an abstract view of a (piece of a) software system. A key purpose of UML diagrams is to share knowledge about the system among developers. The quality of the layout of UML diagrams plays a crucial role in their comprehension. In this paper, we present an automated method for evaluating the layout quality of UML class diagrams. We use machine learning based on features extracted from the class diagram images using image processing. Such an automated evaluator has several uses: (1) From an industrial perspective, this tool could be used for automated quality assurance for class diagrams (e.g., as part of a quality monitor integrated into a DevOps toolchain). For example, automated feedback can be generated once a UML diagram is checked in the project repository. (2) In an educational setting, the evaluator can grade the layout aspect of student assignments in courses on software modeling, analysis, and design. (3) In the field of algorithm design for graph layouts, our evaluator can assess the layouts generated by such algorithms. In this way, this evaluator opens up the road for using machine learning to learn good layouting algorithms.
+Approach.
+We use machine learning techniques to build (linear) regression models based on features extracted from the class diagram images using image processing. As ground truth, we use a dataset of 600+ UML Class Diagrams for which experts manually label the quality of the layout.
+Contributions.
+This paper makes the following contributions: (1) We show the feasibility of the automatic evaluation of the layout quality of UML class diagrams. (2) We analyze which features of UML class diagrams are most strongly related to the quality of their layout. (3) We evaluate the performance of our layout evaluator. (4) We offer a dataset of labeled UML class diagrams. In this dataset, we supply for every diagram the following information: (a) a manually established ground truth of the quality of the layout, (b) an automatically established value for the layout-quality of the diagram (produced by our classifier), and (c) the values of key features of the layout of the diagram (obtained by image processing). This dataset can be used for replication of our study and others to build on and improve on this work. Editor’s note: Open Science material was validated by the Journal of Systems and Software Open Science Board..
+ER  - 
+
+TY  - JOUR
+T1  - An architecture for model-based and intelligent automation in DevOps
+AU  - Eramo, Romina
+AU  - Said, Bilal
+AU  - Oriol, Marc
+AU  - Bruneliere, Hugo
+AU  - Morales, Sergio
+JO  - Journal of Systems and Software
+VL  - 217
+SP  - 112180
+PY  - 2024
+DA  - 2024/11/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2024.112180
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121224002255
+KW  - Software architecture
+KW  - DevOps
+KW  - Continuous software engineering
+KW  - Artificial Intelligence
+KW  - Mode-driven engineering
+AB  - The increasing complexity of modern systems poses numerous challenges at all stages of system development and operation. Continuous software and system engineering processes, e.g., DevOps, are increasingly adopted and spread across organizations. In parallel, many leading companies have begun to apply artificial intelligence (AI) principles and techniques, including Machine Learning (ML), to improve their products. However, there is no holistic approach that can support and enhance the growing challenges of DevOps. In this paper, we propose a software architecture that provides the foundations of a model-based framework for the development of AI-augmented solutions incorporating methods and tools for continuous software and system engineering and validation. The key characteristic of the proposed architecture is that it allows leveraging the advantages of both AI/ML and Model Driven Engineering (MDE) approaches and techniques in a DevOps context. This architecture has been designed, developed and applied in the context of the European large collaborative project named AIDOaRt. In this paper, we also report on the practical evaluation of this architecture. This evaluation is based on a significant set of technical solutions implemented and applied in the context of different real industrial case studies coming from the AIDOaRt project. Moreover, we analyze the collected results and discuss them according to both architectural and technical challenges we intend to tackle with the proposed architecture.
+ER  - 
+
+TY  - JOUR
+T1  - An empirical study of Policy-as-Code adoption in open-source software projects
+AU  - Foalem, Patrick Loic
+AU  - Silva, Leuson Da
+AU  - Khomh, Foutse
+AU  - Merlo, Ettore
+JO  - Journal of Systems and Software
+VL  - 242
+SP  - 113028
+PY  - 2026
+DA  - 2026/12/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2026.113028
+UR  - https://www.sciencedirect.com/science/article/pii/S016412122600261X
+KW  - Empirical
+KW  - Policy as Code
+KW  - PaC tools
+KW  - Github repository
+AB  - Context:
+Policy-as-Code (PaC) has become a foundational approach for embedding governance, compliance, and security requirements directly into software systems. While organizations increasingly adopt PaC tools, the software engineering community lacks an empirical understanding of how these tools are used in real-world development practices.
+Objective:
+This paper aims to bridge this gap by conducting a large-scale study of PaC usage in open-source software. Our goal is to characterize how PaC tools are adopted, what purposes they serve, and what governance activities they support across diverse software ecosystems.
+Methods:
+We analyzed 399 GitHub repositories using nine widely adopted PaC tools. Our mixed-methods approach combines quantitative analysis of tool usage and project characteristics with a qualitative investigation of policy files. We further employ a Large Language Model (LLM)–assisted classification pipeline, refined through expert validation, to derive a taxonomy of PaC usage consisting of 5 categories and 15 sub-categories.
+Results:
+Our study reveals substantial diversity in PaC adoption. PaC tools are frequently used in early-stage projects and are heavily oriented toward governance, configuration control, and documentation. We also observe emerging PaC usage in MLOps pipelines and strong co-usage patterns, such as between Gatekeeper and OPA. Our taxonomy highlights recurring governance intents.
+Conclusion:
+Our findings offer actionable insights for practitioners and tool developers. They highlight concrete usage patterns, emphasize actual PaC usage, and motivate opportunities for improving tool interoperability. This study lays the empirical foundation for future research on PaC practices and their role in ensuring trustworthy, compliant software systems.
+ER  - 
+
+TY  - JOUR
+T1  - The pipeline for the continuous development of artificial intelligence models—Current state of research and practice
+AU  - Steidl, Monika
+AU  - Felderer, Michael
+AU  - Ramler, Rudolf
+JO  - Journal of Systems and Software
+VL  - 199
+SP  - 111615
+PY  - 2023
+DA  - 2023/05/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2023.111615
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121223000109
+KW  - Continuous development of AI
+KW  - Continuous (end-to-end) lifecycle pipeline for AI
+KW  - MLOps
+KW  - CI/CD for AI
+KW  - DevOps for AI
+KW  - Multivocal literature review
+AB  - Companies struggle to continuously develop and deploy Artificial Intelligence (AI) models to complex production systems due to AI characteristics while assuring quality. To ease the development process, continuous pipelines for AI have become an active research area where consolidated and in-depth analysis regarding the terminology, triggers, tasks, and challenges is required. This paper includes a Multivocal Literature Review (MLR) where we consolidated 151 relevant formal and informal sources. In addition, nine-semi structured interviews with participants from academia and industry verified and extended the obtained information. Based on these sources, this paper provides and compares terminologies for Development and Operations (DevOps) and Continuous Integration (CI)/Continuous Delivery (CD) for AI, Machine Learning Operations (MLOps), (end-to-end) lifecycle management, and Continuous Delivery for Machine Learning (CD4ML). Furthermore, the paper provides an aggregated list of potential triggers for reiterating the pipeline, such as alert systems or schedules. In addition, this work uses a taxonomy creation strategy to present a consolidated pipeline comprising tasks regarding the continuous development of AI. This pipeline consists of four stages: Data Handling, Model Learning, Software Development and System Operations. Moreover, we map challenges regarding pipeline implementation, adaption, and usage for the continuous development of AI to these four stages.
+ER  - 
+
+TY  - JOUR
+T1  - Mining the Technical Roles of GitHub Users
+AU  - Montandon, João Eduardo
+AU  - Valente, Marco Tulio
+AU  - Silva, Luciana L.
+JO  - Information and Software Technology
+VL  - 131
+SP  - 106485
+PY  - 2021
+DA  - 2021/03/01/
+SN  - 0950-5849
+DO  - https://doi.org/10.1016/j.infsof.2020.106485
+UR  - https://www.sciencedirect.com/science/article/pii/S0950584920302275
+KW  - Technical roles
+KW  - Technical expertise
+KW  - Developers profiles
+KW  - Machine learning
+KW  - GitHub
+AB  - Context:Modern software development demands high levels of technical specialization. These conditions make IT companies focus on creating cross-functional teams, such as frontend, backend, and mobile developers. In this context, the success of software projects is highly influenced by the expertise of these teams in each field. Objective:In this paper, we investigate machine-learning based approaches to automatically identify the technical roles of open source developers. Method:For this, we first build a ground truth with 2284 developers labeled in six different roles: backend, frontend, full-stack, mobile, devops, and data science. Then, we build three different machine-learning models used to identify these roles. Results:These models presented competitive results for precision (0.88) and AUC (0.89) when identifying all six roles. Moreover, our results show that programming-languages are the most relevant features to predict the investigated roles. Conclusion:The approach proposed in this paper can assist companies during their hiring process, such as by recommending developers with the expertise required by job positions.
+ER  - 
+
+TY  - JOUR
+T1  - AIDOaRt: AI-augmented Automation for DevOps, a model-based framework for continuous development in Cyber–Physical Systems
+AU  - Bruneliere, Hugo
+AU  - Muttillo, Vittoriano
+AU  - Eramo, Romina
+AU  - Berardinelli, Luca
+AU  - Gómez, Abel
+AU  - Bagnato, Alessandra
+AU  - Sadovykh, Andrey
+AU  - Cicchetti, Antonio
+JO  - Microprocessors and Microsystems
+VL  - 94
+SP  - 104672
+PY  - 2022
+DA  - 2022/10/01/
+SN  - 0141-9331
+DO  - https://doi.org/10.1016/j.micpro.2022.104672
+UR  - https://www.sciencedirect.com/science/article/pii/S0141933122002022
+KW  - Cyber–Physical Systems
+KW  - Continuous development
+KW  - System engineering
+KW  - Software engineering
+KW  - Model Driven Engineering
+KW  - Artificial Intelligence
+KW  - DevOps
+KW  - AIOps
+AB  - The advent of complex Cyber–Physical Systems (CPSs) creates the need for more efficient engineering processes. Recently, DevOps promoted the idea of considering a closer continuous integration between system development (including its design) and operational deployment. Despite their use being still currently limited, Artificial Intelligence (AI) techniques are suitable candidates for improving such system engineering activities (cf. AIOps). In this context, AIDOaRT is a large European collaborative project that aims at providing AI-augmented automation capabilities to better support the modeling, coding, testing, monitoring, and continuous development of CPSs. The project proposes to combine Model Driven Engineering principles and techniques with AI-enhanced methods and tools for engineering more trustable CPSs. The resulting framework will (1) enable the dynamic observation and analysis of system data collected at both runtime and design time and (2) provide dedicated AI-augmented solutions that will then be validated in concrete industrial cases. This paper describes the main research objectives and underlying paradigms of the AIDOaRt project. It also introduces the conceptual architecture and proposed approach of the AIDOaRt overall solution. Finally, it reports on the actual project practices and discusses the current results and future plans.
+ER  - 
+
+TY  - JOUR
+T1  - SnapperML: A python-based framework to improve machine learning operations
+AU  - Molner, Antonio
+AU  - Carrillo-Perez, Francisco
+AU  - Guillén, Alberto
+JO  - SoftwareX
+VL  - 26
+SP  - 101648
+PY  - 2024
+DA  - 2024/05/01/
+SN  - 2352-7110
+DO  - https://doi.org/10.1016/j.softx.2024.101648
+UR  - https://www.sciencedirect.com/science/article/pii/S2352711024000190
+KW  - MLOps
+KW  - Machine learning
+KW  - Deep learning
+AB  - Data Science has emerged as a vital discipline applicable across numerous industry sectors. However, achieving reproducibility in this field remains a challenging and unresolved problem. Additionally, transitioning trained models from development to production environments often proves to be a non-trivial task. In this study, we propose SnapperML, a comprehensive framework designed to address these issues by enabling practitioners to establish structured workflows that facilitate result reproducibility. Leveraging DevOps techniques, SnapperML ensures seamless model deployment from the lab to production, mitigating the risks associated with compatibility issues and model selection errors. The framework enables meticulous tracking of every aspect of model training, including hyperparameter selection, tuning, and distributed training on a server. By offering a suite of tools for model tracking and optimization, SnapperML presents a promising solution to the reproducibility challenge in the field of data science.
+ER  - 
+
+TY  - JOUR
+T1  - CausalOps — Towards an industrial lifecycle for causal probabilistic graphical models
+AU  - Maier, Robert
+AU  - Schlattl, Andreas
+AU  - Guess, Thomas
+AU  - Mottok, Jürgen
+JO  - Information and Software Technology
+VL  - 174
+SP  - 107520
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 0950-5849
+DO  - https://doi.org/10.1016/j.infsof.2024.107520
+UR  - https://www.sciencedirect.com/science/article/pii/S0950584924001253
+KW  - Causal engineering
+KW  - Model lifecycle
+KW  - MLOps
+KW  - Causal graphical models
+AB  - Context:
+Causal probabilistic graph-based models have gained widespread utility, enabling the modeling of cause-and-effect relationships across diverse domains. With their rising adoption in new areas, such as safety analysis of complex systems, software engineering, and machine learning, the need for an integrated lifecycle framework akin to DevOps and MLOps has emerged. Currently, such a reference for organizations interested in employing causal engineering is missing. This lack of guidance hinders the incorporation and maturation of causal methods in the context of real-life applications.
+Objective:
+This work contextualizes causal model usage across different stages and stakeholders and outlines a holistic view of creating and maintaining them within the process landscape of an organization.
+Methods:
+A novel lifecycle framework for causal model development and application called CausalOps is proposed. By defining key entities, dependencies, and intermediate artifacts generated during causal engineering, a consistent vocabulary and workflow model to guide organizations in adopting causal methods are established.
+Results:
+Based on the early adoption of the discussed methodology to a real-life problem within the automotive domain, an experience report underlining the practicability and challenges of the proposed approach is discussed.
+Conclusion:
+It is concluded that besides current technical advancements in various aspects of causal engineering, an overarching lifecycle framework that integrates these methods into organizational practices is missing. Although diverse skills from adjacent disciplines are widely available, guidance on how to transfer these assets into causality-driven practices still need to be addressed in the published literature. CausalOps’ aim is to set a baseline for the adoption of causal methods in practical applications within interested organizations and the causality community.
+ER  - 

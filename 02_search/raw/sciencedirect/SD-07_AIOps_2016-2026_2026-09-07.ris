@@ -1,0 +1,792 @@
+TY  - JOUR
+T1  - A joint matrix factorization and clustering scheme for irregular time series data
+AU  - He, Shiming
+AU  - Guo, Meng
+AU  - Li, Zhuozhou
+AU  - Lei, Ying
+AU  - Zhou, Siyuan
+AU  - Xie, Kun
+AU  - Xiong, Neal N.
+JO  - Information Sciences
+VL  - 644
+SP  - 119220
+PY  - 2023
+DA  - 2023/10/01/
+SN  - 0020-0255
+DO  - https://doi.org/10.1016/j.ins.2023.119220
+UR  - https://www.sciencedirect.com/science/article/pii/S0020025523008058
+KW  - Time series clustering
+KW  - Irregular sampling
+KW  - Matrix factorization
+KW  - Iteration
+AB  - Key Performance Indicator (KPI) clustering plays an important role in Artificial Intelligence for IT Operations (AIOps) when the number of KPIs is large. This approach can effectively reduce the overhead by dividing KPIs into several classes, then applying the same anomaly detection or prediction model to all KPIs in a class. However, KPI sampling strategies vary depending on the environment in question, which leads to the production of irregular KPIs. Few existing works have considered the clustering of KPIs with irregular sampling. Matrix factorization (MF) is widely applied in low-rank data recovery and can be used to align and fill irregular KPIs. However, the clustering performance after recovering and filling by MF remains unknown. These two problems interact with each other and should therefore be solved together. Accordingly, we formulate the joint MF and clustering problem for irregular KPIs and design an iterative clustering scheme based on MF. This iterative clustering scheme comprises alignment and pre-filling, the loop of clustering, and subclass filling by MF, and can work with two pre-filling methods. Extensive experiments on two real-world datasets show that the iterative clustering scheme can obtain higher normalized mutual information (NMI) than non-iterative clustering, while also consuming less computational time than Dynamic Time Warping (DTW). The two kinds of pre-filling methods each have their advantages on different datasets.
+ER  - 
+
+TY  - JOUR
+T1  - FRL-MFPG: Propagation-aware fault root cause location for microservice intelligent operation and maintenance
+AU  - Chen, Yuhua
+AU  - Xu, Dongqi
+AU  - Chen, Ningjiang
+AU  - Wu, Xu
+JO  - Information and Software Technology
+VL  - 153
+SP  - 107083
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 0950-5849
+DO  - https://doi.org/10.1016/j.infsof.2022.107083
+UR  - https://www.sciencedirect.com/science/article/pii/S0950584922001926
+KW  - Microservice
+KW  - Fault root cause location
+KW  - Fault propagation
+KW  - Artificial intelligence for IT operations
+KW  - Container
+AB  - Context:
+Due to the continuous updates and complex dependencies of microservices, the probability of a fault occurrence and the difficulty of doing a diagnosis have increased, making it hard for operation and maintenance staff to quickly and accurately troubleshoot a fault and locate its root cause.
+Objective:
+To fulfill the requirements of artificial intelligence for IT operations, called AIOps, this paper studies microservice fault root cause location technology from two aspects, microservice fault propagation relationships and fault root cause location.
+Method:
+First, this paper designs a microservice fault propagation graph construction method MFPG-FC based on fault correlation. The method effectively depicts the propagation relationship and the scope of influence of microservice faults and improves the accuracy of locating a fault’s root cause. Second, in terms of fault root cause location, this paper proposes a microservice fault root cause location algorithm based on a microservice fault propagation relationship graph called FRL-MFPG. The FRL-MFPG algorithm is designed to improve the globalization, flexibility and accuracy of the fault location search range and rate. Finally, an AIOps-oriented microservice fault root cause location framework (AIOps-MFRL) is designed.
+Results:
+The experimental results show that, compared with the traditional method, the method proposed in this paper is more accurate and can locate the root cause of a fault more accurately. After detecting the fault of microservices, it can achieve the goal of locating the root cause of the fault, which is helpful to improve the efficiency of intelligent operation and maintenance.
+Conclusion:
+The method in this paper can effectively locate the root cause of a fault and identify the root cause indicators of the fault after the fault is detected in the microservice. It has better timeliness and accuracy, reduces troubleshooting time and the losses caused by faults, and improves operation and maintenance efficiency.
+ER  - 
+
+TY  - JOUR
+T1  - Applications’ Integration and Operation Platform to Support Smart Manufacturing by Small and Medium-sized Enterprises
+AU  - Jun, Chanmo
+AU  - Lee, Ju Yeon
+AU  - Yoon, Joo-Sung
+AU  - Kim, Bo Hyun
+JO  - Procedia Manufacturing
+VL  - 11
+SP  - 1950
+EP  - 1957
+PY  - 2017
+DA  - 2017/01/01/
+T2  - 27th International Conference on Flexible Automation and Intelligent Manufacturing, FAIM2017, 27-30 June 2017, Modena, Italy
+SN  - 2351-9789
+DO  - https://doi.org/10.1016/j.promfg.2017.07.341
+UR  - https://www.sciencedirect.com/science/article/pii/S2351978917305498
+KW  - smart manufacturing
+KW  - applications’ integration and operation platform
+KW  - cloud
+KW  - small and medium-sized enterprieses
+AB  - Many developed countries are making various efforts to innovate their own manufacturing industries, through initiatives such as Manufacturing innovation 3.0, Industry 4.0, and Manufacturing 2025. Innovation in the manufacturing industry, represented by the so-called “smart factories,” is being developed through the latest technologies such as Internet of things (IoT), cloud, and big data. However, as the application of these technologies requires a lot of cost and time, small and medium-sized enterprises (SMEs) are often hampered in their efforts to take full advantage of them. For an enterprise that operates a manufacturing information system, the integrated management of information between systems is essential to the application of a new technology. If the enterprise lacks the relevant experts, it will have difficulty applying a new technology in the field. This study suggests the application of a cloud-based applications’ integration and operation platform (AIOP) in order to resolve those problems. The AIOP must accept a large volume of data at IoT-based manufacturing fields, interconnect between manufacturing fields and AIOP, and provide application contents in the form of service. The suggested study contents are applied to a company that produces electric components using plastic injection molds to verify their effects. It is expected that this study can be used as a reference model for applying smart factory technologies to other SMEs in the future.
+ER  - 
+
+TY  - JOUR
+T1  - Transfer learning for IT operations: A comparison of statistical and neural time-series models for CPU utilization forecasting
+AU  - De Novi, Danny
+AU  - Carnevale, Lorenzo
+AU  - Marino, Roberto
+AU  - Balouek, Daniel
+AU  - Parashar, Manish
+AU  - Villari, Massimo
+JO  - Telematics and Informatics Reports
+VL  - 23
+SP  - 100361
+PY  - 2026
+DA  - 2026/09/01/
+SN  - 2772-5030
+DO  - https://doi.org/10.1016/j.teler.2026.100361
+UR  - https://www.sciencedirect.com/science/article/pii/S2772503026000721
+KW  - CPU utilization forecasting
+KW  - Virtualization
+KW  - Time-series forecasting
+KW  - AIOps
+KW  - Resource management
+KW  - Telemetry
+AB  - AI-driven IT operations (AIOps) require forecasting models that combine predictive accuracy with low computational overhead across heterogeneous cloud infrastructures. However, existing studies rarely compare statistical, recurrent, and Transformer-based forecasting models under transfer learning (TL) and deployment-oriented constraints. This paper presents a comparative evaluation of statistical and neural time-series forecasting models for CPU utilization prediction in virtual machine and containerized environments. We analyze ARIMA, RNN, LSTM, Bidirectional LSTM, Informer, Temporal Fusion Transformer (TFT), and a VM-Temporal Transformer using TL between the Microsoft Azure Trace and Alibaba Cloud Trace datasets. Models are pre-trained on Azure virtual machine workloads and fine-tuned on Alibaba container traces to assess portability across heterogeneous infrastructures. Results show that attention-based architectures achieve competitive forecasting accuracy, with Informer reaching a minimum MAE of 0.0267. However, these gains require higher inference latency and larger memory footprints. Conversely, LSTM-based architectures offer the best trade-off between accuracy, inference speed, and storage efficiency, achieving sub-millisecond inference latency (0.2361 ms) and a compact 201 KB model size while maintaining robust performance across multiple forecasting horizons. The study demonstrates that TL enables effective knowledge transfer between VM and container-based environments, improving the portability of workload forecasting models for cloud and edge infrastructures. Beyond accuracy, the paper provides a deployment-oriented analysis of latency, storage footprint, and adaptability, offering practical guidelines for selecting forecasting architectures in resource-constrained AIOps scenarios supporting resilient and sustainable digital infrastructures.
+ER  - 
+
+TY  - JOUR
+T1  - Anomaly detection for key performance indicators by fusing self-supervised spatio-temporal graph attention networks
+AU  - Chen, Ningjiang
+AU  - Tu, Huan
+AU  - Zeng, Haoyang
+AU  - Ou, Yangjie
+JO  - Knowledge-Based Systems
+VL  - 300
+SP  - 112167
+PY  - 2024
+DA  - 2024/09/27/
+SN  - 0950-7051
+DO  - https://doi.org/10.1016/j.knosys.2024.112167
+UR  - https://www.sciencedirect.com/science/article/pii/S0950705124008013
+KW  - Key performance indicators
+KW  - Anomaly detection
+KW  - Spatio-temporal features
+KW  - Graph attention network (GAT)
+AB  - With the development of Artificial Intelligence for IT Operations (AIOps), numerous software and services are monitored by Key Performance Indicators (KPIs) collection components. Multivariate KPIs, as a type of time series data, are essential for effective management of the entity's service quality. In recent years, deep learning methods have made great improvements in the anomaly detection of multivariate time series; however, existing methods have not fully considered how to explicitly capture the correlation between multivariate time series in the feature dimension and temporal dimension, resulting in inevitable abnormal false positives. Therefore, this paper proposes a self-supervised multivariate KPIs anomaly detection method MAD-STA that combines graph structure learning and spatio-temporal GAT (Graph Attention Network). In the feature dimension, MAD-STA introduces a node embedding mechanism for graph structure learning and then uses the feature-oriented GAT layer to compute the graph attention coefficient to obtain the correlation between different KPIs. In the temporal dimension, MAD-STA uses the time-oriented GAT layer to compute attention weights between correlated timestamps, and the GRU-based VAE encoder captures long-term dependence to extract more comprehensive temporal feature representations. Finally, MAD-STA uses GRU-based VAE decoder to reconstruct the captured high-level features and achieves efficient anomaly detection and localization by calculating the anomaly score of multiple KPIs. Compared with the baseline methods on multiple data sets, the experimental results show that the anomaly detection accuracy of MAD-STA is better than that of the baseline method. Especially on the KPI data sets of the two server clusters of SMD and CKM, MAD-STA improves the performance and the F1 comprehensive index compared with the best baseline method. In addition, MAD-STA performs well on anomaly false positive rate and has excellent interpretability, which can be used to assist anomaly diagnosis and root cause index analysis.
+ER  - 
+
+TY  - JOUR
+T1  - Data centers in the age of AI: A tutorial survey on infrastructure, sustainability, and emerging challenges
+AU  - Cruzes, Sergio
+JO  - Journal of Network and Computer Applications
+VL  - 252
+SP  - 104525
+PY  - 2026
+DA  - 2026/08/01/
+SN  - 1084-8045
+DO  - https://doi.org/10.1016/j.jnca.2026.104525
+UR  - https://www.sciencedirect.com/science/article/pii/S1084804526001001
+KW  - Data center
+KW  - Sustainability
+KW  - Artificial intelligence
+AB  - Data centers have become the backbone of the digital economy, supporting cloud services, digital platforms, and the growing demands of artificial intelligence (AI). The emergence of large language models (LLMs) has amplified their energy use, cooling intensity, and environmental impact, raising urgent concerns around sustainability, grid stability, and operational efficiency. This tutorial surveys the evolution of modern data centers, beginning with their classification and architectures, and examining key dimensions of power consumption, cooling technologies, and water utilization. It underscores how performance indicators such as Power Usage Effectiveness (PUE) and Water Usage Effectiveness (WUE), and carbon-aware operations are shaping sustainable practices. Particular emphasis is placed on AI workloads, where training consumes gigawatt-hours of energy and inference, scaled across billions of queries, drives long-term infrastructure demand despite uncertain profitability models. The survey also explores latency-critical operations, edge deployments, and the transformation of optical networking and fabrics to support AI-driven bandwidth and efficiency requirements. Emerging paradigms including digital twins, AIOps-driven orchestration, and hybrid optical/electrical fabrics are identified as enablers of more resilient and adaptive infrastructures. Looking ahead, the integration of advanced cooling, renewable alignment, demand-responsive scheduling, and net-zero commitments will be pivotal in reconciling scalability with sustainability. By consolidating insights from research and practice, this work provides both a foundational overview and a forward-looking roadmap for designing AI-ready data centers that balance performance, resilience, and environmental responsibility at the core of the digital economy.
+ER  - 
+
+TY  - JOUR
+T1  - DGTL-Net: A Deep Generative Transfer Learning Network for Fault Diagnostics on New Hard Disks
+AU  - Shi, Chang
+AU  - Wu, Zhenyu
+AU  - Lv, Xiaomeng
+AU  - Ji, Yang
+JO  - Expert Systems with Applications
+VL  - 169
+SP  - 114379
+PY  - 2021
+DA  - 2021/05/01/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2020.114379
+UR  - https://www.sciencedirect.com/science/article/pii/S0957417420310551
+KW  - AIOps
+KW  - Industrial applications
+KW  - Hard disks
+KW  - Fault diagnostics
+KW  - Deep generative network
+KW  - Deep transfer network
+AB  - Intelligent fault diagnosis of hard disks becomes significantly important to guarantee reliability of current cloud-based industrial systems. Most intelligent diagnostic methods are commonly based on assumptions that data from different disks are subject to the same distribution and there are sufficient faulty samples for training the models. However, in reality, there are types of hard disks from different manufacturers and their SMART encoding varies widely across manufacturers. It results in distribution discrepancy among disks and influences the generalization of machine learning methods. Moreover, hard disks usually work in healthy state that faulty events rarely happen on most of them, or especially never occur on new ones. Thus, this paper proposes a deep generative transfer learning network (DGTL-Net) for intelligent fault diagnostics on new hard disks. The DGTL-Net combines the deep generative network that generates fake faulty samples and the deep transfer network that solves the problem of distribution discrepancy between hard disks. An iterative end-end training strategy is also proposed for DGTL-Net to get the most optimal parameters of generative and transfer network simultaneously. Experiments have been conducted to prove that our method achieves better performance.
+ER  - 
+
+TY  - JOUR
+T1  - ServiceAnomaly: An anomaly detection approach in microservices using distributed traces and profiling metrics
+AU  - Panahandeh, Mahsa
+AU  - Hamou-Lhadj, Abdelwahab
+AU  - Hamdaqa, Mohammad
+AU  - Miller, James
+JO  - Journal of Systems and Software
+VL  - 209
+SP  - 111917
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2023.111917
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121223003126
+KW  - System observability
+KW  - Distributed traces
+KW  - Anomaly detection
+KW  - Microservice architectures
+KW  - Software reliability
+KW  - AIOps
+AB  - Anomaly detection is an essential activity for identifying abnormal behaviours in microservice-based systems. A common approach is to model the system behaviour during normal operation using either distributed traces or profiling metrics. The model is then used to detect anomalies during system operation. In this paper, we present a new anomaly detection approach, called ServiceAnomaly, for anomaly detection in microservice systems that combines distributed traces and six profiling metrics to build an annotated directed acyclic graph that characterizes the normal behaviour of the system. Unlike existing techniques, our approach captures the context propagation provided by distributed traces as a graph that is annotated with functions characterizing both linear and non-linear relationships between profiling metrics. The final annotated graph is used to detect abnormal executions during system operation. The results of applying our approach to two open-source benchmarks show that our approach detects anomalies with an F1-score up to 86%. We also show how developers can use the annotated graph to reason about the causes of anomalies
+ER  - 
+
+TY  - JOUR
+T1  - AML: An accuracy metric model for effective evaluation of log parsing techniques
+AU  - Sedki, Issam
+AU  - Hamou-Lhadj, Abdelwahab
+AU  - Mohamed, Otmane Ait
+JO  - Journal of Systems and Software
+VL  - 216
+SP  - 112154
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2024.112154
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121224001997
+KW  - Log parsing
+KW  - Log analytics
+KW  - Software logging
+KW  - AIOps
+KW  - Software maintenance and evolution
+AB  - Logs are essential for the maintenance of large software systems. Software engineers often analyze logs for debugging, root cause analysis, and anomaly detection tasks. Logs, however, are partly structured, making the extraction of useful information from massive log files a challenging task. Recently, many log parsing techniques have been proposed to automatically extract log templates from unstructured log files. These parsers, however, are evaluated using different accuracy metrics. In this paper, we show that these metrics have several drawbacks, making it challenging to understand the strengths and limitations of existing parsers. To address this, we propose a novel accuracy metric, called AML (Accuracy Metric for Log Parsing). AML is a robust accuracy metric that is inspired by research in the field of remote sensing. It is based on measuring omission and commission errors. We use AML to assess the accuracy of 14 log parsing tools applied to the parsing of 16 log datasets. We also show how AML compares to existing accuracy metrics. Our findings demonstrate that AML is a promising accuracy metric for log parsing compared to alternative solutions, which enables a comprehensive evaluation of log parsing tools to help better decision-making in selecting and improving log parsing techniques.
+ER  - 
+
+TY  - JOUR
+T1  - Research of artificial intelligence operations for wind turbines considering anomaly detection, root cause analysis, and incremental training
+AU  - Zhang, Chen
+AU  - Hu, Di
+AU  - Yang, Tao
+JO  - Reliability Engineering & System Safety
+VL  - 241
+SP  - 109634
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0951-8320
+DO  - https://doi.org/10.1016/j.ress.2023.109634
+UR  - https://www.sciencedirect.com/science/article/pii/S0951832023005483
+KW  - Wind turbine
+KW  - AIOps
+KW  - Anomaly detection
+KW  - Root cause analysis
+KW  - Incremental training
+AB  - Artificial intelligence operations (AIOps) is emerging as a novel technology in industrial automation to improve operation and maintenance (O&M) efficiency through machine learning methods. In this study, the AIOps for wind turbines based on SCADA data considering anomaly detection, root cause analysis, and incremental training is proposed and researched. A long short-term memory-based asymmetric variational autoencoding Gaussian mixture model (LSTM-AVAGMM) was established and used to detect early anomalies, and the threshold was set with a 99.7% confidence interval for the distribution curve fitted by kernel density estimation (KDE). Moreover, to provide guidance on O&M once an anomaly warning signal is issued, the SHapley Additive exPlanations (SHAP) was introduced to conduct root cause analysis by assigning each feature an importance value for a particular prediction. Finally, a novel incremental training strategy based on deep generative replay and fine-tuning was demonstrated to improve model adaptability in complex environments. Two real cases from a wind farm located in northeast China were presented. Comparative studies showed the robustness and competitiveness of the proposed methods in predicting failures, locating anomalies, and adaptively updating wind turbines, and the effects of various applied parameters were also described.
+ER  - 
+
+TY  - JOUR
+T1  - Navigating the DevOps landscape
+AU  - Zhang, Xinrui
+AU  - Zhao, Pincan
+AU  - Jaskolka, Jason
+JO  - Journal of Systems and Software
+VL  - 223
+SP  - 112331
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2024.112331
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121224003753
+KW  - DevOps
+KW  - Multivocal Literature Review
+KW  - Research Roadmap
+AB  - Context:
+DevOps, with its increasing prevalence in both industry and academia, has evolved into various DevOps variants (namely XOps) to address emerging technological and operational challenges. However, this proliferation has created confusion and a lack of clarity about the systematic understanding of these XOps and their interrelationship in the DevOps landscape, leading to fragmented knowledge and application.
+Objective:
+This research seeks to construct a comprehensive picture of the existing DevOps landscape, clarifying the nature and nuances of various XOps, to guide effective future studies and implementations.
+Method:
+Utilizing Multivocal Literature Review (MLR), 80 gathered documents are thoroughly examined from throughout the whole community, encompassing both white and grey literature, to map the DevOps landscape.
+Results:
+Our review systematically discovered 38 XOps terms and 13 well-studied XOps including AIOps, BizDevOps, CloudOps, DataOps, DevSecOps, FinOps, GitOps, MLOps, ModelOps, NetDevOps, NoOps, SecDevOps and TwinOps. We provided dictionary-like resource that elucidates the core concepts and main ideas associated with each XOps. An in-depth understanding of intricate evolution from DevOps to XOps is delved into, supplemented by the research of relationships between XOps and various technological enablers as well as relationships between XOps and organizational teams, contributing to the ongoing dialogue surrounding their application and evolution.
+Implications:
+This paper provides a foundational understanding of the DevOps landscape including open issues and challenges, current and future trends, assisting both researchers and practitioners in navigating this complex field. It establishes a platform for further research and practical applications in the evolving field of DevOps and XOps.
+ER  - 
+
+TY  - JOUR
+T1  - AIOps for log anomaly detection in the era of LLMs: A systematic literature review
+AU  - De la Cruz Cabello, Miguel
+AU  - Sales, Tiago Prince
+AU  - Machado, Marcos R.
+JO  - Intelligent Systems with Applications
+VL  - 28
+SP  - 200608
+PY  - 2025
+DA  - 2025/12/01/
+SN  - 2667-3053
+DO  - https://doi.org/10.1016/j.iswa.2025.200608
+UR  - https://www.sciencedirect.com/science/article/pii/S2667305325001346
+KW  - AIOps
+KW  - Log anomaly detection
+KW  - Large Language Models
+KW  - Retrieval Augmentation Generation
+AB  - Modern IT systems generate large volumes of log data that challenge timely and effective anomaly detection. Traditional methods often require intensive feature engineering and struggle to adapt to dynamic operational environments. This Systematic Literature Review (SLR) analyzes how Artificial Intelligence for IT Operations (AIOps) benefits from advanced language models, emphasizing Large Language Models (LLMs) for more effective log anomaly detection. By comparing state-of-art frameworks with LLM-driven methods, this study reveals that prompt engineering – the practice of designing and refining inputs to AI models to produce accurate and useful outputs – and Retrieval Augmented Generation (RAG) boost accuracy and interpretability without extensive fine-tuning. Experimental findings demonstrate that LLM-based approaches significantly outperform traditional methods across evaluation metrics that include F1-score, precision, and recall. Furthermore, the integration of LLMs with RAG techniques has shown a strong adaptability to changing environments. The applicability of these methods also extends to the military industry. Consequently, the development of specialized LLM systems with RAG tailored for the military industry represents a promising research direction to improve operational effectiveness and responsiveness of defense systems.
+ER  - 
+
+TY  - JOUR
+T1  - Log anomaly detection in AIOps: A real-world implementation using Large Language Models
+AU  - De la Cruz Cabello, Miguel
+AU  - Sales, Tiago Prince
+AU  - Machado, Marcos R.
+JO  - Systems and Soft Computing
+VL  - 8
+SP  - 200475
+PY  - 2026
+DA  - 2026/06/01/
+SN  - 2772-9419
+DO  - https://doi.org/10.1016/j.sasc.2026.200475
+UR  - https://www.sciencedirect.com/science/article/pii/S2772941926000384
+KW  - Artificial Intelligence for IT Operations (AIOps)
+KW  - Log anomaly detection
+KW  - Linux systems
+KW  - Large Language Models
+KW  - LogBERT
+AB  - This study investigates the application of Large Language Models (LLMs) for log anomaly detection within the emerging field of AIOps, where large-scale operational logs are increasingly used to support reliability engineering and automated incident response. However, deploying LLM-based anomaly detection in military environments raises practical constraints, including strict data confidentiality, limited data sharing, and frequent shifts in operational conditions and log formats. To address these challenges, we design and implement a self-supervised anomaly detection framework based on LogBERT, trained only on normal Linux syslog sequences, and deploy it locally to avoid external dependencies. We explore critical parameters, including the minimum number of tokens per log sequence, sliding window intervals, and mask ratios while attempting to detect log anomaly. In controlled experiments, a 15-second sliding window with a 10-second overlap provided the best trade-off between detection effectiveness and inference latency, supporting real-time monitoring requirements. Quantitative evaluation demonstrates that shorter sliding windows, despite capturing less context, resulted in slightly higher detection performance of anomalous logs. The model achieved high accuracy in distinguishing normal from abnormal log sequences, where sequences were classified as anomalous if more than 10% of masked tokens were incorrectly predicted. A qualitative assessment with domain experts further validated the operational usefulness of the approach, indicating reduced manual monitoring effort and suitability for integration into AIOps pipelines under confidentiality constraints.
+ER  - 
+
+TY  - JOUR
+T1  - ALSR: An adaptive label screening and relearning approach for interval-oriented anomaly detection
+AU  - Wang, Jingyu
+AU  - Jing, Yuhan
+AU  - Qi, Qi
+AU  - Feng, Tongtong
+AU  - Liao, Jianxin
+JO  - Expert Systems with Applications
+VL  - 136
+SP  - 94
+EP  - 104
+PY  - 2019
+DA  - 2019/12/01/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2019.06.028
+UR  - https://www.sciencedirect.com/science/article/pii/S0957417419304282
+KW  - Anomaly detection
+KW  - Multi-type KPIs
+KW  - Machine learning
+KW  - Interval-oriented
+AB  - Anomaly detection using KPIs (Key Performance Indicators) is a key part of AIOps (Artificial Intelligence for IT Operations). Recent anomaly detection approaches have adopted Machine Learning to detect anomalies on the perspective of individual time points more than events. These approaches do not effectively utilize the labels of continuous anomaly intervals, nor do they pay attention to the differences among anomaly points. The detection performances are therefore not precise enough to be applied in practice, and the differences in length of anomaly intervals also cause loss of performance. In this paper, we propose an anomaly detection approach named ALSR, which uses a label screening model and a relearning model to analyze and utilize the continuous anomaly intervals of KPIs in finer granularity. The label screening model takes advantage of the continuity of anomaly intervals to remove some unnecessary data from the training set, making it more suitable for interval-oriented anomaly detection. The relearning model based on random forest reclassifies the true/false positive points within domain of detected anomalies, thus effectively reduces the number of false positive points. ALSR uses several features extracted by sliding windows, and the feature set is proved to better describe the characteristics of KPI time series. Finally, we conduct comprehensive experiments on 25 KPIs. The total F-score of ALSR is 0.965, which outperforms state-of-the-art anomaly detection approaches.
+ER  - 
+
+TY  - JOUR
+T1  - Does AI-infused operations capability enhance or impede the relationship between information technology capability and firm performance?
+AU  - Zhang, Haili
+AU  - Song, Michael
+AU  - Wang, Yufan
+JO  - Technological Forecasting and Social Change
+VL  - 191
+SP  - 122517
+PY  - 2023
+DA  - 2023/06/01/
+SN  - 0040-1625
+DO  - https://doi.org/10.1016/j.techfore.2023.122517
+UR  - https://www.sciencedirect.com/science/article/pii/S0040162523002020
+KW  - Artificial intelligence
+KW  - Artificial intelligence-infused operations capability
+KW  - Information technology capability
+KW  - Firm performance
+KW  - Capability-based view
+AB  - The IT literature suggests that information technology capability (ITC) enhances firm performance. Yet studies have challenged this positive relationship. This study proposes an inverted U-shaped ITC–performance relationship and investigates how artificial intelligence-infused operations capability (AIOP) moderates this inverted U-shaped relationship. We collect data from 259 U.S. and 279 Chinese companies to test the hypotheses and find some interesting, but counterintuitive, results. This study extends the IT and strategic management literatures by examining how AIOP moderate an inverted U-shaped ITC–performance relationship. The study also reveals some cross-national similarities and differences.
+ER  - 
+
+TY  - JOUR
+T1  - Towards artificial intelligence-enabled autonomous battery prognostics and management
+AU  - Shi, Dapai
+AU  - Cai, Misheng
+AU  - Che, Yunhong
+AU  - Xie, Lili
+AU  - Zhao, Jingyuan
+JO  - Journal of Energy Chemistry
+VL  - 113
+SP  - 905
+EP  - 939
+PY  - 2026
+DA  - 2026/02/01/
+SN  - 2095-4956
+DO  - https://doi.org/10.1016/j.jechem.2025.09.081
+UR  - https://www.sciencedirect.com/science/article/pii/S2095495625008575
+KW  - Battery
+KW  - Health
+KW  - Lifetime
+KW  - Deep learning
+KW  - AI
+KW  - Real-world
+AB  - Reliable and safe operation of batteries is increasingly challenged by diverse operating conditions and stringent demands for system resilience. Artificial intelligence (AI) has emerged as a transformative enabler of battery health management, offering capabilities beyond traditional models. This review provides a structured synthesis of recent progress in AI-enabled diagnostics. Advances in state estimation—including state of health (SOH) and remaining useful life (RUL)—are first examined, with methodological breakthroughs identified across diverse task formulations. The evolution of AI architectures is then traced, from conventional neural networks to attention-based Transformers, physics-informed models, and federated learning, with particular attention to emerging paradigms such as foundation models, neuro-symbolic reasoning, and quantum machine learning that promise improved robustness and interpretability. To bridge laboratory innovation with deployment, a domain-adaptive four-stage data pipeline has emerged as a promising framework for real-world BMS signals—spanning operational segmentation, multi-scale denoising, degradation-aware feature engineering, and structured sample construction—designed to enhance generalization under heterogeneous and noisy conditions. Looking forward, a technological roadmap is outlined that integrates edge AI, digital twins, AIOps, quantum computing, wireless sensing, and self-repair systems. Collectively, these innovations transform batteries from passive energy reservoirs into intelligent cyber-physical agents endowed with perception, autonomous decision-making, and resilient fault response—paving the way toward truly battery-centric autonomous energy systems.
+ER  - 
+
+TY  - JOUR
+T1  - A systematic literature review on automated log abstraction techniques
+AU  - El-Masri, Diana
+AU  - Petrillo, Fabio
+AU  - Guéhéneuc, Yann-Gaël
+AU  - Hamou-Lhadj, Abdelwahab
+AU  - Bouziane, Anas
+JO  - Information and Software Technology
+VL  - 122
+SP  - 106276
+PY  - 2020
+DA  - 2020/06/01/
+SN  - 0950-5849
+DO  - https://doi.org/10.1016/j.infsof.2020.106276
+UR  - https://www.sciencedirect.com/science/article/pii/S0950584920300264
+KW  - Log Abstraction Techniques
+KW  - Log Analysis
+KW  - Log Mining
+KW  - Log Parsing
+KW  - Software Analysis
+KW  - Software Log
+KW  - Systematic literature review
+KW  - Systematic survey
+KW  - AIOps
+KW  - Data mining
+KW  - Log Management
+KW  - Quality Model
+AB  - Context: Logs are often the first and only information available to software engineers to understand and debug their systems. Automated log-analysis techniques help software engineers gain insights into large log data. These techniques have several steps, among which log abstraction is the most important because it transforms raw log-data into high-level information. Thus, log abstraction allows software engineers to perform further analyses. Existing log-abstraction techniques vary significantly in their designs and performances. To the best of our knowledge, there is no study that examines the performances of these techniques with respect to the following seven quality aspects concurrently: mode, coverage, delimiter independence, efficiency,scalability, system knowledge independence, and parameter tuning effort. Objectives: We want (1) to build a quality model for evaluating automated log-abstraction techniques and (2) to evaluate and recommend existing automated log-abstraction techniques using this quality model. Method: We perform a systematic literature review (SLR) of automated log-abstraction techniques. We review 89 research papers out of 2,864 initial papers. Results: Through this SLR, we (1) identify 17 automated log-abstraction techniques, (2) build a quality model composed of seven desirable aspects: mode, coverage, delimiter independence, efficiency, scalability, system knowledge independence, and parameter tuning effort, and (3) make recommendations for researchers on future research directions. Conclusion: Our quality model and recommendations help researchers learn about the state-of-the-art automated log-abstraction techniques, identify research gaps to enhance existing techniques, and develop new ones. We also support software engineers in understanding the advantages and limitations of existing techniques and in choosing the suitable technique to their unique use cases.
+ER  - 
+
+TY  - JOUR
+T1  - Orfeon: An AIOps framework for the goal-driven operationalization of distributed analytical pipelines
+AU  - Díaz-de-Arcaya, Josu
+AU  - Torre-Bastida, Ana I.
+AU  - Miñón, Raúl
+AU  - Almeida, Aitor
+JO  - Future Generation Computer Systems
+VL  - 140
+SP  - 18
+EP  - 35
+PY  - 2023
+DA  - 2023/03/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2022.10.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X22003223
+KW  - Edge computing
+KW  - Analytical pipelines
+KW  - Machine learning operationalization
+KW  - AIOps
+KW  - MLOps
+AB  - The use of Artificial Intelligence solutions keeps raising in the business domain. However, this adoption has not brought the expected results to companies so far. There are several reasons that make Artificial Intelligence solutions particularly complicated to adopt by businesses, such as the knowledge gap between the data science and operations teams. In this paper, we tackle the operationalization of distributed analytical pipelines in heterogeneous production environments, which span across different computational layers. In particular, we present a system called Orfeon, which can leverage different objectives and yields an optimized deployment for these pipelines. In addition, we offer the mathematical formulation of the problem alongside the objectives in hand (i.e. resilience, performance, and cost). Next, we propose a scenario utilizing cloud and edge infrastructural devices, in which we demonstrate how the system can optimize these objectives, without incurring scalability issues in terms of time nor memory. Finally, we compare the usefulness of Orfeon with a variety of tools in the field of machine learning operationalization and conclude that it is able to outperform these tools under the analyzed criteria, making it an appropriate system for the operationalization of machine learning pipelines.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 13 - DataOps
+AU  - Dehury, Chinmaya Kumar
+AU  - Srirama, Satish Narayana
+BT  - Mastering DevOps
+PB  - Morgan Kaufmann
+SP  - 287
+EP  - 305
+PY  - 2026
+DA  - 2026/01/01/
+SN  - 978-0-443-45032-7
+DO  - https://doi.org/10.1016/B978-0-443-45032-7.00013-4
+UR  - https://www.sciencedirect.com/science/article/pii/B9780443450327000134
+KW  - Data analytics
+KW  - DataOps
+KW  - Data engineer
+KW  - Data-intensive applications
+KW  - Data life cycle
+KW  - Data governance
+KW  - Data pipeline
+KW  - Data scientist
+KW  - Data team
+AB  - In today's data-driven world, organizations are producing, processing, and analyzing vast volumes of data at unprecedented speeds. To keep up with this rapid pace without compromising accuracy, collaboration among team members, and efficiency in operating the software product, a new variant of DevOps, also known as DataOps, has emerged. Much like DevOps, which brought cultural transformation to software development, DataOps applies agile principles and automation to the data life cycle—streamlining everything from data ingestion and validation to deployment and monitoring of data pipelines. This chapter introduces the data-intensive application and core concepts of DataOps, explains its life cycle, compares it with related practices like DevOps, MLOps, and AIOps, and explores key tools and real-world applications.
+ER  - 
+
+TY  - JOUR
+T1  - LWS: A framework for log-based workload simulation in session-based SUT
+AU  - Han, Yongqi
+AU  - Du, Qingfeng
+AU  - Xu, Jincheng
+AU  - Zhao, Shengjie
+AU  - Chen, Zhekang
+AU  - Cao, Li
+AU  - Yin, Kanglin
+AU  - Pei, Dan
+JO  - Journal of Systems and Software
+VL  - 203
+SP  - 111735
+PY  - 2023
+DA  - 2023/09/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2023.111735
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121223001309
+KW  - Workload simulation
+KW  - Behavior model
+KW  - Intensity modeling
+KW  - AIOps
+AB  - Artificial intelligence for IT Operations (AIOps) plays a critical role in operating and managing cloud-native systems and microservice-based applications but is limited by the lack of high-quality datasets with diverse scenarios. Realistic workloads are the premise and basis of generating such AIOps datasets, with the session-based workload being one of the most typical examples. Due to privacy concerns, complexity, variety, and requirements for reasonable intervention, it is difficult to copy or generate such workloads directly, showing the importance of effective and intervenable workload simulation. In this paper, we formulate the task of workload simulation and propose a framework for Log-based Workload Simulation (LWS) in session-based systems. LWS extracts the workload specification including the user behavior abstraction based on agglomerative clustering as well as relational models and the intervenable workload intensity from session logs. Then LWS combines the user behavior abstraction with the workload intensity to generate simulated workloads. The experimental evaluation is performed on an open-source cloud-native application with both well-designed and public real-world workloads, showing that the simulated workload generated by LWS is effective and intervenable, which provides the foundation of generating high-quality AIOps datasets.
+ER  - 
+
+TY  - JOUR
+T1  - A novel robust prediction algorithm based on REMD-MWNN for AIOps
+AU  - Chen, Liang
+AU  - Wang, Wei
+AU  - Yang, Yun
+AU  - Xu, Yaoqiang
+JO  - Knowledge-Based Systems
+VL  - 228
+SP  - 107038
+PY  - 2021
+DA  - 2021/09/27/
+SN  - 0950-7051
+DO  - https://doi.org/10.1016/j.knosys.2021.107038
+UR  - https://www.sciencedirect.com/science/article/pii/S0950705121003014
+KW  - AIOps
+KW  - Time series prediction
+KW  - Data decomposition
+KW  - Memory storage mechanism
+AB  - AIOps(Artificial Intelligence Operations) is emerging as one of the most important technology in industrial automation, and accurate time series prediction plays a crucial role in it. However, due to the non-linear and non-stationary characteristics of Ops(operations) data, traditional time series forecasting models can not effectively extract good enough sequence data features and result in poor forecasting accuracy. To fully extract the Ops data information and construct a robust prediction model, this paper proposes a hybrid model based on recursive empirical mode decomposition (REMD) and memory wavelet neural network (MWNN) to improve the forecasting accuracy of Ops data. In REMD-MWNN, we first use REMD to decompose the Ops data into multiple intrinsic modal functions (IMF) at different time scales. Then, to make full use of the historical information of the Ops data and reduce the running time, we designed a new memory recurrent neural network, namely MWNN. Next, use MWNN to predict multiple inherent IMFs respectively to obtain the predicted value of the corresponding subsequence. Finally, the final prediction result is obtained by reconstructing the prediction value of each subsequence. In the comprehensive experiment, we selected the Ops data of an open education platform. The experimental results show that, compared with other algorithms, the model proposed in this paper is highly competitive in predicting future changes and capturing the evolution mode of hidden factors. The experimental data involved in this paper can be downloaded from this website: https://github.com/1600383075/REMD-MWNN/tree/master/data.
+ER  - 
+
+TY  - JOUR
+T1  - LogPDGMoE: Log anomaly detection method based on MoE with parallel dual-noise gating network
+AU  - Zhang, San
+AU  - Zhou, Shiliang
+AU  - Ma, Yuhang
+AU  - Ding, Qianwen
+AU  - Yang, Chunfang
+AU  - Du, Quanbin
+JO  - Information Sciences
+VL  - 748
+SP  - 123498
+PY  - 2026
+DA  - 2026/08/25/
+SN  - 0020-0255
+DO  - https://doi.org/10.1016/j.ins.2026.123498
+UR  - https://www.sciencedirect.com/science/article/pii/S0020025526004299
+KW  - Log anomaly detection
+KW  - Mixture of experts
+KW  - Load balance
+KW  - Parallel dual-noise gating
+KW  - Deep learning
+AB  - Log anomaly detection is pivotal for ensuring the reliability and security of modern network and data infrastructures, serving as a cornerstone of Artificial Intelligence for IT Operations (AIOps). However, conventional single-model approaches often exhibit limited accuracy and poor generalization when confronted with the intricate, diverse patterns inherent in real-world system logs. Moreover, most existing methods lack effective feedback mechanisms, hindering continuous performance improvement. To address these challenges, we propose LogPDGMoE, a novel log anomaly detection framework built upon a Mixture-of-Experts (MoE) architecture augmented with a Parallel Dual-noise Gating (PDG) network. The innovation of PDG lies in its dual learnable projections derived from feature representations, which independently condition the injected Gaussian noise to enable self-optimized routing. This design effectively mitigates expert load imbalance and adapts to dynamic feature drift prevalent in log streams. Additionally, a weighted loss function is introduced to harmoniously balance exploration and exploitation during training. Extensive evaluation on three public benchmarks demonstrates that LogPDGMoE achieves highly competitive F1-scores of 97.11%, 99.17%, and 99.39%, respectively. Compared with leading baselines, our approach delivers superior detection accuracy, stronger cross-system generalization across heterogeneous log distributions, and enhanced robustness, establishing LogPDGMoE as a highly efficient, scalable, and adaptive solution for large-scale cyber environments.
+ER  - 
+
+TY  - JOUR
+T1  - Artificial intelligence opportunity perception and career sustainability: the mediating role of personal knowledge management
+AU  - Tian, Honghong
+AU  - Ou, Ruiqiu
+AU  - Chen, Quan
+JO  - Career Development International
+VL  - 31
+IS  - 3
+SP  - 284
+EP  - 311
+PY  - 2026
+DA  - 2026/06/05/
+SN  - 1362-0436
+DO  - https://doi.org/10.1108/CDI-11-2024-0503
+UR  - https://www.sciencedirect.com/science/article/pii/S1362043626000255
+KW  - Career sustainability
+KW  - Artificial intelligence opportunity perception
+KW  - Personal knowledge management
+KW  - Person–environment fit theory
+AB  - 
+Purpose The emergence of artificial intelligence (AI) in the job market is reshaping the landscape of workforce development, presenting unprecedented challenges and opportunities for career sustainability. This study aims to is to examine the impact of individuals’ artificial intelligence opportunity perception (AIOP) on career sustainability while considering the mediating roles played by various dimensions of personal knowledge management (PKM).
+
+Design/methodology/approach By integrating person–environment (P–E) fit theory and PKM theory, this study constructs a multiple mediation research framework that explores the relationship between AIOP, PKM and career sustainability. The proposed relationships were empirically tested using survey data obtained from 302 full-time employees employed in manufacturing industries located in China’s Pearl River Delta.
+
+Findings The findings demonstrate that AIOP has a positive influence on career sustainability. Furthermore, three dimensions of PKM – knowledge acquisition, knowledge storage and knowledge application – act as mediators between AIOP and career sustainability, while the fourth dimension – knowledge sharing – does not play a mediating role in this relationship.
+
+Originality/value This paper establishes a theoretical framework that elucidates the relationship between AIOP, PKM and career sustainability based on the theories of P–E fit and PKM, which provides a valuable contribution to the existing literature. Our results provide valuable insights into strategies for enhancing career sustainability amidst rapid advancements in AI technology.
+ER  - 
+
+TY  - JOUR
+T1  - AI-driven self-healing across the edge–cloud continuum: A systematic literature review
+AU  - Bonilla, Lander
+AU  - Diaz-de-Arcaya, Josu
+AU  - Aguirre-Usandizaga, Jon
+AU  - Almeida, Aitor
+JO  - Information and Software Technology
+VL  - 198
+SP  - 108232
+PY  - 2026
+DA  - 2026/10/01/
+SN  - 0950-5849
+DO  - https://doi.org/10.1016/j.infsof.2026.108232
+UR  - https://www.sciencedirect.com/science/article/pii/S0950584926002211
+KW  - Self-healing
+KW  - AIOps
+KW  - Edge–cloud continuum
+KW  - Systematic literature review
+KW  - Agentic AI
+KW  - AI agent
+KW  - Ethics
+AB  - Context:
+The increasing complexity posed by Edge–Cloud Continuum architectures requires innovative software development practices and paradigms. Traditional software engineering practices fall short for addressing the particularities of such deployments; hence, there is a critical need for innovative tools and techniques capable of autonomous self-remediation and enhanced resilience with minimal human intervention.
+Objective:
+The overarching goal of this study is to synthesize the state-of-the-art with regard to AI-driven self-healing in the computing continuum. Implementation challenges and ethical implications are analyzed to identify effective approaches, architectures, and future trends in the field of automated program repair.
+Methods:
+A Systematic Literature Review was conducted following the PRISMA 2020 guidelines and Kitchenham’s methodology for software engineering. A rigorous automated search across designated academic databases initially yielded 2930 records. After applying strict inclusion and exclusion criteria, 99 primary studies were selected.
+Results:
+The analysis reveals a fundamental paradigm shift from observational monitoring to actionable, autonomous repair. While LLM-driven approaches and Agentic frameworks demonstrate high efficacy in tasks such as causal discovery and complex code patching, a critical validation gap remains regarding their deployment in non-deterministic runtime environments. Current literature often lacks the rigorous testing frameworks required to ensure that AI-generated repairs do not introduce regressions or security vulnerabilities.
+Conclusion:
+Achieving trustworthy autonomy requires a holistic approach that merges advanced AI paradigms with disciplined software engineering. Future research must prioritize the creation of standardized benchmarks and empirical studies to bridge the gap between theoretical algorithms and industrial application. Furthermore, the development of decentralized multi-agent architectures and Human-in-the-Loop techniques is essential to ensure safety, explainability, and ethical compliance in the next generation of resilient software systems.
+ER  - 
+
+TY  - JOUR
+T1  - Framework for automatic detection of anomalies in DevOps
+AU  - Hany Fawzy, Ahmed
+AU  - Wassif, Khaled
+AU  - Moussa, Hanan
+JO  - Journal of King Saud University - Computer and Information Sciences
+VL  - 35
+IS  - 3
+SP  - 8
+EP  - 19
+PY  - 2023
+DA  - 2023/03/01/
+SN  - 1319-1578
+DO  - https://doi.org/10.1016/j.jksuci.2023.02.010
+UR  - https://www.sciencedirect.com/science/article/pii/S1319157823000393
+KW  - DevOps
+KW  - AIOps
+KW  - CI/CD
+KW  - Anomaly detection
+KW  - Release management
+KW  - Machine learning
+AB  - Log-based anomaly detection is important for improving the reliability and availability of software systems, especially those evolving using DevOps, owing to the huge number of logs generated during continuous practices. However, DevOps practitioners typically inspect and interpret the generated data and logs manually on specific occasions as part of the troubleshooting process. This process of manual inspection is time consuming and challenging because these data and logs have grown to an unmanageable size owing to the increasing size and complexity of the systems. In this research paper, we introduce the DevOps Anomaly Detection Framework (DADF). DADF is composed of two components that rely on Machine Learning (ML) and Artificial Intelligence (AI) to analyze the data and logs generated during DevOps practices to automatically detect anomalies. The first component is Anomaly Detection Before Production (ADBP), which intends to detect anomalies in the prospective release before its operation in the production environment by adopting the Local Outlier Factor (LOF) technique on the data collected during implementation, building, testing, and deployment. The second component is Anomaly Detection After Staging (ADAS), which intends to detect anomalies after the operation of the released system by adopting the Vector Auto-Regression (VAR) technique on the data collected during monitoring from the system log, application log, and performance metrics (CPU and memory). We experimentally evaluated ADBP and ADAS in two different real-world industrial projects. The experimental results demonstrated that the accuracy, precision, recall, and F1-score of the ADBP component were 96%, 87.5%, 100%, and 93.3%, respectively, and the normalized Root Mean Squared Error (nRMSE) of the ADAS component was 2–19%. Hence, the results demonstrate the effectiveness of DADF in helping DevOps practitioners and researchers automatically detect anomalies throughout the lifecycle of DevOps by monitoring all DevOps’ practices.
+ER  - 
+
+TY  - JOUR
+T1  - Graph-Augmented Multi-Agent Robust Root Cause Analysis in AIOps
+AU  - Zou, Haodong
+AU  - Zhao, Yichen
+AU  - Chen, Xin
+AU  - Wang, Ling
+AU  - Yu, Jinghang
+AU  - Yuan, Long
+JO  - Computers, Materials and Continua
+VL  - 88
+IS  - 1
+PY  - 2026
+DA  - 2026/01/01/
+SN  - 1546-2218
+DO  - https://doi.org/10.32604/cmc.2026.077908
+UR  - https://www.sciencedirect.com/science/article/pii/S1546221826005011
+KW  - Data fusion
+KW  - anomaly fusion graph
+KW  - AIOps
+AB  - Root cause analysis (RCA), which leverages multi-modal observability data (including metrics, traces, and logs) to identify the fundamental source of system failures, is critical for ensuring the reliability of complex microservice systems. Traditionally, RCA has relied on human engineers to manually correlate these fragmented signals, which is a labor-intensive and error-prone process. Although recent AIOps advancements, particularly those leveraging Large Language Models (LLMs), aim to automate this workflow, they remain constrained by limitations. Existing methods often rely on single-modal data, restricting diagnostic comprehensiveness. Furthermore, approaches that utilize multi-modal data typically depend on simplistic temporal alignment, which fails to capture complex semantic relationships, or directly employ LLMs, which are prone to hallucinations and lack reliability. To address these issues, we propose a novel Graph-Augmented Multi-Agent Framework that synergizes the structural rigor of graph topology with the advanced semantic reasoning capabilities of LLMs. Our approach operates in two distinct phases designed to mimic human expert problem-solving. First, in the Anomaly Fusion Graph Construction phase, we employ a hybrid alignment strategy to bridge the gap between unstructured logs and structured traces. An LLM serves as a “semantic arbitrator” to resolve ambiguities in high-concurrency scenarios, creating a unified knowledge environment where each node is enriched with comprehensive health insights. Second, the Multi-Agent Collaborative Reasoning phase deploys a team of specialized agents to simulate human Site Reliability Engineering (SRE) workflows. A Navigator Agent efficiently guides the search space via calculated fault gradients, while a Diagnoser Agent performs deep semantic analysis. Crucially, a Verifier Agent enforces an Adversarial Validation Protocol to mitigate hallucinations through rigorous counterfactual reasoning. Extensive experiments conducted on five diverse datasets demonstrate the robustness and effectiveness of our approach. The results show that our framework achieves an average F1-score of 88.4%, significantly outperforming state-of-the-art baselines by 4.6%, proving its ability to synthesize multi-modal information into actionable diagnostic insights.
+ER  - 
+
+TY  - JOUR
+T1  - An empirical dataset combining repository metrics and pipeline workflows for predictive software analytics
+AU  - Sanusi, Funmilayo Abibat
+AU  - Faruna, Joshua Omaye
+JO  - Data in Brief
+VL  - 68
+SP  - 113128
+PY  - 2026
+DA  - 2026/08/01/
+SN  - 2352-3409
+DO  - https://doi.org/10.1016/j.dib.2026.113128
+UR  - https://www.sciencedirect.com/science/article/pii/S235234092600675X
+KW  - Continuous integration
+KW  - Continuous deployment
+KW  - Github actions
+KW  - Pipeline failure
+KW  - Machine learning
+KW  - Software engineering
+AB  - This data article presents a comprehensive dataset that captures the workflow history of Continuous Integration and Continuous Deployment (CI/CD) pipelines, along with the code-level repository metrics. There are 303,079 distinct execution records from August 2016 to April 2026 in the dataset. Specifically, the data comprises of archival Travis CI records from August to December 2016 which serves as the baseline, and live GitHub Actions workflows from May 2024 to April 2026. The data collection used a custom python extraction script which combined historical Travis CI data and live GitHub Actions workflow metadata with deep Git commit history. The chosen live repositories covered 34 highly active open-source projects across different domains like DevOps tools such as kubernetes/kubernetes, web frameworks like facebook/react, and machine learning like tensorflow/tensorflow. The variables collected consist of pipeline execution durations, pipeline final status, the conditions that triggered the events, code churn (additions and deletions), and the number of changed files. This resulted in a structured and tabular format (csv) dataset which is hosted and accessible on Mendeley Data and serves as a solid foundation for researchers and practitioners interested in discovering patterns in build breakages, creating predictive machine learning models for forecasting CI/CD pipelines' workflows, and advancing AIOps methodologies in software engineering.
+ER  - 
+
+TY  - JOUR
+T1  - Artificial intelligence-driven real-world battery diagnostics
+AU  - Zhao, Jingyuan
+AU  - Qu, Xudong
+AU  - Wu, Yuyan
+AU  - Fowler, Michael
+AU  - Burke, Andrew F.
+JO  - Energy and AI
+VL  - 18
+SP  - 100419
+PY  - 2024
+DA  - 2024/12/01/
+SN  - 2666-5468
+DO  - https://doi.org/10.1016/j.egyai.2024.100419
+UR  - https://www.sciencedirect.com/science/article/pii/S2666546824000855
+KW  - Battery
+KW  - Safety
+KW  - Health
+KW  - Lifetime
+KW  - Artificial intelligence
+KW  - Machine learning
+KW  - Electric vehicle
+KW  - Deep learning
+KW  - Real world
+KW  - Field
+AB  - Addressing real-world challenges in battery diagnostics, particularly under incomplete or inconsistent boundary conditions, has proven difficult with traditional methodologies such as first-principles and atomistic calculations. Despite advances in data assimilation techniques, the overwhelming volume and diversity of data, coupled with the lack of universally accepted models, underscore the limitations of these traditional approaches. Recently, deep learning has emerged as a highly effective tool in overcoming persistent issues in battery diagnostics by adeptly managing expansive design spaces and discerning intricate, multidimensional correlations. This approach resolves challenges previously deemed insurmountable, especially with lost, irregular, or noisy data through the design of specialized network architectures that adhere to physical invariants. However, gaps remain between academic advancements and their practical applications, including challenges in explainability and the computational costs associated with AI-driven solutions. Emerging technologies such as explainable artificial intelligence (XAI), AI for IT operations (AIOps), lifelong machine learning to mitigate catastrophic forgetting, and cloud-based digital twins open new opportunities for intelligent battery life-cycle assessment. In this perspective, we outline these challenges and opportunities, emphasizing the potential of innovative technologies to transform battery diagnostics, as demonstrated by our recent practice and the progress made in the field. This includes promising achievements in both academic and industry field demonstrations in modeling and forecasting the dynamics of multiphysics and multiscale battery systems. These systems feature inhomogeneous cascades of scales, informed by our physical, electrochemical, observational, empirical, and/or mathematical understanding of the battery system. Through data assimilation efforts, meticulous craftsmanship, and elaborate implementations—and by considering the wealth and spatio-temporal heterogeneity of available data—such AI-based intelligent learning philosophies have great potential to achieve better accuracy, faster training, and improved generalization.
+ER  - 
+
+TY  - JOUR
+T1  - AIDOaRt: AI-augmented Automation for DevOps, a model-based framework for continuous development in Cyber–Physical Systems
+AU  - Bruneliere, Hugo
+AU  - Muttillo, Vittoriano
+AU  - Eramo, Romina
+AU  - Berardinelli, Luca
+AU  - Gómez, Abel
+AU  - Bagnato, Alessandra
+AU  - Sadovykh, Andrey
+AU  - Cicchetti, Antonio
+JO  - Microprocessors and Microsystems
+VL  - 94
+SP  - 104672
+PY  - 2022
+DA  - 2022/10/01/
+SN  - 0141-9331
+DO  - https://doi.org/10.1016/j.micpro.2022.104672
+UR  - https://www.sciencedirect.com/science/article/pii/S0141933122002022
+KW  - Cyber–Physical Systems
+KW  - Continuous development
+KW  - System engineering
+KW  - Software engineering
+KW  - Model Driven Engineering
+KW  - Artificial Intelligence
+KW  - DevOps
+KW  - AIOps
+AB  - The advent of complex Cyber–Physical Systems (CPSs) creates the need for more efficient engineering processes. Recently, DevOps promoted the idea of considering a closer continuous integration between system development (including its design) and operational deployment. Despite their use being still currently limited, Artificial Intelligence (AI) techniques are suitable candidates for improving such system engineering activities (cf. AIOps). In this context, AIDOaRT is a large European collaborative project that aims at providing AI-augmented automation capabilities to better support the modeling, coding, testing, monitoring, and continuous development of CPSs. The project proposes to combine Model Driven Engineering principles and techniques with AI-enhanced methods and tools for engineering more trustable CPSs. The resulting framework will (1) enable the dynamic observation and analysis of system data collected at both runtime and design time and (2) provide dedicated AI-augmented solutions that will then be validated in concrete industrial cases. This paper describes the main research objectives and underlying paradigms of the AIDOaRt project. It also introduces the conceptual architecture and proposed approach of the AIDOaRt overall solution. Finally, it reports on the actual project practices and discusses the current results and future plans.
+ER  - 
+
+TY  - JOUR
+T1  - Trustworthy root cause analysis for distributed systems via neurosymbolic fusion
+AU  - Zhang, Hong
+AU  - Zhang, Yan
+AU  - Ni, Qian
+AU  - Li, Taowei
+AU  - Zou, Yuntao
+JO  - Results in Engineering
+VL  - 30
+SP  - 110491
+PY  - 2026
+DA  - 2026/06/01/
+SN  - 2590-1230
+DO  - https://doi.org/10.1016/j.rineng.2026.110491
+UR  - https://www.sciencedirect.com/science/article/pii/S2590123026015252
+KW  - Root cause analysis
+KW  - Neurosymbolic fusion
+KW  - Distributed systems
+KW  - Large language models
+AB  - Modern distributed storage systems comprise thousands of interdependent components, where fault diagnosis requires simultaneously understanding statistical correlations among events and semantic plausibility. Existing approaches either rely on symbolic reasoning and struggle with rare faults, or leverage neural networks but lack causal constraints and are prone to spurious inferences; moreover, they generally cannot assess their own prediction quality or quantify prediction uncertainty. This paper proposes NeuSymRCA, a framework that achieves structured neuro-symbolic integration through dual-path collaborative reasoning. The symbolic path encodes historical statistical patterns, while the neural path invokes large language models to evaluate semantic plausibility. The two paths are dynamically fused through a reliability-aware log-linear pooling mechanism. The core innovation lies in embedding reliability quantification into the reasoning process, enabling fusion weights to adaptively adjust according to different scenarios, and achieving few-shot learning through knowledge transfer by extracting general causal priors from language models. Evaluation on the Train Ticket microservice benchmark, with supplementary validation on the AIOps Challenge 2020 public dataset, demonstrates that the framework achieves an overall accuracy of 82.4%, with a 12 percentage point improvement over the best baseline on rare faults.
+ER  - 
+
+TY  - JOUR
+T1  - From Static to Streaming: A Systematic Review and Event-Sourced Framework for GraphRAG in AIOps
+AU  - Erdős, Ferenc
+AU  - Varadarajan, Vijayakumar
+AU  - Banţa, Viorel-Costin
+AU  - Afrifa, Stephen
+JO  - Computers, Materials and Continua
+VL  - 88
+IS  - 3
+PY  - 2026
+DA  - 2026/01/01/
+SN  - 1546-2218
+DO  - https://doi.org/10.32604/cmc.2026.081005
+UR  - https://www.sciencedirect.com/science/article/pii/S154622182600682X
+KW  - Knowledge graphs
+KW  - retrieval-augmented generation (RAG)
+KW  - GraphRAG
+KW  - AIOps
+KW  - IT operations
+KW  - root cause analysis
+AB  - Standard retrieval-augmented generation (RAG) can perform poorly in AI for IT Operations (AIOps) settings because it is topology-blind. Basic RAG retrieves isolated, flat text snippets without enforcing structural or causal constraints, causing large language models to generate explanations that contradict the running system’s actual dependency structure. To address this gap, we conducted a systematic review following PRISMA 2020, searching Scopus, IEEE Xplore, Web of Science, and Google Scholar (last searched 31 January 2026). We included empirical or systems-oriented studies applying graph-based retrieval to ground a generative model in an IT, cloud, or software-operations setting, and excluded generic RAG without an operational context and graph-only methods without a generative component. Of 139 unique records, 31 met the criteria. Because reported metrics, tasks, and hardware were too heterogeneous for pooled effect estimates, we performed a descriptive quantitative synthesis of reporting frequencies for five outcome variables (localization accuracy, text/classification scores, MTTR, retrieval/inference latency, and graph construction cost), with values harmonized to common units. The synthesis reveals that hybrid-fusion approaches have become the dominant retrieval strategy, outpacing standalone traversal in adoption for Root Cause Analysis (RCA) tasks by fusing semantic vector search with strict structural constraints. However, our evaluation matrix exposes a critical production barrier: in 73% of Service Dependency Graph (SDG)-centric studies, topology drift or streaming-update handling is not explicitly described, with many pipelines evaluated on static or periodically refreshed snapshots. We outline Event-Sourced Streaming GraphRAG (ES-GraphRAG) as a reference architecture that frames concrete design requirements for latency and drift constraints based on an event-sourced, streaming construction pattern for snapshot-consistent retrieval. The framework also incorporates strict retrieval-time governance and budget-aware traversal to help keep LLM grounding topologically accurate and compliant with incident-response Service Level Objectives (SLOs).
+ER  - 
+
+TY  - JOUR
+T1  - An on-premise cloud-native AIOps infrastructure system with workload forecasting in Kubernetes
+AU  - Zhang, Suqiong
+AU  - Fan, Dongyi
+AU  - Liu, Yi
+AU  - He, Lili
+JO  - SoftwareX
+VL  - 34
+SP  - 102622
+PY  - 2026
+DA  - 2026/06/01/
+SN  - 2352-7110
+DO  - https://doi.org/10.1016/j.softx.2026.102622
+UR  - https://www.sciencedirect.com/science/article/pii/S2352711026001159
+KW  - Resource monitoring
+KW  - Workload forecasting
+KW  - AIOps
+KW  - Kubernetes
+AB  - AIOps leverages monitoring and machine learning to manage complex IT systems, but commercial and third-party solutions often face high costs or limited customization for enterprise needs. Accurate cloud workload forecasting is critical for proactive resource allocation and service reliability. We present a fully on-premise AIOps system with two main contributions. First, at the system level, it integrates open-source tools within a Kubernetes-based deployment to collect real-time metrics from containerized workloads, perform online prediction, and enable incremental model updates, providing a practical foundation for enterprise deployment. Second, at the model level, we design a transformer-based forecasting model enhanced with feature-wise normalization and a trend-aware combined loss, enabling accurate capture of complex temporal patterns. Experiments across diverse workloads demonstrate that our approach consistently outperforms baseline models in prediction accuracy and temporal consistency, highlighting the effectiveness of both system-level and model-level innovations. This work enables automated, intelligent management of cloud-native environments while addressing enterprise-specific constraints.
+ER  - 
+
+TY  - JOUR
+T1  - Learning general-purpose and robust representations of microservice system states from multi-modal data
+AU  - Xu, Yifei
+AU  - Ge, Jingguo
+AU  - Wu, Yulei
+AU  - Ma, Yuxiang
+AU  - Li, Hui
+AU  - Wu, Bingzhen
+AU  - Li, Tong
+JO  - Information Processing & Management
+VL  - 63
+IS  - 8
+SP  - 104937
+PY  - 2026
+DA  - 2026/12/01/
+SN  - 0306-4573
+DO  - https://doi.org/10.1016/j.ipm.2026.104937
+UR  - https://www.sciencedirect.com/science/article/pii/S0306457326003286
+KW  - Multi-modal data
+KW  - Representation learning
+KW  - Contrastive learning
+KW  - Spatio-temporal relationships
+KW  - Microservices
+AB  - Microservice systems generate fragmented and misaligned multi-modal data, including metrics, logs, and traces, posing a major challenge for AIOps, which requires coherent system-state representations for downstream analytics. Existing approaches typically model spatio-temporal relations at a coarse granularity or are tailored to specific tasks, limiting their generalizability across different O&M scenarios. To address these limitations, we propose M3RL, a unified pre-training and fine-tuning framework for learning robust and transferable system-state representations. At its core, the spatio-temporal network (STNet) performs fine-grained semantic fusion of multi-modal data along both temporal and spatial dimensions and models evolving communication-driven dependencies among services. We further pre-train STNet with three complementary objectives: denoising reconstruction for robustness, future prediction for temporal evolution modeling, and causal contrastive learning for node-level discriminability. Extensive experiments on two public benchmark datasets demonstrate that M3RL consistently outperforms recent state-of-the-art baselines across key downstream tasks, reducing state prediction MAE by 1.9%, increasing anomaly detection F1 by 4.7%, and improving root cause localization HR@1 by 4.8% on average. These results show that M3RL provides a robust and transferable representation backbone for multiple AIOps tasks.
+ER  - 

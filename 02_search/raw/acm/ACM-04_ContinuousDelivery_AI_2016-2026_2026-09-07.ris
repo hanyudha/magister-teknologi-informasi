@@ -1,0 +1,163 @@
+TY  - CONF
+TI  - Generative AI Detection of Document Incompleteness, Inconsistencies, and Discrepancies
+AU  - Robert, John
+AU  - Olea, Carlos
+AU  - Hindka, Yash
+AU  - Brown, Nanette
+T3  - FSE Companion '25
+AB  - Software development activities must adhere to industry, national, and/or international regulatory standards to ensure security, safety, and other important properties in high-stakes, regulated domains, such as healthcare, automotive, and aerospace. These software standards are often codified via multiple documents, ranging from specific requirements to general guidance. Software developers must demonstrate—and regulatory authorities must then verify—the completeness and consistency between the software artifacts and the software regulatory documents. Detecting regulatory document incompleteness, inconsistencies, and/or discrepancies (DIID) with respect to software artifacts is important for both developers and regulators because they indicate potential non-conformance and/or software regulatory risk.DIID detection is currently a human-intensive activity where people learn the standards and then review or search software artifacts to find or detect potential issues. This tedious and error-prone manual process is even more challenging with continuous integration and continuous delivery (CI/CD) pipelines that create frequent software updates. In addition, software artifacts (such as requirements or architecture documents) and software standards also change as the software is maintained, requiring ongoing manual reviews and revisions.Generative AI can accelerate DIID detection for different documents and data sources. This paper explores how generative AI, specifically Large Language Models (LLMs), can accelerate DIID detection in software artifacts, particularly when comparing trusted documents like safety standards with software development artifacts. Integrating LLMs into the software development lifecycle (SDLC) to detect DIID can improve specific development activities, as well as enable transformative opportunities by accelerating end-to-end SDLC workflows and regulatory compliance. Current LLM benchmarks and testing frameworks do not sufficiently test for detecting DIID and require extension to adequately and consistently detect DIID across multiple SDLC activities. This position paper describes how LLMs can accelerate software assurance processes and ensure greater compliance with industry standards and government regulatory requirements.
+C1  - New York, NY, USA
+C3  - Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering
+DA  - 2025/07/28/
+PY  - 2025
+DO  - 10.1145/3696630.3728724
+DP  - ACM Digital Library
+SP  - 1381
+EP  - 1385
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1276-0
+UR  - https://dl.acm.org/doi/10.1145/3696630.3728724
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3696630.3728724?download=true
+ER  - 
+
+TY  - CONF
+TI  - A Review of AI-augmented End-to-End Test Automation Tools
+AU  - Pham, Phuoc
+AU  - Nguyen, Vu
+AU  - Nguyen, Tien
+T3  - ASE '22
+AB  - Software testing is a process of evaluating and verifying whether a software product still works as expected, and it is repetitive, laborious, and time-consuming. To address this problem, automation tools have been developed to automate testing activities and enhance quality and delivery time. However, automation tools become less effective with continuous integration and continuous delivery (CI/CD) pipelines when the system under test is constantly changing. Recent advances in artificial intelligence and machine learning (AI/ML) present the potential for addressing important challenges in test automation. AI/ML can be applied to automate various testing activities such as detecting bugs and errors, maintaining existing test cases, or generating new test cases much faster than humans. In this study, we will outline testing activities where AI has significantly impacted and greatly enhanced the testing process. Based on that, we identify primary AI techniques that are used in each testing activity. Further, we conduct a comprehensive study of test automation tools to provide a clear look at the role of AI/ML technology in industrial testing tools. The results of this paper help researchers and practitioners understand the current state of AI/ML applied to software testing, which is the first important step towards achieving successful and efficient software testing.
+C1  - New York, NY, USA
+C3  - Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering
+DA  - 2023/01/05/
+PY  - 2023
+DO  - 10.1145/3551349.3563240
+DP  - ACM Digital Library
+SP  - 1
+EP  - 4
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9475-8
+UR  - https://dl.acm.org/doi/10.1145/3551349.3563240
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3551349.3563240?download=true
+ER  - 
+
+TY  - CONF
+TI  - Combining domain expert knowledge and machine learning for the identification of error prone files
+AU  - Korlepara, Piyush
+AU  - Grigoriou, Marios
+AU  - Kontogiannis, Kostas
+AU  - Brealey, Chris
+AU  - Giammaria, Alberto
+T3  - CASCON '21
+AB  - Identifying as early as possible fault prone modules in order to facilitate continuous delivery in large software systems, has been an area where significant attention has been paid over the past few years. Recent efforts consider source code metrics and process metrics for training machine learning models to predict whether a software source code file is fault prone or not. In such prediction frameworks the accuracy of the trained model relies heavily on the features selected and the profiles of the metrics used for training the model which are unique to each system. Furthermore, these models act as black-boxes, where the end-user does not know how a specific prediction was reached. In this paper, we propose an approach which allows for domain expert knowledge to be combined with machine learning in order to yield fault-proneness prediction models that both exhibit high levels of recall and at the same time are able to provide explanations to the developers as to how and why these predictions were reached. For this paper we apply two rule-based inferencing techniques namely, Fuzzy reasoning, and Markov Logic Networks. The main contribution of this work is that it allows for expert developers to identify in the form of if-then rules domain logic that pertains to the fault-proneness of a source code file in the specific system being analysed. Results obtained from 19 open source systens indicate that MLNs perform better than Fuzzy Logic models and that project-customized rules achieve better results than generic rules. Furthermore, results indicate that its possible to compile a common set of rules that yields consistently acceptable results across different projects.
+C1  - USA
+C3  - Proceedings of the 31st Annual International Conference on Computer Science and Software Engineering
+DA  - 2021/11/22/
+PY  - 2021
+DP  - ACM Digital Library
+SP  - 153
+EP  - 162
+PB  - IBM Corp.
+UR  - https://dl.acm.org/doi/10.5555/3507788.3507810
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - Testing of machine learning models with limited samples: an industrial vacuum pumping application
+AU  - Chatterjee, Ayan
+AU  - Ahmed, Bestoun S.
+AU  - Hallin, Erik
+AU  - Engman, Anton
+T3  - ESEC/FSE 2022
+AB  - There is often a scarcity of training data for machine learning (ML) classification and regression models in industrial production, especially for time-consuming or sparsely run manufacturing processes. Traditionally, a majority of the limited ground-truth data is used for training, while a handful of samples are left for testing. In that case, the number of test samples is inadequate to properly evaluate the robustness of the ML models under test (i.e., the system under test) for classification and regression. Furthermore, the output of these ML models may be inaccurate or even fail if the input data differ from the expected. This is the case for ML models used in the Electroslag Remelting (ESR) process in the refined steel industry to predict the pressure in a vacuum chamber. A vacuum pumping event that occurs once a workday generates a few hundred samples in a year of pumping for training and testing. In the absence of adequate training and test samples, this paper first presents a method to generate a fresh set of augmented samples based on vacuum pumping principles. Based on the generated augmented samples, three test scenarios and one test oracle are presented to assess the robustness of an ML model used for production on an industrial scale. Experiments are conducted with real industrial production data obtained from Uddeholms AB steel company. The evaluations indicate that Ensemble and Neural Network are the most robust when trained on augmented data using the proposed testing strategy. The evaluation also demonstrates the proposed method's effectiveness in checking and improving ML algorithms' robustness in such situations. The work improves software testing's state-of-the-art robustness testing in similar settings. Finally, the paper presents an MLOps implementation of the proposed approach for real-time ML model prediction and action on the edge node and automated continuous delivery of ML software from the cloud.
+C1  - New York, NY, USA
+C3  - Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
+DA  - 2022/11/09/
+PY  - 2022
+DO  - 10.1145/3540250.3558943
+DP  - ACM Digital Library
+SP  - 1280
+EP  - 1290
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9413-0
+ST  - Testing of machine learning models with limited samples
+UR  - https://dl.acm.org/doi/10.1145/3540250.3558943
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3540250.3558943?download=true
+ER  - 
+
+TY  - CONF
+TI  - Industrial Experience with Open-Source EDA Tools
+AU  - Lück, Christian
+AU  - Sánchez Lopera, Daniela
+AU  - Wenzek, Sven
+AU  - Ecker, Wolfgang
+T3  - MLCAD '22
+AB  - Commonly, the design flow of integrated circuits from initial specifications to fabrication employs commercial, proprietary EDA tools. While these tools deliver high-quality, production-ready results, they can be seen as expensive black boxes and thus, are not suited for research and academic purposes. Innovations on the field are mostly focused on optimizing the quality of the results of the designs by modifying core elements of the tool chain or using techniques of the Machine Learning domain. In both cases, researchers require many or long runs of EDA tools for comparing results or generating training data for Machine Learning models. Using proprietary, commercial tools in those cases may be either not affordable or not possible at all.With OpenROAD and OpenLane mature open-source alternatives emerged in the past couple of years. The development is driven by a growing community that is improving and extending the tools daily. In contrast to commercial tools, OpenROAD and OpenLane are transparent and allow inspection, modification and replacement of every tool aspect. They are also free and therefore are well suited for use cases such as Machine Learning data generation. Specifically, the fact that no licenses are needed neither for the tools nor for the default PDK enables even fresh students and starters on the field to quickly deploy their ideas and create initial proof of concepts.Therefore, we at Infineon are using OpenROAD and OpenLane for more experimental and innovative projects. Our vision is to build initial prototypes using free software, and then improve upon them by cross-checking and polishing with commercial tools before delivering them for production. This talk will show Infineon's experience with these open-source tools so far.The first steps involved getting OpenLane installed in our company IT infrastructure. While their developers offer convenient build methods using Docker containers, these cannot be used in Infineon's compute farm. This, and also the fact that most of the open-source tools are currently evolving quickly with little to no versioning, lead to the setup of an in-house continuous integration and continuous delivery system for nightly and weekly builds of the tools. Once the necessary tools were installed and running, effort was put into integrating Infineon's in-house technology data.At Infineon, we envision two use cases for OpenROAD/OpenLane: physical synthesis hyperparameter exploration (and tuning) and optimization of the complete flow starting from RTL. First, our goal is to use OpenROAD's AutoTuner in the path-finding phase to automatically and cost-effectively find optimal parameters for the flow and then build upon these results within a commercial tool for the later steps near the tapeout. Second, we want to include not only the synthesis flow inside the optimization loop of the AutoTuner, but also our in-house RTL generation framework (MetaRTL). For instance, having RTL generators for a RISC-V CPU and also the results of simulated runtime benchmarks for each iteration, the AutoTuner should be able to change fundamental aspects (for example number of pipeline stages) of the RTL to reach certain power, performance, and area requirements when running the benchmark code on the CPU.Overall, we see OpenROAD/OpenLane as a viable alternative to commercial tools, especially for research and academic use, where modifications to the tools are needed and where very long and otherwise costly tool runtimes are expected.
+C1  - New York, NY, USA
+C3  - Proceedings of the 2022 ACM/IEEE Workshop on Machine Learning for CAD
+DA  - 2022/09/12/
+PY  - 2022
+DO  - 10.1145/3551901.3557040
+DP  - ACM Digital Library
+SP  - 143
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9486-4
+UR  - https://dl.acm.org/doi/10.1145/3551901.3557040
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3551901.3557040?download=true
+ER  - 
+
+TY  - CONF
+TI  - FinRL-podracer: high performance and scalable deep reinforcement learning for quantitative finance
+AU  - Li, Zechu
+AU  - Liu, Xiao-Yang
+AU  - Zheng, Jiahao
+AU  - Wang, Zhaoran
+AU  - Walid, Anwar
+AU  - Guo, Jian
+T3  - ICAIF '21
+AB  - Machine learning techniques are playing more and more important roles in finance market investment. However, finance quantitative modeling with conventional supervised learning approaches has a number of limitations, including the difficulty in defining appropriate labels, lack of consistency in modeling and trading execution, and lack of modeling the dynamic nature of the finance market. The development of deep reinforcement learning techniques is partially addressing these issues. Unfortunately, the steep learning curve and the difficulty in quick modeling and agile development are impeding finance researchers from using deep reinforcement learning in quantitative trading. In this paper, we propose an RLOps in finance paradigm and present a FinRL-Podracer framework to accelerate the development pipeline of deep reinforcement learning (DRL)-driven trading strategy and to improve both trading performance and training efficiency. FinRL-Podracer is a cloud solution that features high performance and high scalability and promises continuous training, continuous integration, and continuous delivery of DRL-driven trading strategies, facilitating a rapid transformation from algorithmic innovations into a profitable trading strategy. First, we propose a generational evolution mechanism with an ensemble strategy to improve the trading performance of a DRL agent, and schedule the training of a DRL algorithm onto a GPU cloud via multi-level mapping. Then, we carry out the training of DRL components with high-performance optimizations on GPUs. Finally, we evaluate the FinRL-Podracer framework for a stock trend prediction task on an NVIDIA DGX SuperPOD cloud. FinRL-Podracer outperforms three popular DRL libraries Ray RLlib, Stable Baseline 3 and FinRL, i.e., 12% ~ 35% improvements in annual return, 0.1 ~ 0.6 improvements in Sharpe ratio and 3× ~ 7× speed-up in training time. We show the high scalability by training a trading agent in 10 minutes with 80 A100 GPUs, on NASDAQ-100 constituent stocks with minute-level data over 10 years.
+C1  - New York, NY, USA
+C3  - Proceedings of the Second ACM International Conference on AI in Finance
+DA  - 2022/05/04/
+PY  - 2022
+DO  - 10.1145/3490354.3494413
+DP  - ACM Digital Library
+SP  - 1
+EP  - 9
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9148-1
+ST  - FinRL-podracer
+UR  - https://dl.acm.org/doi/10.1145/3490354.3494413
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3490354.3494413?download=true
+ER  - 
+
+TY  - CONF
+TI  - Monitorless: Predicting Performance Degradation in Cloud Applications with Machine Learning
+AU  - Grohmann, Johannes
+AU  - Nicholson, Patrick K.
+AU  - Iglesias, Jesus Omana
+AU  - Kounev, Samuel
+AU  - Lugones, Diego
+T3  - Middleware '19
+AB  - Today, software operation engineers rely on application key performance indicators (KPIs) for sizing and orchestrating cloud resources dynamically. KPIs are monitored to assess the achievable performance and to configure various cloud-specific parameters such as flavors of instances and autoscaling rules, among others. Usually, keeping KPIs within acceptable levels requires application expertise which is expensive and can slow down the continuous delivery of software. Expertise is required because KPIs are normally based on application-specific quality-of-service metrics, like service response time and processing rate, instead of generic platform metrics, like those typical across various environments (e.g., CPU and memory utilization, I/O rate, etc.)In this paper, we investigate the feasibility of outsourcing the management of application performance from developers to cloud operators. In the same way that the serverless paradigm allows the execution environment to be fully managed by a third party, we discuss a monitorless model to streamline application deployment by delegating performance management. We show that training a machine learning model with platform-level data, collected from the execution of representative containerized services, allows inferring application KPI degradation. This is an opportunity to simplify operations as engineers can rely solely on platform metrics -- while still fulfilling application KPIs -- to configure portable and application agnostic rules and other cloud-specific parameters to automatically trigger actions such as autoscaling, instance migration, network slicing, etc.Results show that monitorless infers KPI degradation with an accuracy of 97% and, notably, it performs similarly to typical autoscaling solutions, even when autoscaling rules are optimally tuned with knowledge of the expected workload.
+C1  - New York, NY, USA
+C3  - Proceedings of the 20th International Middleware Conference
+DA  - 2019/12/09/
+PY  - 2019
+DO  - 10.1145/3361525.3361543
+DP  - ACM Digital Library
+SP  - 149
+EP  - 162
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-7009-7
+ST  - Monitorless
+UR  - https://dl.acm.org/doi/10.1145/3361525.3361543
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3361525.3361543?download=true
+ER  - 
+

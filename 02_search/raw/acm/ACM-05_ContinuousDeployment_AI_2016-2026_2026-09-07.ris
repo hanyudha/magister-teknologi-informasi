@@ -1,0 +1,185 @@
+TY  - CONF
+TI  - Decoding CI/CD Practices in Open-Source Projects with LLM Insights
+AU  - Chomątek, Łukasz
+AU  - Papuga, Jakub
+AU  - Nowak, Przemyslaw
+AU  - Poniszewska-Marańda, Aneta
+T3  - FSE Companion '25
+AB  - The analysis of continuous integration and continuous deployment (CI/CD) pipeline configurations offers critical insights into modern software development practices. This paper leverages advanced large language models (LLMs) — DeepSeek-V2 and GPT-4o — to examine pipeline definition files from 28,770 popular GitHub repositories, uncovering adoption trends across CI/CD practices. Our LLM-driven approach reveals near-universal implementation of build (80.0%) and test (80.2%) stages, contrasted by lower adoption of specialized practices like static application security testing (SAST) (12.1%), containerization (17.9%), and cloud deployment (4.2%). System-specific patterns emerge, with Travis CI leading in build automation (99.2%) and GitHub Actions excelling in linting (44.9%) and SAST (16.5%), reflecting distinct system strengths. By harnessing LLMs to parse and interpret complex pipeline files at scale, this study not only maps the CI/CD landscape but also demonstrates the transformative potential of artificial intelligence in software engineering research. We propose future work to refine LLM-based tools for pipeline analysis and address adoption gaps, aiming to enhance CI/CD accessibility and effectiveness across diverse projects.
+C1  - New York, NY, USA
+C3  - Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering
+DA  - 2025/07/28/
+PY  - 2025
+DO  - 10.1145/3696630.3728699
+DP  - ACM Digital Library
+SP  - 1638
+EP  - 1644
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1276-0
+UR  - https://dl.acm.org/doi/10.1145/3696630.3728699
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3696630.3728699?download=true
+ER  - 
+
+TY  - CONF
+TI  - Advancing Software Security and Reliability in Cloud Platforms through AI-based Anomaly Detection
+AU  - Saleh, Sabbir M.
+AU  - Sayem, Ibrahim Mohammed
+AU  - Madhavji, Nazim
+AU  - Steinbacher, John
+T3  - CCSW '24
+AB  - Continuous Integration/Continuous Deployment (CI/CD) is fundamental for advanced software development, supporting faster and more efficient delivery of code changes into cloud environments. However, security issues in the CI/CD pipeline remain challenging, and incidents (e.g., DDoS, Bot, Log4j, etc.) are happening over the cloud environments. While plenty of literature discusses static security testing and CI/CD practices, only a few deal with network traffic pattern analysis to detect different cyberattacks. This research aims to enhance CI/CD pipeline security by implementing anomaly detection through AI (Artificial Intelligence) support. The goal is to identify unusual behaviour or variations from network traffic patterns in pipeline and cloud platforms. The system shall integrate into the workflow to continuously monitor pipeline activities and cloud infrastructure. Additionally, it aims to explore adaptive response mechanisms to mitigate the detected anomalies or security threats. This research employed two popular network traffic datasets, CSE-CIC-IDS2018 and CSE-CIC-IDS2017. We implemented a combination of Convolution Neural Network (CNN) and Long Short-Term Memory (LSTM) to detect unusual traffic patterns. We achieved an accuracy of 98.69% and 98.30% and generated log files in different CI/CD pipeline stages that resemble the network anomalies affected to address security challenges in modern DevOps practices, contributing to advancing software security and reliability.
+C1  - New York, NY, USA
+C3  - Proceedings of the 2024 on Cloud Computing Security Workshop
+DA  - 2024/11/19/
+PY  - 2024
+DO  - 10.1145/3689938.3694779
+DP  - ACM Digital Library
+SP  - 43
+EP  - 52
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1234-0
+UR  - https://dl.acm.org/doi/10.1145/3689938.3694779
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3689938.3694779?download=true
+ER  - 
+
+TY  - JOUR
+TI  - Build Optimization: A Systematic Literature Review
+AU  - Aïdasso, Henri
+AU  - Sayagh, Mohammed
+AU  - Bordeleau, Francis
+T2  - ACM Computing Surveys
+AB  - In modern software organizations, Continuous Integration (CI) consists of an automated build process triggered by change submissions and involving compilation, testing, and packaging to enable the continuous deployment of new software versions to end-users. While CI offers various advantages regarding software quality and delivery speed, it introduces challenges addressed by a large body of research. To better understand this literature, so as to help practitioners find solutions for their problems and guide future research, we conduct a systematic review of 97 studies published between 2006 and 2024, summarizing their goals, methodologies, datasets, and metrics. These studies target two main challenges: (1) long build durations and (2) build failures. To address the first, researchers have proposed techniques such as predicting build outcomes and durations, selective build execution, and build acceleration through caching or performance smell repair. On the other hand, build failure root causes have been studied, leading to techniques for predicting build script maintenance needs and automating repairs. Recent work also focuses on flaky build failures caused by environmental issues. Most techniques use machine learning and rely on build metrics, which we classify into five categories. Finally, we identify eight publicly available datasets to support future research on build optimization.
+DA  - 2025/09/02/
+PY  - 2025
+DO  - 10.1145/3757912
+DP  - ACM Digital Library
+VL  - 58
+IS  - 1
+SP  - 12:1
+EP  - 12:38
+J2  - ACM Comput. Surv.
+SN  - 0360-0300
+ST  - Build Optimization
+UR  - https://dl.acm.org/doi/10.1145/3757912
+Y2  - 2026/09/07/09:04:43
+L1  - https://dl.acm.org/doi/pdf/10.1145/3757912?download=true
+ER  - 
+
+TY  - CONF
+TI  - Closing the Loop: Building Self-Adaptive Software for Continuous Performance Engineering
+AU  - Litoiu, Marin
+T3  - ICPE '24 Companion
+AB  - Cloud computing and cloud-native platforms have rendered runtime environments more malleable. Simultaneously, the growing demand for flexible and agile software applications and services has driven the emergence of self-adaptive architectures. These architectures, in turn, facilitate software performance modeling, tuning, optimization, and scaling in a continuous manner, blurring the boundary between development-time and run-time. Self-adaptive software employs feedback loop controllers inspired by control theory or variations of the Monitoring-Analysis-Planning-Acting (MAPE) architecture. Whether implemented in a centralized or decentralized manner, most controllers utilize performance models that are learned or tuned at run-time. This shift implies that software is designed to be observable and controllable during execution, presupposing the co-design of software applications and their runtime controllers.This talk commences with a succinct overview of the evolution of self-adaptive software, accentuating key milestones along the journey. Subsequently, recent advancements in software performance modeling at runtime and the role of learning-enabled performance management during software operation are presented.Two recent works are highlighted: one focusing on constructing robust performance models to sustain continuous operation and deployment of cloud-native software, and the other on utilizing multimodal models for performance anomaly detection. The former supports cloud operations like continuous deployment of co-located applications, migration, consolidation of services, or scaling in response to workloads or interferences. The latter is tailored to support performance anomaly detection, localization, and identification of root causes, facilitating swift remediation of faults using generative AI. The final segment of the talk delves into current challenges in developing self-adaptive systems, presenting insights from a recent survey on the state of self-adaptive software in the industry and the challenges perceived by practitioners.
+C1  - New York, NY, USA
+C3  - Companion of the 15th ACM/SPEC International Conference on Performance Engineering
+DA  - 2024/05/07/
+PY  - 2024
+DO  - 10.1145/3629527.3652910
+DP  - ACM Digital Library
+SP  - 258
+EP  - 259
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-0445-1
+ST  - Closing the Loop
+UR  - https://dl.acm.org/doi/10.1145/3629527.3652910
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3629527.3652910?download=true
+ER  - 
+
+TY  - CONF
+TI  - Automated Software Quality Monitoring in Research Collaboration Projects
+AU  - Sildatke, Michael
+AU  - Karwanni, Hendrik
+AU  - Kraft, Bodo
+AU  - Schmidts, Oliver
+AU  - Zündorf, Albert
+T3  - ICSEW'20
+AB  - In collaborative research projects, both researchers and practitioners work together solving business-critical challenges. These projects often deal with ETL processes, in which humans extract information from non-machine-readable documents by hand. AI-based machine learning models can help to solve this problem.Since machine learning approaches are not deterministic, their quality of output may decrease over time. This fact leads to an overall quality loss of the application which embeds machine learning models. Hence, the software qualities in development and production may differ.Machine learning models are black boxes. That makes practitioners skeptical and increases the inhibition threshold for early productive use of research prototypes. Continuous monitoring of software quality in production offers an early response capability on quality loss and encourages the use of machine learning approaches. Furthermore, experts have to ensure that they integrate possible new inputs into the model training as quickly as possible.In this paper, we introduce an architecture pattern with a reference implementation that extends the concept of Metrics Driven Research Collaboration with an automated software quality monitoring in productive use and a possibility to auto-generate new test data coming from processed documents in production.Through automated monitoring of the software quality and auto-generated test data, this approach ensures that the software quality meets and keeps requested thresholds in productive use, even during further continuous deployment and changing input data.
+C1  - New York, NY, USA
+C3  - Proceedings of the IEEE/ACM 42nd International Conference on Software Engineering Workshops
+DA  - 2020/09/25/
+PY  - 2020
+DO  - 10.1145/3387940.3391478
+DP  - ACM Digital Library
+SP  - 603
+EP  - 610
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-7963-2
+UR  - https://dl.acm.org/doi/10.1145/3387940.3391478
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3387940.3391478?download=true
+ER  - 
+
+TY  - CONF
+TI  - Automated trainability evaluation for smart software functions
+AU  - Gerostathopoulos, Ilias
+AU  - Kugele, Stefan
+AU  - Segler, Christoph
+AU  - Bures, Tomas
+AU  - Knoll, Alois
+T3  - ASE '19
+AB  - More and more software-intensive systems employ machine learning and runtime optimization to improve their functionality by providing advanced features (e. g. personal driving assistants or recommendation engines). Such systems incorporate a number of smart software functions (SSFs) which gradually learn and adapt to the users' preferences. A key property of SSFs is their ability to learn based on data resulting from the interaction with the user (implicit and explicit feedback)---which we call trainability. Newly developed and enhanced features in a SSF must be evaluated based on their effect on the trainability of the system. Despite recent approaches for continuous deployment of machine learning systems, trainability evaluation is not yet part of continuous integration and deployment (CID) pipelines. In this paper, we describe the different facets of trainability for the development of SSFs. We also present our approach for automated trainability evaluation within an automotive CID framework which proposes to use automated quality gates for the continuous evaluation of machine learning models. The results from our indicative evaluation based on real data from eight BMW cars highlight the importance of continuous and rigorous trainability evaluation in the development of SSFs.
+C1  - San Diego, California
+C3  - Proceedings of the 34th IEEE/ACM International Conference on Automated Software Engineering
+DA  - 2020/02/07/
+PY  - 2020
+DO  - 10.1109/ASE.2019.00096
+DP  - ACM Digital Library
+SP  - 998
+EP  - 1001
+PB  - IEEE Press
+SN  - 978-1-7281-2508-4
+UR  - https://dl.acm.org/doi/10.1109/ASE.2019.00096
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - FastLane: test minimization for rapidly deployed large-scale online services
+AU  - Philip, Adithya Abraham
+AU  - Bhagwan, Ranjita
+AU  - Kumar, Rahul
+AU  - Maddila, Chandra Sekhar
+AU  - Nagappan, Nachiappan
+T3  - ICSE '19
+AB  - Today, we depend on numerous large-scale services for basic operations such as email. These services, built on the basis of Continuous Integration/Continuous Deployment (CI/CD) processes, are extremely dynamic: developers continuously commit code and introduce new features, functionality and fixes. Hundreds of commits may enter the code-base in a single day. Therefore one of the most time-critical, yet resource-intensive tasks towards ensuring code-quality is effectively testing such large code-bases.This paper presents FastLane, a system that performs data-driven test minimization. FastLane uses light-weight machine-learning models built upon a rich history of test and commit logs to predict test outcomes. Tests for which we predict outcomes need not be explicitly run, thereby saving us precious test-time and resources. Our evaluation on a large-scale email and collaboration platform service shows that our techniques can save 18.04%, i.e., almost a fifth of test-time while obtaining a test outcome accuracy of 99.99%.
+C1  - Montreal, Quebec, Canada
+C3  - Proceedings of the 41st International Conference on Software Engineering
+DA  - 2019/05/25/
+PY  - 2019
+DO  - 10.1109/ICSE.2019.00054
+DP  - ACM Digital Library
+SP  - 408
+EP  - 418
+PB  - IEEE Press
+ST  - FastLane
+UR  - https://dl.acm.org/doi/10.1109/ICSE.2019.00054
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - An Experimental Evaluation of Imbalanced Learning and Time-Series Validation in the Context of CI/CD Prediction
+AU  - Liu, Bohan
+AU  - Zhang, He
+AU  - Yang, Lanxin
+AU  - Dong, Liming
+AU  - Shen, Haifeng
+AU  - Song, Kaiwen
+T3  - EASE '20
+AB  - Background: Machine Learning (ML) has been widely used as a powerful tool to support Software Engineering (SE). The fundamental assumptions of data characteristics required for specific ML methods have to be carefully considered prior to their applications in SE. Within the context of Continuous Integration (CI) and Continuous Deployment (CD) practices, there are two vital characteristics of data prone to be violated in SE research. First, the logs generated during CI/CD for training are imbalanced data, which is contrary to the principles of common balanced classifiers; second, these logs are also time-series data, which violates the assumption of cross-validation. Objective: We aim to systematically study the two data characteristics and further provide a comprehensive evaluation for predictive CI/CD with the data from real projects. Method: We conduct an experimental study that evaluates 67 CI/CD predictive models using both cross-validation and time-series-validation. Results: Our evaluation shows that cross-validation makes the evaluation of the models optimistic in most cases, there are a few counter-examples as well. The performance of the top 10 imbalanced models are better than the balanced models in the predictions of failed builds, even for balanced data. The degree of data imbalance has a negative impact on prediction performance. Conclusion: In research and practice, the assumptions of the various ML methods should be seriously considered for the validity of research. Even if it is used to compare the relative performance of models, cross-validation may not be applicable to the problems with time-series features. The research community need to revisit the evaluation results reported in some existing research.
+C1  - New York, NY, USA
+C3  - Proceedings of the 24th International Conference on Evaluation and Assessment in Software Engineering
+DA  - 2020/04/17/
+PY  - 2020
+DO  - 10.1145/3383219.3383222
+DP  - ACM Digital Library
+SP  - 21
+EP  - 30
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-7731-7
+UR  - https://dl.acm.org/doi/10.1145/3383219.3383222
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3383219.3383222?download=true
+ER  - 
+

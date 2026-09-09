@@ -1,0 +1,894 @@
+TY  - JOUR
+TI  - Applications of AI in Space Domain
+AU  - Rebelo, Luciana
+AU  - Basciani, Francesco
+AU  - Pelliccione, Patrizio
+T2  - ACM Computing Surveys
+AB  - We observe a growing interest in satellites, driven by small and micro-satellites, as operations become more ambitious and there is the need of changing satellites’ missions over time during their expeditions. Artificial Intelligence, especially Machine Learning, and DevOps are getting increasing attention also in the space domain. This is the first systematic survey exploring space architectures supporting Artificial Intelligence and DevOps. The study reviews 28 studies from 2012-2023; while AI integration was present in the 28 studies, DevOps implementation was limited. This discrepancy between the need for DevOps approaches and lack of studies that deal with it can be considered as one of the findings of this article. Validation mostly relies on controlled experiments, indicating limited real-world application. Challenges encompass environment, hardware, software, communication, and culture.
+DA  - 2025/09/03/
+PY  - 2025
+DO  - 10.1145/3757317
+DP  - ACM Digital Library
+VL  - 58
+IS  - 1
+SP  - 17:1
+EP  - 17:38
+J2  - ACM Comput. Surv.
+SN  - 0360-0300
+UR  - https://dl.acm.org/doi/10.1145/3757317
+Y2  - 2026/09/07/08:24:27
+L1  - https://dl.acm.org/doi/pdf/10.1145/3757317?download=true
+ER  - 
+
+TY  - CONF
+TI  - Comparative Analysis of AI-Driven Security Approaches in DevSecOps: Challenges, Solutions, and Future Directions
+AU  - Binbeshr, Farid
+AU  - Imam, Muhammad
+T3  - EASE Companion '25
+AB  - DevSecOps, which integrates security practices into every phase of DevOps, is increasingly adopted to balance rapid delivery with security needs. Artificial Intelligence (AI) and Machine Learning (ML) techniques are frequently applied in DevSecOps pipelines to automate security checks, improve threat detection, and enforce compliance. Yet, most existing research examines these techniques in isolation without comparing approaches. To address that gap, we performed a systematic literature review (SLR) of AI-driven security solutions in DevSecOps. We evaluated each approach’s technical capabilities, implementation challenges, and operational impact. Our review found notable shortcomings in current approaches—particularly in real-world validation, scalability, and seamless integration of AI into development pipelines. We also highlight best practices observed in the literature, identify open research questions, and suggest directions for future work in order to advance AI-enabled DevSecOps.
+C1  - New York, NY, USA
+C3  - Proceedings of the 2025 29th International Conference on Evaluation and Assessment in Software Engineering Companion
+DA  - 2025/12/23/
+PY  - 2025
+DO  - 10.1145/3727967.3756841
+DP  - ACM Digital Library
+SP  - 142
+EP  - 151
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1832-8
+ST  - Comparative Analysis of AI-Driven Security Approaches in DevSecOps
+UR  - https://dl.acm.org/doi/10.1145/3727967.3756841
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3727967.3756841?download=true
+ER  - 
+
+TY  - CONF
+TI  - Transforming CS Education with DevOps: Streamlined Assignment Validation and Delivery @ Scale
+AU  - Deshpande, Gururaj
+AU  - Cheekati, Shravan
+AU  - Patel, Shail
+AU  - Raj, Pranav
+AU  - Singh, Madhuri
+AU  - Pindur, Mark
+AU  - Al Soghyar, Nouf
+AU  - Zhao, Bryan
+AU  - Babolhavaeji, Parisa
+AU  - Taher, Mohammad
+AU  - Nathan, Krish
+AU  - Spaeth, Will
+AU  - Roozbahani, Max Mahdi
+T3  - L@S '24
+AB  - The surge in interest and demand for Artificial Intelligence (AI) skills has significantly increased student enrollment in AI and Machine Learning (ML) classes. In a large ML course at Georgia Institute of Technology, multi-week assignments encourage students to critically think about various ML algorithms theoretically and in an applied setting. Given the complexity of these large assignments, there exists the potential for bugs to remain undetected even after the verification process. These bugs lead to a significant increase in student questions and concerns, necessitate re-releasing assignment, and degrade the homework experience. To reduce and even prevent bugs in assignments, we adopt the DevOps methodology and implement a novel CI/CD pipeline along with Gitflow to automate the validation process of an assignment, from creation to release. An analysis of our classroom forum across semesters demonstrates that integrating a CI/CD pipeline with Gitflow effectively reduces the number of bug-related posts, allowing the instructional team to refocus on enhancing the student learning experience.
+C1  - New York, NY, USA
+C3  - Proceedings of the Eleventh ACM Conference on Learning @ Scale
+DA  - 2024/07/15/
+PY  - 2024
+DO  - 10.1145/3657604.3664676
+DP  - ACM Digital Library
+SP  - 259
+EP  - 264
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-0633-2
+ST  - Transforming CS Education with DevOps
+UR  - https://dl.acm.org/doi/10.1145/3657604.3664676
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3657604.3664676?download=true
+ER  - 
+
+TY  - JOUR
+TI  - AI for DevSecOps: A Landscape and Future Opportunities
+AU  - Fu, Michael
+AU  - Pasuksmit, Jirat
+AU  - Tantithamthavorn, Chakkrit
+T2  - ACM Transactions on Software Engineering and Methodology
+AB  - DevOps has emerged as one of the most rapidly evolving software development paradigms. With the growing concerns surrounding security in software systems, the DevSecOps paradigm has gained prominence, urging practitioners to incorporate security practices seamlessly into the DevOps workflow. However, integrating security into the DevOps workflow can impact agility and impede delivery speed. Recently, the advancement of artificial intelligence (AI) has revolutionized automation in various software domains, including software security. AI-driven security approaches, particularly those leveraging machine learning or deep learning, hold promise in automating security workflows. They have the potential to reduce manual efforts and can be incorporated into DevOps practices to support consistent delivery speed while aligning with the principles of the DevSecOps paradigm. This article seeks to contribute to the critical intersection of AI and DevSecOps by presenting a comprehensive landscape of AI-driven security techniques applicable to DevOps and identifying avenues for enhancing security, trust, and efficiency in software development processes. We analyzed 99 research papers spanning from 2017 to 2023. Specifically, we address two key research questions (RQs). In RQ1, we identified 12 security tasks associated with the DevSecOps process and reviewed existing AI-driven security approaches, the problems they addressed, and the 65 benchmarks used to evaluate those approaches. Drawing insights from our findings, in RQ2, we discussed state-of-the-art AI-driven security approaches, highlighted 15 challenges in existing research, and proposed 15 corresponding avenues for future opportunities.
+DA  - 2025/04/28/
+PY  - 2025
+DO  - 10.1145/3712190
+DP  - ACM Digital Library
+VL  - 34
+IS  - 4
+SP  - 115:1
+EP  - 115:61
+J2  - ACM Trans. Softw. Eng. Methodol.
+SN  - 1049-331X
+ST  - AI for DevSecOps
+UR  - https://dl.acm.org/doi/10.1145/3712190
+Y2  - 2026/09/07/08:24:36
+L1  - https://dl.acm.org/doi/pdf/10.1145/3712190?download=true
+ER  - 
+
+TY  - CONF
+TI  - “Still in the Loop”: Coping with Technostress in DevOps Teams and the Impact of GenAI
+AU  - Jeyam, Dharneeka
+AU  - Wiedemann, Anna
+AU  - Schwabe, Gerhard
+AU  - Güney, Kadircan
+T3  - ICSE-SEIP '26
+AB  - The increasing adoption of generative artificial intelligence (GenAI) tools and evolving technologies in DevOps environments introduces novel stressors, known as technostress. In this qualitative study, we conducted 26 semi-structured interviews with DevOps team members to explore how technostress is experienced and managed in practice. Using inductive and deductive thematic analysis, we identified coping strategies that operate across multiple levels. Participants reported both emotion-focused and problem-focused coping strategies, including skill development, knowledge sharing, and tool standardization. While GenAI tools are valued for enhancing productivity and efficiency, they also introduce new stressors, such as hallucinations and unreliable output. Our findings highlight a dual role of GenAI, as both novel stressor and a potential mitigator. This duality underscores the ongoing responsibility of DevOps members to “still be in the loop” when integrating GenAI tools. Based on these insights, we propose a conceptual framework and offer actionable, multi-level coping strategies that extend beyond individual practices to organizational and tool-level measures, capturing how the integration of GenAI reshapes technostress in modern DevOps practices.
+C1  - New York, NY, USA
+C3  - Proceedings of the IEEE/ACM 48th International Conference on Software Engineering: Software Engineering in Practice
+DA  - 2026/07/11/
+PY  - 2026
+DO  - 10.1145/3786583.3786899
+DP  - ACM Digital Library
+SP  - 590
+EP  - 600
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-2426-8
+ST  - “Still in the Loop”
+UR  - https://dl.acm.org/doi/10.1145/3786583.3786899
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3786583.3786899?download=true
+ER  - 
+
+TY  - CONF
+TI  - Practice of Integrating TensorFlow and DevOps in the Development of Vocational Skill Level Certification System in Chinese Higher Education Institutions
+AU  - Li, Jianzhong
+AU  - Zhou, Xiaochuan
+AU  - Wan, Qiang
+AU  - Wang, Shichang
+AU  - Ma, Wenjuan
+T3  - DEAI '25
+AB  - This article explores the integrated application of DevOps and deep learning technology TensorFlow in the development of vocational skill level systems, emphasizing its important role in the digital transformation of universities. In a sense, the introduction of artificial intelligence deep learning technology, the improvement of software development efficiency, and the application of DevOps have become key technologies for universities to win the success of digital transformation. This study mainly adopts a quantitative analysis methods for research and analysis, and uses Excel, SPSS 23, Python, TensorFlow to conduct correlation analysis on the sample data. Finally, this study summarizes the importance and application value of combining deep learning technology TensorFlow with DevOps in improving R&amp;D efficiency satisfaction and strengthening the development of China's vocational skills certification system.
+C1  - New York, NY, USA
+C3  - Proceedings of the 2nd Guangdong-Hong Kong-Macao Greater Bay Area International Conference on Digital Economy and Artificial Intelligence
+DA  - 2025/07/31/
+PY  - 2025
+DO  - 10.1145/3745238.3745388
+DP  - ACM Digital Library
+SP  - 958
+EP  - 963
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1279-1
+UR  - https://dl.acm.org/doi/10.1145/3745238.3745388
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3745238.3745388?download=true
+ER  - 
+
+TY  - CONF
+TI  - The Impact of Generative AI on Test & Evaluation: Challenges and Opportunities
+AU  - Freeman, Laura
+AU  - Robert, John
+AU  - Wojton, Heather
+T3  - FSE Companion '25
+AB  - Generative Artificial Intelligence (GenAI) is transforming software development processes, including test and evaluation (T&amp;E). From automating test case design to enabling continuous testing in DevOps pipelines, AI-driven tools enhance the efficiency, accuracy, and speed of software testing. At the same time, the integration of AI components into software-reliant systems introduces new challenges for verification and validation (V&amp;V). Traditional T&amp;E methodologies must evolve to address issues such as AI bias, hallucinated outputs, and the complexity of validating non-deterministic behaviors. This position paper examines how existing T&amp;E methods must evolve to account for AI's stochastic nature, and conversely how GenAI is transforming T&amp;E practices across the software development lifecycle (SDLC).
+C1  - New York, NY, USA
+C3  - Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering
+DA  - 2025/07/28/
+PY  - 2025
+DO  - 10.1145/3696630.3728723
+DP  - ACM Digital Library
+SP  - 1376
+EP  - 1380
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1276-0
+ST  - The Impact of Generative AI on Test & Evaluation
+UR  - https://dl.acm.org/doi/10.1145/3696630.3728723
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3696630.3728723?download=true
+ER  - 
+
+TY  - JOUR
+TI  - Predicting Node Failures in an Ultra-Large-Scale Cloud Computing Platform: An AIOps Solution
+AU  - Li, Yangguang
+AU  - Jiang, Zhen Ming (Jack)
+AU  - Li, Heng
+AU  - Hassan, Ahmed E.
+AU  - He, Cheng
+AU  - Huang, Ruirui
+AU  - Zeng, Zhengda
+AU  - Wang, Mian
+AU  - Chen, Pinan
+T2  - ACM Transactions on Software Engineering and Methodology (TOSEM)
+AB  - Many software services today are hosted on cloud computing platforms, such as Amazon EC2, due to many benefits like reduced operational costs. However, node failures in these platforms can impact the availability of their hosted services and potentially lead to large financial losses. Predicting node failures before they actually occur is crucial, as it enables DevOps engineers to minimize their impact by performing preventative actions. However, such predictions are hard due to many challenges like the enormous size of the monitoring data and the complexity of the failure symptoms. AIOps (Artificial Intelligence for IT Operations), a recently introduced approach in DevOps, leverages data analytics and machine learning to improve the quality of computing platforms in a cost-effective manner. However, the successful adoption of such AIOps solutions requires much more than a top-performing machine learning model. Instead, AIOps solutions must be trustable, interpretable, maintainable, scalable, and evaluated in context. To cope with these challenges, in this article we report our process of building an AIOps solution for predicting node failures for an ultra-large-scale cloud computing platform at Alibaba. We expect our experiences to be of value to researchers and practitioners, who are interested in building and maintaining AIOps solutions for large-scale cloud computing platforms.
+DA  - 2020/04/29/
+PY  - 2020
+DO  - 10.1145/3385187
+DP  - ACM Digital Library
+VL  - 29
+IS  - 2
+SP  - 13:1
+EP  - 13:24
+J2  - ACM Trans. Softw. Eng. Methodol.
+SN  - 1049-331X
+ST  - Predicting Node Failures in an Ultra-Large-Scale Cloud Computing Platform
+UR  - https://dl.acm.org/doi/10.1145/3385187
+Y2  - 2026/09/07/08:24:47
+L1  - https://dl.acm.org/doi/pdf/10.1145/3385187?download=true
+ER  - 
+
+TY  - CONF
+TI  - Using Digital Twins for Software Change Risk Assessment Toward Proactive AIOps
+AU  - Rivera, Luis F.
+AU  - Villegas, Norha M.
+AU  - Tamura, Gabriel
+AU  - Muller, Hausi A.
+AU  - Watts, Ian
+AU  - Erpenbach, Eric
+AU  - Shwartz, Laura
+AU  - Liu, Xiaotong
+T3  - CASCON '23
+AB  - The increasing structural and behavioural complexity of modern IT systems and environments (IT-Sys|Envs) calls for adopting automated fault anticipation and forecasting mechanisms to mitigate risks, limit system disturbances and damage, and improve problem resolution readiness. Preventing unexpected or undesired ITSys| Envs behaviour is crucial not only to maximize customer value and satisfaction but also to fulfill strict service-level agreements. Given the constant need for operational changes in today’s dynamic IT-Sys|Envs as a response to evolving user requirements and expectations, DevOps teams face several challenges and uncertainties to limit the potential introduction of faults, foresee their occurrence, and comprehend their associated risks. While the accomplishments attained in the application of artificial intelligence to the operation of IT-Sys|Envs (i.e., AIOps) show promise, further research is necessary to facilitate the transition from reactive AIOps to its anticipated proactive, and risk-focused, manifestation. This involves advancing AIOps conceptualization and tooling for enabling improved software fault prognosis and remediation, augmented risk management, and enhanced explainability. We describe our vision for proactive AIOps and report our progress toward its viable realization through the application of relevant notions from the revolutionary concept of Digital Twins. Moreover, we discuss challenges and opportunities regarding this promising integration and its impact on the future of software development and operation life cycles.
+C1  - USA
+C3  - Proceedings of the 33rd Annual International Conference on Computer Science and Software Engineering
+DA  - 2023/09/11/
+PY  - 2023
+DP  - ACM Digital Library
+SP  - 211
+EP  - 216
+PB  - IBM Corp.
+UR  - https://dl.acm.org/doi/10.5555/3615924.3615951
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - Streamlining ML Training in Kubernetes: An MLOps Architecture with Kubeflow
+AU  - Korontanis, Ioannis
+AU  - Zacharia, Athina
+AU  - Makris, Antonios
+AU  - Pateraki, Maria
+AU  - Tserpes, Konstantinos
+T3  - IOT '25
+AB  - Machine Learning Operations (MLOps) is essential for automating the deployment, monitoring, and management of ML models. By integrating MLOps with DevOps practices, developers can create automated training pipelines. This paper explores using Kubeflow as an MLOps platform and GitHub Actions as a CI/CD pipeline for training and deploying ML models. Kubeflow provides a scalable framework for orchestrating ML workflows in containers, with Kubernetes enabling efficient resource management. Containerization ensures consistency, portability, and reproducibility across environments, while GitHub Actions automates testing, version control, and deployment. A real-world case study demonstrates this architecture and discusses challenges and best practices for modern MLOps workflows.
+C1  - New York, NY, USA
+C3  - Proceedings of the 15th International Conference on the Internet of Things
+DA  - 2025/12/12/
+PY  - 2025
+DO  - 10.1145/3770501.3771304
+DP  - ACM Digital Library
+SP  - 267
+EP  - 270
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1595-2
+ST  - Streamlining ML Training in Kubernetes
+UR  - https://dl.acm.org/doi/10.1145/3770501.3771304
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3770501.3771304?download=true
+ER  - 
+
+TY  - JOUR
+TI  - Model-Driven Engineering, Artificial Intelligence, and DevOps for Software and Systems Engineering: A Systematic Mapping Study of Synergies and Challenges
+AU  - Berardinelli, Luca
+AU  - Muttillo, Vittoriano
+AU  - Eramo, Romina
+AU  - Bruneliere, Hugo
+AU  - Rahimi, Abbas
+AU  - Cicchetti, Antonio
+AU  - Giner-Miguelez, Joan
+AU  - Gómez, Abel
+AU  - Potena, Pasqualina
+AU  - Saadatmand, Mehrdad
+T2  - ACM Transactions on Software Engineering and Methodology
+AB  - This article presents a systematic mapping study classifying existing scientific contributions on synergies of Model-Driven Engineering (MDE), AI/Machine Learning (ML), and DevOps, with the overall objective of supporting the continuous development of Cyber-Physical Systems (CPSs). We collected papers from bibliographic sources and selected primary studies to analyze. Then, we characterized and classified the current state of the art, focusing on (1) main aspects already tackled at the intersection of at least two of the three studied areas, and (2) findings emerging from the analysis as a framework for potential future research, notably regarding the integration of the three studied areas. The results reveal that few approaches combine MDE, AI/ML, and DevOps for software and systems engineering. In contrast, several approaches have combined two of them, specifically MDE and DevOps. Approaches combining AI/ML with MDE or DevOps are also becoming more frequent and will most likely continue to progress in the future. These synergies cover a range of engineering activities, from requirements and design to monitoring, maintenance, and evolution. Open research challenges include advancing AI/ML, MDE, and DevOps integration, supporting scalable, data-oriented solutions, proposing new continuous engineering methods, and adapting DevOps practices to diverse systems.
+DA  - 2026/07/17/
+PY  - 2026
+DO  - 10.1145/3759454
+DP  - ACM Digital Library
+VL  - 35
+IS  - 8
+SP  - 254:1
+EP  - 254:53
+J2  - ACM Trans. Softw. Eng. Methodol.
+SN  - 1049-331X
+ST  - Model-Driven Engineering, Artificial Intelligence, and DevOps for Software and Systems Engineering
+UR  - https://dl.acm.org/doi/10.1145/3759454
+Y2  - 2026/09/07/08:24:56
+L1  - https://dl.acm.org/doi/pdf/10.1145/3759454?download=true
+ER  - 
+
+TY  - CONF
+TI  - Advancing Software Security and Reliability in Cloud Platforms through AI-based Anomaly Detection
+AU  - Saleh, Sabbir M.
+AU  - Sayem, Ibrahim Mohammed
+AU  - Madhavji, Nazim
+AU  - Steinbacher, John
+T3  - CCSW '24
+AB  - Continuous Integration/Continuous Deployment (CI/CD) is fundamental for advanced software development, supporting faster and more efficient delivery of code changes into cloud environments. However, security issues in the CI/CD pipeline remain challenging, and incidents (e.g., DDoS, Bot, Log4j, etc.) are happening over the cloud environments. While plenty of literature discusses static security testing and CI/CD practices, only a few deal with network traffic pattern analysis to detect different cyberattacks. This research aims to enhance CI/CD pipeline security by implementing anomaly detection through AI (Artificial Intelligence) support. The goal is to identify unusual behaviour or variations from network traffic patterns in pipeline and cloud platforms. The system shall integrate into the workflow to continuously monitor pipeline activities and cloud infrastructure. Additionally, it aims to explore adaptive response mechanisms to mitigate the detected anomalies or security threats. This research employed two popular network traffic datasets, CSE-CIC-IDS2018 and CSE-CIC-IDS2017. We implemented a combination of Convolution Neural Network (CNN) and Long Short-Term Memory (LSTM) to detect unusual traffic patterns. We achieved an accuracy of 98.69% and 98.30% and generated log files in different CI/CD pipeline stages that resemble the network anomalies affected to address security challenges in modern DevOps practices, contributing to advancing software security and reliability.
+C1  - New York, NY, USA
+C3  - Proceedings of the 2024 on Cloud Computing Security Workshop
+DA  - 2024/11/19/
+PY  - 2024
+DO  - 10.1145/3689938.3694779
+DP  - ACM Digital Library
+SP  - 43
+EP  - 52
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-1234-0
+UR  - https://dl.acm.org/doi/10.1145/3689938.3694779
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3689938.3694779?download=true
+ER  - 
+
+TY  - CONF
+TI  - Proactive AIOps through digital twins
+AU  - Müller, Hausi A.
+AU  - Rivera, Luis F.
+AU  - Jiménez, Miguel
+AU  - Villegas, Norha M.
+AU  - Tamura, Gabriel
+AU  - Akkiraju, Rama
+AU  - Watts, Ian
+AU  - Erpenbach, Eric
+T3  - CASCON '21
+AB  - The rise of advanced IT environments (IT ·Envs) that meet ever increasing user expectations on software quality necessitates innovative practices in the development and operation of software-intensive systems. DevOps teams find themselves searching for ways to deliver value by attacking operational challenges that tend to overwhelm human capabilities. Most of these challenges relate to the structural and behavioural complexities of modern IT·Envs. While the former concerns the orchestration of multiple technologies, the latter involves the exploitation of the huge data streams produced that are integral to DevOps activities. As automation, autonomy, and artificial intelligence technologies are maturing and permeating various activities in the software development lifecycle, opportunities arise from their integration with DevOps practices to improve risk mitigation, root cause analysis, problem resolution, and operational optimization in IT·Envs. This CASCON x EVOKE 2021 workshop discussed challenges and opportunities in developing proactive AIOps through digital twin technologies.
+C1  - USA
+C3  - Proceedings of the 31st Annual International Conference on Computer Science and Software Engineering
+DA  - 2021/11/22/
+PY  - 2021
+DP  - ACM Digital Library
+SP  - 275
+EP  - 276
+PB  - IBM Corp.
+UR  - https://dl.acm.org/doi/10.5555/3507788.3507833
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - Security in DevSecOps: Applying Tools and Machine Learning to Verification and Monitoring Steps
+AU  - Cankar, Matija
+AU  - Petrovic, Nenad
+AU  - Pita Costa, Joao
+AU  - Cernivec, Ales
+AU  - Antic, Jan
+AU  - Martincic, Tomaz
+AU  - Stepec, Dejan
+T3  - ICPE '23 Companion
+AB  - Security represents one of the crucial concerns when it comes to DevOps methodology-empowered software development and service delivery process. Considering the adoption of Infrastructure as Code (IaC), even minor flaws could potentially cause fatal consequences, especially in sensitive domains such as healthcare and maritime applications. However, most of the existing solutions tackle either Static Application Security Testing (SAST) or run-time behavior analysis distinctly. In this paper, we propose a) IaC Scan Runner, an open-source solution developed in Python for inspecting a variety of state-of-the-art IaC languages in application design time and b) the run time anomaly detection tool called LOMOS. Both tools work in synergy and provide a valuable contribution to a DevSecOps tool set. The proposed approach is demonstrated and their results will be demonstrated on various case studies showcasing the capabilities of static analysis tool IaC Scan Runner combined with LOMOS - log analysis artificial intelligence-enabled framework.
+C1  - New York, NY, USA
+C3  - Companion of the 2023 ACM/SPEC International Conference on Performance Engineering
+DA  - 2023/04/15/
+PY  - 2023
+DO  - 10.1145/3578245.3584943
+DP  - ACM Digital Library
+SP  - 201
+EP  - 205
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-0072-9
+ST  - Security in DevSecOps
+UR  - https://dl.acm.org/doi/10.1145/3578245.3584943
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3578245.3584943?download=true
+ER  - 
+
+TY  - CONF
+TI  - On the Challenges of Migrating to Machine Learning Life Cycle Management Platforms
+AU  - Njomou, Aquilas Tchanjou
+AU  - Fokaefs, Marios
+AU  - Silatchom Kamga, Dimitry Fumtim
+AU  - Adams, Bram
+T3  - CASCON '22
+AB  - Given the lack of targeted services for Machine Learning software by traditional Version Control systems (VCS), many platforms for Machine Learning Life Cycle Management (MLLCM) and config­uration have emerged. These tools leverage software engineering and DevOps practices to improve the way developers build, operate and maintain Machine Learning applications. This study aims to identify the main challenges that developers face when adopting and/or migrating existing projects to these platforms. Through an experimental and statistical analysis, we explore a generic mi­gration methodology and record the different challenges faced at each stage of the migration. Based on our own experience, we also recommend potential solutions to overcome these challenges and propose some steps that developers can take when building ML projects in order to ease any future migration to MLLCM platforms.
+C1  - USA
+C3  - Proceedings of the 32nd Annual International Conference on Computer Science and Software Engineering
+DA  - 2022/11/15/
+PY  - 2022
+DP  - ACM Digital Library
+SP  - 42
+EP  - 51
+PB  - IBM Corp.
+UR  - https://dl.acm.org/doi/10.5555/3566055.3566061
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - Build, deploy and administer microservices using Kubernetes and IBM cloud API management
+AU  - Charpentier, Eric
+AU  - Delima, Neil
+AU  - Mah, Jason
+AU  - Pape, Darren
+AU  - Yuen, Vince
+T3  - CASCON '19
+AB  - In recent years companies have increased their adoption of cloud computing not just to improve IT operational efficiencies but also to drive growth through business innovation and gain a competitive advantage. Legacy applications are being modernized to run in cloud environments and new cloud native applications with enhanced artificial intelligence are being developed. Microservices, containers and DevOps are at the core of application modernization and cloud native application development.
+C1  - USA
+C3  - Proceedings of the 29th Annual International Conference on Computer Science and Software Engineering
+DA  - 2019/11/04/
+PY  - 2019
+DP  - ACM Digital Library
+SP  - 391
+EP  - 392
+PB  - IBM Corp.
+UR  - https://dl.acm.org/doi/10.5555/3370272.3370334
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - Artifact and reference models for generative machine learning frameworks and build systems
+AU  - Atouani, Abdallah
+AU  - Kirchhof, Jörg Christian
+AU  - Kusmenko, Evgeny
+AU  - Rumpe, Bernhard
+T3  - GPCE 2021
+AB  - Machine learning is a discipline which has become ubiquitous in the last few years. While the research of machine learning algorithms is very active and continues to reveal astonishing possibilities on a regular basis, the wide usage of these algorithms is shifting the research focus to the integration, maintenance, and evolution of AI-driven systems. Although there is a variety of machine learning frameworks on the market, there is little support for process automation and DevOps in machine learning-driven projects. In this paper, we discuss how metamodels can support the development of deep learning frameworks and help deal with the steadily increasing variety of learning algorithms. In particular, we present a deep learning-oriented artifact model which serves as a foundation for build automation and data management in iterative, machine learning-driven development processes. Furthermore, we show how schema and reference models can be used to structure and maintain a versatile deep learning framework. Feasibility is demonstrated on several state-of-the-art examples from the domains of image and natural language processing as well as decision making and autonomous driving.
+C1  - New York, NY, USA
+C3  - Proceedings of the 20th ACM SIGPLAN International Conference on Generative Programming: Concepts and Experiences
+DA  - 2021/11/22/
+PY  - 2021
+DO  - 10.1145/3486609.3487199
+DP  - ACM Digital Library
+SP  - 55
+EP  - 68
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9112-2
+UR  - https://dl.acm.org/doi/10.1145/3486609.3487199
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3486609.3487199?download=true
+ER  - 
+
+TY  - CONF
+TI  - Industrial requirements for supporting AI-enhanced model-driven engineering
+AU  - Bergelin, Johan
+AU  - Strandberg, Per Erik
+T3  - MODELS '22
+AB  - There is an increasing interest in research on the combination of AI techniques and methods with MDE. However, there is a gap between AI and MDE practices, as well as between researchers and practitioners. This paper tackles this gap by reporting on industrial requirements in this field. In the AIDOaRt research project, practitioners and researchers collaborate on AI-augmented automation supporting modeling, coding, testing, monitoring, and continuous development in cyber-physical systems. The project specifically lies at the intersection of industry and academia collaboration with several industrial use cases. Through a process of elicitation and refinement, 78 high-level requirements were defined, and generalized into 30 generic requirements by the AIDOaRt partners. The main contribution of this paper is the set of generic requirements from the project for enhancing the development of cyber-physical systems with artificial intelligence, DevOps, and model-driven engineering, identifying the hot spots of industry needs in the interactions of MDE and AI. Future work will refine, implement and evaluate solutions toward these requirements in industry contexts.
+C1  - New York, NY, USA
+C3  - Proceedings of the 25th International Conference on Model Driven Engineering Languages and Systems: Companion Proceedings
+DA  - 2022/11/09/
+PY  - 2022
+DO  - 10.1145/3550356.3561609
+DP  - ACM Digital Library
+SP  - 375
+EP  - 379
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9467-3
+UR  - https://dl.acm.org/doi/10.1145/3550356.3561609
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3550356.3561609?download=true
+ER  - 
+
+TY  - CONF
+TI  - DQSOps: Data Quality Scoring Operations Framework for Data-Driven Applications
+AU  - Bayram, Firas
+AU  - Ahmed, Bestoun S.
+AU  - Hallin, Erik
+AU  - Engman, Anton
+T3  - EASE '23
+AB  - Data quality assessment has become a prominent component in the successful execution of complex data-driven artificial intelligence (AI) software systems. In practice, real-world applications generate huge volumes of data at speeds. These data streams require analysis and preprocessing before being permanently stored or used in a learning task. Therefore, significant attention has been paid to the systematic management and construction of high-quality datasets. Nevertheless, managing voluminous and high-velocity data streams is usually performed manually (i.e. offline), making it an impractical strategy in production environments. To address this challenge, DataOps has emerged to achieve life-cycle automation of data processes using DevOps principles. However, determining the data quality based on a fitness scale constitutes a complex task within the framework of DataOps. This paper presents a novel Data Quality Scoring Operations (DQSOps) framework that yields a quality score for production data in DataOps workflows. The framework incorporates two scoring approaches, an ML prediction-based approach that predicts the data quality score and a standard-based approach that periodically produces the ground-truth scores based on assessing several data quality dimensions. We deploy the DQSOps framework in a real-world industrial use case. The results show that DQSOps achieves significant computational speedup rates compared to the conventional approach of data quality scoring while maintaining high prediction performance.
+C1  - New York, NY, USA
+C3  - Proceedings of the 27th International Conference on Evaluation and Assessment in Software Engineering
+DA  - 2023/06/14/
+PY  - 2023
+DO  - 10.1145/3593434.3593445
+DP  - ACM Digital Library
+SP  - 32
+EP  - 41
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-0044-6
+ST  - DQSOps
+UR  - https://dl.acm.org/doi/10.1145/3593434.3593445
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3593434.3593445?download=true
+ER  - 
+
+TY  - CONF
+TI  - Dogfooding: using IBM cloud services to monitor IBM cloud infrastructure
+AU  - Pourmajidi, William
+AU  - Miranskyy, Andriy
+AU  - Steinbacher, John
+AU  - Erwin, Tony
+AU  - Godwin, David
+T3  - CASCON '19
+AB  - The stability and performance of Cloud platforms are essential as they directly impact customers' satisfaction. Cloud service providers use Cloud monitoring tools to ensure that rendered services match the quality of service requirements indicated in established contracts such as service-level agreements.Given the enormous number of resources that need to be monitored, highly scalable and capable monitoring tools are designed and implemented by Cloud service providers such as Amazon, Google, IBM, and Microsoft. Cloud monitoring tools monitor millions of virtual and physical resources and continuously generate logs for each one of them. Considering that logs magnify any technical issue, they can be used for disaster detection, prevention, and recovery. However, logs are useless if they are not assessed and analyzed promptly. Thus, we argue that the scale of Cloud-generated logs makes it impossible for DevOps teams to analyze them effectively. This implies that one needs to automate the process of monitoring and analysis (e.g., using machine learning and artificial intelligence). If the automation will witness an anomaly in the logs --- it will alert DevOps staff.The automatic anomaly detectors require a reliable and scalable platform for gathering, filtering, and transforming the logs, executing the detector models, and sending out the alerts to the DevOps staff. In this work, we report on implementing a prototype of such a platform based on the 7-layered architecture pattern, which leverages micro-service principles to distribute tasks among highly scalable, resources-efficient modules. The modules interact with each other via an instance of the Publish-Subscribe architectural pattern. The platform is deployed on the IBM Cloud service infrastructure and is used to detect anomalies in logs emitted by the IBM Cloud services, hence the dogfooding. In particular, we leverage IBM Cloud Functions to deploy the computing modules, IBM Event Streams to establish communication among the modules, and IBM Cloud Object Storage and IBM Cloudant for persistent storage.The prototype efficiency is promising: it takes the platform 17 seconds or less from the point of receiving a new log record to emitting an alert to the IBM Cloud DevOps team.
+C1  - USA
+C3  - Proceedings of the 29th Annual International Conference on Computer Science and Software Engineering
+DA  - 2019/11/04/
+PY  - 2019
+DP  - ACM Digital Library
+SP  - 344
+EP  - 353
+PB  - IBM Corp.
+ST  - Dogfooding
+UR  - https://dl.acm.org/doi/10.5555/3370272.3370313
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - The Environmental Cost of Engineering Machine Learning-Enabled Systems: A Mapping Study
+AU  - Chadli, Kouider
+AU  - Botterweck, Goetz
+AU  - Saber, Takfarinas
+T3  - EuroMLSys '24
+AB  - The integration of Machine Learning (ML) across public and industrial sectors has become widespread, posing unique challenges in comparison to conventional software development methods throughout the lifecycle of ML-Enabled Systems. Particularly, with the rising importance of ML platforms in software operations and the computational power associated with their frequent training, testing, and retraining, there is a growing concern about the sustainability of DevOps practices in the context of Al-enabled software. Despite the increasing interest in this domain, a comprehensive overview that offers a holistic perspective on research related to sustainable AI is currently lacking. This paper addresses this gap by presenting a Systematic Mapping Study that thoroughly examines techniques, tools, and lessons learned to assess and promote environmental sustainability in MLOps practices for ML-Enabled Systems.
+C1  - New York, NY, USA
+C3  - Proceedings of the 4th Workshop on Machine Learning and Systems
+DA  - 2024/04/22/
+PY  - 2024
+DO  - 10.1145/3642970.3655828
+DP  - ACM Digital Library
+SP  - 200
+EP  - 207
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-0541-0
+ST  - The Environmental Cost of Engineering Machine Learning-Enabled Systems
+UR  - https://dl.acm.org/doi/10.1145/3642970.3655828
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3642970.3655828?download=true
+ER  - 
+
+TY  - CONF
+TI  - Interaction Prediction and Anomaly Detection in a Microservices-based Telecommunication Platform
+AU  - Aktaş, Kemal
+AU  - Kilinc, H. Hakan
+T3  - ICSSP '24
+AB  - In microservice platforms with high number of users and heavy traffic, it is necessary to monitor the system, take quick action against errors and ensure the maintainability of the system. However, debugging on these platforms can take a long time. This difficulty arises from the need of understanding the behavior of microservices and detecting their interactions. In this study, which aims to increase the efficiency of DevOps engineers on the work/time unit, it was observed that providing microservice flows and interactions saves operations teams a significant amount of time during debugging. Accordingly, the study focused on microservice interactions and anomaly detection. Firstly, using the log patterns extracted from the microservice logs, different machine learning models were created to predict the previous and next microservices with which the current microservices interacted at a certain moment, and their performances were compared. Then, anomalous data were injected into the microservice logs, models were developed to detect these data and their performances were compared. In the experiments, unsupervised and supervised algorithms are used with 6 different datasets, and successful estimation results were obtained that can contribute positively to the debugging process.
+C1  - New York, NY, USA
+C3  - Proceedings of the 2024 International Conference on Software and Systems Processes
+DA  - 2024/09/04/
+PY  - 2024
+DO  - 10.1145/3666015.3666017
+DP  - ACM Digital Library
+SP  - 56
+EP  - 65
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-0991-3
+UR  - https://dl.acm.org/doi/10.1145/3666015.3666017
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3666015.3666017?download=true
+ER  - 
+
+TY  - JOUR
+TI  - An interview with Lauren Maffeo: understanding the risks of machine learning bias
+AU  - Anjum, Bushra
+T2  - Ubiquity
+AB  - Lauren Maffeo is a research analyst who joined the global technology sector in 2012. She started her career as a freelance journalist covering tech news for The Next Web and The Guardian. She has also worked with CEOs of pre-seed to profitable SaaS startups on media strategy. Lauren joined GetApp, a Gartner company, as a content editor in 2016. She covers the impact of emerging tech like AI on small and midsize business owners.Lauren has been cited by sources including Forbes, Fox Business, DevOps Digest, The Atlantic, and Inc.com. In 2017, Lauren was named to The Drum's 50 Under 30 list of women worth watching in digital. She holds an M.Sc. from The London School of Economics and a certificate in Artificial Intelligence: Implications for Business Strategy from MIT's Sloan School of Management.
+DA  - 2019/01/17/
+PY  - 2019
+DO  - 10.1145/3306159
+DP  - ACM Digital Library
+VL  - 2019
+IS  - January
+SP  - 1:1
+EP  - 1:5
+J2  - Ubiquity
+ST  - An interview with Lauren Maffeo
+UR  - https://dl.acm.org/doi/10.1145/3306159
+Y2  - 2026/09/07/08:35:42
+L1  - https://dl.acm.org/doi/pdf/10.1145/3306159?download=true
+ER  - 
+
+TY  - CONF
+TI  - MLOps: five steps to guide its effective implementation
+AU  - Matsui, Beatriz M. A.
+AU  - Goya, Denise H.
+T3  - CAIN '22
+AB  - DevOps practices have increasingly been applied to software development and engineering, as well as the machine learning lifecycle - in a process also known as MLOps. Today, many companies and professionals have been working and writing on this topic. However, in the academic and scientific literature, few results can be found on MLOps and how to implement it efficiently. This paper presents five essential steps to guide the understanding and practice of MLOps, which, based on the authors' research and experience, can assist in its effective implementation. The study aims to serve as a reference guide for all those who wish to learn more about the topic and intend to implement MLOps practices in the development of their systems.
+C1  - New York, NY, USA
+C3  - Proceedings of the 1st International Conference on AI Engineering: Software Engineering for AI
+DA  - 2022/10/17/
+PY  - 2022
+DO  - 10.1145/3522664.3528611
+DP  - ACM Digital Library
+SP  - 33
+EP  - 34
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9275-4
+ST  - MLOps
+UR  - https://dl.acm.org/doi/10.1145/3522664.3528611
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3522664.3528611?download=true
+ER  - 
+
+TY  - CONF
+TI  - MicroMatic: Fully Automated Microservices Identification Approach From Monolithic Systems
+AU  - Trabelsi, Imen
+AU  - Popa, Bianca
+AU  - Pereyrol, Jeremie
+AU  - Beaulieu, Pier-Olivier
+AU  - Moha, Naouel
+T3  - SERP4IoT '24
+AB  - The Internet of Things (IoT) revolution is transforming system interactions and functionalities, necessitating more adaptable, scalable, and responsive systems architectures. These IoT systems build on recent advances in software architectures, particularly Microservices Architecture (MSA), enabling scalability, facilitating cloud deployment, and supporting seamless integration with DevOps practices. While new IoT applications can seamlessly integrate Microservices Architecture from their design, the migration of existing monolithic IoT systems to MSA is essential to leverage its benefits yet it remains a challenging and costly process. To facilitate this migration, we propose MicroMatic, a tooled fully automated microservices identification approach that is based on static-relationship analyses between code elements as well as semantic analyses of the source code. Our approach relies on Machine Learning (ML) techniques and uses service types to guide the identification of microservices from IoT monolithic systems. We validate the effectiveness of our tool through a detailed case study, comparing our results with established ground truths. This process included a quantitative evaluation of the microservices generated, focusing on their business capabilities. Our findings demonstrate the efficiency of MicroMatic in automating one of the most labour-intensive aspects of migrating legacy systems to a microservices framework, successfully identifying architecturally significant microservices with 62.5% precision and 45.5% recall.
+C1  - New York, NY, USA
+C3  - Proceedings of the ACM/IEEE 6th International Workshop on Software Engineering Research & Practices for the Internet of Things
+DA  - 2024/08/09/
+PY  - 2024
+DO  - 10.1145/3643794.3648283
+DP  - ACM Digital Library
+SP  - 7
+EP  - 13
+PB  - Association for Computing Machinery
+SN  - 979-8-4007-0578-6
+ST  - MicroMatic
+UR  - https://dl.acm.org/doi/10.1145/3643794.3648283
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3643794.3648283?download=true
+ER  - 
+
+TY  - CONF
+TI  - MLOps: a guide to its adoption in the context of responsible AI
+AU  - Matsui, Beatriz M. A.
+AU  - Goya, Denise H.
+T3  - SE4RAI '22
+AB  - DevOps practices have increasingly been applied to software development as well as the machine learning lifecycle, in a process known as MLOps. Currently, many professionals have written about this topic, but still few results can be found in the academic and scientific literature on MLOps and how to to implement it effectively. Considering aspects of responsible AI, this number is even lower, opening up a field of research with many possibilities. This article presents five steps to guide the understanding and adoption of MLOps in the context of responsible AI. The study aims to serve as a reference guide for all those who wish to learn more about the topic and intend to implement MLOps practices to develop their systems, following responsible AI principles.
+C1  - New York, NY, USA
+C3  - Proceedings of the 1st Workshop on Software Engineering for Responsible AI
+DA  - 2023/02/03/
+PY  - 2023
+DO  - 10.1145/3526073.3527591
+DP  - ACM Digital Library
+SP  - 45
+EP  - 49
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9319-5
+ST  - MLOps
+UR  - https://dl.acm.org/doi/10.1145/3526073.3527591
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3526073.3527591?download=true
+ER  - 
+
+TY  - CONF
+TI  - Software engineering for automated vehicles: addressing the needs of cars that run on software and data
+AU  - Czarnecki, Krzysztof
+T3  - ICSE '19
+AB  - Automated vehicles are AI-based safety-critical robots that fulfill transportation needs while interacting with the general public in traffic. Software engineering for automated vehicles requires a DevOps-style process with special considerations for functions based on machine learning and incremental safety assurance at vehicle and fleet level. This technical briefing reviews current challenges, industry practices, and opportunities for future research in software engineering for automated vehicles.
+C1  - Montreal, Quebec, Canada
+C3  - Proceedings of the 41st International Conference on Software Engineering: Companion Proceedings
+DA  - 2019/05/25/
+PY  - 2019
+DO  - 10.1109/ICSE-Companion.2019.00024
+DP  - ACM Digital Library
+SP  - 6
+EP  - 8
+PB  - IEEE Press
+ST  - Software engineering for automated vehicles
+UR  - https://dl.acm.org/doi/10.1109/ICSE-Companion.2019.00024
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - When DevOps meets meta-learning: a portfolio to rule them all
+AU  - Benni, Benjamin
+AU  - Blay-Fornarino, Mireille
+AU  - Mosser, Sébastien
+AU  - Précioso, Frédéric
+AU  - Jungbluth, Günther
+T3  - MODELS '19 Companion
+AB  - The Machine Learning (ML) world is in constant evolution, as the amount of different algorithms in this context is evolving quickly. Until now, it is the responsibility of data scientists to create ad-hoc ML pipelines for each situation they encounter, gaining knowledge about the adequacy between their context and the chosen pipeline. Considering that it is not possible at a human scale to analyze the exponential number of potential pipelines, picking the right pipeline that combines the proper preprocessing and algorithms is a hard task that requires knowledge and experience. In front of the complexity of building a right ML pipeline, algorithm portfolios aim to drive algorithm selection, learning from the past in a continuous process. However, building a portfolio requires that (i) data scientists develop and test pipelines and (ii) portfolio maintainers ensure the quality of the portfolio and enrich it. The firsts are the developers, while the seconds are the operators. In this paper, we present a set of criteria to be respected, and propose a pipeline-based meta-model, to support a DevOps approach in the context of Machine Learning Pipelines. The exploitation of this meta-model, both as a graph and as a logical expression, serves to ensure continuity between Dev and Ops. We depict our proposition through the simplified study of two primary use cases, one with developer's point-of-view, the other with ops'.
+C1  - Munich, Germany
+C3  - Proceedings of the 22nd International Conference on Model Driven Engineering Languages and Systems Companion
+DA  - 2021/08/06/
+PY  - 2021
+DO  - 10.1109/MODELS-C.2019.00092
+DP  - ACM Digital Library
+SP  - 605
+EP  - 612
+PB  - IEEE Press
+SN  - 978-1-7281-5125-0
+ST  - When DevOps meets meta-learning
+UR  - https://dl.acm.org/doi/10.1109/MODELS-C.2019.00092
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - Dynamic data management for continuous retraining
+AU  - Baumann, Nils
+AU  - Kusmenko, Evgeny
+AU  - Ritz, Jonas
+AU  - Rumpe, Bernhard
+AU  - Weber, Moritz Benedikt
+T3  - MODELS '22
+AB  - Managing dynamic datasets intended to serve as training data for a Machine Learning (ML) model often emerges as very challenging, especially when data is often altered iteratively and already existing ML models should pertain to the data. For example, this applies when new data versions arise from either a generated or aggregated extension of an existing dataset a model has already been trained on. In this work, it is investigated on how a model-based approach for these training data concerns can be provided as well as how the complete process, including the resulting training and retraining process of the ML model, can therein be integrated. Hence, model-based concepts and the implementation are devised to cope with the complexity of iterative data management as an enabler for the integration of continuous retraining routines. With Deep Learning techniques becoming technically feasible and massively being developed further over the last decade, MLOps, aiming to establish DevOps tailored to ML projects, gained crucial relevance. Unfortunately, data-management concepts for iteratively growing datasets with retraining capabilities embedded in a model-driven ML development methodology are unexplored to the best of our knowledge. To fill in this gap, this contribution provides such agile data management concepts and integrates them and continuous retraining into the model-driven ML Framework MontiAnna [18]. The new functionality is evaluated in the context of a research project where ML is exploited for the optimal design of lattice structures for crash applications.
+C1  - New York, NY, USA
+C3  - Proceedings of the 25th International Conference on Model Driven Engineering Languages and Systems: Companion Proceedings
+DA  - 2022/11/09/
+PY  - 2022
+DO  - 10.1145/3550356.3561568
+DP  - ACM Digital Library
+SP  - 359
+EP  - 366
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9467-3
+UR  - https://dl.acm.org/doi/10.1145/3550356.3561568
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3550356.3561568?download=true
+ER  - 
+
+TY  - CONF
+TI  - Semantic data integration with DevOps to support engineering process of intelligent building automation systems
+AU  - Mitzutani, Iori
+AU  - Ramanathan, Ganesh
+AU  - Mayer, Simon
+T3  - BuildSys '21
+AB  - The reliable infrastructure of building automation (BA) systems forms the foundation of smart environments and energy systems in our building towards increasing occupant comfort and safety while reducing the ecological footprint of buildings. This is achieved through the processing of data points collected from sensors and the control of installed actuators, and increasingly incorporates machine learning components. However, engineering of BA systems is intricately linked with the planning, installation, (pre-)commissioning, and operation of building services such as HVAC, and it requires an extensive amount of manual coordination which is often prone to errors, many of which are only detected late in the lifecycle and tends to lose transparency in data provenance. To address this, we propose the application of DevOps, a highly successful paradigm in the field of software engineering, to BA engineering process coordination. In addition, the possibility of using semantic data to develop artifacts such as requirements, construction, and devices of BA systems opens up the avenue of achieving continuous verification of the system as it is built and commissioned. Concretely, we propose a novel approach that integrates a semantic reasoner using the machine-understandable data of the building along with interactions facilitated by Web of Thing Thing Description to the DevOps workflow. The proposed approach is expected to ameliorate limitations of existing workflow management methods and thus provide transparency in the data provenance to gain trust for data-driven AI applications for BA.
+C1  - New York, NY, USA
+C3  - Proceedings of the 8th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation
+DA  - 2021/11/17/
+PY  - 2021
+DO  - 10.1145/3486611.3492413
+DP  - ACM Digital Library
+SP  - 294
+EP  - 297
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-9114-6
+UR  - https://dl.acm.org/doi/10.1145/3486611.3492413
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3486611.3492413?download=true
+ER  - 
+
+TY  - CONF
+TI  - MLModelCI: An Automatic Cloud Platform for Efficient MLaaS
+AU  - Zhang, Huaizheng
+AU  - Li, Yuanming
+AU  - Huang, Yizheng
+AU  - Wen, Yonggang
+AU  - Yin, Jianxiong
+AU  - Guan, Kyle
+T3  - MM '20
+AB  - MLModelCI provides multimedia researchers and developers with a one-stop platform for efficient machine learning (ML) services. The system leverages DevOps techniques to optimize, test, and manage models. It also containerizes and deploys these optimized and validated models as cloud services (MLaaS). In its essence, MLModelCI serves as a housekeeper to help users publish models. The models are first automatically converted to optimized formats for production purpose and then profiled under different settings (e.g., batch size and hardware). The profiling information can be used as guidelines for balancing the trade-off between performance and cost of MLaaS. Finally, the system dockerizes the models for ease of deployment to cloud environments. A key feature of MLModelCI is the implementation of a controller, which allows elastic evaluation which only utilizes idle workers while maintaining online service quality. Our system bridges the gap between current ML training and serving systems and thus free developers from manual and tedious work often associated with service deployment. We release the platform as an open-source project on GitHub under Apache 2.0 license, with the aim that it will facilitate and streamline more large-scale ML applications and research projects.
+C1  - New York, NY, USA
+C3  - Proceedings of the 28th ACM International Conference on Multimedia
+DA  - 2020/10/12/
+PY  - 2020
+DO  - 10.1145/3394171.3414535
+DP  - ACM Digital Library
+SP  - 4453
+EP  - 4456
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-7988-5
+ST  - MLModelCI
+UR  - https://dl.acm.org/doi/10.1145/3394171.3414535
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3394171.3414535?download=true
+ER  - 
+
+TY  - CONF
+TI  - Neural knowledge extraction from cloud service incidents
+AU  - Shetty, Manish
+AU  - Bansal, Chetan
+AU  - Kumar, Sumit
+AU  - Rao, Nikitha
+AU  - Nagappan, Nachiappan
+AU  - Zimmermann, Thomas
+T3  - ICSE-SEIP '21
+AB  - The move from boxed products to services and the widespread adoption of cloud computing has had a huge impact on the software development life cycle and DevOps processes. Particularly, incident management has become critical for developing and operating large-scale services. Prior work on incident management has heavily focused on the challenges with incident triaging and de-duplication. In this work, we address the fundamental problem of structured knowledge extraction from service incidents. We have built SoftNER, a framework for unsupervised knowledge extraction from service incidents. We frame the knowledge extraction problem as a Named-Entity Recognition task for extracting factual information. SoftNER leverages structural patterns like key-value pairs and tables for bootstrapping the training data. Further, we build a novel multitask learning based BiLSTM-CRF model which leverages not just the semantic context but also the data-types for named-entity extraction. We have deployed SoftNER at Microsoft, a major cloud service provider and have evaluated it on more than 2 months of cloud incidents. We show that the unsupervised machine learning pipeline has a high precision of 0.96. Our multi-task learning based deep learning model also outperforms the state of the art NER models. Lastly, using the knowledge extracted by SoftNER we are able to build significantly more accurate models for important downstream tasks like incident triaging.
+C1  - Virtual Event, Spain
+C3  - Proceedings of the 43rd International Conference on Software Engineering: Software Engineering in Practice
+DA  - 2021/12/17/
+PY  - 2021
+DO  - 10.1109/ICSE-SEIP52600.2021.00031
+DP  - ACM Digital Library
+SP  - 218
+EP  - 227
+PB  - IEEE Press
+SN  - 978-0-7381-4669-0
+UR  - https://dl.acm.org/doi/10.1109/ICSE-SEIP52600.2021.00031
+Y2  - 2026/09/07/
+L1  - https://arxiv.org/pdf/2007.05505
+ER  - 
+
+TY  - JOUR
+TI  - Summary Report of the 6th Cloud Intelligence / AIOps Workshop 2025
+AU  - Zhang, Jian
+AU  - Lin, Qingwei
+AU  - Peng, Xin
+T2  - ACM SIGSOFT Software Engineering Notes
+AB  - The International Workshop on Cloud Intelligence / AIOps is a forum for researchers, scientists, engineers, and practitioners to share and learn AI/ML powered DevOps solutions for cloud services. The workshop was inaugurated at AAAI'20 and has been hosted at ICSE, MLSys, and ASPLOS conferences with intention to bring technical leaders in AI, Software Engineering, and Systems together to tackle challenges in design, building, and operating cloud service.The 6th International workshop on Cloud Intelligence / AIOps was successfully hosted as an in-person event in conjunction with the 47th International Conference of Software Engineering (ICSE'25) on May 3rd, 2025 at Ottawa, Canada. The workshop received 10 submitted papers, from which 6 papers were accepted including 5 technical papers and 1 project showcase.
+DA  - 2025/10/29/
+PY  - 2025
+DO  - 10.1145/3772008.3772014
+DP  - ACM Digital Library
+VL  - 50
+IS  - 4
+SP  - 28
+EP  - 29
+J2  - SIGSOFT Softw. Eng. Notes
+SN  - 0163-5948
+UR  - https://dl.acm.org/doi/10.1145/3772008.3772014
+Y2  - 2026/09/07/08:35:57
+L1  - https://dl.acm.org/doi/pdf/10.1145/3772008.3772014?download=true
+ER  - 
+
+TY  - CONF
+TI  - DeCaf: diagnosing and triaging performance issues in large-scale cloud services
+AU  - Bansal, Chetan
+AU  - Renganathan, Sundararajan
+AU  - Asudani, Ashima
+AU  - Midy, Olivier
+AU  - Janakiraman, Mathru
+T3  - ICSE-SEIP '20
+AB  - Large scale cloud services use Key Performance Indicators (KPIs) for tracking and monitoring performance. They usually have Service Level Objectives (SLOs) baked into the customer agreements which are tied to these KPIs. Dependency failures, code bugs, infrastructure failures, and other problems can cause performance regressions. It is critical to minimize the time and manual effort in diagnosing and triaging such issues to reduce customer impact. Large volume of logs and mixed type of attributes (categorical, continuous) in the logs makes diagnosis of regressions non-trivial.In this paper, we present the design, implementation and experience from building and deploying DeCaf, a system for automated diagnosis and triaging of KPI issues using service logs. It uses machine learning along with pattern mining to help service owners automatically root cause and triage performance issues. We present the learnings and results from case studies on two large scale cloud services in Microsoft where DeCaf successfully diagnosed 10 known and 31 unknown issues. DeCaf also automatically triages the identified issues by leveraging historical data. Our key insights are that for any such diagnosis tool to be effective in practice, it should a) scale to large volumes of service logs and attributes, b) support different types of KPIs and ranking functions, c) be integrated into the DevOps processes.
+C1  - New York, NY, USA
+C3  - Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering: Software Engineering in Practice
+DA  - 2020/09/18/
+PY  - 2020
+DO  - 10.1145/3377813.3381353
+DP  - ACM Digital Library
+SP  - 201
+EP  - 210
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-7123-0
+ST  - DeCaf
+UR  - https://dl.acm.org/doi/10.1145/3377813.3381353
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3377813.3381353?download=true
+ER  - 
+
+TY  - CONF
+TI  - Proactive Continuous Operations using Large Language Models (LLMs) and AIOps
+AU  - Hausi A., Müller
+AU  - Litoiu, Marin
+AU  - Rivera, Luis F.
+AU  - Rasolroveicy, Mohammadreza
+AU  - Villegas, Norha M.
+AU  - Tamura, Gabriel
+AU  - Watts, Ian
+AU  - Erpenbach, Eric
+AU  - Shwartz, Laura
+T3  - CASCON '23
+AB  - Advances and synergies between AI and Cloud computing are driv-ing increased levels of automation and autonomy in the strenuous operation of modern and complex IT systems and environments (IT-Sys|Envs). This notion, often termed as AIOps, is transforming the landscape of IT-Sys|Env operations by a providing a framework to augment DevOps teams’ capabilities to cope with inevitable complexities and uncertainties. Through operational optimization and rapid response and risk mitigation mechanisms, AIOps sup-presses factors that might threaten service-level agreement com-pliance or value delivery. A pivotal aspect of this transformation, and its promising future, lies in the integration of AIOps with other groundbreaking technologies such as Large Language Models (LLMs) and Digital Twins (DTs), especially in the context of Cloud environments. The 1st CASCON Workshop on Proactive Continuous Operations Using LLMs and AIOps provided a dynamic platform for researchers and industry practitioners to exchange insights, advancements, and ideas in AI, Cloud, and automation.
+C1  - USA
+C3  - Proceedings of the 33rd Annual International Conference on Computer Science and Software Engineering
+DA  - 2023/09/11/
+PY  - 2023
+DP  - ACM Digital Library
+SP  - 198
+EP  - 199
+PB  - IBM Corp.
+UR  - https://dl.acm.org/doi/10.5555/3615924.3615948
+Y2  - 2026/09/07/
+ER  - 
+
+TY  - CONF
+TI  - FLOSS FAQ chatbot project reuse: how to allow nonexperts to develop a chatbot
+AU  - de Lacerda, Arthur R. T.
+AU  - Aguiar, Carla S. R.
+T3  - OpenSym '19
+AB  - FAQ chatbots possess the capability to provide answers to frequently asked questions of a particular service, platform, or system. Currently, FAQ chatbot is the most popular domain of use of dialog assistants. However, developing a chatbot project requires a full-stack team formed by numerous specialists, such as dialog designer, data scientist, software engineer, DevOps, business strategist and experts from the domain, which can be both time and resources consuming. Language processing can be particularly challenging in languages other than English due to the scarcity of training datasets.Most of the requirements of FAQ chatbots are similar, domain-specific, and projects could profit from Open Source Software (OSS) reuse. In this paper, we examine how OSS FAQ chatbot projects can benefit from reuse at the project level (black-box reuse). We present an experience report of a FLOSS FAQ chatbot project developed in Portuguese to an e-government service in Brazil. It comprises of the chatbot distribution service, as well as for analytics tool integrated and deployed on-premises. We identified assets that could be reused as a black-box and the assets that should be customized for a particular application. We categorized these assets in architecture, corpus, dialog flows, machine learning models, and documentation. This paper discusses how automation, pre-configuration, and templates can aid newcomers to develop chatbots in Portuguese without the need for specialized skills required from tools in chatbot architecture. Our main contribution is to highlight the issues non-English FAQ chatbots projects will likely face and the assets that can be reused. It allows non-chatbot experts to develop a quality-assured OSS FAQ chatbot in a shorter project cycle.
+C1  - New York, NY, USA
+C3  - Proceedings of the 15th International Symposium on Open Collaboration
+DA  - 2019/08/20/
+PY  - 2019
+DO  - 10.1145/3306446.3340823
+DP  - ACM Digital Library
+SP  - 1
+EP  - 8
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-6319-8
+ST  - FLOSS FAQ chatbot project reuse
+UR  - https://dl.acm.org/doi/10.1145/3306446.3340823
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/3306446.3340823?download=true
+ER  - 
+
+TY  - CONF
+TI  - Continuous validation for data analytics systems
+AU  - Staples, Mark
+AU  - Zhu, Liming
+AU  - Grundy, John
+T3  - ICSE '16
+AB  - From a future history of 2025: Continuous development is common for build/test (continuous integration) and operations (devOps). This trend continues through the lifecycle, into what we call 'devUsage': continuous usage validation. In addition to ensuring systems meet user needs, organisations continuously validate their legal and ethical use. The rise of end-user programming and multi-sided platforms exacerbate validation challenges. A separate trend is the specialisation of software engineering for technical domains, including data analytics. This domain has specific validation challenges. We must validate the accuracy of statistical models, but also whether they have illegal or unethical biases. Usage needs addressed by machine learning are sometimes not specifiable in the traditional sense, and statistical models are often 'black boxes'. We describe future research to investigate solutions to these devUsage challenges for data analytics systems. We will adapt risk management and governance frameworks previously used for software product qualities, use social network communities for input from aligned stakeholder groups, and perform cross-validation using autonomic experimentation, cyber-physical data streams, and online discursive feedback.
+C1  - New York, NY, USA
+C3  - Proceedings of the 38th International Conference on Software Engineering Companion
+DA  - 2016/05/14/
+PY  - 2016
+DO  - 10.1145/2889160.2889207
+DP  - ACM Digital Library
+SP  - 769
+EP  - 772
+PB  - Association for Computing Machinery
+SN  - 978-1-4503-4205-6
+UR  - https://dl.acm.org/doi/10.1145/2889160.2889207
+Y2  - 2026/09/07/
+L1  - https://dl.acm.org/doi/pdf/10.1145/2889160.2889207?download=true
+ER  - 
+
+TY  - CONF
+TI  - Auto-Logging: Al-Centred Logging Instrumentation
+AU  - Bogatinovski, Jasmin
+AU  - Kao, Odej
+T3  - ICSE-NIER '23
+AB  - Logging in software development plays a crucial role in bug-fixing, maintaining the code and operating the application. Logs are hints created by human software developers that aim to help human developers and operators in identifying root causes for application bugs or other misbehaviour types. They also serve as a bridge between the Devs and the Ops, allowing the exchange of information. The rise of the DevOps paradigm with the CI/CD pipelines led to a significantly higher number of deployments per month and consequently increased the logging requirements. In response, AI-enabled methods for IT operation (AIOps) are introduced to automate the testing and run-time fault tolerance to a certain extent. However, using logs tailored for human understanding to learn (automatic) AI methods poses an ill-defined problem: AI algorithms need no hints but structured, precise and indicative data. Until now, AIOps researchers adapt the AI algorithms to the properties of the existing human-centred data (e.g., log sentiment), which are not always trivial to model. By pointing out the discrepancy, we envision that there exists an alternative approach: the logging can be adapted such that the produced logs are better tailored towards the strengths of the AI-enabled methods. In response, in this vision paper, we introduce auto-logging, which devises the idea of how to automatically insert log instructions into the code that can better suit AI-enabled methods as end-log consumers.
+C1  - Melbourne, Australia
+C3  - Proceedings of the 45th International Conference on Software Engineering: New Ideas and Emerging Results
+DA  - 2023/09/20/
+PY  - 2023
+DO  - 10.1109/ICSE-NIER58687.2023.00023
+DP  - ACM Digital Library
+SP  - 95
+EP  - 100
+PB  - IEEE Press
+SN  - 979-8-3503-0039-0
+ST  - Auto-Logging
+UR  - https://dl.acm.org/doi/10.1109/ICSE-NIER58687.2023.00023
+Y2  - 2026/09/07/
+ER  - 
+

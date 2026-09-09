@@ -1,0 +1,1082 @@
+TY  - CONF
+TI  - AI-Powered Code Generation in Agile Workflows: Risks, Review Strategies, and Developer Perceptions
+T2  - 2026 IEEE 6th International Conference on Smart Information Systems and Technologies (SIST)
+SP  - 1
+EP  - 6
+AU  - M. Amanbayev
+AU  - S. Aukatov
+AU  - A. Nagumanov
+AU  - A. Sakhipov
+AU  - S. Nurgaliyeva
+AU  - I. Omirzak
+PY  - 2026
+KW  - Artificial intelligence
+KW  - Codes
+KW  - Reviews
+KW  - Tools
+KW  - Security
+KW  - Modeling
+KW  - Printing
+KW  - Technology
+KW  - Encoding
+KW  - Testing
+KW  - AI code generation
+KW  - Agile development
+KW  - software quality
+KW  - static analysis
+KW  - developer trust
+DO  - 10.1109/SIST61674.2026.11596025
+JO  - 2026 IEEE 6th International Conference on Smart Information Systems and Technologies (SIST)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 IEEE 6th International Conference on Smart Information Systems and Technologies (SIST)
+Y1  - 13-15 May 2026
+AB  - AI-powered code generation tools are increasingly embedded in Agile software development, accelerating routine tasks such as scaffolding, documentation, and test creation. Despite productivity benefits, concerns remain regarding code quality, security, and developer trust. This study investigates how AI-generated code affects maintainability, readability, and vulnerability exposure in Agile environments. A mixed-methods design was employed, combining a developer survey, static analysis of public repositories, and interviews with Agile team leads. Results show that AI tools reduce cognitive load and speed up development but introduce higher issue density and lower readability compared to human-written code. Developers demonstrate calibrated skepticism, performing extensive reviews of AI outputs. The study proposes the Artificial Intelligence Integration Maturity Model and empirically validates the AI-Generated Code Trust Scale, demonstrating how trust calibration aligns with organizational maturity. Findings support structured human-in-the-loop review, AI-specific CI/CD gates, and prompt engineering training as key practices for responsible AI integration. The research provides essential knowledge about how automation systems should be managed to protect software quality in contemporary engineering operations.
+ER  - 
+
+TY  - CONF
+TI  - Driving Agile Transformation with RPA: A Review of Strategies and Outcomes
+T2  - 2025 International Conference on Engineering Innovations and Technologies (ICoEIT)
+SP  - 1376
+EP  - 1380
+AU  - R. Singh
+AU  - P. Maheshwary
+PY  - 2025
+KW  - Productivity
+KW  - Intelligent automation
+KW  - Technological innovation
+KW  - Cloud computing
+KW  - Scalability
+KW  - Key performance indicator
+KW  - Organizations
+KW  - Software
+KW  - Iterative methods
+KW  - Artificial intelligence
+KW  - Agile Methodologies
+KW  - Robotic Process Automation (RPA)
+KW  - Continuous Integration/Continuous Deployment (CIICD)
+KW  - Artificial Intelligence (AI)
+KW  - Cloud Computing
+KW  - Automation
+KW  - Agile Transformation
+KW  - Key Performance Indicators (KPIs)
+DO  - 10.1109/ICoEIT63558.2025.11211756
+JO  - 2025 International Conference on Engineering Innovations and Technologies (ICoEIT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Engineering Innovations and Technologies (ICoEIT)
+Y1  - 4-5 July 2025
+AB  - This study discusses the adoption of Robotic Process Automation (RPA) within Agile methods, focusing on its transformational impact on software development practices. Agile's nature of being iterative and flexible is well suited to the automation of repetitive, rule-based tasks by RPA to streamline workflows and increase efficiency. RPA removes bottlenecks and frees up teams from testing, data migration, and reporting mundane work to focus on high-value, strategic activities. This synergy helps in improving the delivery cycles, enhancing productivity, and high-quality software. The study researches strategies, challenges, and outcomes related to this integration, which emphasizes frameworks, such as Continuous Integration/Continuous Deployment (CI/CD), which allows automation deployment in an iterative, reliable manner. Emerging technologies, such as Artificial Intelligence (AI) and Cloud Computing, further enhance RPA capabilities by offering scalability, cognitive insights, and adaptability to dynamic project requirements, which enables Agile teams to maintain velocity while responding promptly to changing customer demands. By reviewing metrics and Key Performance Indicators such as velocity, sprint completion rates, ROI, and customer satisfaction, this study will evaluate RPA's effectiveness in supporting Agile goals. Real-world applications will show how these two may come together to ensure organizational agility and resilience. Insights presented can help practitioners better employ RPA in Agile workflows for optimizing scalability and maintaining continuous improvement.
+ER  - 
+
+TY  - CONF
+TI  - FastLane: Test Minimization for Rapidly Deployed Large-Scale Online Services
+T2  - 2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE)
+SP  - 408
+EP  - 418
+AU  - A. A. Philip
+AU  - R. Bhagwan
+AU  - R. Kumar
+AU  - C. S. Maddila
+AU  - N. Nagppan
+PY  - 2019
+KW  - Testing
+KW  - Correlation
+KW  - Minimization
+KW  - Predictive models
+KW  - Complexity theory
+KW  - Prediction algorithms
+KW  - Machine learning
+KW  - test prioritization
+KW  - commit risk
+KW  - machine learning
+DO  - 10.1109/ICSE.2019.00054
+JO  - 2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE)
+IS  - 
+SN  - 1558-1225
+VO  - 
+VL  - 
+JA  - 2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE)
+Y1  - 25-31 May 2019
+AB  - Today, we depend on numerous large-scale services for basic operations such as email. These services, built on the basis of Continuous Integration/Continuous Deployment (CI/CD) processes, are extremely dynamic: developers continuously commit code and introduce new features, functionality and fixes. Hundreds of commits may enter the code-base in a single day. Therefore one of the most time-critical, yet resource-intensive tasks towards ensuring code-quality is effectively testing such large code-bases. This paper presents FastLane, a system that performs data-driven test minimization. FastLane uses light-weight machine-learning models built upon a rich history of test and commit logs to predict test outcomes. Tests for which we predict outcomes need not be explicitly run, thereby saving us precious test-time and resources. Our evaluation on a large-scale email and collaboration platform service shows that our techniques can save 18.04%, i.e., almost a fifth of test-time while obtaining a test outcome accuracy of 99.99%.
+ER  - 
+
+TY  - CONF
+TI  - AI-Augmented DevSecOps Pipelines for Secure and Scalable Service-Oriented Architectures in Cloud-Native Systems
+T2  - 2025 IEEE International Conference on Service-Oriented System Engineering (SOSE)
+SP  - 79
+EP  - 84
+AU  - A. Mittal
+PY  - 2025
+KW  - Training
+KW  - Adaptation models
+KW  - Service-oriented systems engineering
+KW  - Pipelines
+KW  - Microservice architectures
+KW  - Machine learning
+KW  - Threat assessment
+KW  - Security
+KW  - Faces
+KW  - Anomaly detection
+KW  - cloud-native security
+KW  - devsecops
+KW  - machine learning
+KW  - microservices
+KW  - kubernetes
+KW  - anomaly detection
+KW  - ci/cd pipelines
+DO  - 10.1109/SOSE67019.2025.00014
+JO  - 2025 IEEE International Conference on Service-Oriented System Engineering (SOSE)
+IS  - 
+SN  - 2642-6587
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Service-Oriented System Engineering (SOSE)
+Y1  - 21-24 July 2025
+AB  - Cloud-native architectures face escalating security challenges that traditional approaches cannot address at scale. This paper presents an AI-augmented DevSecOps framework integrating machine learning models into security pipelines for realtime threat detection and automated response. The framework achieves 95% attack detection rates with sub-2 second latency at 10 k events/sec. Key contributions include LSTM-based threat detection embedded in CI/CD workflows, adaptive model training with 98% accuracy retention over 6 months, and complete opensource implementation. Experimental validation across multiple attack scenarios demonstrates effectiveness while maintaining operational efficiency in hybrid Kubernetes-serverless environments.
+ER  - 
+
+TY  - JOUR
+TI  - A Comprehensive Review on Scaling Machine Learning Workflows Using Cloud Technologies and DevOps
+T2  - IEEE Access
+SP  - 148559
+EP  - 148594
+AU  - G. Ramesh
+AU  - T. V. Pai
+AU  - R. Birau
+AU  - K. K. Poojary
+AU  - Abhay
+AU  - A. R. Shingad
+AU  - N. Sowjanya
+AU  - V. Popescu
+AU  - A. T. Mitroi
+AU  - R. M. Nioata Chireac
+AU  - K. M. K. Raj
+PY  - 2025
+KW  - Machine learning
+KW  - DevOps
+KW  - Cloud computing
+KW  - Pipelines
+KW  - Reviews
+KW  - Surveys
+KW  - Computer architecture
+KW  - Scalability
+KW  - Automation
+KW  - Costs
+KW  - Machine learning (ML) workflows
+KW  - cloud computing
+KW  - DevOps
+KW  - MLOps
+KW  - scalability
+KW  - Kubernetes
+KW  - automation
+DO  - 10.1109/ACCESS.2025.3599281
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 13
+VL  - 13
+JA  - IEEE Access
+Y1  - 2025
+AB  - Scaling Machine Learning (ML) workflows in cloud environments presents critical challenges in ensuring reproducibility, low-latency inference, infrastructure reliability, and regulatory compliance. This review addresses the lack of a comprehensive synthesis of how integrated DevOps practices and cloud-native technologies enable scalable, production-grade ML systems. We analyze the convergence of MLOps with tools such as Kubernetes, Jenkins, and Terraform, detailing their role in automating CI/CD pipelines, infrastructure provisioning, and model lifecycle management. The main highlights strategies for optimizing resource utilization, minimizing inference latency, and managing data versioning across hybrid and multi-cloud architectures (AWS, Azure, GCP). We also examine serverless computing, container orchestration, and monitoring practices to enhance scalability and governance. By categorizing challenges chronologically and evaluating emerging practices such as federated learning and security-by-design, this work bridges a key gap in existing literature. It offers a unified perspective on building reliable, reproducible, and compliant ML workflows, thereby advancing the state of scalable AI system engineering.
+ER  - 
+
+TY  - JOUR
+TI  - GATEKEEPER Platform: Secure Processing Environment for European Health Data Space
+T2  - IEEE Access
+SP  - 34627
+EP  - 34638
+AU  - E. Gaeta
+AU  - M. Salman Haleem
+AU  - L. Lopez-Perez
+AU  - M. Manea
+AU  - M. Fernanda Cabrera Umpierrez
+AU  - M. Teresa Arredondo Waldmeyer
+AU  - L. Pecchia
+AU  - G. Fico
+PY  - 2025
+KW  - Security
+KW  - Logic gates
+KW  - Europe
+KW  - Scalability
+KW  - Collaboration
+KW  - Microservice architectures
+KW  - Computer architecture
+KW  - Interoperability
+KW  - DevOps
+KW  - Electronic healthcare
+KW  - CI/CD
+KW  - data scalability
+KW  - data security
+KW  - European health data space
+KW  - healthcare platform
+KW  - SecDevOps
+DO  - 10.1109/ACCESS.2025.3539559
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 13
+VL  - 13
+JA  - IEEE Access
+Y1  - 2025
+AB  - The European Health Data Space (EHDS) is a significant initiative within the European Union aimed at improving healthcare through better use of health data and collaboration. This involves sharing and utilization of health data in a secure and interoperable manner across EU member states. With the advent of modern technology, different types of health data are being acquired ranging from traditional electronic health records to real-time wearable signals for improved healthcare delivery and management. However, there are certain challenges associated with compliance to EHDS, such as secure continuous integration (CI) and continuous delivery (CD), scalability and adaptability towards new technologies and applications, tolerance against IoT cyber-attacks, requirement of advanced data storage methods, processing power, interoperability solutions for data analysis and connectivity. In order to address these, a flagship project of the European Commission, GATEKEEPER, represents a pioneering effort designed to transform healthcare delivery through the utilization of sophisticated digital technologies. The architecture of the GATEKEEPER platform has been meticulously crafted, in compliance with the EHDS, to integrate a multitude of data sources, deploying advanced analytical tools to enable the development of novel solutions for the effective prediction, detection, and management of chronic health conditions. GATEKEEPER addresses the aforementioned challenges by integrating collaborative tools for data management and consistency, machine learning modelling and management tool, activity feeds and issue tracking tools with developers authentication, CI/CD tools allowing, among others scalability in multiple formats, tools for assessing security, vulnerability and dependency for third party packages.
+ER  - 
+
+TY  - CONF
+TI  - DataOps-Oriented Big Data Governance for Automated Decision Pipelines
+T2  - 2025 1st International Conference on Advancement in Futuristic Technologies (ICAFT)
+SP  - 1
+EP  - 8
+AU  - S. M. Orthi
+AU  - T. R. Sikder
+AU  - S. M. M. Uddin
+AU  - T. Roy
+AU  - M. J. Hossain
+AU  - M. I. Faruk
+AU  - M. Uddin
+PY  - 2025
+KW  - Access control
+KW  - Adaptation models
+KW  - Automation
+KW  - Data integrity
+KW  - Soft sensors
+KW  - Pipelines
+KW  - Big Data
+KW  - Metadata
+KW  - Real-time systems
+KW  - Vehicle dynamics
+KW  - DataOps
+KW  - Big Data Governance
+KW  - Decision Pipelines
+KW  - Metadata Management
+KW  - Data Quality
+KW  - Federated Access Control
+KW  - Compliance Automation
+KW  - Data Lineage
+DO  - 10.1109/ICAFT66710.2025.11452860
+JO  - 2025 1st International Conference on Advancement in Futuristic Technologies (ICAFT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 1st International Conference on Advancement in Futuristic Technologies (ICAFT)
+Y1  - 19-21 Dec. 2025
+AB  - Decision pipelines in massive data ecosystems require automobile governance model that is capable of incorporating integrity, compliance, and operational agility across diverse data sources. Conventional Data Governance models typically do not have a continuous tracking, traceability and dynamically adaptive controls that are needed in dynamic big data setups. In this paper, a DataOps-based Big Data Governance framework that synthesizes policy-based metadata control, federated access control, real-time data quality measurements, and real-time compliance orchestration is presented. This proposed architecture makes use of DataOps practices, including versioned data engineering, automated validation, lineage tracking, and policy enforcement through CI/CD, to promote end-to-end transparency and reliability in decision pipelines. Anomaly detection that is built on machine learning improves proactive governance as it predicts anomalies, finds inconsistencies, and removes security risk even before deployment. The outcomes of experimental work on multi-source enterprise data reveal that the scores of data quality, the reduction of latency, the accuracy of lineage, and compliance with policies have improved. The framework facilitates scalable, secure, and explainable analytics, as it consolidates governance goals and operational automation, thereby speeding up reliable decision intelligence in the current big data systems.
+ER  - 
+
+TY  - CONF
+TI  - Interplay of Machine Learning and Software Engineering for Quality Estimations
+T2  - 2020 International Conference on Communications, Computing, Cybersecurity, and Informatics (CCCI)
+SP  - 1
+EP  - 6
+AU  - H. Abubakar
+AU  - M. S. Obaidat
+AU  - A. Gupta
+AU  - P. Bhattacharya
+AU  - S. Tanwar
+PY  - 2020
+KW  - Software
+KW  - Maximum likelihood estimation
+KW  - Data models
+KW  - Software algorithms
+KW  - Training
+KW  - Task analysis
+KW  - Mathematical model
+KW  - Machine learning
+KW  - Software Engineering
+KW  - Effort estimation
+KW  - Quality estimation
+DO  - 10.1109/CCCI49893.2020.9256507
+JO  - 2020 International Conference on Communications, Computing, Cybersecurity, and Informatics (CCCI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 International Conference on Communications, Computing, Cybersecurity, and Informatics (CCCI)
+Y1  - 3-5 Nov. 2020
+AB  - In this era, the agile mindset has innovated the traditional software engineering (SE) process through the integration of DevOps flow engines, scrum iterations, and automation of continuous integration (CI) and continuous deployment (CD) cycles. However, the CI/CD integration requires manual code-revisions and refactoring at large scales. Recently, machine-learning (ML) is employed in SE that allows legacy codes to be highly dynamic, less coupling in related modules, automatic code versioning, and refactoring, with less coupling among related modules. However, over time, ML models tend to become bulky, with increasing monotonic losses during model training. To address this, SE techniques like code revisions are employed over ML codes to allow low-order training losses, that enables seamless and precise workflow structures. Motivated from the aforementioned discussions, the paper presents a systematic review of the close interplay of SE and ML and possible interactions in different applications. Suitable research questions and case studies are presented for possible adoption scenarios that depict the close ML-SE interplay share with each other, with the concluding remarks. The paper forms useful insights for ML engineers, data science practitioners, and SE quality estimators towards the building of efficient and scalable software solutions.
+ER  - 
+
+TY  - CONF
+TI  - Dynamic Secret Injection for Microservices in the Cloud
+T2  - 2025 8th International Conference on Information and Computer Technologies (ICICT)
+SP  - 72
+EP  - 79
+AU  - A. Patel
+AU  - R. Laudya
+AU  - H. Ragothaman
+AU  - S. K. Udayakumar
+AU  - P. Pandey
+AU  - A. Sheth
+PY  - 2025
+KW  - Runtime
+KW  - Scalability
+KW  - Pipelines
+KW  - Microservice architectures
+KW  - Organizations
+KW  - Machine learning
+KW  - Computer architecture
+KW  - Permission
+KW  - Topology
+KW  - Protection
+KW  - cloud-native security
+KW  - DevSecOps integration
+KW  - dynamic secret injection
+KW  - zero-trust architecture
+DO  - 10.1109/ICICT64582.2025.00018
+JO  - 2025 8th International Conference on Information and Computer Technologies (ICICT)
+IS  - 
+SN  - 2769-4542
+VO  - 
+VL  - 
+JA  - 2025 8th International Conference on Information and Computer Technologies (ICICT)
+Y1  - 14-16 March 2025
+AB  - Using new-generation architectures and microservices has enhanced the demand for secure and efficient secret storage. Static approaches such as credential hardcoding and manual rotation present systems with considerable threats and operational vulnerabilities. Dynamic secret injection is the modern approach to supplying temporary credentials, created on the fly, distributed, and limited by time and context of usage or access rights. Dynamic secret injection is further elaborated as a key solution to the current IT environment, where literature on the subject and the deficiencies of the suggested approaches are examined in detail within this paper. To better explain the concept, a framework with a demonstrated solution of HashiCorp Vault in Kubernetes environments has been supplied to show how well dynamic secrets work in complex structures and infrastructures. The infrastructure framework utilizes automated provisioning, short-lived credentials, and runtime secrets, minimizing existing attack surfaces. The paper correlates dynamic secret injection with DevSecOps practices, the Zero-Trust Security model and AI-based automation, its relevance in the protection of CI/CD pipelines, the enforcement of least privilege access, and machine learning to identify unusual behavior. Comparisons demonstrate its advantage over the static methods for the issues of safety, scalability, and working intricacy.
+ER  - 
+
+TY  - CONF
+TI  - PrivBuild-Ai: An RL-Powered Framework for Differentially Private Data in DevSecOps
+T2  - 2025 5th International Conference on Artificial Intelligence, Automation and High Performance Computing (AIAHPC)
+SP  - 789
+EP  - 794
+AU  - A. Aggarwal
+AU  - J. J. Vora
+AU  - N. Sirikonda
+AU  - B. B. Sawant
+PY  - 2025
+KW  - Privacy
+KW  - Differential privacy
+KW  - Automation
+KW  - Runtime
+KW  - Accuracy
+KW  - Pipelines
+KW  - Organizations
+KW  - Throughput
+KW  - Security
+KW  - Testing
+KW  - Differential Privacy
+KW  - DevSecOps
+KW  - Privacy Budget Scheduling
+KW  - Data Privacy
+KW  - CI/CD
+KW  - Security Testing
+KW  - Reinforcement-Learning Optimizer
+KW  - Secure Software Supply Chain
+DO  - 10.1109/AIAHPC66801.2025.11290296
+JO  - 2025 5th International Conference on Artificial Intelligence, Automation and High Performance Computing (AIAHPC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 5th International Conference on Artificial Intelligence, Automation and High Performance Computing (AIAHPC)
+Y1  - 19-21 Sept. 2025
+AB  - Modern continuous integration / continuous delivery (CI/CD) pipelines run security tests—static analysis, dynamic fuzzing, policy checks—on production-like data long before code reaches production. This shift-left practice speeds feedback but exposes sensitive records to pre-production tools. Existing redaction and tokenisation often degrade test accuracy and provide no formal privacy guarantee, leaving DevSecOps teams torn between realism and compliance. We present a drop-in framework that delivers differentially private (DP) snapshots to every pipeline stage without slowing release cadence. Key features are: (i) multi-level privacy ledgers (user, build, organization); (ii) calibrated Laplace and Gaussian mechanisms plus a deep-Q-network scheduler that learns to allocate the per-query privacy budget; and (iii) a policy-as-code interface that lets builds request, reserve, and audit budget on demand. Formal analysis shows the design retains DP under arbitrary post-processing and subsampling. On representative payroll and healthcare workloads (up to 107 rows) the framework keeps aggregate error below two percent with a budget of ε = 1, adds only 8.7 percent runtime overhead, and sustains about 1400 builds per day—nearly doubling throughput versus strong-composition baselines. Accuracy improves by 40–110% compared with the best published sanitisation scheme. These results confirm that strong mathematical privacy, machine-learning budget control, and near-real-time DevSecOps automation can co-exist, enabling auditable security testing in highly regulated environments without sacrificing data utility.
+ER  - 
+
+TY  - JOUR
+TI  - Reimagining Unit Test Generation With AI: A Journey From Evolutionary Models to Transformers
+T2  - IEEE Access
+SP  - 154908
+EP  - 154929
+AU  - S. Zekarias Esubalew
+AU  - B. G. Assefa
+PY  - 2025
+KW  - Artificial intelligence
+KW  - Transformers
+KW  - Surveys
+KW  - Software
+KW  - Software testing
+KW  - Test pattern generators
+KW  - Taxonomy
+KW  - Deep learning
+KW  - Software development management
+KW  - Java
+KW  - Automated unit test generation
+KW  - machine learning
+KW  - transformer models
+KW  - LoRA
+KW  - QLoRA
+KW  - PLBART
+KW  - software testing
+KW  - java software quality
+DO  - 10.1109/ACCESS.2025.3597049
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 13
+VL  - 13
+JA  - IEEE Access
+Y1  - 2025
+AB  - The rapid evolution of software development necessitates efficient unit testing to ensure reliability, yet manual test case generation is labor-intensive and often inadequate for agile workflows. Despite advancements, a comprehensive review of AI-driven unit test case generation, particularly for Java, is lacking, motivating this study to address this gap. The paper examines AI algorithms for unit test case generation, focusing on Java-specific challenges like class hierarchies and dependency injection. We propose a novel taxonomy categorizing methods into traditional machine learning (e.g., genetic algorithms, SVMs), deep learning (e.g., RNNs, GNNs), and transformer-based approaches (e.g., PLBART, enhanced by LoRA and QLoRA). Key contributions include: 1) a structured taxonomy for comparing AI methods based on effectiveness, usability, and maintainability; 2) a Java-specific focus addressing enterprise system complexities; and 3) identification of research gaps, such as scalability and assertion accuracy. Findings reveal that transformer-based models like A3Test and ChatUniTest achieve up to 59% test case correctness and 77% focal method coverage, outperforming traditional methods, though challenges in computational cost and assertion accuracy persist. Tools are evaluated for integration with CI/CD pipelines and advanced capabilities like parameter-efficient fine-tuning (PEFT) using LoRA and QLoRA. This review provides a roadmap for researchers and practitioners to advance automated, high-quality unit testing for Java software quality.
+ER  - 
+
+TY  - CONF
+TI  - AI-Driven Self-Healing in Test Automation: A Review of Autonomous Quality Assurance
+T2  - 2025 3rd International Conference on Inventive Computing and Informatics (ICICI)
+SP  - 1601
+EP  - 1608
+AU  - S. Abhichandani
+AU  - N. R. T. Vadrevu
+AU  - V. Bagmar
+PY  - 2025
+KW  - Software testing
+KW  - Automation
+KW  - Quality assurance
+KW  - Reviews
+KW  - Scalability
+KW  - Reinforcement learning
+KW  - Software systems
+KW  - Natural language processing
+KW  - Software reliability
+KW  - Testing
+KW  - Artificial Intelligence
+KW  - Self-Healing
+KW  - Automation Testing
+KW  - Machine Learning
+KW  - Fault Prediction
+KW  - Quality Assurance
+KW  - Autonomous Testing
+DO  - 10.1109/ICICI65870.2025.11069937
+JO  - 2025 3rd International Conference on Inventive Computing and Informatics (ICICI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 3rd International Conference on Inventive Computing and Informatics (ICICI)
+Y1  - 4-6 June 2025
+AB  - The rapid evolution of software systems has made traditional testing methods unsuitable to provide quality, speed, and responsiveness to applications in modern development. This paper presents a detailed overview of artificial intelligencebased self-healing test automation frameworks capable of automatically adapting to evolving applications and reducing human involvement. The frameworks utilize machine learning, anomaly detection, natural language processing, and reinforcement learning to develop, execute, and change test scripts. By maximizing test coverage and premonitory identification of defects, AI enhances fault tolerance, scalability, and dependability in CI/CD infrastructures. During this study, peer-reviewed scholarly papers released from 2021 through 2025 are evaluated comprehensively to identify the impact, implementation process, challenges, and emerging patterns of autonomous quality testing. The results reveal that frameworks using AI do not just enhance testing automation but also resilient, adaptive, and smart approaches of testing which suit dynamic scenarios. The research confirms AI's transformative role in modern software testing, offering substantial gains in efficiency, performance, and reliability across various software domains.
+ER  - 
+
+TY  - CONF
+TI  - Efficient Auto Scaling of Pods in Kubernetes: Accelerating Continuous Delivery with KEPTN
+T2  - 2024 5th International Conference on Electronics and Sustainable Communication Systems (ICESC)
+SP  - 1350
+EP  - 1355
+AU  - P. Sivaraman
+AU  - G. Prabaharan
+AU  - V. Rajasekar
+AU  - V. Sarveshwaran
+PY  - 2024
+KW  - Scalability
+KW  - Pipelines
+KW  - Documentation
+KW  - Tutorials
+KW  - Production
+KW  - Continuous integration
+KW  - Software
+KW  - Security
+KW  - Reliability
+KW  - Protection
+KW  - Kubernetes
+KW  - continuous integration
+KW  - continuous delivery
+KW  - Keptn
+KW  - Azure
+DO  - 10.1109/ICESC60852.2024.10689854
+JO  - 2024 5th International Conference on Electronics and Sustainable Communication Systems (ICESC)
+IS  - 
+SN  - 2996-5357
+VO  - 
+VL  - 
+JA  - 2024 5th International Conference on Electronics and Sustainable Communication Systems (ICESC)
+Y1  - 7-9 Aug. 2024
+AB  - Model deployment in machine learning has become recognised as an emerging field of research in recent years. It can be viewed as a method similar to conventional software development. Organisations can move more quickly and smoothly when development and operations (DevOps) practises like Continuous Integration and Continuous Delivery (CI/CD) are used. Various software development approaches are available for enterprise applications. Micro-services architecture has become very popular among these accessible software development approaches. Enterprise applications, which are frequently sophisticated and require out-of-the-box scalability and low latency, integrate well with the micro-service design. For enterprise applications, microservices in a containerized cloud environment are particularly helpful. It is also extremely important from a software development standpoint in the software business to find and fix errors early on in the development process rather than once they have reached the level of the production environment. Kubernetes is a creative and well-integrated platform solution for running and controlling containerized applications gracefully and effectively. Developers can easily build and maintain clusters with the managed Kubernetes service known as AKS. It makes containerized application deployment and management possible. AKS offers serverless Kubernetes, a continuous integration and delivery experience that is integrated, as well as enterprise-level security and governance. Users of Microsoft Azure will find that AKS offers several appealing features that make it simple to set up, administer, scale, and monitor an AKS cluster.
+ER  - 
+
+TY  - CONF
+TI  - “Test, Build, Deploy” - A CI/CD Framework for Open-Source Hardware Designs
+T2  - 2025 5th International Conference on Electrical, Computer and Energy Technologies (ICECET)
+SP  - 1
+EP  - 6
+AU  - C. Deutschbein
+AU  - A. Stassinopoulos
+PY  - 2025
+KW  - Register transfer level
+KW  - Central Processing Unit
+KW  - System-on-chip
+KW  - Very large scale integration
+KW  - Integrated circuits
+KW  - Circuits
+KW  - Circuits and systems
+KW  - Microprocessors
+KW  - Application specific integrated circuits
+KW  - Circuit synthesis
+KW  - Hardware
+KW  - Security
+KW  - Machine learning
+KW  - Cloud computing
+KW  - RISC-V
+KW  - Open source
+KW  - Containers
+KW  - CI/CD
+KW  - RTL
+KW  - IaC
+KW  - Specification Mining
+KW  - Formal Verification
+DO  - 10.1109/ICECET63943.2025.11472017
+JO  - 2025 5th International Conference on Electrical, Computer and Energy Technologies (ICECET)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 5th International Conference on Electrical, Computer and Energy Technologies (ICECET)
+Y1  - 3-6 July 2025
+AB  - Addressing TedX, Amber Huffman [1] made an impassioned case that "none of us is as smart as all of us" and that open-source hardware is the future. A major contribution to software quality, open-source and otherwise, on the software side, is the systems design methodology of Continuous Integration and Delivery (CI/CD), which we propose to systematically bring to hardware designs and their specifications. To do so, we automatically generate specifications using specification mining, "a machine learning approach to discovering formal specifications" [2] which dramatically impacted the ability of software engineers to achieve quality, verification, and security. Yet applying the same techniques to hardware is non-trivial. We present a technique for generalized, continuous integration (CI) of hardware specification designs that continually deploys (CD) a hardware specification. As a proof-of-concept, we demonstrate Myrtha, a cloud-based, specification generator based on established hardware and software quality tools.
+ER  - 
+
+TY  - CONF
+TI  - Renal Cell Carcinoma Classification: Deep Learning with MLflow, DVC, and AWS CI/CD Deployment
+T2  - 2024 8th International Conference on Electronics, Communication and Aerospace Technology (ICECA)
+SP  - 634
+EP  - 641
+AU  - J. Niveditha
+AU  - S. Supreeth
+AU  - K. Patil
+PY  - 2024
+KW  - Deep learning
+KW  - Accuracy
+KW  - User interfaces
+KW  - Streaming media
+KW  - Convolutional neural networks
+KW  - Kidney
+KW  - Cancer
+KW  - Tumors
+KW  - Residual neural networks
+KW  - Software development management
+KW  - Renal cell carcinoma
+KW  - Deep learning
+KW  - VGG16
+KW  - Convolutional Neural Network
+KW  - ResNet50
+KW  - Continuous Integration/Continuous Deployment (CI/CD)
+KW  - Data Version Control (DVC)
+KW  - Machine Learning flow (MLflow)
+KW  - Healthcare
+DO  - 10.1109/ICECA63461.2024.10800992
+JO  - 2024 8th International Conference on Electronics, Communication and Aerospace Technology (ICECA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 8th International Conference on Electronics, Communication and Aerospace Technology (ICECA)
+Y1  - 6-8 Nov. 2024
+AB  - One prevalent type of kidney cancer that can be challenging to diagnose and treat is renal cell carcinoma (RCC). This article offers a novel method for applying deep learning techniques to the classification of RCC data. In particular, we examine the performance of three distinct models: ResNet50, VGG16, and a special 2D convolutional neural network (CNN). Our method makes use of cutting-edge machine learning frameworks like MLflow and DVC to streamline model building, experimentation, and version control. We describe an effective deployment pipeline that facilitates seamless integration with healthcare systems using AWS CI/CD infrastructure. The dataset, which includes 8,143 normal images and $\mathbf{1 0, 8 7 8}$ tumor images, is sourced from the Cancer Imaging Archive. CNN-4 was the classification model that obtained the highest accuracy, and CNN-6, ResNet50, and VGG16 were the detection models that achieved the highest accuracy, with respective results of $99 \%, 98 \%$, and 98%. These results demonstrate how our approach can be utilized to improve patient outcomes and early detection of RCC while simultaneously improving the accuracy of RCC diagnoses.
+ER  - 
+
+TY  - CONF
+TI  - PCOS Care: A Machine Learning-Based Web Application for Early Risk Prediction of Polycystic Ovary Syndrome
+T2  - 2025 IEEE International Conference on Advanced Healthcare Systems (ICAHS)
+SP  - 1
+EP  - 6
+AU  - R. Cooray
+AU  - M. K. Chinnathai
+AU  - S. Chahed
+PY  - 2025
+KW  - Modeling
+KW  - Machine learning
+KW  - Testing
+KW  - Medical services
+KW  - Occupational health
+KW  - Machining
+KW  - Printing
+KW  - Random forests
+KW  - Logistic regression
+KW  - Medical diagnosis
+KW  - Polycystic Ovary Syndrome
+KW  - Machine Learning
+KW  - Reproductive Health
+KW  - Risk Prediction
+KW  - Medical Diagnosis
+KW  - SMOTE
+KW  - Streamlit
+KW  - Flask API
+KW  - Logistic Regression
+KW  - Healthcare Technology
+DO  - 10.1109/ICAHS66950.2025.11553077
+JO  - 2025 IEEE International Conference on Advanced Healthcare Systems (ICAHS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Advanced Healthcare Systems (ICAHS)
+Y1  - 5-6 Dec. 2025
+AB  - Polycystic Ovary Syndrome (PCOS) is a common but underdiagnosed hormonal disorder affecting women of reproductive age, with delayed diagnosis contributing to significant long-term health complications. Although various diagnostic methods exist, there remains a lack of accessible, predictive, and user-centered tools that support its early screening and risk assessment, especially for underserved populations. To address this gap, this paper presents PCOS Care, a Machine Learning (ML) based web application designed to provide early risk prediction of PCOS through a publicly available user-friendly screening. The system utilizes two levels of risk prediction, a simple model based on lifestyle and physical indicators, and an enhanced model incorporating hormonal test data. Models were trained on real-world data, publicly available on Kaggle, using supervised learning classification algorithms such as Logistic Regression, Random Forest, Support Vector Machine (SVM) and Gradient Boosting with hyperparameter tuning and 10-fold-cross-validation. The enhanced model achieved the best performance with Random Forest, reporting 93.75% recall and 92.66% accuracy. The simple model also demonstrated strong potential, with 83.33% recall and 81.82% accuracy with Logistic Regression. Feature selection was performed using statistical methods such as analysis of variance (ANOVA), chi-square, correlation analysis, and mutual information to select the most relevant predictors. The application integrates a Streamlit-based frontend with a Flask -backend and is deployed on Render using a continuous integration and continuous deployment (CI/CD) pipeline. The usability of the system was tested with 32 potential users, and the results showed high acceptance, ease of navigation and system reliability. Conclusively, PCOS Care illustrates the benefits of ML in healthcare by enabling preliminary risk assessments and empowering users with a digital tool for informed health decisions.
+ER  - 
+
+TY  - CONF
+TI  - AI-Powered Cloud Architecture, Agile Analytics, and Enterprise DevOps -Enabled Framework for Healthcare and Insurance Ecosystem Optimisation
+T2  - 2025 Tenth International Conference on Science Technology Engineering and Mathematics (ICONSTEM)
+SP  - 1
+EP  - 7
+AU  - S. Rangu
+AU  - K. S. Chadha
+AU  - S. Samala
+PY  - 2025
+KW  - Biological system modeling
+KW  - Pipelines
+KW  - Ecosystems
+KW  - Neural networks
+KW  - Microservice architectures
+KW  - Medical services
+KW  - Computer architecture
+KW  - Real-time systems
+KW  - Security
+KW  - Optimization
+KW  - AI-Powered Healthcare Analytics
+KW  - DevOps Microservices Architecture
+KW  - Predictive Claims Processing
+KW  - FHIR-Compliant Interoperability
+KW  - MLOps Pipeline Optimization
+KW  - Blockchain Healthcare Security
+DO  - 10.1109/ICONSTEM65670.2025.11374414
+JO  - 2025 Tenth International Conference on Science Technology Engineering and Mathematics (ICONSTEM)
+IS  - 
+SN  - 2996-2986
+VO  - 
+VL  - 
+JA  - 2025 Tenth International Conference on Science Technology Engineering and Mathematics (ICONSTEM)
+Y1  - 6-7 Nov. 2025
+AB  - This framework introduces a transformative AI driven architecture based on GPT 4 powered intelligent automation and Azure machine learning pipelines to revolutionise healthcare insurance ecosystem interoperability. The solution merges the use of real time predictive analytics using TensorFlow-based neural networks for claims processing optimization resulting in a shortened approval process down by 73 %. Kubernetes orchestrated microservices to be deployed with CI/CD pipelines via Jenkins then gitops with 99.9 % availability of the system. NLP using BERT models is used in the framework for the automated interpretation of the medical records improving the diagnostic accuracy by 41 %. Apache Kafka makes it possible to stream data easily between Electronic Health Records (EHR) and insurances and MLOps workflows making it possible to update the existing model continuously. Security compliance, that meets HIPAA standards with audit trails created with blockchain technology activities. Performance evidence demonstrating Operational Expenditure 58% Patient Claim Reconciliation efficiency 65 % is established Startling Scalable FHIR compliant Healthcare Digitalization infrastructure of next generation.
+ER  - 
+
+TY  - CONF
+TI  - Estimating Execution Progress of Black-Box Tasks with Resource-Consumption Models
+T2  - 2026 IEEE 19th International Conference on Cloud Computing (CLOUD)
+SP  - 235
+EP  - 245
+AU  - S. Kharma
+AU  - T. Wies
+AU  - F. Schintke
+AU  - B. Scheuermann
+PY  - 2026
+KW  - Modeling
+KW  - Timing
+KW  - Radio access networks
+KW  - Regional area networks
+KW  - Estimation
+KW  - Uncertainty
+KW  - Runtime
+KW  - Measurement
+KW  - Equations
+KW  - Clouds
+KW  - progress estimation
+KW  - cloud workloads
+KW  - performance monitoring
+KW  - performance modeling
+KW  - black-box tasks
+KW  - Markov-chain Monte-Carlo
+KW  - uncertainty quantification
+DO  - 10.1109/CLOUD72782.2026.00034
+JO  - 2026 IEEE 19th International Conference on Cloud Computing (CLOUD)
+IS  - 
+SN  - 2159-6190
+VO  - 
+VL  - 
+JA  - 2026 IEEE 19th International Conference on Cloud Computing (CLOUD)
+Y1  - 13-18 July 2026
+AB  - In cloud environments, recurring workloads such as data processing jobs, CI/CD tasks and machine learning pipelines are typically executed as opaque black-box programs. Their internal progress is not directly observable, yet their resource-consumption patterns often exhibit structural similarity across runs despite variations in input data and hardware. Accurately estimating the progress of such running tasks can bring major benefits to scheduling and resource optimization. Using resource-consumption models of such tasks, derived from previous task execution monitoring, to accurately estimate a tasks cumulative progress allows detailed and accurate proactive resource steering, planning and scheduling. We present a novel approach that, given a generic resource-consumption model, estimates, based on current resource monitoring data, the progress of an ongoing execution in the form of a probability distribution which supports uncertainty quantification. The approach accounts for deviations from the model caused by varying system performance profiles, input sizes and parameters. It performs estimation via Markov-chain Monte-Carlo sampling around a maximum a posteriori estimate. Synthetic evaluations show that the approach reliably estimates task progress with an error of approximately 0.09 when suitable priors were selected. Real-world demonstrations show that the approach remains effective, and that performance degrades only slightly when the method is applied to real data. The degree of robustness to poor prior selection has also been thoroughly explored.
+ER  - 
+
+TY  - CONF
+TI  - Enhancing Just-In-Time Defect Prediction Models with Developer-Centric Features
+T2  - 2025 IEEE/ACM 22nd International Conference on Mining Software Repositories (MSR)
+SP  - 52
+EP  - 62
+AU  - E. Guglielmi
+AU  - A. D’Aguanno
+AU  - R. Oliveto
+AU  - S. Scalabrino
+PY  - 2025
+KW  - Computer bugs
+KW  - Software quality
+KW  - Machine learning
+KW  - Predictive models
+KW  - Data mining
+KW  - Just-in-Time Software Defect Prediction
+KW  - Developer Centric
+KW  - Mining software repositories
+DO  - 10.1109/MSR66628.2025.00021
+JO  - 2025 IEEE/ACM 22nd International Conference on Mining Software Repositories (MSR)
+IS  - 
+SN  - 2574-3864
+VO  - 
+VL  - 
+JA  - 2025 IEEE/ACM 22nd International Conference on Mining Software Repositories (MSR)
+Y1  - 28-29 April 2025
+AB  - Ensuring high software quality in development cycles with frequent updates is critical, especially in Agile and CI/CD environments. Just-In-Time Software Defect Prediction (JIT-SDP) has emerged as a promising solution for finding bugs early, as it enables immediate identification of changes prone to defects. JIT-SPD models based on Machine Learning focus primarily on project- and change-specific features, such as number of lines added and number of files modified in the change. Recent research has started to investigate developer-related features for defect prediction. However, these studies overlook information about developers’ work habits and cross-project activities. In this paper, we try to fill this gap by introducing a set of developer-centric features for JIT-SDP, which span through temporal aspects (when do developers usually make commits?), change-related aspects (how do developers usually make commits?), and project-related aspects (how are the contributions distributed among different repositories?). We conducted an empirical evaluation to understand if such features allow to improve ML-based JIT-SPD models and evaluated the importance of developer-centric features on the performance of the model. Our results show that integrating developer-centric features improves model performance. We observed a +15.48% precision and +10.47% recall in a within-project evaluation and +14.59% precision and even +85.83% recall in cross-project evaluation.
+ER  - 
+
+TY  - CONF
+TI  - Commit-Message-Augmented Static Analysis of Cross-Site Scripting Fixes in Java Web Applications
+T2  - 2026 13th International Conference on Future Internet of Things and Cloud (FiCloud)
+SP  - 236
+EP  - 243
+AU  - A. Alam
+AU  - Q. Mirza
+PY  - 2026
+KW  - Codes
+KW  - Modeling
+KW  - Cross-site scripting
+KW  - Labeling
+KW  - Printing
+KW  - Security
+KW  - Context
+KW  - Encoding
+KW  - Static analysis
+KW  - Signal detection
+KW  - static analysis
+KW  - software security
+KW  - cross-site scripting
+KW  - mining software repositories
+KW  - commit messages
+KW  - machine learning
+DO  - 10.1109/FiCloud70576.2026.00039
+JO  - 2026 13th International Conference on Future Internet of Things and Cloud (FiCloud)
+IS  - 
+SN  - 2996-1017
+VO  - 
+VL  - 
+JA  - 2026 13th International Conference on Future Internet of Things and Cloud (FiCloud)
+Y1  - 20-22 July 2026
+AB  - Cross-Site Scripting (XSS) remains a common and high-impact web vulnerability. Detecting XSS with high precision is difficult because exploitability depends on end-to-end data flow (sources, sanitizers, and sinks), framework-specific rendering semantics, and the correctness of context-aware output encoding. Although secure development lifecycles increasingly integrate static application security testing (SAST) into CI/CD pipelines, practical adoption is often limited by false positives and incomplete modeling of project-specific sanitization and templating behavior. In parallel, machine learning (ML) approaches show promise for learning vulnerability-relevant patterns from code, but they depend on the availability of realistic labeled data. This paper studies a low-cost repository-native signal that is routinely available but underused in ML-assisted static analysis: commit messages. We propose a mining and weak-labeling pipeline for Java repositories that identifies candidate XSS-fix commits using message heuristics grounded in OWASP guidance and CWE taxonomy, aligns commit messages with pre-/post-change code contexts extracted from diffs, and trains classifiers under two feature settings: (i) code-only and (ii) code+commit-message fusion. Across three model families (Random Forest, TextCNN, and BiLSTM), commit-message fusion consistently improves F1 and AUPRC and reduces false positives, suggesting that developer intent provides a useful auxiliary signal for security triage.
+ER  - 
+
+TY  - CONF
+TI  - Designing Self-Healing Automation Frameworks for Flaky CI Environments
+T2  - 2025 International Conference on Computer and Applications (ICCA)
+SP  - 1
+EP  - 7
+AU  - J. B. Mehta
+PY  - 2025
+KW  - Adaptation models
+KW  - Automation
+KW  - Microservice architectures
+KW  - Companies
+KW  - Continuous integration
+KW  - Reliability engineering
+KW  - Software
+KW  - Timing
+KW  - Testing
+KW  - Sorting
+KW  - Self-Healing Automation
+KW  - Flaky Test Detection
+KW  - Machine Learning Models
+KW  - Continuous Integration Pipeline
+KW  - Adaptive Remediation Strategies
+DO  - 10.1109/ICCA66035.2025.11430985
+JO  - 2025 International Conference on Computer and Applications (ICCA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Computer and Applications (ICCA)
+Y1  - 22-24 Dec. 2025
+AB  - Self-healing automation systems are a game-changer for dependable continuous integration, tackling the problem of test flakiness that affects current software creation. These smart systems use machine learning and adaptive fixes to spot, sort, and fix test failures on their own. By mixing LSTM networks for spotting patterns over time, gradient boosting for sorting, and reinforcement learning, these systems accurately tell apart real software problems from environmental issues. The design relies on microservices and event-driven setups, using Apache Kafka for streaming messages, Kubernetes for organization, and Prometheus for gathering metrics. This allows the system to handle millions of test events very quickly. Using anomaly detection strategies that combine statistical process control with deep learning, the system keeps different models for various test types and adapts constantly through online learning. The rollout happens in stages: watching, shadow mode, and gradual automation. This makes sure it fits smoothly with current CI/CD tools and boosts trust within the organization. These systems change quality assurance by cutting down on false positives, speeding up resolution times, and saving a lot of money through automatic fixes.
+ER  - 
+
+TY  - CONF
+TI  - Estimating Technical Debt with Machine Learning: Leveraging Code Complexity and Developer Interactions
+T2  - 2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN)
+SP  - 1
+EP  - 6
+AU  - M. A. Sufian
+AU  - E. Rubaiat
+AU  - M. D. Hossain Supto
+AU  - N. Dey
+AU  - T. N. Tisha
+AU  - S. I. Nayem
+PY  - 2026
+KW  - Modeling
+KW  - Machine learning
+KW  - Codes
+KW  - Complexity theory
+KW  - Training
+KW  - Java
+KW  - Long short term memory
+KW  - Equations
+KW  - Machining
+KW  - Timing
+KW  - Technical Debt
+KW  - Machine Learning
+KW  - Self-Admitted Technical Debt (SATD)
+KW  - Code Complexity
+KW  - SHAP
+DO  - 10.1109/QPAIN69676.2026.11546159
+JO  - 2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence & Networking (QPAIN)
+Y1  - 16-18 April 2026
+AB  - Estimating technical debt (TD) is crucial in managing large-scale software projects. This study introduces a machine learning-based framework for TD estimation in opensource Java projects, integrating code complexity metrics and developer interaction features. Using a dataset of 55 million Java files from 100,000 GitHub repositories, we apply XGBoost, LSTM, and Informer models for multi-horizon TD forecasting. SHAP (SHapley Additive Explanations) is utilized for interpretability, revealing key TD drivers such as cyclomatic complexity, commit frequency, and review cycle time. The results demonstrate that the Informer model outperforms others, achieving an $R^{2}$ of 0.9250 and an MAE of 3.60, particularly excelling in long-term forecasting. This model's ability to predict TD with high accuracy makes it suitable for integration into CI/CD pipelines, ensuring proactive TD management. The proposed framework provides actionable insights for developers, enabling them to prioritize remediation based on the most significant factors contributing to TD. This research offers a scalable, data-driven solution for software maintenance, contributing to improved software quality and sustainability.
+ER  - 
+
+TY  - CONF
+TI  - Detecting and Mitigating Flaky Tests in Continuous Integration A Decision Catalogue for Quality Engineering Teams
+T2  - 2026 International Conference on Intelligent and Sustainable AI Systems (ICOSAAS)
+SP  - 1313
+EP  - 1320
+AU  - V. P. Javvadi
+AU  - R. S. Ganapathy
+AU  - M. S. Sri
+AU  - K. Nekkalapudi
+AU  - S. Pochincharla
+AU  - T. V. Akula
+PY  - 2026
+KW  - Testing
+KW  - Machine learning
+KW  - Signal detection
+KW  - Modeling
+KW  - Machining
+KW  - Software
+KW  - Timing
+KW  - Pipelines
+KW  - Poles and zeros
+KW  - Printing
+KW  - Continuous Integration
+KW  - Flaky Test Detection
+KW  - Quality Engineering
+KW  - CI/CD Automation
+KW  - Machine Learning
+DO  - 10.1109/ICOSAAS68663.2026.11648759
+JO  - 2026 International Conference on Intelligent and Sustainable AI Systems (ICOSAAS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Intelligent and Sustainable AI Systems (ICOSAAS)
+Y1  - 20-22 July 2026
+AB  - Continuous Integration (CI) has emerged as an essential method in contemporary software development, facilitating swift delivery and ongoing validation of software quality. The expanding volume and intricacy of automated test suites have engendered a recurrent issue referred to as test flakiness. Flaky tests demonstrate erratic results without any modifications to the application code, leading to ambiguity in build pipelines and diminishing trust in testing outputs. These inconsistent tests result in postponed releases, heightened maintenance expenses, decreased developer productivity, and eroded confidence in automation frameworks. Despite extensive research endeavors, several businesses find it challenging to properly discover, categorize, and prevent flaky tests inside continuous integration setups. This paper introduces a detailed decision catalog that aids quality engineering teams in identifying, diagnosing, prioritizing, and alleviating flaky tests. The proposed catalog brings together statistical analysis, machine learning detection methods, infrastructure monitoring, and automated repair solutions into a structured way to make decisions. A reference architecture is provided to enable practical implementation within business CI/CD ecosystems. The experimental evaluation demonstrates that the proposed framework significantly improves the precision of flaky test detection while reducing investigative effort and construct instability. The results offer practical recommendations for firms aiming to improve test reliability and expedite software delivery.
+ER  - 
+
+TY  - CONF
+TI  - An MLOps-Based Framework for Continuous Deployment of Machine Learning Models in IoT-Enabled Water Distribution Networks
+T2  - 2026 6th International Conference on Electrical, Computer and Energy Technologies (ICECET)
+SP  - 1
+EP  - 7
+AU  - V. Taormina
+AU  - F. Giuliano
+AU  - D. Pirrone
+AU  - G. Grimaudo
+AU  - R. Giancarlo
+AU  - P. Ciancarini
+AU  - D. Garlisi
+PY  - 2026
+KW  - Modeling
+KW  - Internet of Things
+KW  - Long short term memory
+KW  - Architecture
+KW  - Computer architecture
+KW  - Machine learning operations
+KW  - Training
+KW  - Printing
+KW  - Pipelines
+KW  - Water
+KW  - Internet of Things (IoT)
+KW  - Water Distribution Network. Machine Learning (ML)
+KW  - Continuous Integration / Continuous Deployment (CI/CD)
+KW  - Machine Learning Operations (MLOps)
+KW  - long short-term memory (LSTM)
+KW  - Edge Computing
+KW  - Performance Monitoring
+KW  - LoRaWAN
+DO  - 10.1109/ICECET65726.2026.11632579
+JO  - 2026 6th International Conference on Electrical, Computer and Energy Technologies (ICECET)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 6th International Conference on Electrical, Computer and Energy Technologies (ICECET)
+Y1  - 6-9 July 2026
+AB  - The increasing adoption of Internet of Things (IoT) technologies in Water Distribution Networks (WDNs) enables real-time monitoring and predictive analytics but introduces significant challenges in managing Machine Learning (ML) models across distributed and heterogeneous environments. This paper presents an MLOps-based framework for the continuous deployment and operation of ML models in IoTenabled WDNs, leveraging a cloud-edge architecture aligned with LoRaWAN infrastructures. The proposed approach integrates CI/CD pipelines, containerization, automated model versioning, and runtime monitoring into a closed-loop system that supports adaptive and conditionaware model management. Predictive models based on Long Short-Term Memory (LSTM) networks are deployed at the edge to forecast key hydraulic variables such as tank levels and pressure. Model activation, updating, and retraining are dynamically driven by event-based and performance-based triggers. The framework is evaluated in an emulation environment using EPANET and WNTR simulations, demonstrating effective deployment, scalability, and accurate forecasting performance while highlighting the trade-off between model complexity and computational efficiency.
+ER  - 
+
+TY  - CONF
+TI  - AI and Automation in Cloud DevOps - Transforming Monitoring, Security, and Infrastructure Management
+T2  - 2025 International Conference on Business Intelligence for Technology Innovation (ICBITI)
+SP  - 1
+EP  - 8
+AU  - N. Surendranath
+AU  - S. A. B. Raju
+AU  - G. Agarwal
+PY  - 2025
+KW  - Guns
+KW  - Feeds
+KW  - Filtering
+KW  - Central Processing Unit
+KW  - Filters
+KW  - Cloud computing
+KW  - Internet
+KW  - Cloud computing security
+KW  - Communication systems
+KW  - Protocols
+KW  - AI-driven DevOps
+KW  - Predictive Analytics In Cloud Monitoring
+KW  - Automated Incident Response
+KW  - Self-healing Cloud Infrastructure
+KW  - Intelligent Resource Allocation
+DO  - 10.1109/ICBITI65527.2025.11500622
+JO  - 2025 International Conference on Business Intelligence for Technology Innovation (ICBITI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Business Intelligence for Technology Innovation (ICBITI)
+Y1  - 16-18 April 2025
+AB  - AI automation boosts Cloud DevOps operational functions by giving better control and protection and improved infrastructure control. The analysis of anomalies together with predictions and reliability optimization are performed through machine learning operations. AI security frameworks protect systems by identifying security threats and implementing compliance protocols while enhancing identity protection systems. The system leverage AI-based orchestration to automate deployments of resources while also handling scaling operations and controlling the deployment of CI/CD systems. Cloud environments are evolving toward autonomous DevOps systems which will gain abilities for adaptiveness, automatic healing functions while becoming scalable.
+ER  - 
+
+TY  - CONF
+TI  - ML-DaaS: An Integrated ML Training and Deployment Framework for Hybrid Cloud
+T2  - 2025 IEEE 12th International Conference on Cyber Security and Cloud Computing (CSCloud)
+SP  - 110
+EP  - 115
+AU  - K. P. Ravikumar
+AU  - N. Ahmed
+AU  - M. S. Singh
+PY  - 2025
+KW  - Training
+KW  - Cloud computing
+KW  - Source coding
+KW  - Scalability
+KW  - Pipelines
+KW  - Robustness
+KW  - Complexity theory
+KW  - Resource management
+KW  - Load modeling
+KW  - Testing
+KW  - CI/CD pipeline
+KW  - Deployment-as-a-Service
+KW  - GPU Training
+KW  - Hybrid Cloud
+KW  - Inference Optimization
+KW  - MLOps
+DO  - 10.1109/CSCloud66326.2025.00025
+JO  - 2025 IEEE 12th International Conference on Cyber Security and Cloud Computing (CSCloud)
+IS  - 
+SN  - 2693-8928
+VO  - 
+VL  - 
+JA  - 2025 IEEE 12th International Conference on Cyber Security and Cloud Computing (CSCloud)
+Y1  - 7-9 Nov. 2025
+AB  - This paper presents ML-DaaS, a novel Deployment-as-a-Service framework designed for Machine Learning model training and deployment across hybrid cloud environments. Addressing the complexity of traditional MLOps workflows, ML-DaaS allows authenticated users to securely upload, train, finetune, and deploy ML models via an intuitive browser-based dashboard. The framework incorporates DevOps Tools such as Terraform, Ansible, Docker, and Jenkins, which automates infrastructure provisioning, system configuration, and CI/CD deployment, dynamically transitioning models from GPU-based training environments to cost-effective CPU-based inference. Experimental evaluations on OpenStack-based private clouds and AWS public cloud demonstrate the framework's consistent performance, secure isolation, and low-latency inference capabilities, thereby significantly reducing deployment complexity and operational overhead. Decoupling training from inference resulted in optimized resource utilization without sacrificing responsiveness, resulting in up to 40 % improvement in infrastructure turnaround time and a significant reduction in deployment complexity and operational overhead.
+ER  - 
+
+TY  - CONF
+TI  - A Data Driven Approach to Software Quality Estimation Using Modern Machine Learning Techniques
+T2  - 2025 5th International Conference on Intelligent Technologies (CONIT)
+SP  - 1
+EP  - 7
+AU  - S. S. Sai Priyanka
+AU  - B. P. Goud
+AU  - M. Pandita
+AU  - K. P. Kumar
+AU  - P. Sahith
+AU  - J. Shiva
+PY  - 2025
+KW  - Support vector machines
+KW  - Codes
+KW  - Accuracy
+KW  - Pipelines
+KW  - Estimation
+KW  - Software quality
+KW  - Real-time systems
+KW  - Software reliability
+KW  - Random forests
+KW  - Software development management
+KW  - Software Quality
+KW  - Machine Learning
+KW  - Defect Prediction
+KW  - CI/CD
+KW  - Random Forest
+KW  - SVM
+KW  - XGBoost
+KW  - Deep Learning
+KW  - Static Analysis
+DO  - 10.1109/CONIT65521.2025.11167139
+JO  - 2025 5th International Conference on Intelligent Technologies (CONIT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 5th International Conference on Intelligent Technologies (CONIT)
+Y1  - 20-22 June 2025
+AB  - Striving for software quality presents elevated obstacles in modern development environments which contain large sophisticated codes that undergo frequent updates. Traditional quality assurance methods—such as manual reports and static analysis—are often time-taking process, subjective, and not scalable thing. This research develops a data-based system for quality assessment of software using contemporary machine learning methods. Multiple software metrics consisting of code complexity along with churn rate and defect density and processrelated factors are gathered by the system to conduct analysis. The system processes real repository data from GitHub together with approved defect datasets to teach supervised ML algorithms Random Forest, XGBoost, and Support Vector Machines (SVM) for predicting faulty modules. The proposed automation solution delivers real-time evaluation of software quality using usercentric dashboards that provide concrete insights to developers. Model performance evaluation depends on accuracy measures and precision among other metrics that include recall and AUCROC. The system is designed to work within CI/CD pipelines and it improves both the reliability and maintainability of software development projects. Modern software quality assurance stands to gain an efficient scalable intelligent solution through this approach.
+ER  - 
+
+TY  - CONF
+TI  - Semantic-based and Learning-based Regression Test Selection focusing on Test Objectives
+T2  - 2023 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)
+SP  - 281
+EP  - 287
+AU  - J. Suzuki
+AU  - Y. Nishi
+AU  - S. Tanaka
+AU  - K. Naruse
+AU  - M. Shimoji
+AU  - Z. Zhong
+PY  - 2023
+KW  - Measurement
+KW  - Software testing
+KW  - Software algorithms
+KW  - Computer bugs
+KW  - Semantics
+KW  - Pipelines
+KW  - Clustering algorithms
+KW  - Regression Test Selection
+KW  - Test Objective
+KW  - Machine Learning
+KW  - Natural Language Processing
+KW  - Software Engineering
+DO  - 10.1109/ICSTW58534.2023.00057
+JO  - 2023 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)
+IS  - 
+SN  - 2159-4848
+VO  - 
+VL  - 
+JA  - 2023 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW)
+Y1  - 16-20 April 2023
+AB  - Machine learning-based regression test selection (MLRTS) has typically arisen in major cloud companies with full CI/CD pipelines. Various approaches for RTS are researched except for deep semantics of test cases, i. e. test objectives. Test objectives are essential but implicit information hard to calculate. In this paper, we propose a test architecture of a test objective-based MLRTS (TOMLRTS). First, word vectors are converted from explicitly written words in all regression test cases by Word2Vec. Second, semantic test objective clusters are formed by K-means++ to express all test objectives in the regression test cases. Third, distance vectors are constituted, whose elements are distances from each test case to the test objective clusters. Priorities of regression test cases are then calculated by MLRTS additionally according to the distance vectors. We additionally evaluate TOMLRTS compared to Facebook's MLRTS for commercial software. TOMLRTS selected test cases to detect bugs more rapidly.
+ER  - 
+
+TY  - CONF
+TI  - A Machine Learning Framework for De-Risking ERP Changes and Ensuring Financial Reporting Stability
+T2  - 2026 5th International Conference on Communication, Computing and Electronics Systems (ICCCES)
+SP  - 1229
+EP  - 1235
+AU  - P. Thakkar
+AU  - S. Chinta
+PY  - 2026
+KW  - Support vector machines
+KW  - Accuracy
+KW  - Standards organizations
+KW  - Stability analysis
+KW  - Real-time systems
+KW  - Telecommunication computing
+KW  - Reliability
+KW  - Space vector modulation
+KW  - Random forests
+KW  - Risk mitigation
+KW  - ERP Systems
+KW  - Financial Reporting
+KW  - Machine Learning
+KW  - Predictive Analytics
+KW  - Change Management
+KW  - Proactive Risk Mitigation
+DO  - 10.1109/ICCCES62661.2026.11436408
+JO  - 2026 5th International Conference on Communication, Computing and Electronics Systems (ICCCES)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 5th International Conference on Communication, Computing and Electronics Systems (ICCCES)
+Y1  - 21-23 Jan. 2026
+AB  - ERP systems underpin financial operations in contemporary organizations, and even minor system changes can seriously compromise the accuracy of financial reporting. Conventional approaches to managing changes are highly reliant on subjective judgment and tend to not provide quantification of risk. This paper introduces a machine learning framework for predicting the impact that ERP change requests may have on financial reporting by using an 8,050-record dataset compiled across multiple implementations. Fifteen technical, procedural, and temporal features were engineered, standardized, and tested across four models: Support Vector Machine (SVM), Random Forest, Gradient Boosting, and Logistic Regression. Using stratified 10-fold cross-validation, the SVM outperformed other contenders with 99.19% accuracy, 98.9 % precision, and 99.3 % recall. Feature importance analysis identified Priority Level and Data Model Changes as the strong leading predictors of stability outcomes. The proposed framework establishes a quantitative and reproducible means of assessing the risk of ERP changes through a reduction in the level of system instability and improvement in the reliability of financial reporting. This work allows one to set a benchmark for data-driven ERP governance and underlines prospects for the real-time prediction of impact, platform-specific modeling, and integration into CI/CD-based workflows of change management.
+ER  - 
+
+

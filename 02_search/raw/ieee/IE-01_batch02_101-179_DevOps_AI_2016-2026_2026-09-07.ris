@@ -1,0 +1,2793 @@
+TY  - CONF
+TI  - Satellite-as-a-Service Architecture for ML Edge Computing on Heterogeneous Processing Platforms
+T2  - 2025 European Data Handling & Data Processing Conference (EDHPC)
+SP  - 1
+EP  - 5
+AU  - A. Karteris
+AU  - A. Chatzistylianos
+AU  - E. Tsigkanos
+AU  - G. Panagiotopoulos
+AU  - A. Stavropoulos
+AU  - M. Bernou
+AU  - D. Soudris
+AU  - G. Lentaris
+PY  - 2025
+KW  - Satellites
+KW  - Computer architecture
+KW  - Machine learning
+KW  - Streaming media
+KW  - Data processing
+KW  - Real-time systems
+KW  - Virtualization
+KW  - Next generation networking
+KW  - Edge computing
+KW  - Payloads
+KW  - Satellite-as-a-Service
+KW  - Edge Computing
+KW  - Machine Learning
+KW  - Virtualization
+KW  - Orchestration
+KW  - HW Acceleration
+DO  - 
+JO  - 2025 European Data Handling & Data Processing Conference (EDHPC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 European Data Handling & Data Processing Conference (EDHPC)
+Y1  - 13-17 Oct. 2025
+AB  - This paper presents a Satellite-As-a-Service (SaaS) architecture designed to enable flexible and efficient deployment of Machine Learning (ML) workloads on heterogeneous edge hardware platforms in space. Leveraging container-based virtualization (Docker) and an orchestration framework (Kubernetes), our approach abstracts hardware complexity and supports a variety of accelerators — FPGAs, TPUs, VPUs and NPUs —within a unified development and deployment environment. We integrate DevOps design principles delivering a reconfigurable stack that supports rapid ML model updates and deployment on target hardware. By treating satellites as extensible service platforms, we demonstrate how containerization and hardware abstraction streamline the onboarding of advanced ML algorithms, ranging from convolutional neural networks for image processing to neuromorphic paradigms for ultra-low-power inference. We detail how standardized APIs and modular workflows promote interoperability across multiple satellite systems and heterogeneous hardware accelerators. Overall, the presented SaaS architecture offers a pathway toward smarter, more versatile satellite payload operations, shaping the next generation of inorbit data processing and autonomy.
+ER  - 
+
+TY  - CONF
+TI  - A Platform To Enable Algorithms As Service Model Aimed at Digital Health Service Delivery
+T2  - 2022 14th International Conference on COMmunication Systems & NETworkS (COMSNETS)
+SP  - 241
+EP  - 245
+AU  - K. Bhavsar
+AU  - H. Vishwakarma
+AU  - B. R. Pawar
+AU  - S. Shinde
+AU  - S. Kimbahune
+AU  - A. Ghose
+PY  - 2022
+KW  - Machine learning algorithms
+KW  - Medical devices
+KW  - Software algorithms
+KW  - Collaboration
+KW  - Machine learning
+KW  - Clinical trials
+KW  - Software
+KW  - HealthCare
+KW  - Connected Digital Health
+KW  - Platform
+KW  - Algorithm As Service
+KW  - Cloud Computing
+KW  - Software As Medical Device
+DO  - 10.1109/COMSNETS53615.2022.9668453
+JO  - 2022 14th International Conference on COMmunication Systems & NETworkS (COMSNETS)
+IS  - 
+SN  - 2155-2509
+VO  - 
+VL  - 
+JA  - 2022 14th International Conference on COMmunication Systems & NETworkS (COMSNETS)
+Y1  - 4-8 Jan. 2022
+AB  - In this paper we provide a framework for Algorithm As a Service Model which goes beyond Machine Learning as a Service (MLAS) model, by supporting extended category of algorithms including but not limited to measurement, calibration, physics and statistics based models. These algorithms when used for screening of health care data, are termed as Software As Medical Device - SaMD. We present a platform that can act as an accelerator for clinical trials of these SaMD devices. We also go a step ahead from DevOPS model by semi-automating the algorithm deployment process. We have deployed a few algorithms into our platform and in this paper we discuss the case-studies and illustrate the advantages of our approach over conventional methods.
+ER  - 
+
+TY  - CONF
+TI  - An Improved Assessing Requirements Quality with ML Methods
+T2  - 2022 14th International Conference on Computational Intelligence and Communication Networks (CICN)
+SP  - 424
+EP  - 429
+AU  - S. Hauser
+AU  - S. Müller–Schmeer
+AU  - B. Franczyk
+AU  - S. Radomski
+PY  - 2022
+KW  - Tensors
+KW  - Machine learning algorithms
+KW  - Computational modeling
+KW  - Key performance indicator
+KW  - Natural languages
+KW  - Artificial neural networks
+KW  - Machine learning
+KW  - Neural network
+KW  - Keras
+KW  - feedforward architecture
+KW  - natural language toolkit
+KW  - part of speech
+KW  - confusion matrix
+KW  - term frequency
+KW  - quality analysis
+DO  - 10.1109/CICN56167.2022.10008381
+JO  - 2022 14th International Conference on Computational Intelligence and Communication Networks (CICN)
+IS  - 
+SN  - 2472-7555
+VO  - 
+VL  - 
+JA  - 2022 14th International Conference on Computational Intelligence and Communication Networks (CICN)
+Y1  - 4-6 Dec. 2022
+AB  - This paper describes a method for classification and quality analysis of unspecified information technology (IT) requirements in enterprises using machine learning (ML). During classification, unspecified IT requirements are classified into predefined categories and chapters using a term frequency algorithm and a neural network (NN) based on Tensorflow, which makes a multiclass decision. It bases on the encoding of IT requirements into tensors. The unspecified IT requirements are subject to a quality analysis, and a stencil value is obtained by two algorithms: a pattern template and a Tensorflow model (NN). Both approaches use the Natural Language Toolkit (NLTK) and its Part-of-Speech (PoS) tags. A stencil algorithm uses a PoS-based stencil to compute the stencil value. The Tensorflow model uses other key performance indicators (KPI) and features based on the PoS to make a binary decision about the quality of the requirements. The template thus provides the requirement author with a quality analysis for a possible revision. The described methodology intends to support DevOps in requirements classification and help developers to develop valid artifacts from requirements with little interpretation effort. This paper presents a model driven engineering approach that provides automation and software engineering techniques for managing information in a system (PRIMS).
+ER  - 
+
+TY  - CONF
+TI  - Defuse: A Data Annotator and Model Builder for Software Defect Prediction
+T2  - 2022 IEEE International Conference on Software Maintenance and Evolution (ICSME)
+SP  - 479
+EP  - 483
+AU  - S. D. Palma
+AU  - D. Di Nucci
+AU  - D. Tamburri
+PY  - 2022
+KW  - Software maintenance
+KW  - Costs
+KW  - Instruments
+KW  - Machine learning
+KW  - Computer architecture
+KW  - Predictive models
+KW  - Maintenance engineering
+KW  - defect prediction
+KW  - machine learning
+KW  - mining software repositories
+DO  - 10.1109/ICSME55016.2022.00063
+JO  - 2022 IEEE International Conference on Software Maintenance and Evolution (ICSME)
+IS  - 
+SN  - 2576-3148
+VO  - 
+VL  - 
+JA  - 2022 IEEE International Conference on Software Maintenance and Evolution (ICSME)
+Y1  - 3-7 Oct. 2022
+AB  - We propose a language-agnostic tool for software defect prediction, called DEFUSE. The tool automatically collects and classifies failure data, enables the correction of those classifications, and builds machine learning models to detect defects based on those data. We instantiated the tool in the scope of Infrastructure-as-Code, the DevOps practice enabling management and provisioning of infrastructure through the definition of machine-readable files. We present its architecture and provide examples of its application.Demo video: https://youtu.be/37mmLdCX3jU.
+ER  - 
+
+TY  - CONF
+TI  - Real-Time Cross-Project Software Fault Prediction using Transfer Learning, Online Learning and Auto ML
+T2  - 2025 Modern Electronics Devices and Intelligent Communication Systems (MEDCOM)
+SP  - 78
+EP  - 82
+AU  - D. Sharma
+AU  - P. Kumar
+AU  - P. K. Rai
+PY  - 2025
+KW  - DevOps
+KW  - Communication systems
+KW  - Transfer learning
+KW  - NASA
+KW  - Concept drift
+KW  - Medical services
+KW  - Continuous integration
+KW  - Automated machine learning
+KW  - Software
+KW  - Real-time systems
+KW  - Real-time systems
+KW  - software fault prediction
+KW  - cross-project defect prediction
+KW  - online learning
+KW  - transfer learning
+KW  - AutoML
+DO  - 10.1109/MEDCOM67532.2025.11405416
+JO  - 2025 Modern Electronics Devices and Intelligent Communication Systems (MEDCOM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 Modern Electronics Devices and Intelligent Communication Systems (MEDCOM)
+Y1  - 11-13 Dec. 2025
+AB  - Significant financial losses and a decline in confidence in sectors including banking, healthcare, and self-driving cars are the results of serious issues brought on by software defects. RT-CPFP, a novel framework for real-time defect prediction in various applications, is presented in this paper. It integrates automated machine learning, internet learning, and transfer learning. By addressing the problems of limited data and shifting topic areas, TL facilitates knowledge sharing between source and target activities. OL lessens the chance of concept drift by regulating frequent code changes and updating the model in little steps. By automatically choosing features, models, and settings, AutoML simplifies the process and improves overall efficiency. Using the NASA and PROMISE datasets, RT-CPFP yielded an F1-score of 0. With an area under the curve (AUC) of 0, the score is 86. It outperforms the benchmarks by 812% with a score of 91 and a latency of less than 100 milliseconds. Working with continuous integration and continuous deployment (CI/CD) systems is made simple by the framework's architecture, which is depicted in a straightforward picture. Among the contributions are a robust and adaptable architecture, extensive testing using real-world data, and practical DevOps deployment strategies. Distribution inconsistencies, codebase modifications, and human adjustments are all handled by RTCPFP. In today's software development, it offers a fresh approach to address issues before they arise. Agile processes may make extensive use of this strategy.
+ER  - 
+
+TY  - CONF
+TI  - Use of Machine Learning in IaC State and Concurrency Management
+T2  - SoutheastCon 2026
+SP  - 1
+EP  - 6
+AU  - V. Pandey
+PY  - 2026
+KW  - Filtering
+KW  - Filters
+KW  - Cloud computing
+KW  - Infrastructure as Code
+KW  - Radio frequency
+KW  - Protocols
+KW  - Computer network management
+KW  - Internet
+KW  - HTTP
+KW  - High frequency
+KW  - Machine Learning
+KW  - Infrastructure as Code (IaC)
+KW  - Concurrency Control
+KW  - DevOps
+KW  - Cloud Computing
+KW  - Random Forest
+KW  - LSTM
+KW  - Predictive Autoscaling
+DO  - 10.1109/SoutheastCon63549.2026.11476043
+JO  - SoutheastCon 2026
+IS  - 
+SN  - 1558-058X
+VO  - 
+VL  - 
+JA  - SoutheastCon 2026
+Y1  - 20 Feb.-15 March 2026
+AB  - Infrastructure as Code (IaC) has emerged as a cornerstone of modern cloud-native application management, yet ensuring state consistency and concurrency safety remains a persistent challenge. Conventional IaC tools such as Terraform and Ansible rely on coarse-grained locking mechanisms that prevent concurrent state updates but often introduce bottlenecks, idle waiting, and reduced parallelism. This work explores the use of Machine Learning (ML) to enhance IaC concurrency control by predicting potential conflicts, estimating optimal lock durations, and dynamically adjusting locking granularity. We generated a large-scale dataset of 124,000 state-modification events and evaluated both Random Forest (RF) and Long Short-Term Memory (LSTM) models using stratified group k-fold cross-validation. Results show that RF achieves strong baseline performance while the LSTM consistently outperforms tree-based baselines in capturing sequential conflict patterns. These improvements translate to more accurate detection of high-risk updates and lower false positives, enabling finer-grained concurrency without sacrificing safety. We further analyze model overhead in deployment contexts and highlight design trade-offs for explainability versus predictive accuracy. By releasing the dataset, models, and training pipeline, this work provides a reproducible foundation for ML-driven IaC concurrency management and opens new directions for adaptive, conflict-aware DevOps automation.
+ER  - 
+
+TY  - CONF
+TI  - Mercury: Anomaly Detection using Machine Learning
+T2  - 2022 7th International Conference on Computer Science and Engineering (UBMK)
+SP  - 305
+EP  - 310
+AU  - A. Tunçay
+AU  - O. H. Güngör
+PY  - 2022
+KW  - Integrated circuit modeling
+KW  - Unified modeling language
+KW  - Markov processes
+KW  - Machine learning
+KW  - Art
+KW  - Support vector machines
+KW  - Principal component analysis
+KW  - Anomaly Detection
+KW  - Machine Learning
+KW  - Deep Learning
+DO  - 10.1109/UBMK55850.2022.9919570
+JO  - 2022 7th International Conference on Computer Science and Engineering (UBMK)
+IS  - 
+SN  - 2521-1641
+VO  - 
+VL  - 
+JA  - 2022 7th International Conference on Computer Science and Engineering (UBMK)
+Y1  - 14-16 Sept. 2022
+AB  - Koçfinans is a financing company that provides their customers loans for both new and used vehicles via a web application called ROTA. Under Digital Transformation, Koçfinans rebuilt the ROTA application using microservice architecture and DevOps practices. As a result, the need for automated monitoring of the application and server ecosystem has emerged. In this study, we would like to present you the application that has been developed for automated monitoring of ROTA application, namely Mercury, and how the machine learning models have been used in our use case.
+ER  - 
+
+TY  - CONF
+TI  - Lowering the Barrier: A Science Gateway for Scalable Machine Learning
+T2  - 2025 IEEE International Conference on eScience (eScience)
+SP  - 317
+EP  - 318
+AU  - V. Mohanarajan
+AU  - L. Marini
+AU  - K. McHenry
+AU  - S. Kokkila-Schumacher
+AU  - C. Costa
+AU  - A. S. Perera
+AU  - A. K. Liljedahl
+PY  - 2025
+KW  - Training
+KW  - Tracking
+KW  - Scientific computing
+KW  - Pipelines
+KW  - Distributed databases
+KW  - Machine learning
+KW  - Logic gates
+KW  - Reproducibility of results
+KW  - Permafrost
+KW  - Satellite images
+KW  - Machine Learning Workflows
+KW  - Scientific Computing
+KW  - Distributed Computing
+KW  - Research Data Platforms
+DO  - 10.1109/eScience65000.2025.00049
+JO  - 2025 IEEE International Conference on eScience (eScience)
+IS  - 
+SN  - 2325-3703
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on eScience (eScience)
+Y1  - 15-18 Sept. 2025
+AB  - We present a modular science gateway that simplifies the deployment of machine learning workflows across heterogeneous computing environments. Designed for domain researchers without DevOps expertise, our system lowers the barrier to scalable ML by integrating Clowder, an open-source data management platform, with Ray and Kubernetes for distributed execution. The platform supports data ingestion, visualization, and metadata management, with ML-specific UI enhancements. Workflows are executed via containerized extractors that interact with a shared Ray cluster. To demonstrate real-world utility, we apply our system to the detection of ice wedge polygons from Arctic satellite imagery. Researchers can fine-tune and run inference workflows through a simple web interface, without managing infrastructure. This approach enhances accessibility and reproducibility, and promotes the reuse of data and models across research communities.
+ER  - 
+
+TY  - CONF
+TI  - Advanced Statistical Forecasting For Storage Resource Utilization Efficiency
+T2  - 2025 International Conference on Electrical and Computer Engineering Researches (ICECER)
+SP  - 1
+EP  - 6
+AU  - K. K. Pattan
+PY  - 2025
+KW  - System performance
+KW  - Linear regression
+KW  - Supply chains
+KW  - Predictive models
+KW  - Mathematical models
+KW  - Computer crashes
+KW  - Servers
+KW  - Resource management
+KW  - Forecasting
+KW  - Business
+KW  - Sonatype Nexus Repository Manager
+KW  - NXRM
+KW  - Release Repository
+KW  - Snapshot Repository
+KW  - Docker registry
+KW  - npm repository
+KW  - Maven
+KW  - Nuget
+KW  - LDAP
+KW  - Linear Regression Analysis
+DO  - 10.1109/ICECER65523.2025.11401356
+JO  - 2025 International Conference on Electrical and Computer Engineering Researches (ICECER)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Electrical and Computer Engineering Researches (ICECER)
+Y1  - 6-8 Dec. 2025
+AB  - Sonatype Nexus serves as a powerful repository management solution widely adopted in DevOps pipelines and CI/CD practices. It streamlines the handling, storage, and retrieval of binary components, acting as a central hub for organizing build outputs, dependencies, and container images. By doing so, it strengthens team collaboration and ensures proper governance of the software supply chain. In day-to-day usage, multiple repositories within a Nexus environment accumulate diverse artifacts, often leading to rapid storage consumption. Administrators are tasked with monitoring and clearing space once usage surpasses predefined limits. Neglecting this responsibility may trigger system downtime, directly affecting ongoing business operations. Although Nexus provides built-in automated cleanup tasks, these tools present limitations, particularly when targeting selective artifact removal. This becomes problematic when large but important artifacts dominate storage capacity, reducing free space without a precise forecast of when the server might crash. To overcome this challenge, this study proposes the application of a machine learning technique—specifically, Linear Regression—to examine and predict disk usage trends. The regression model will derive an equation based on existing data, enabling predictions of future space consumption and offering a proactive solution to manage server capacity.
+ER  - 
+
+TY  - CONF
+TI  - CloudInfraBot: Reinforcement Learning-Driven Infrastructure Automation for Azure-Based MLOps Environments
+T2  - 2025 IEEE 2nd International Conference on Green Industrial Electronics and Sustainable Technologies (GIEST)
+SP  - 1
+EP  - 6
+AU  - R. K. Kripa
+PY  - 2025
+KW  - Training
+KW  - Cloud computing
+KW  - Costs
+KW  - Automation
+KW  - DevOps
+KW  - Pipelines
+KW  - Reinforcement learning
+KW  - Real-time systems
+KW  - Resource management
+KW  - Reliability
+KW  - Reinforcement Learning
+KW  - MLOps
+KW  - Azure
+KW  - Infrastructure Automation
+KW  - Cloud Computing
+KW  - CI/CD
+KW  - DevOps
+DO  - 10.1109/GIEST66547.2025.11387299
+JO  - 2025 IEEE 2nd International Conference on Green Industrial Electronics and Sustainable Technologies (GIEST)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE 2nd International Conference on Green Industrial Electronics and Sustainable Technologies (GIEST)
+Y1  - 11-13 Oct. 2025
+AB  - Modern MLOps pipelines deployed on cloud platforms such as Microsoft Azure face significant challenges in automating infrastructure provisioning due to dynamic workload variability, resource constraints, and cost-performance trade-offs. Traditional rule-based autoscaling systems lack the intelligence to adapt in real time, often leading to inefficient resource utilization, elevated operational costs, and service-level agreement (SLA) violations. In this paper, we introduce CloudInfraBot, a novel reinforcement learning-driven infrastructure automation framework tailored for Azure-based MLOps environments. CloudInfraBot learns to dynamically allocate compute and storage resources during CI/CD execution by observing workload patterns and optimizing a multi-objective reward function based on latency, cost, utilization, and reliability. The agent integrates natively with Azure DevOps, Azure Machine Learning Pipelines, and Azure Resource Manager APIs, enabling fine-grained control over provisioning decisions without human intervention. Experimental evaluations across real-world training and deployment workflows demonstrate that CloudInfraBot reduces pipeline latency by up to 31%, lowers compute cost by 33%, and minimizes SLA violations compared to baseline autoscaling techniques. This work establishes a foundation for intelligent infrastructure-as-code systems capable of self-adapting to the complexities of cloud-native AI operations.
+ER  - 
+
+TY  - CONF
+TI  - MLOps Challenges in Multi-Organization Setup: Experiences from Two Real-World Cases
+T2  - 2021 IEEE/ACM 1st Workshop on AI Engineering - Software Engineering for AI (WAIN)
+SP  - 82
+EP  - 88
+AU  - T. Granlund
+AU  - A. Kopponen
+AU  - V. Stirbu
+AU  - L. Myllyaho
+AU  - T. Mikkonen
+PY  - 2021
+KW  - Pipelines
+KW  - Distributed databases
+KW  - Organizations
+KW  - Machine learning
+KW  - Learning (artificial intelligence)
+KW  - Software
+KW  - Data models
+KW  - Artificial intelligence
+KW  - AI
+KW  - machine learning
+KW  - ML
+KW  - multi-organisation
+KW  - integration
+KW  - information systems
+KW  - software engineering for AI/ML
+DO  - 10.1109/WAIN52551.2021.00019
+JO  - 2021 IEEE/ACM 1st Workshop on AI Engineering - Software Engineering for AI (WAIN)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 IEEE/ACM 1st Workshop on AI Engineering - Software Engineering for AI (WAIN)
+Y1  - 30-31 May 2021
+AB  - The emerging age of connected, digital world means that there are tons of data, distributed to various organizations and their databases. Since this data can be confidential in nature, it cannot always be openly shared in seek of artificial intelligence (AI) and machine learning (ML) solutions. Instead, we need integration mechanisms, analogous to integration patterns in information systems, to create multi-organization AI/ML systems. In this paper, we present two real-world cases. First, we study integration between two organizations in detail. Second, we address scaling of AI/ML to multi-organization context. The setup we assume is that of continuous deployment, often referred to DevOps in software development. When also ML components are deployed in a similar fashion, term MLOps is used. Towards the end of the paper, we list the main observations and draw some final conclusions. Finally, we propose some directions for future work.
+ER  - 
+
+TY  - JOUR
+TI  - Interpretable Models for Early Prediction of Certification in MOOCs: A Case Study on a MOOC for Smart City Professionals
+T2  - IEEE Access
+SP  - 165881
+EP  - 165891
+AU  - G. Kostopoulos
+AU  - T. Panagiotakopoulos
+AU  - S. Kotsiantis
+AU  - C. Pierrakeas
+AU  - A. Kameas
+PY  - 2021
+KW  - Electronic learning
+KW  - Computer aided instruction
+KW  - Certification
+KW  - Predictive models
+KW  - Smart cities
+KW  - Education
+KW  - Employment
+KW  - MOOCs
+KW  - certification
+KW  - early prediction
+KW  - supervised learning
+KW  - explainable artificial intelligence
+KW  - interpretable predictive models
+KW  - feature importance
+DO  - 10.1109/ACCESS.2021.3134787
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 9
+VL  - 9
+JA  - IEEE Access
+Y1  - 2021
+AB  - Over the last few years, Massive Open Online Courses (MOOCs) have expanded rapidly and tend to become the most typical form of online and distance higher education. As a result, a tremendous amount of data is generated and stored on MOOCs online learning platforms. In any case, this data should be effectively transformed into knowledge, thus providing valuable feedback to learners, and enhancing decision making practices in the educational field. Despite the benefits and learning prospects that MOOCs offer to learners, there is a considerable divergence between enrollment and completion rates. In this context, the main scope of this study is to exploit predictive analytics and explainable artificial intelligence for the early prediction of student certification in a 11-week MOOC for smart cities, namely DevOps. A plethora of Machine Learning models were built employing familiar classification algorithms. The experimental results revealed that the models based on Gradient Boosting, Logistic Regression and Light Gradient Boosted Machine classifiers prevailed in terms of Accuracy, Area Under Curve, Recall, Precision, F1-score, Kappa, and Matthews Correlation Coefficient, getting a predictive accuracy of 94.41% at the end of the second week of the course. Therefore, students who are less likely to obtain a certificate could be envisaged at an early enough stage to provide sufficient support actions and targeted intervention strategies to them. Finally, the performance attributes (i.e., overall grades per week) proved to be the most important predictors for identifying students at risk of failure.
+ER  - 
+
+TY  - CONF
+TI  - Competency Model for Programming Courses in Information Technology Education (ITE) Programs from Industry Perspective: A Delphi Method
+T2  - 2022 IEEE 14th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management (HNICEM)
+SP  - 1
+EP  - 6
+AU  - J. E. E. Goh
+AU  - C. V. Mojado
+AU  - H. J. T. Manaligod
+PY  - 2022
+KW  - Industries
+KW  - Computational modeling
+KW  - Education
+KW  - Machine learning
+KW  - Games
+KW  - Software
+KW  - Internet of Things
+KW  - competency model
+KW  - Delphi method
+KW  - Information Technology Education (ITE)
+KW  - programming courses
+KW  - software development
+DO  - 10.1109/HNICEM57413.2022.10109471
+JO  - 2022 IEEE 14th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management (HNICEM)
+IS  - 
+SN  - 2770-0682
+VO  - 
+VL  - 
+JA  - 2022 IEEE 14th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management (HNICEM)
+Y1  - 1-4 Dec. 2022
+AB  - This study aimed to develop a competency model for software development courses in ITE programs as perceived by the IT industry in the Philippines in the new normal. A review of previous studies revealed existing software engineering competency models being referenced by the IT industry along with the Commission on Higher Education (CHED) General Education Curriculum (GEC) being referenced by the academe. However, things drastically changed during this global pandemic which may have affected these current standards. Thus, this study aimed to determine the current competency needs in the IT industry in the new normal in relation to the programming courses being offered by the ITE programs in the Philippines; A mixed method three-round Delphi technique was used to solicit a unified expert opinion from the point of view of nine (9) IT industry experts in the Philippines. Twenty-three (23) technical skills and eleven (11) soft skills were extracted from online interviews using thematic analysis. Out of 23 technical skills, nineteen (19) have consensus. The findings produced a competency model for software development courses in the new normal consisting of must-have technical skills, game-changer technical skills, and must-have soft skills. The must-have technical skills include Web Development, Cyber Security, Cloud Computing, Agile Project Management, Mobile Development, and DevOps. The game changer technical skills include Data Science and Data Analytics, Artificial Intelligence and Machine Learning, the Internet of Things, and Research and Development. And the must-have soft skills include Communication skills, Results-Oriented, and Collaboration skills.
+ER  - 
+
+TY  - CONF
+TI  - Data Analytics Environment: Combining Visual Programming and MLOps for AI workflow creation
+T2  - 2024 IEEE International Conference on Engineering, Technology, and Innovation (ICE/ITMC)
+SP  - 1
+EP  - 9
+AU  - A. Grilo
+AU  - P. Figueiras
+AU  - B. Rêga
+AU  - L. Lourenço
+AU  - A. Khodamoradi
+AU  - R. Costa
+AU  - R. Jardim-Gonçalves
+PY  - 2024
+KW  - Visualization
+KW  - Technological innovation
+KW  - Codes
+KW  - Pipelines
+KW  - Process control
+KW  - Production
+KW  - Programming
+KW  - User experience
+KW  - Fourth Industrial Revolution
+KW  - Artificial intelligence
+KW  - MLOps
+KW  - AI workflows
+KW  - No-code/Low-code platforms
+KW  - Industry 4.0
+DO  - 10.1109/ICE/ITMC61926.2024.10794244
+JO  - 2024 IEEE International Conference on Engineering, Technology, and Innovation (ICE/ITMC)
+IS  - 
+SN  - 2693-8855
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conference on Engineering, Technology, and Innovation (ICE/ITMC)
+Y1  - 24-28 June 2024
+AB  - In the Industry 4.0 scene, Artificial Intelligence (AI) is sought after as a new way of getting a competitive advantage from other market competitors. This technology can support not only in-line production status assessment processes, which enable a better control over the quality of the final product, but also to identify potential bottlenecks and other inefficiencies that can exist or occur in production processes. However, this technology has some obstacles that make its access difficult for businesses that do not have the necessary resources for implementing AI solutions, whether due to the intrinsic difficulty to handle such technologies, which require specialists (engineers, data scientists) that are not normally part of industrial human resources, or due to the integration and management of these technologies with already established processes and environments. To approach these technological accessibility challenges, some concepts are being applied, such as in the case of no code/low code solutions, i.e., the reduction or complete removal of programming requirements while using these technologies, and Machine Learning Operations (MLOps), where the integration and life cycle management of these solutions use the same approach as DevOps but applied and adapted to AI technologies. This paper presents an innovative, open-source and scalable approach towards AI pipeline creation, integration, and life cycle management in Industry 4.0 scenarios, in which these no code/low code and MLOps concepts are used, as well as a real-life application in the manufacturing industry.
+ER  - 
+
+TY  - CONF
+TI  - Ratio1 meta-OS - decentralized MLOps and beyond
+T2  - 2025 25th International Conference on Control Systems and Computer Science (CSCS)
+SP  - 258
+EP  - 265
+AU  - A. I. Damian
+AU  - C. Bleotiu
+AU  - M. Grigoras
+AU  - P. Butusina
+AU  - A. De Franceschi
+AU  - V. Toderian
+AU  - N. Tapus
+PY  - 2025
+KW  - Economics
+KW  - Privacy
+KW  - Scalability
+KW  - Buildings
+KW  - Ubiquitous computing
+KW  - Trustless services
+KW  - Tokenization
+KW  - Security
+KW  - Resource management
+KW  - Sustainable development
+KW  - machine learning operations
+KW  - distributed system
+KW  - trustless computing
+KW  - decentralized systems
+KW  - fog & on-edge compute
+DO  - 10.1109/CSCS66924.2025.00046
+JO  - 2025 25th International Conference on Control Systems and Computer Science (CSCS)
+IS  - 
+SN  - 2379-0482
+VO  - 
+VL  - 
+JA  - 2025 25th International Conference on Control Systems and Computer Science (CSCS)
+Y1  - 27-30 May 2025
+AB  - Ubiquitous computing continues to permeate modern systems, from enterprise platforms to consumer apps and gaming ecosystems, by embedding networked devices seamlessly into everyday environments. This integration fosters enhanced connectivity and collaboration, enabling more efficient and sustainable communities. However, the universal adoption of Artificial Intelligence and Deep Learning within these distributed infrastructures has been hindered by expensive cloud deployments, complex DevOps processes, and limited expertise in data science. Building on our original work in the area of decentralized ubiquitous computing this paper presents the scope and capabilities of our decentralized Ratio1† AI ecosystem.In this paper we argue that, as a meta-operating system, Ratio1 addresses the aforementioned challenges head-on through multiple pillars such as tokenization, low-code development and deployment frameworks - all automating large-scale machine learning workflows, emphasizing cooperative pipelines and decentralized resource utilization. Through a token-based economic model, participants can securely share compute resources and collaborate without reliance on monolithic cloud providers. Building upon the principles introduced in our initial research, we demonstrate how Ratio1 AI OS improves accessibility, scalability, and cost-effectiveness for real-world AI applications—ultimately offering a holistic, decentralized MLOps solution that redefines the boundaries of ubiquitous computing.
+ER  - 
+
+TY  - CONF
+TI  - MLPacker: A Unified Software Tool for Packaging and Deploying Atomic and Distributed Analytic Pipelines
+T2  - 2022 7th International Conference on Smart and Sustainable Technologies (SpliTech)
+SP  - 1
+EP  - 6
+AU  - R. Miñón
+AU  - J. Díaz-de-Arcaya
+AU  - A. I. Torre-Bastida
+AU  - G. Zarate
+AU  - A. Moreno-Fernandez-de-Leceta
+PY  - 2022
+KW  - Training
+KW  - Industries
+KW  - Codes
+KW  - Atomic layer deposition
+KW  - Pipelines
+KW  - Machine learning
+KW  - Packaging
+KW  - MLOps
+KW  - AI life-cycle
+KW  - packaging
+KW  - deploying
+KW  - analytic pipeline
+DO  - 10.23919/SpliTech55088.2022.9854211
+JO  - 2022 7th International Conference on Smart and Sustainable Technologies (SpliTech)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 7th International Conference on Smart and Sustainable Technologies (SpliTech)
+Y1  - 5-8 July 2022
+AB  - In the last years, MLOps (Machine Learning Operations) paradigm is attracting the attention from the community, extrapolating the DevOps (Development and Operations) paradigm to the artificial intelligence (AI) development life-cycle. In this area, some challenges must be addressed to successfully deliver solutions since there are specific nuances when dealing with AI operationalization such as the model packaging or monitoring. Fortunately, interesting and helpful approaches, both from the research community and industry have emerged. However, further research is still necessary to fulfil key gaps. This paper presents a tool, MLPacker, for addressing some of them. Concretely, this tool provides mechanisms to package and deploy analytic pipelines both in REST APIs and in streaming mode. In addition, the analytic pipelines can be deployed atomically (i.e., the whole pipeline in the same machine) or in a distributed fashion (i.e., deploying each stage of the pipeline in distinct machines). In this way, users can take advantage from the cloud continuum paradigm considering edge-fog-cloud computing layers. Finally, the tool is decoupled from the training stage to avoid data scientists the integration of blocks of code in their experiments for the operationalization. Besides the package mode (REST API or streaming), the tool can be configured to perform the deployments in local or in remote machines and by using or not containers. For this aim, this paper describes the gaps this tool addresses, the detailed components and flows supported, as well as an scenario with three different case studies to better explain the research conducted.
+ER  - 
+
+TY  - CONF
+TI  - Anomaly Detection in Pipeline Metrics: Employing AI to Detect Anomalies in CI/CD Pipeline Metrics
+T2  - 2026 International Conference on Integrated Intelligence and Cognitive Engineering (ICIICE)
+SP  - 1
+EP  - 6
+AU  - S. Bhatt
+AU  - M. George
+PY  - 2026
+KW  - Modeling
+KW  - Pipelines
+KW  - Timing
+KW  - Monitoring
+KW  - Anomaly detection
+KW  - Artificial intelligence
+KW  - Measurement
+KW  - Printing
+KW  - Testing
+KW  - Machine learning
+KW  - CI/CD Pipelines
+KW  - Anomaly Detection
+KW  - Machine Learning
+KW  - DevOps Intelligence
+KW  - Pipeline Metrics
+DO  - 10.1109/ICIICE69672.2026.11565330
+JO  - 2026 International Conference on Integrated Intelligence and Cognitive Engineering (ICIICE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Integrated Intelligence and Cognitive Engineering (ICIICE)
+Y1  - 18-19 April 2026
+AB  - Continuous Integration and Continuous Deployment (CI/CD) pipelines are critical to the current state of software development, enabling pace and quality. Nevertheless, the larger these pipelines are, the harder it is for human operators to detect performance decline. In this study, the researcher analyses how artificial intelligence can automate anomaly detection in pipeline metrics, namely build duration, test execution time, and deployment frequency. This paper will use an Isolation Forest algorithm and Long Short-Term Memory networks to identify patterns in underlying system problems from a dataset of 429 pipeline execution logs. The tools used include machine learning libraries (Python) such as Scikit-learn and TensorFlow, along with Prometheus for metric gathering and Grafana for visualization. The findings show that AI-based monitoring provides proximal insights into the detection of bottlenecks and infrastructure instability, which traditional threshold-based notifications cannot. This research will provide a framework for shifting reactive troubleshooting to predictive maintenance in the DevOps setting, maintaining delivery cycles as codebases grow increasingly complex.
+ER  - 
+
+TY  - CONF
+TI  - Architectural Vision of Cloud Computing in the Indian Government
+T2  - 2021 International Conference on Innovative Trends in Information Technology (ICITIIT)
+SP  - 1
+EP  - 7
+AU  - N. V. Choudhari
+AU  - A. B. Sasankar
+PY  - 2021
+KW  - Cloud computing
+KW  - Data centers
+KW  - Computer architecture
+KW  - Real-time systems
+KW  - Security
+KW  - Internet of Things
+KW  - Edge computing
+KW  - GI Cloud Architecture
+KW  - VMware Technology Stack
+KW  - Open Stack-based cloud technology
+KW  - emerging cloud architectures
+DO  - 10.1109/ICITIIT51526.2021.9399598
+JO  - 2021 International Conference on Innovative Trends in Information Technology (ICITIIT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 International Conference on Innovative Trends in Information Technology (ICITIIT)
+Y1  - 11-12 Feb. 2021
+AB  - The GI (Govt. of India) cloud started in 2014 is built on the state of art technologies and rich architecture with the nationwide network infrastructure and Data Centres located across the country on National and State data centres. This paper investigates, study and analyze the cloud architecture of Govt. of India and suggests modifications that need to be adapted for sustainable development as per the global changing scenario and fulfill the future needs with improved service delivery, increased throughput, and increased efficiency to provide secured cloud services and to minimize the gap between the cloud service providers and end-users. The cloud services are designed for centralized storage and processing. The cloud data centers are generally located thousands of miles away from the end-users where the data is actually generated. The physical distance between the cloud infrastructure and the data source at edge level end-users produces latency for the real-time processing of the huge amount of data generated at the source level. In recent years the automation scenario is changing globally with various emerging technologies such as the Internet of Things (IoT), Wireless Fidelity 6 (Wi-Fi 6), Fifth Generation Mobile Network connectivity (5G), Artificial Intelligence (AI), and Machine Learning, etc. Emerging technologies like IoT, Wi-Fi 6, 5G gives large scope for boundary level computing and generates a very huge amount of data at the data source level produced by the end-users. These technologies require agile real-time processing and analysis of the data at the source level. Edge computing and Fog computing are the distributed architectures that work together, for reduced latency and speedy real-time processing where the data is actually generated by the end-user. According to the new implementation demands, various emerging cloud technologies such as Mobile Cloud Apps, Containers, Serverless, Microservices, Development and Information Technology Operations (DevOps), BlockChain, Fog computing, Edge Computing, and Software-Defined Infrastructure (SDI), etc are proposed for implementation.
+ER  - 
+
+TY  - CONF
+TI  - An Ensemble Model for Predicting Career Paths of Sri Lankan IT Undergraduates
+T2  - 2025 International Research Conference on Smart Computing and Systems Engineering (SCSE)
+SP  - 1
+EP  - 6
+AU  - S. L. M. Rukais
+AU  - S. Adeeba
+AU  - G. A. C. A. Herath
+AU  - B. T. G. S. Kumara
+PY  - 2025
+KW  - Industries
+KW  - Surveys
+KW  - Accuracy
+KW  - Engineering profession
+KW  - Computational modeling
+KW  - Predictive models
+KW  - Trajectory
+KW  - Modeling
+KW  - Unemployment
+KW  - Software engineering
+KW  - career path
+KW  - ensemble model
+KW  - IT undergraduates
+KW  - predictive modeling
+DO  - 10.1109/SCSE65633.2025.11031069
+JO  - 2025 International Research Conference on Smart Computing and Systems Engineering (SCSE)
+IS  - 
+SN  - 2997-7363
+VO  - 
+VL  - 
+JA  - 2025 International Research Conference on Smart Computing and Systems Engineering (SCSE)
+Y1  - 3-3 April 2025
+AB  - Career trajectories of Information Technology (IT) undergraduates are critical for tailoring academic programs to align with industry demands and support students' professional aspirations. Rapid changes in the IT industry present both opportunities and challenges for new graduates entering the job market. Despite the availability of information and education, many IT undergraduates struggle to secure jobs that align with their career aspirations and abilities. Traditional career development frameworks often fail to provide accurate and tailored predictions due to their inability to address industry-specific requirements, technical skills, and soft skill demands. This mismatch contributes to graduate unemployment, skills imbalances, and career insecurity. To address these challenges, this research proposes a Machine Learning (ML)-based model for predicting suitable career paths for Sri Lankan IT undergraduate students by analyzing their skills, educational background, and internship experiences. The study focuses on six distinct career fields: Software Engineering, UI/UX Design, Quality Assurance, Business Analysis/Project Management, Data Science/Artificial Intelligence, and Networking/DevOps/System Administration. The authors identified 31 attributes through an extensive literature survey and expert opinions. To implement the ML models, a dataset of 820 employees working in the IT industry was obtained and preprocessed. The dataset was then prepared for the application of ML models. This research employs eight different ML algorithms to predict the career paths of IT undergraduates and compares their effectiveness. The Ensemble model demonstrates superior performance compared to other models, with accuracy, precision, recall, and F1-score of 91.39%, 92.47%, 91.39%, and 91.48%, respectively.
+ER  - 
+
+TY  - CONF
+TI  - Reimagining Technical Education: Enhancing X-Ops Learning with Speculative and Experiential Pedagogies
+T2  - 2025 IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC)
+SP  - 111
+EP  - 120
+AU  - A. Faraji
+AU  - N. Pombo
+PY  - 2025
+KW  - Industries
+KW  - Technological innovation
+KW  - Ethics
+KW  - Education
+KW  - Motion pictures
+KW  - Cognition
+KW  - Software
+KW  - Teamwork
+KW  - Problem-solving
+KW  - Creativity
+KW  - X-Ops
+KW  - AIOps
+KW  - DataOps
+KW  - DevSecOps
+KW  - LLMOps
+KW  - Futuristic Thinking
+KW  - Science Fiction
+KW  - Student Engagement
+DO  - 10.1109/COMPSAC65507.2025.00023
+JO  - 2025 IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC)
+IS  - 
+SN  - 2836-3795
+VO  - 
+VL  - 
+JA  - 2025 IEEE 49th Annual Computers, Software, and Applications Conference (COMPSAC)
+Y1  - 8-11 July 2025
+AB  - This study examines the integration of futuristic thinking methodologies into X-Ops education, encompassing topics such as DevOps, AIOps, DataOps, and DevSecOps. Traditional teaching methods often fail to bridge the gap between theoretical knowledge and practical application, leaving students unprepared for the evolving demands of the industry. To address these challenges, this research introduced speculative and experiential learning strategies, including science fiction prototyping, movie analysis, flash fiction storytelling, and innovation labs. These activities aimed to enhance engagement, knowledge retention, critical thinking, and collaborative skills by immersing students in creative and hands-on problem-solving scenarios.The findings demonstrate that futuristic thinking methodologies significantly improve students’ understanding of X-Ops concepts, fostering creativity and innovation while promoting collaboration and ethical reasoning. Quantitative data revealed marked improvements in familiarity with X-Ops principles and problem-solving confidence, while qualitative reflections highlighted the value of group-based activities in contextualizing abstract theories. Despite limitations such as sample size and short-term observation, the study underscores the transformative potential of active and future-oriented pedagogies. By bridging the gap between theory and practice, these approaches prepare students to thrive in the dynamic and evolving landscape of modern technological systems.
+ER  - 
+
+TY  - CONF
+TI  - Engineering the X-Ops Mindset: A Visual, Collaborative, and Challenge-Based Approach to Software Engineering Education
+T2  - 2026 22nd International Conference on Information Technology Based Higher Education and Training (ITHET)
+SP  - 1
+EP  - 8
+AU  - N. Pombo
+AU  - A. Faraji
+PY  - 2026
+KW  - Learning (artificial intelligence)
+KW  - Software engineering
+KW  - Design methodology
+KW  - DevOps
+KW  - Visualization
+KW  - Collaboration
+KW  - Software
+KW  - Tools
+KW  - Modeling
+KW  - Feedback
+KW  - DevOps Education and Practice
+KW  - Engineering Skills for Software Delivery
+KW  - Platform-Based Learning in X-Ops
+KW  - Continuous Delivery and Infrastructure-as-Code
+KW  - Collaborative Toolchains in Software Engineering
+DO  - 10.1109/ITHET69978.2026.11585124
+JO  - 2026 22nd International Conference on Information Technology Based Higher Education and Training (ITHET)
+IS  - 
+SN  - 2473-2060
+VO  - 
+VL  - 
+JA  - 2026 22nd International Conference on Information Technology Based Higher Education and Training (ITHET)
+Y1  - 20-22 May 2026
+AB  - The growing importance of DevOps, DataOps, MLOps, and AIOps in software development demands new approaches in software engineering education. This study introduces a challenge-based instructional intervention designed to foster operational thinking among students. The intervention combined real-world scenarios, visual artifacts, and peer collaboration to support engagement and applied learning.A mixed-methods evaluation was conducted using Likert-scale surveys, open-ended feedback, observational data, and peer-assessed group outputs. Results indicate high levels of student participation, meaningful inter-group collaboration, and improved confidence in applying X-Ops principles. Students appreciated the exploratory learning environment, though some expressed a need for clearer initial guidance.The study highlights the potential of active, visually supported methodologies to prepare students for the operational demands of modern software systems. It also provides a foundation for future research into scalable, practice-oriented instructional models in computing education.
+ER  - 
+
+TY  - CONF
+TI  - AI-Augmented Runtime Observability and Security Orchestration for Distributed Enterprise Platform Resilience
+T2  - 2026 International Conference on Advanced Computing and Knowledge Engineering (ICACKE)
+SP  - 1
+EP  - 7
+AU  - M. Dwivedi
+AU  - S. C. Obuladinne
+AU  - B. Rajbongshi
+AU  - P. Jain
+PY  - 2026
+KW  - Modeling
+KW  - Runtime
+KW  - Security
+KW  - Anomaly detection
+KW  - Observability
+KW  - Resilience
+KW  - Telemetry
+KW  - Artificial intelligence
+KW  - Location awareness
+KW  - Correlation
+KW  - AI-augmented observability
+KW  - AIOps
+KW  - intelligent telemetry correlation
+KW  - adaptive anomaly detection
+KW  - incident localization
+KW  - runtime security orchestration
+KW  - DevSecOps
+KW  - distributed platform resilience
+KW  - cloud-native systems
+KW  - PLS-SEM
+DO  - 10.1109/ICACKE65470.2026.11651223
+JO  - 2026 International Conference on Advanced Computing and Knowledge Engineering (ICACKE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Advanced Computing and Knowledge Engineering (ICACKE)
+Y1  - 23-24 July 2026
+AB  - Distributed enterprise platforms increasingly rely on microservices, containerized workloads, service meshes, event-driven pipelines, edge components, and hybrid cloud infrastructure. Although these architectures improve scalability and deployment agility, they also increase telemetry fragmentation, alert overload, incident localization delays, and coordination gaps between reliability engineering and security operations. This study investigates how AI-augmented runtime observability enhances distributed platform resilience through intelligent telemetry correlation, adaptive anomaly detection, incident localization efficiency, and runtime security orchestration. Drawing on Dynamic Capabilities Theory and Socio-Technical Systems Theory, the study conceptualizes AI-augmented observability as a runtime sensing capability, telemetry correlation and anomaly detection as analytical capabilities, and incident localization and security orchestration as operational response capabilities. Survey data were collected from 412 DevOps engineers, site reliability engineers, cloud architects, cybersecurity analysts, platform engineers, and IT infrastructure managers. The proposed model was tested using partial least squares structural equation modelling. The results show that AI-augmented runtime observability has a strong positive effect on intelligent telemetry correlation ($\beta$ = 0.684, p < 0.001), which in turn significantly enhances adaptive anomaly detection ($\beta$ = 0.617, p < 0.001). Adaptive anomaly detection significantly improves both incident localization efficiency ($\beta$ = 0.593, p < 0.001) and runtime security orchestration ($\beta$ = 0.642, p < 0.001). Incident localization efficiency ($\beta$ = 0.376, p < 0.001) and runtime security orchestration ($\beta$ = 0.421, p < 0.001) further contribute significantly to distributed platform resilience. Mediation analysis confirms that intelligent telemetry correlation, adaptive anomaly detection, incident localization efficiency, and runtime security orchestration transmit the effect of AI-augmented observability on resilience outcomes. The study contributes to AIOps, DevSecOps, cloud-native security, and platform resilience research by empirically validating an integrated operational intelligence model that links observability, anomaly detection, incident response, and runtime security orchestration in distributed enterprise environments.
+ER  - 
+
+TY  - CONF
+TI  - Towards MLOps: A Framework and Maturity Model
+T2  - 2021 47th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)
+SP  - 1
+EP  - 8
+AU  - M. M. John
+AU  - H. H. Olsson
+AU  - J. Bosch
+PY  - 2021
+KW  - Embedded systems
+KW  - Systematics
+KW  - Bibliographies
+KW  - Companies
+KW  - Machine learning
+KW  - Software
+KW  - Software engineering
+KW  - MLOps
+KW  - Framework
+KW  - Maturity Model
+KW  - SLR
+KW  - GLR
+KW  - Validation Study
+DO  - 10.1109/SEAA53835.2021.00050
+JO  - 2021 47th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 47th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)
+Y1  - 1-3 Sept. 2021
+AB  - The adoption of continuous software engineering practices such as DevOps (Development and Operations) in business operations has contributed to significantly shorter software development and deployment cycles. Recently, the term MLOps (Machine Learning Operations) has gained increasing interest as a practice that brings together data scientists and operations teams. However, the adoption of MLOps in practice is still in its infancy and there are few common guidelines on how to effectively integrate it into existing software development practices. In this paper, we conduct a systematic literature review and a grey literature review to derive a framework that identifies the activities involved in the adoption of MLOps and the stages in which companies evolve as they become more mature and advanced. We validate this framework in three case companies and show how they have managed to adopt and integrate MLOps in their large-scale software development companies. The contribution of this paper is threefold. First, we review contemporary literature to provide an overview of the state-of-the-art in MLOps. Based on this review, we derive an MLOps framework that details the activities involved in the continuous development of machine learning models. Second, we present a maturity model in which we outline the different stages that companies go through in evolving their MLOps practices. Third, we validate our framework in three embedded systems case companies and map the companies to the stages in the maturity model.
+ER  - 
+
+TY  - JOUR
+TI  - Within-Project Defect Prediction of Infrastructure-as-Code Using Product and Process Metrics
+T2  - IEEE Transactions on Software Engineering
+SP  - 2086
+EP  - 2104
+AU  - S. Dalla Palma
+AU  - D. Di Nucci
+AU  - F. Palomba
+AU  - D. A. Tamburri
+PY  - 2022
+KW  - Measurement
+KW  - Software
+KW  - Predictive models
+KW  - Machine learning
+KW  - Radon
+KW  - Cloud computing
+KW  - Task analysis
+KW  - Infrastructure-as-code
+KW  - defect prediction
+KW  - empirical software engineering
+DO  - 10.1109/TSE.2021.3051492
+JO  - IEEE Transactions on Software Engineering
+IS  - 6
+SN  - 1939-3520
+VO  - 48
+VL  - 48
+JA  - IEEE Transactions on Software Engineering
+Y1  - 1 June 2022
+AB  - Infrastructure-as-code (IaC) is the DevOps practice enabling management and provisioning of infrastructure through the definition of machine-readable files, hereinafter referred to as IaC scripts. Similarly to other source code artefacts, these files may contain defects that can preclude their correct functioning. In this paper, we aim at assessing the role of product and process metrics when predicting defective IaC scripts. We propose a fully integrated machine-learning framework for IaC Defect Prediction, that allows for repository crawling, metrics collection, model building, and evaluation. To evaluate it, we analyzed 104 projects and employed five machine-learning classifiers to compare their performance in flagging suspicious defective IaC scripts. The key results of the study report Random Forest as the best-performing model, with a median AUC-PR of 0.93 and MCC of 0.80. Furthermore, at least for the collected projects, product metrics identify defective IaC scripts more accurately than process metrics. Our findings put a baseline for investigating IaC Defect Prediction and the relationship between the product and process metrics, and IaC scripts’ quality.
+ER  - 
+
+TY  - JOUR
+TI  - On the Understandability of MLOps System Architectures
+T2  - IEEE Transactions on Software Engineering
+SP  - 1015
+EP  - 1039
+AU  - S. J. Warnett
+AU  - U. Zdun
+PY  - 2024
+KW  - Pipelines
+KW  - Unified modeling language
+KW  - Task analysis
+KW  - Software architecture
+KW  - Computer architecture
+KW  - Systems architecture
+KW  - Machine learning
+KW  - Controlled experiment
+KW  - empirical software engineering
+KW  - empirical study
+KW  - distributed system modelling
+KW  - distributed system architecture
+KW  - understandability
+KW  - machine learning
+KW  - MLOps
+DO  - 10.1109/TSE.2024.3367488
+JO  - IEEE Transactions on Software Engineering
+IS  - 5
+SN  - 1939-3520
+VO  - 50
+VL  - 50
+JA  - IEEE Transactions on Software Engineering
+Y1  - May 2024
+AB  - Machine Learning Operations (MLOps) is the practice of streamlining and optimising the machine learning (ML) workflow, from development to deployment, using DevOps (software development and IT operations) principles and ML-specific activities. Architectural descriptions of MLOps systems often consist of informal textual descriptions and informal graphical system diagrams that vary considerably in consistency, quality, detail, and content. Such descriptions only sometimes follow standards or schemata and may be hard to understand. We aimed to investigate informal textual descriptions and informal graphical MLOps system architecture representations and compare them with semi-formal MLOps system diagrams for those systems. We report on a controlled experiment with sixty-three participants investigating the understandability of MLOps system architecture descriptions based on informal and semi-formal representations. The results indicate that the understandability (quantified by task correctness) of MLOps system descriptions is significantly greater using supplementary semi-formal MLOps system diagrams, that using semi-formal MLOps system diagrams does not significantly increase task duration (and thus hinder understanding), and that task correctness is only significantly correlated with task duration when semi-formal MLOps system diagrams are provided.
+ER  - 
+
+TY  - CONF
+TI  - When DevOps Meets Meta-Learning: A Portfolio to Rule them all
+T2  - 2019 ACM/IEEE 22nd International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)
+SP  - 605
+EP  - 612
+AU  - B. Benni
+AU  - M. Blay-Fornarino
+AU  - S. Mosser
+AU  - F. Précisio
+AU  - G. Jungbluth
+PY  - 2019
+KW  - Metalearning
+KW  - DevOps
+KW  - Machine learning algorithms
+KW  - Pipelines
+KW  - Buildings
+KW  - Machine learning
+KW  - Model driven engineering
+KW  - Complexity theory
+KW  - Portfolios
+KW  - DevOps
+KW  - Meta-Learning
+KW  - Pipeline
+KW  - MachineLearning
+DO  - 10.1109/MODELS-C.2019.00092
+JO  - 2019 ACM/IEEE 22nd International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 ACM/IEEE 22nd International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)
+Y1  - 15-20 Sept. 2019
+AB  - The Machine Learning (ML) world is in constant evolution, as the amount of different algorithms in this context is evolving quickly. Until now, it is the responsibility of data scientists to create ad-hoc ML pipelines for each situation they encounter, gaining knowledge about the adequacy between their context and the chosen pipeline. Considering that it is not possible at a human scale to analyze the exponential number of potential pipelines, picking the right pipeline that combines the proper preprocessing and algorithms is a hard task that requires knowledge and experience. In front of the complexity of building a right ML pipeline, algorithm portfolios aim to drive algorithm selection, learning from the past in a continuous process. However, building a portfolio requires that (i) data scientists develop and test pipelines and (ii) portfolio maintainers ensure the quality of the portfolio and enrich it. The firsts are the developers, while the seconds are the operators. In this paper, we present a set of criteria to be respected, and propose a pipeline-based meta-model, to support a DevOps approach in the context of Machine Learning Pipelines. The exploitation of this meta-model, both as a graph and as a logical expression, serves to ensure continuity between Dev and Ops. We depict our proposition through the simplified study of two primary use cases, one with developer's point-of-view, the other with ops'.
+ER  - 
+
+TY  - CONF
+TI  - MLOps: A Guide to its Adoption in the Context of Responsible AI
+T2  - 2022 IEEE/ACM 1st International Workshop on Software Engineering for Responsible Artificial Intelligence (SE4RAI)
+SP  - 45
+EP  - 49
+AU  - B. M. A. Matsui
+AU  - D. H. Goya
+PY  - 2022
+KW  - Conferences
+KW  - Machine learning
+KW  - Software
+KW  - Software engineering
+KW  - MLOps
+KW  - DevOps
+KW  - responsible AI
+KW  - machine learning
+KW  - model
+KW  - development
+DO  - 10.1145/3526073.3527591
+JO  - 2022 IEEE/ACM 1st International Workshop on Software Engineering for Responsible Artificial Intelligence (SE4RAI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 IEEE/ACM 1st International Workshop on Software Engineering for Responsible Artificial Intelligence (SE4RAI)
+Y1  - 17-17 May 2022
+AB  - DevOps practices have increasingly been applied to software development as well as the machine learning lifecycle, in a process known as MLOps. Currently, many professionals have written about this topic, but still few results can be found in the academic and scientific literature on MLOps and how to to implement it effectively. Considering aspects of responsible AI, this number is even lower, opening up a field of research with many possibilities. This article presents five steps to guide the understanding and adoption of MLOps in the context of responsible AI. The study aims to serve as a reference guide for all those who wish to learn more about the topic and intend to implement MLOps practices to develop their systems, following responsible AI principles.CCS CONCEPTS• Software and its engineering → Software creation and management; • Computing methodologies → Machine learning.
+ER  - 
+
+TY  - CONF
+TI  - A Model-Driven Architectural Design Method for Big Data Analytics Applications
+T2  - 2020 IEEE International Conference on Software Architecture Companion (ICSA-C)
+SP  - 89
+EP  - 94
+AU  - C. Castellanos
+AU  - B. Pérez
+AU  - D. Correal
+AU  - C. A. Varela
+PY  - 2020
+KW  - Analytical models
+KW  - Computer architecture
+KW  - Data models
+KW  - Monitoring
+KW  - Business
+KW  - Software
+KW  - Software architecture
+KW  - Software architecture
+KW  - Attribute-Driven Design
+KW  - ADD
+KW  - ATAM
+KW  - Big data analytics deployment
+KW  - DevOps
+KW  - Domain-specific model
+KW  - Quality Scenarios
+DO  - 10.1109/ICSA-C50368.2020.00026
+JO  - 2020 IEEE International Conference on Software Architecture Companion (ICSA-C)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Software Architecture Companion (ICSA-C)
+Y1  - 16-20 March 2020
+AB  - Big data analytics (BDA) applications use machine learning to extract valuable insights from large, fast, and heterogeneous data sources. The architectural design and evaluation of BDA applications entail new challenges to integrate emerging machine learning algorithms with cutting-edge practices whilst ensuring performance levels even in the presence of large data volume, velocity, and variety (3Vs). This paper presents a design process approach based on the Attribute-Driven Design (ADD) method and Architecture tradeoff analysis method (ATAM) to specify, deploy, and monitor performance metrics in BDA applications supported by domain-specific modeling and DevOps. Our design process starts with the definition of architectural drivers, followed by functional and deployment specification through integrated high-level modeling which enables quality scenarios monitoring. We used two use cases from avionics to evaluate this proposal, and the preliminary results suggest advantages by integrating multiple views, automating deployment and monitoring compared to similar approaches.
+ER  - 
+
+TY  - CONF
+TI  - Autonomously Adaptive Machine Learning Systems: Experimentation-Driven Open-Source Pipeline
+T2  - 2023 49th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)
+SP  - 44
+EP  - 52
+AU  - Y. Luo
+AU  - M. Raatikainen
+AU  - J. K. Nurminen
+PY  - 2023
+KW  - Training
+KW  - Adaptation models
+KW  - Pipelines
+KW  - Production
+KW  - Machine learning
+KW  - Data models
+KW  - Resource management
+KW  - MLOps
+KW  - continuous training
+KW  - continuous deployment
+KW  - A/B testing
+KW  - open-source
+KW  - experimentation
+KW  - pipeline
+DO  - 10.1109/SEAA60479.2023.00016
+JO  - 2023 49th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)
+IS  - 
+SN  - 2376-9521
+VO  - 
+VL  - 
+JA  - 2023 49th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)
+Y1  - 6-8 Sept. 2023
+AB  - Machine Learning Operations (MLOps), derived from DevOps, aims to unify the development, deployment, and maintenance of machine learning (ML) models. Continuous training (CT) automatically retrains ML models, and continuous deployment (CD) automatically deploys the retrained models to production. CT and CD are essential for maintaining ML model performance in dynamic production environments and, therefore, need to be considered when practicing MLOps. We present our CTCD-e MLOps pipeline, implemented mostly using existing open-source software, being able to autonomously adapt an ML system to changing production environments by enabling flexible model CT and CD. The pipeline can automatically trigger a model retraining round when the model performance degrades. Then it automatically conducts an A/B test for the retrained model and its predecessor in production to start serving the better one. The pipeline was evaluated by two experiments. In the pipeline, users can flexibly configure the model retraining, as well as the redeployment and production A/B test of the retrained models based on various requirements.
+ER  - 
+
+TY  - CONF
+TI  - Software Log Classification in Telecommunication Industry
+T2  - 2021 6th International Conference on Computer Science and Engineering (UBMK)
+SP  - 348
+EP  - 353
+AU  - O. Ülkü
+AU  - N. Gözüaçik
+AU  - S. Tanberk
+AU  - M. A. Aydin
+AU  - A. H. Zaim
+PY  - 2021
+KW  - Support vector machines
+KW  - Machine learning algorithms
+KW  - Computer bugs
+KW  - Organizations
+KW  - Software systems
+KW  - Feature extraction
+KW  - Boosting
+KW  - log analytics
+KW  - TF-IDF
+KW  - bag of words
+KW  - logistic regression.
+DO  - 10.1109/UBMK52708.2021.9558985
+JO  - 2021 6th International Conference on Computer Science and Engineering (UBMK)
+IS  - 
+SN  - 2521-1641
+VO  - 
+VL  - 
+JA  - 2021 6th International Conference on Computer Science and Engineering (UBMK)
+Y1  - 15-17 Sept. 2021
+AB  - Software system admins depend on log data for understanding system behavior, monitoring anomalies, tracking software bugs, and malfunctioning detection. Log analysis based on machine learning techniques enables to transform of raw logs into meaningful information that helps the DevOps team and administrators to solve problems. Al ensures to group similar logs together and keeps periodic logs more organized and sorted, allowing us to get to where we need to look faster. In this paper, we present a log classification system on log data generated by VoIP (Voice over Internet Protocol) soft-switch product. In this way, we targeted to detect the problem, direct it to the relevant department, allocate resources, and solve software bugs faster and more efficiently. Machine learning algorithms such as Linear Classifiers, Support Vector Machines, Decision Tree, Random Forest, Boosting, K-Nearest Neighbors, and Multilayer Perceptron are used for log classification.
+ER  - 
+
+TY  - CONF
+TI  - A Continuous Integration Framework for Machine Learning-Based Mobile Behaviour Analysis
+T2  - 2025 Innovations in Power and Advanced Computing Technologies (i-PACT)
+SP  - 1
+EP  - 6
+AU  - G. G
+AU  - B. S
+AU  - D. S
+AU  - M. N
+AU  - P. K. M
+AU  - S. T
+PY  - 2025
+KW  - Training
+KW  - Time-frequency analysis
+KW  - Technological innovation
+KW  - DevOps
+KW  - Computational modeling
+KW  - Scalability
+KW  - Continuous integration
+KW  - Real-time systems
+KW  - Robustness
+KW  - Testing
+KW  - Mobile Usage Analysis
+KW  - Machine Learning
+KW  - DevOps
+KW  - Continuous Integration and Deployment (CI/CD)
+KW  - User Behaviour Modeling
+KW  - AWS EC2
+DO  - 10.1109/i-PACT65952.2025.11307944
+JO  - 2025 Innovations in Power and Advanced Computing Technologies (i-PACT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 Innovations in Power and Advanced Computing Technologies (i-PACT)
+Y1  - 25-26 Sept. 2025
+AB  - In today's digital era, analyzing user behaviour through mobile usage data is essential for enhancing user engagement and delivering personalized services. Integrating machine learning with DevOps practices enables automated, scalable, and real-time behaviour analysis systems. This framework employs machine learning models such as Random Forests, Decision Trees, and Neural Networks to classify user activity based on features like screen time, app usage frequency, and behavioural patterns. The models are trained on preprocessed and feature-engineered datasets to predict categories like Work-Oriented, Entertainment-Focused, or Balanced Users. The proposed system achieves high performance with accuracy exceeding 90 %, supported by precision and recall metrics that confirm its robustness in behavioural classification. Combined with Git-based version control, Jenkins-driven CI/CD, and AWS EC2 deployment, the framework ensures continuous integration, deployment, and scalability for real-time insights. It demonstrates a novel end-to-end MLOps approach that seamlessly automates model training, testing, and cloud deployment for dynamic behaviour profiling.
+ER  - 
+
+TY  - CONF
+TI  - Advanced Notebook: A tool for enhanced Management of Machine Learning models and procedures in the Healthcare Domain
+T2  - 2023 International Conference on Applied Mathematics & Computer Science (ICAMCS)
+SP  - 36
+EP  - 41
+AU  - G. Danciu
+AU  - I. E. Nicolae
+AU  - I. Ilie
+AU  - C. S. Nechifor
+PY  - 2023
+KW  - Machine learning algorithms
+KW  - Instruments
+KW  - Pancreatic cancer
+KW  - Medical services
+KW  - Machine learning
+KW  - Data models
+KW  - Usability
+KW  - machine learning
+KW  - data flow
+KW  - notebook
+KW  - configuration
+KW  - architecture
+KW  - ML Ops
+DO  - 10.1109/ICAMCS59110.2023.00013
+JO  - 2023 International Conference on Applied Mathematics & Computer Science (ICAMCS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 International Conference on Applied Mathematics & Computer Science (ICAMCS)
+Y1  - 8-10 Aug. 2023
+AB  - The significant improvements in machine learning today necessitate procedures and frameworks that are simple to configure by data scientists, ML researchers, and non-DevOps engineers, allowing them to rapidly develop ML models and address real-world challenges. This article provides an in-depth analysis of the architectural design of a holistic system that addresses the management of machine learning processes and deployment procedures. The proposed system has been designed to provide seamless configuration options and smooth integration with other solutions by enabling the rapid development of ML models. Its versatility makes it applicable in various scenarios, enhancing its usability across different domains. The effectiveness of the proposed solution has been validated through practical implementation in two distinct machine ML scenarios, both of which were integrated into European Union (EU) projects centered around the healthcare domain. The findings from these specific use cases have been documented and are presented as part of the empirical evidence supporting the viability and success of the solution.
+ER  - 
+
+TY  - CONF
+TI  - Emerging Trends in Software Engineering: Implications for Development and Efficiency
+T2  - 2025 International Conference on Emerging Systems and Intelligent Computing (ESIC)
+SP  - 13
+EP  - 18
+AU  - B. Chhatria
+AU  - H. Dharua
+AU  - S. K. Tarai
+AU  - S. Panda
+PY  - 2025
+KW  - Surveys
+KW  - Technological innovation
+KW  - DevOps
+KW  - Key performance indicator
+KW  - Machine learning
+KW  - Software quality
+KW  - Market research
+KW  - Maintenance
+KW  - Predictive analytics
+KW  - Software engineering
+KW  - Software Engineering
+KW  - Agile Methodology
+KW  - Machine Learning
+KW  - DevOps
+KW  - Cybersecurity
+DO  - 10.1109/ESIC64052.2025.10962758
+JO  - 2025 International Conference on Emerging Systems and Intelligent Computing (ESIC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Emerging Systems and Intelligent Computing (ESIC)
+Y1  - 8-9 Feb. 2025
+AB  - This study explores recent advancements in software engineering, focusing on methods and practices that enhance development efficiency, security, and innovation. The originality of this research lies in its comprehensive analysis of the latest trends, such as Agile methodologies, and the integration of machine learning, which are revolutionizing the software development landscape. The primary objective is to assess the effectiveness of these trends in optimizing software development processes and improving end-user experiences. This research applies quantitative analysis, using time-series data and survey responses from software development teams to evaluate key performance indicators associated with each trend. The analysis, conducted using SPSS software, examines correlations between the adoption of modern methodologies and outcomes such as reduced development time, enhanced security, and overall software quality. Findings indicate that Agile and DevOps practices contribute significantly to faster deployment cycles, while machine learning integration aids in predictive analysis, improving error detection and reducing maintenance needs. The practical implications of this study emphasize the value of embracing emerging methodologies to foster innovation, enhance project success rates, and ensure robust software products. These insights aim to support software companies and developers in adopting strategic trends for sustainable and effective engineering solutions.
+ER  - 
+
+TY  - CONF
+TI  - Integration of MLOps into the Software Development Lifecycle: A Systematic Review
+T2  - 2025 Mexican International Conference on Computer Science (ENC)
+SP  - 1
+EP  - 6
+AU  - K. Cancañón-Rodríguez
+AU  - M. Muñoz
+AU  - H. Avila-George
+PY  - 2025
+KW  - Protocols
+KW  - Biological system modeling
+KW  - Taxonomy
+KW  - Organizations
+KW  - Machine learning
+KW  - Libraries
+KW  - Monitoring
+KW  - Systematic literature review
+KW  - Testing
+KW  - Software engineering
+KW  - systematic literature review
+KW  - MLOps
+KW  - MLOps practices
+KW  - SDLC
+KW  - methodological resources
+DO  - 10.1109/ENC68268.2025.11311934
+JO  - 2025 Mexican International Conference on Computer Science (ENC)
+IS  - 
+SN  - 2332-5712
+VO  - 
+VL  - 
+JA  - 2025 Mexican International Conference on Computer Science (ENC)
+Y1  - 10-14 Nov. 2025
+AB  - Machine Learning Operations (MLOps) extends Development and Operations (DevOps) practices to manage the end-to-end lifecycle of machine learning models. However, the alignment between MLOps and the traditional software development lifecycle (SDLC) remains insufficiently defined. This study presents a systematic literature review of peer-reviewed works published between 2018 and 2025 in IEEE Xplore, Scopus, and the ACM Digital Library. The review was conducted following a protocol for evidence-based software engineering. A total of 71 primary studies were included after deduplication and screening. A phase-based taxonomy of MLOps tools was synthesized and an SDLC-MLOps compatibility framework was derived to classify alignment levels as high, medium, or low across development phases. Inter-rater agreement, measured using Cohen's Kappa, yielded a value of 0.91, while the average study quality score was 0.73. The results show convergence around pipelines, model registries, and containerized deployment, alongside persistent fragmentation in process models and organizational practices. The findings provide implications for practice, including maturity-based adoption strategies, role definition, governance mechanisms, and continuous monitoring. Additionally, opportunities for future research are identified in the areas of ML-specific testing and harmonized metrics across software engineering and data science disciplines.
+ER  - 
+
+TY  - CONF
+TI  - Diagnosing Java Memory Leaks and Performance Bottlenecks: A Machine Learning-Driven Approach to Caching Optimization
+T2  - 2025 3rd International Conference on Sustainable Computing and Smart Systems (ICSCSS)
+SP  - 1910
+EP  - 1915
+AU  - S. R. Gudi
+PY  - 2025
+KW  - Telemetry
+KW  - Aerospace and electronic systems
+KW  - Feedback
+KW  - Circuits
+KW  - MIMICs
+KW  - Millimeter wave integrated circuits
+KW  - Monolithic integrated circuits
+KW  - Telemetry
+KW  - Radio access networks
+KW  - Regional area networks
+KW  - Java Virtual Machine
+KW  - Memory Leak Detection
+KW  - Cache Optimization
+KW  - Autoencoder
+KW  - Isolation Forest
+KW  - Random Forest
+KW  - One-Class SVM
+KW  - Anomaly Detection
+KW  - Machine Learning
+KW  - JVM Telemetry
+KW  - Performance Bottlenecks
+KW  - Real-Time Monitoring
+KW  - Intelligent Diagnostics
+DO  - 10.1109/ICSCSS64956.2025.11501075
+JO  - 2025 3rd International Conference on Sustainable Computing and Smart Systems (ICSCSS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 3rd International Conference on Sustainable Computing and Smart Systems (ICSCSS)
+Y1  - 20-22 Aug. 2025
+AB  - Java Virtual Machine (JVM) applications are critical to enterprise solutions, and for good reason: they are resilient, portable, and scalable. However, performance bottlenecks still exist and one of the most important reasons is due to memory leaks and inefficient caching. Traditional profiling tools like VisualVM, JConsole etc are reactive, meaning many times the intervention is manual and adjustments to dynamic runtime requirement are not very flexible. This work presents novel, machine learning based approach to detect JVM memory leaks and optimize the cache intelligently in real-time. It uses telemetry data such as heap usage, frequency of garbage collection, object allocation rates, and performance measures for caches. On a synthetic dataset of a JVM with simulated known anomalies, we evaluated four models—Autoencoder, Isolation Forest, One-Class SVM, and Random Forest. ROC-AUC score value of 0.9820 and 0.9868 were achieved by the Autoencoder among the Random Forest model, which shown excellent classification performance. The Autoencoder demonstrated useful in unsupervised scenarios, effectively pinpointing subtle behavioral anomalies in the use of memory. The framework provides a fine-grained anomaly identification and serves as a starting point of reinforcement learning based automatic cache leakage elimination. Our results highlight the disruptive potential of machine learning in diagnosing JVM-level problems, reducing downtime, and improving application performance. The approach is scalable, flexible and and suitable to integrate into DevOps observability for intelligent Java applications oversight. The code is available on the GitHub repository https://github.com/Srikanthrgudi/Diagnosing-Java-Memory-Leaks-and-Performance-
+ER  - 
+
+TY  - CONF
+TI  - Llama-Recipe — Fine-Tuned Meta's Llama LLM, PBOM and NFT Enabled 5G Network-Slice Orchestration and End-to-End Supply-Chain Verification Platform
+T2  - 2025 IEEE 22nd Consumer Communications & Networking Conference (CCNC)
+SP  - 1
+EP  - 6
+AU  - E. Bandara
+AU  - S. H. Bouk
+AU  - S. Shetty
+AU  - S. Roy
+AU  - R. Mukkamala
+AU  - A. Rahman
+AU  - P. Foytik
+AU  - X. Liang
+AU  - N. W. Keong
+AU  - K. De Zoysa
+PY  - 2025
+KW  - Training
+KW  - 5G mobile communication
+KW  - Network slicing
+KW  - Supply chains
+KW  - Transforms
+KW  - Software
+KW  - Nonfungible tokens
+KW  - Security
+KW  - Resource management
+KW  - Radio access networks
+KW  - 5G
+KW  - 6G
+KW  - Generative-AI
+KW  - LLM
+KW  - Llama2
+KW  - DevSec-Ops
+KW  - NFT
+KW  - PBOM
+DO  - 10.1109/CCNC54725.2025.10976116
+JO  - 2025 IEEE 22nd Consumer Communications & Networking Conference (CCNC)
+IS  - 
+SN  - 2331-9860
+VO  - 
+VL  - 
+JA  - 2025 IEEE 22nd Consumer Communications & Networking Conference (CCNC)
+Y1  - 10-13 Jan. 2025
+AB  - Modern 5G networks offer a network-sliced infrastructure where each network slice contains a dedicated 5G core software service layer. The 5G core software services in each slice shares common core network resources to meet specific customer needs. A primary challenge in 5G network slicing involves resource sharing and efficient network slice orchestration. Container-based methodologies, including tools like Docker and Kubernetes, have become popular for orchestrating 5G network slice services and managing configurations in microservices-based cloud-native service deployment. However, despite their utility, these tools present significant challenges. Their complexity often necessitates dedicated DevOps teams for effective management, while configuration management can prove arduous, and end-to-end supply chain oversight is lacking. To address these challenges, this paper introduces “Llama-Recipe,” a cloud-native 5G-core service deployment and orchestration platform integrating Generative AI, SBOM, PBOM and NFT. 5G-core service configurations across different network slices are represented as “HOCON (Human-Optimized Config Object Notation)” config objects adhering to the GitOps paradigm. Leveraging custom-trained Meta's Llama2 LLM, Llama-Recipe generates the Kubernetes manifests for network-sliced 5G-core services based on the defined HOCON configurations. The generated Kubernetes manifests of the 5G-core services are deployed in designated Kubernetes clusters utilizing GitOps tools (e.g., ArgoCD), ensuring seamless and automated deployment processes. Additionally, Llama-Recipe introduced a novel mechanism to handle end-to-end supply chain verification of 5G-core software services using Software-Bill of Materials (SBOM) and Pipeline-Bill of Materials (PBOM). SBOMs track all the dependencies and PBOMs facilitate the comprehensive tracking of end-to-end supply chain data for 5G-core software services, enhancing transparency and security. These PBOMs are also generated using the fine-tuned Meta's Llama-2 LLM and are encoded as NFT tokens with a novel NFT token schema. This schema enables easy verification and validation of supply-chain data during deployments, thus helping to prevent various supply-chain attacks. To fine-tune the Meta's Llama2 LLM, we've undertaken a meticulous training process, collaborating with Qlora to transform a 4-bit quantized pre-trained language model into Low-Rank Adapters(LoRA). The effectiveness of the Llama-Recipe is demonstrated through a real-world test-bed deployment in a sliced network scenario, utilizing multiple 5G cores (i.e., Open5GS) across Ericsson's new Radio Access Network (RAN).
+ER  - 
+
+TY  - CONF
+TI  - Context-Aware Behavior-Driven Pipeline Generation
+T2  - 2025 13th International Symposium on Digital Forensics and Security (ISDFS)
+SP  - 1
+EP  - 6
+AU  - P. Gunathilaka
+AU  - D. Senadheera
+AU  - S. Perara
+AU  - C. Gunawardana
+AU  - S. Thelijjagoda
+AU  - J. Krishara
+PY  - 2025
+KW  - Automation
+KW  - DevOps
+KW  - Adaptive systems
+KW  - Reviews
+KW  - Pipelines
+KW  - Manuals
+KW  - Software
+KW  - Security
+KW  - Intelligent systems
+KW  - Testing
+KW  - CI/CD
+KW  - context-aware
+KW  - behavior-driven development
+KW  - GitHub activity analysis
+KW  - reviewer assignment
+KW  - workload optimization
+DO  - 10.1109/ISDFS65363.2025.11011952
+JO  - 2025 13th International Symposium on Digital Forensics and Security (ISDFS)
+IS  - 
+SN  - 2768-1831
+VO  - 
+VL  - 
+JA  - 2025 13th International Symposium on Digital Forensics and Security (ISDFS)
+Y1  - 24-25 April 2025
+AB  - An efficient CI/CD process is crucial for modern software teams, but manual pipeline creation is error-prone and requires high DevOps expertise, slowing deployment speed and reducing productivity. This research introduces a context-aware, behavior-driven approach to fully automating CI/CD pipeline generation by analyzing GitHub user activity patterns. The proposed solution utilizes a historical analysis of repository events, developer contributions, and workload distribution to dynamically generate pipelines and assign reviewers to pull requests based on expertise. Unlike previous template-based and generative AI solutions that require manual intervention, our approach leverages pattern recognition and adaptive decision-making to continuously refine automation. This paper presents the methodology behind data collection, analysis, and pipeline generation, demonstrating its effectiveness in reducing human effort while improving software delivery efficiency. This research highlights how behavior-driven automation streamlines the complexity of CI/CD pipeline creation, enabling more adaptive and intelligent systems that effectively respond to the evolving needs of software development teams.
+ER  - 
+
+TY  - CONF
+TI  - Cloudburst AI: Orchestrating SRE-Driven AI Inference Across Multi-Cloud and Edge Zones
+T2  - 2026 International Conference on Smart Futuristic Technology
+SP  - 1
+EP  - 8
+AU  - R. Kohli
+AU  - M. Chigurupati
+AU  - S. K. Akhil Koduri
+AU  - N. Nellutla
+PY  - 2026
+KW  - Artificial intelligence
+KW  - Clouds
+KW  - Modeling
+KW  - Availability
+KW  - Stability
+KW  - Costing
+KW  - Costs
+KW  - Optimization
+KW  - Timing
+KW  - Routing
+KW  - AI Inference
+KW  - Multi-Cloud
+KW  - Edge Computing
+KW  - Site Reliability Engineering
+KW  - SLOs
+KW  - Observability
+KW  - Resilience
+DO  - 10.1109/ICSFT66733.2026.11506930
+JO  - 2026 International Conference on Smart Futuristic Technology
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Smart Futuristic Technology
+Y1  - 2-3 Jan. 2026
+AB  - Artificial Intelligence (AI) workloads are increasingly deployed across heterogeneous infrastructures consisting of public clouds, private clouds, and edge computing environments. However, achieving reliable, cost-efficient, and scalable inference across these distributed environments remains challenging. This paper presents Cloudburst AI, a Site Reliability Engineering (SRE)-driven orchestration framework that automates AI inference placement, reliability governance, observability, failure resilience, and operational performance across multi-cloud and edge zones. The framework introduces reliability-centric orchestration policies, autonomous failover intelligence, adaptive routing based on latency and availability, and error-budget driven execution to ensure sustained Service Level Objectives (SLOs). Experimental results demonstrate reduced latency variance, improved availability, minimized failure blast radius, and cost aware inference stability. Cloudburst AI establishes a unified paradigm for AI SRE, bridging DevOps reliability engineering with scalable inference execution.
+ER  - 
+
+TY  - CONF
+TI  - Research on the Technology Architecture of Full-stack Cloud-Native Hosted Cloud
+T2  - 2024 11th International Conference on Machine Intelligence Theory and Applications (MiTA)
+SP  - 1
+EP  - 7
+AU  - B. Sun
+AU  - H. Zhou
+AU  - G. Song
+AU  - Q. Zhang
+PY  - 2024
+KW  - Industries
+KW  - Cloud computing
+KW  - Technological innovation
+KW  - Computational modeling
+KW  - Biological system modeling
+KW  - Ecosystems
+KW  - Computer architecture
+KW  - Security
+KW  - Artificial intelligence
+KW  - Business
+KW  - cloud computing
+KW  - cloud native
+KW  - Full-stack Hosted Cloud
+KW  - cloud security
+DO  - 10.1109/MiTA60795.2024.10751724
+JO  - 2024 11th International Conference on Machine Intelligence Theory and Applications (MiTA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 11th International Conference on Machine Intelligence Theory and Applications (MiTA)
+Y1  - 14-23 July 2024
+AB  - As cloud computing technology matures and becomes more widespread, internet-based businesses and applications of artificial intelligence become increasingly intricate. Enterprises are now more sensitive to factors such as data sensitivity, compliance requirements, and personalized needs. The surge in demand for extensive and diversified computing power is propelling the growth of the cloud hosting industry. Consequently, the expectations from cloud hosting now encompass requirements for comprehensive capabilities, security, and open compatibility. Enabling computing power, ensuring compatibility with the full-stack ecosystem, and optimizing security systems have emerged as inevitable trends in the evolution of cloud hosting services. This paper delves into the technical architecture and operational framework of full-stack cloud hosting, leveraging a range of cloud-native technologies including containers, micro-services, and DevOps. Additionally, a holistic approach to security system design is proposed to address the security challenges inherent in full-stack cloud hosting. Through tiered deployment and multi-level isolation, this approach aims to enhance the efficiency of cloud hosting business operations while providing robust security protection for cloud resources from various angles.
+ER  - 
+
+TY  - CONF
+TI  - Towards Automating Model-Based Systems Engineering in Industry - An Experience Report
+T2  - 2024 IEEE International Systems Conference (SysCon)
+SP  - 1
+EP  - 8
+AU  - J. Cederbladh
+AU  - L. Berardinelli
+AU  - H. Bruneliere
+AU  - A. Cicchetti
+AU  - M. Dehghani
+AU  - C. Di Sipio
+AU  - J. Miranda
+AU  - A. Rahimi
+AU  - R. Rubei
+AU  - J. Suryadevara
+PY  - 2024
+KW  - Industries
+KW  - Adaptation models
+KW  - DevOps
+KW  - Software packages
+KW  - Modeling
+KW  - Artificial intelligence
+KW  - System analysis and design
+KW  - Model-Based Systems Engineering
+KW  - Artificial Intelligence
+KW  - DevOps
+KW  - Cyber-Physical Systems
+DO  - 10.1109/SysCon61195.2024.10553610
+JO  - 2024 IEEE International Systems Conference (SysCon)
+IS  - 
+SN  - 2472-9647
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Systems Conference (SysCon)
+Y1  - 15-18 April 2024
+AB  - Designing modern Cyber-Physical Systems (CPSs) is posing new challenges to both industrial practitioners and academics. In this context, adopting cutting-edge paradigms, such as Model-Based Systems Engineering (MBSE), DevOps, and Artificial Intelligence (AI), can offer new opportunities for improving CPS design automation. While such paradigms are already jointly used in the research community to support system design activities, there is a need to fill the gap between academia and industrial practitioners. Indeed, system specification is still mainly performed manually in many industrial projects. In this paper, we present a collaboration between industrial and academic partners of the AIDOaRt European project towards a model-based approach for CPS engineering applied in one of the project use cases. We identify key challenges and corresponding solutions to enhance the automation of CPS design processes. Notably, we consider a combination of prescriptive modeling, model transformations, model views, modeling process mining, and AI-based modeling recommendations. As an initial evaluation, the proposed approach is applied to a practical industrial case study.
+ER  - 
+
+TY  - CONF
+TI  - Smart Tools in Software Engineering: A Systematic Mapping Study
+T2  - 2019 42nd International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO)
+SP  - 1509
+EP  - 1513
+AU  - D. Savchenko
+AU  - J. Kasurinen
+AU  - O. Taipale
+PY  - 2019
+KW  - Tools
+KW  - Software
+KW  - Software engineering
+KW  - Systematics
+KW  - Unified modeling language
+KW  - Technological innovation
+KW  - Industries
+DO  - 10.23919/MIPRO.2019.8756975
+JO  - 2019 42nd International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO)
+IS  - 
+SN  - 2623-8764
+VO  - 
+VL  - 
+JA  - 2019 42nd International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO)
+Y1  - 20-24 May 2019
+AB  - Software development processes such as waterfall development model have been around for over fifty years, but still, even modern software development approaches, such as DevOps or Test-driven development, fundamentally rely on the same principles and phases as everything before them. Yet, the modern world imposes new challenges for software businesses, and new ways of digital distribution require new ways of resource provisioning and ability to reduce the time-to-market to its absolute minimum. In this study, we identify and analyze the technologies which may be useful for software companies to ease the development and maintenance work by assisting the experts to collect relevant information and observe issues before they cause process disturbances. As a result, we describe a mapping study, which identifies different approaches to developing a smart software engineering tools applying potential technologies such as artificial intelligence, cloud-based service models, adaptive measurement, and other approaches, which could offer significant benefits to the software development process.
+ER  - 
+
+TY  - CONF
+TI  - Brief State of the Art on Human-AI in Software Engineering: Impact, Ethical Challenges, and Academic Evolution
+T2  - 2024 13th International Conference On Software Process Improvement (CIMPS)
+SP  - 117
+EP  - 124
+AU  - Y. V. Morales M.
+AU  - B. D. Valenzuela R.
+AU  - R. S. Salgado
+AU  - G. G. Serna
+AU  - N. A. C. Sánchez
+PY  - 2024
+KW  - Productivity
+KW  - Ethics
+KW  - Privacy
+KW  - DevOps
+KW  - Large language models
+KW  - Collaboration
+KW  - Software
+KW  - Security
+KW  - Artificial intelligence
+KW  - Software engineering
+KW  - Artificial Intelligence (AI)
+KW  - Software Engineering
+KW  - Large Language Models (LLM)
+KW  - DevOps
+KW  - Human-AI
+DO  - 10.1109/CIMPS65195.2024.11095939
+JO  - 2024 13th International Conference On Software Process Improvement (CIMPS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 13th International Conference On Software Process Improvement (CIMPS)
+Y1  - 16-18 Oct. 2024
+AB  - This article presents a brief state of the art on the integration of artificial intelligence (AI) in software engineering, focusing on its impact, emerging ethical challenges, and the academic evolution required to address these changes. Through a systematic literature review based on the PRISMA methodology and the analysis of case studies, it explores how AI, particularly large language models (LLMs), is transforming key processes such as code generation, program verification, and integration with DevOps practices, thereby improving software productivity and quality. However, these advances entail significant ethical challenges, such as the introduction of biases, lack of transparency in automated decisions, and excessive reliance on automation, raising concerns about privacy and security. This study highlights the importance of reformulating curricula, developing models for academic institutions that integrate an ethical approach to AI teaching, and fostering collaboration with the industry. This work offers a comprehensive vision that combines the technical, ethical, and educational aspects necessary for the responsible implementation of AI. Finally, directions for future research centered on developing more transparent AI technologies and creating robust ethical frameworks to ensure effective synergy between humans and AI in software engineering are identified.
+ER  - 
+
+TY  - CONF
+TI  - Computer-Aided Evaluation for Argument-Based Certification
+T2  - 2023 IEEE/AIAA 42nd Digital Avionics Systems Conference (DASC)
+SP  - 1
+EP  - 10
+AU  - Z. Daw
+AU  - T. Wang
+AU  - C. Oh
+AU  - M. Low
+AU  - I. Amundson
+AU  - G. Wang
+AU  - R. Melville
+AU  - P. Nuzzo
+PY  - 2023
+KW  - Visualization
+KW  - Aerospace electronics
+KW  - User interfaces
+KW  - Market research
+KW  - Software
+KW  - Safety
+KW  - Security
+KW  - Certification
+KW  - Argument-based certification
+KW  - HMI
+DO  - 10.1109/DASC58513.2023.10311322
+JO  - 2023 IEEE/AIAA 42nd Digital Avionics Systems Conference (DASC)
+IS  - 
+SN  - 2155-7209
+VO  - 
+VL  - 
+JA  - 2023 IEEE/AIAA 42nd Digital Avionics Systems Conference (DASC)
+Y1  - 1-5 Oct. 2023
+AB  - Next-generation certification processes are expected to be influenced by two dominant trends: customizable certification, as advocated by Overarching Properties (OPs), and the continuous and rapid delivery approach from the coupling of software development and operations (DevOps). In light of these trends, certification processes must adapt to support the ongoing evaluation of assurance while accommodating the emergence of new evidence and evolving safety and security practices, particularly for systems enabled by artificial intelligence (AI). These requirements call for the development of computer-aided evaluation tools that automate repetitive tasks and offer visualization aids to assist evaluators and applicants in making informed decisions. This paper aims to address the challenges associated with assurance evaluation via a survey-based analysis and proposes a user interface that streamlines the evaluation of certification arguments.
+ER  - 
+
+TY  - CONF
+TI  - Integrating AI into DevSecOps Pipelines for Secure Cloud Microservices Management
+T2  - 2026 IEEE 5th International Conference on AI in Cybersecurity (ICAIC)
+SP  - 1
+EP  - 7
+AU  - A. K. Dash
+PY  - 2026
+KW  - Pipelines
+KW  - Microservice architectures
+KW  - Organizations
+KW  - Games
+KW  - Computer architecture
+KW  - Threat assessment
+KW  - Security
+KW  - Artificial intelligence
+KW  - Surface treatment
+KW  - Testing
+KW  - DevSecOps
+KW  - Artificial Intelligence
+KW  - Cloud Security
+KW  - Microservices Architecture
+KW  - Secure Software Development Lifecycle
+KW  - Containerized Workloads
+DO  - 10.1109/ICAIC67076.2026.11395671
+JO  - 2026 IEEE 5th International Conference on AI in Cybersecurity (ICAIC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 IEEE 5th International Conference on AI in Cybersecurity (ICAIC)
+Y1  - 18-20 Feb. 2026
+AB  - The modern era of technology encompasses many innovative areas such as cloud computing and the applications and services within them. These workloads, primarily based on microservices architectures, have ushered in blazing fast applications and cloud services. The entire lifecycle of these workloads embedded within traditional DevOps model has been redefined with a shift left approach to security. This is where DevSecOps promises to be a major game changer in this context. This paper explores the overall merger between such cloud workloads and artificial intelligence (AI). While such a combination is pretty much in its nascent stage, this study delves deeper into ways in which such integrations can work seamlessly across stakeholders. The issues of containerized workloads across various pipeline stages, including code commit, build, testing, deployment, and runtime monitoring are investigated and given adequate attention. The paper also explores the trade-offs involved in meeting exponential consumer demand with improved security and threat surface minimization of these cloud-based microservices inclusive of real-world examples. The current AI-driven security automation processes are examined and the limitations of such static rule based, and reactive models are also touched upon. AI-driven techniques such as anomaly detection, predictive risk scoring, intelligent vulnerability prioritization, and automated policy enforcement are further looked at from a regulatory perspective for large enterprise environments. AI-driven DevSecOps provides a step forward in enhancing the security and reliability of cloud-native applications. The present study further calls out AI explainability and real-world validation, specifically from a microservices architecture standpoint and how to manage them effectively to accelerate industry wide adoption.
+ER  - 
+
+TY  - CONF
+TI  - A Review on AI-Assisted Automation Process for OS Building and Deployment
+T2  - 2025 2nd International Conference on Electronic and Computer Engineering (ECE)
+SP  - 84
+EP  - 88
+AU  - O. J. On
+AU  - M. S. A. Bin Suhaimi
+AU  - A. Rehman
+AU  - S. A. Z. Bin Sayed Aluwee
+AU  - C. M. Tyng
+AU  - G. C. Meng
+PY  - 2025
+KW  - Surveys
+KW  - Automation
+KW  - DevOps
+KW  - Reviews
+KW  - Operating systems
+KW  - Scalability
+KW  - Reinforcement learning
+KW  - Artificial intelligence
+KW  - Testing
+KW  - Software engineering
+KW  - Artificial Intelligence
+KW  - Operating System Installation
+KW  - Automated System Deployment
+KW  - AI-driven configuration
+KW  - Machine Learning
+DO  - 10.1109/ECE67147.2025.11276551
+JO  - 2025 2nd International Conference on Electronic and Computer Engineering (ECE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 2nd International Conference on Electronic and Computer Engineering (ECE)
+Y1  - 21-22 Aug. 2025
+AB  - Operating System (OS) installation and deployment traditionally require specialised domain expertise and extensive manual effort. Traditional OS installation can be time-consuming, error-prone, and requires manual decision-making. AI-assisted Operating System (OS) installation is an emerging interdisciplinary field that blends artificial intelligence (AI), system automation, and software engineering to streamline and optimize the process of build and deploying operating systems. With AI integration one aims to improve accuracy, efficiency, adaptability, and scalability in various environments, from personal computing to enterprise-level deployments. This paper presents an up to date survey for AI-driven framework that automates the design, configuration, compilation, testing, and deployment of typically used operating systems, eg. Ubuntu, and Debian. Leveraging large language models (LLMs), reinforcement learning, and DevOps automation pipelines, the system intelligently interprets user requirements to produce specifications according to project requirements, then dynamically generates configuration template for used in automated OS installation, test and validate, and eventually fine-tuned to generate an optimized OS. Analysis and review shows significant reductions in development time, improved consistency, and higher adaptability across various hardware and cloud environments. This work highlights the transformative potential of AI in Infrastructure as Code (IaC) for AI for infrastructure management segment, and proposes some approach and techniques for improvise autonomous OS installation and deployment process.
+ER  - 
+
+TY  - CONF
+TI  - Agentic AI in DevOps: Boosting Software Automation and Collaboration
+T2  - 2025 International Conference on Artificial Intelligence Security and Governance (ICAISG)
+SP  - 35
+EP  - 40
+AU  - M. Akour
+AU  - M. Alenezi
+PY  - 2025
+KW  - Agentic AI
+KW  - Time-frequency analysis
+KW  - DevOps
+KW  - Automation
+KW  - Fintech
+KW  - Decision making
+KW  - Collaboration
+KW  - Predictive models
+KW  - Software
+KW  - Artificial intelligence
+KW  - Agentic AI
+KW  - DevOps
+KW  - Software Automation
+KW  - Collaboration
+KW  - Intelligent Systems
+DO  - 10.1109/ICAISG68699.2025.11452134
+JO  - 2025 International Conference on Artificial Intelligence Security and Governance (ICAISG)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Artificial Intelligence Security and Governance (ICAISG)
+Y1  - 12-14 Dec. 2025
+AB  - This paper explores the transformative impact Agentic Artificial Intelligence (AI) can bring into DevOps, mainly in automation, collaboration, and decision-making. We combine controlled experiments and real deployment in a fintech setting to show that the integration of Agentic AI into CI/CD pipelines drastically reduces deployment times, detects errors better, and encourages multi-disciplinary collaboration. Our results show a 36% reduction in test cycle time and a 65% decrease in rollback frequency. Deployment assurance was rated a high 4.6/5 from developers when using the AI assistant-giving developers' confidence in this assistant. This paper offers practical guidelines and architectural blueprints for organizations intending to implement Agentic AI, followed by discussions on factors of ethical, operational, and technical concern for building explainable and trustworthy AI systems.
+ER  - 
+
+TY  - CONF
+TI  - The Information System Factory – Return to Simplicity
+T2  - 2025 5th International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)
+SP  - 1
+EP  - 6
+AU  - W. Koch
+AU  - R. Ortiz
+AU  - O. Benda
+AU  - A. K. Mishra
+PY  - 2025
+KW  - Cloud computing
+KW  - Mechatronics
+KW  - Computational modeling
+KW  - Production facilities
+KW  - Data models
+KW  - Software
+KW  - Artificial intelligence
+KW  - Standards
+KW  - Information systems
+KW  - Business
+KW  - rapid application development
+KW  - fourth generation language
+KW  - INFORMIX-4GL
+KW  - single board computer
+KW  - model view control
+KW  - system development life cycle
+KW  - information system factory
+DO  - 10.1109/ICECCME64568.2025.11277453
+JO  - 2025 5th International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 5th International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)
+Y1  - 16-19 Oct. 2025
+AB  - This paper presents the concept of a tool (Information System Factory) which uses a Fourth Generation Language ($\mathbf{4 G L}$) environment for the production of Information Systems in an agile Software Development Style (RAD: Rapid Application Development). The production process follows the principle of a factory, which assembles the final product by reusing already developed components and adding new components either by in house development or by acquiring external components (Component Based Development). The final system follows a three layer architecture (MVC: Model View Control) separating Data Base (Model) Management, User Interaction (View), and Programming (Control). Modern Micro Computers can be used to execute this “4GL-RAD-Tool” locally on user’s premises or in the field (powered by a battery) without the need of accessing facilities in a global network (cloud). The power of a low cost, energy saving Single Board Computer (SBC) is enough e.g. for developing and running business information systems using this tool. SBCs are frequently used in embedded Systems, which interact with sensors and actuators to control physical processes. Since SBCs can be equipped with large storage devices, there is no need in many cases to use programs in the cloud for the further on processing of big data. A realization of this 4GL-RAD Tool is based on an INFORMIX-4GL compatible system, which is available as an open source productivity tool. The System provides a menu driven IDE, which supports a standard System Development Life Cycle (SDLC) as linear or iterative model. The different phases of the SDLC are delivering various artifacts like User Requirement Documents, Code, and Software User Manuals, which can be enhanced by using Artificial Intelligence (AI). Restricting the system development to classes like Business Administration, Cultural Heritage, IoT-Computing to name a few, can support the development process by introducing “domain ontologies” in the “DevOps"-Environment. The development of a Sensor Network provides a practical example in the field of Mechatronic Engineering.
+ER  - 
+
+TY  - CONF
+TI  - Towards MLOps: A Case Study of ML Pipeline Platform
+T2  - 2020 International Conference on Artificial Intelligence and Computer Engineering (ICAICE)
+SP  - 494
+EP  - 500
+AU  - Y. Zhou
+AU  - Y. Yu
+AU  - B. Ding
+PY  - 2020
+KW  - Training
+KW  - Computational modeling
+KW  - Pipelines
+KW  - Graphics processing units
+KW  - Tools
+KW  - Data models
+KW  - Task analysis
+KW  - MLOps
+KW  - machine learning
+KW  - end-to-end platform
+KW  - DevOps
+KW  - continuous training
+DO  - 10.1109/ICAICE51518.2020.00102
+JO  - 2020 International Conference on Artificial Intelligence and Computer Engineering (ICAICE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 International Conference on Artificial Intelligence and Computer Engineering (ICAICE)
+Y1  - 23-25 Oct. 2020
+AB  - The development and deployment of machine learning (ML) applications differ significantly from traditional applications in many ways, which have led to an increasing need for efficient and reliable production of ML applications and supported infrastructures. Though platforms such as TensorFlow Extended (TFX), ModelOps, and Kubeflow have provided end-to-end lifecycle management for ML applications by orchestrating its phases into multistep ML pipelines, their performance is still uncertain. To address this, we built a functional ML platform with DevOps capability from existing continuous integration (CI) or continuous delivery (CD) tools and Kubeflow, constructed and ran ML pipelines to train models with different layers and hyperparameters while time and computing resources consumed were recorded. On this basis, we analyzed the time and resource consumption of each step in the ML pipeline, explored the consumption concerning the ML platform and computational models, and proposed potential performance bottlenecks such as GPU utilization. Our work provides a valuable reference for ML pipeline platform construction in practice.
+ER  - 
+
+TY  - JOUR
+TI  - Dynamic Autoselection and Autotuning of Machine Learning Models for Cloud Network Analytics
+T2  - IEEE Transactions on Parallel and Distributed Systems
+SP  - 1052
+EP  - 1064
+AU  - R. R. Karn
+AU  - P. Kudva
+AU  - I. A. M. Elfadel
+PY  - 2019
+KW  - Machine learning
+KW  - Cloud computing
+KW  - Containers
+KW  - Data models
+KW  - Machine learning algorithms
+KW  - Tuning
+KW  - Computational modeling
+KW  - Cloud analytics
+KW  - machine learning
+KW  - ensemble learning
+KW  - distributed learning
+KW  - clustering
+KW  - classification
+KW  - autoselection
+KW  - autotuning
+KW  - decision feedback
+KW  - cloud DevOps
+KW  - containers
+KW  - docker
+KW  - Kafka
+DO  - 10.1109/TPDS.2018.2876844
+JO  - IEEE Transactions on Parallel and Distributed Systems
+IS  - 5
+SN  - 1558-2183
+VO  - 30
+VL  - 30
+JA  - IEEE Transactions on Parallel and Distributed Systems
+Y1  - 1 May 2019
+AB  - Cloud network monitoring data is dynamic and distributed. Signals to monitor the cloud can appear, disappear or change their importance and clarity over time. Machine learning (ML) models tuned to a given data set can therefore quickly become inadequate. A model might be highly accurate at one point in time but may lose its accuracy at a later time due to changes in input data and their features. Distributed learning with dynamic model selection is therefore often required. Under such selection, poorly performing models (although aggressively tuned for the prior data) are retired or put on standby while new or standby models are brought in. The well-known method of Ensemble ML (EML) may potentially be applied to improve the overall accuracy of a family of ML models. Unfortunately, EML has several disadvantages, including the need for continuous training, excessive computational resources, requirement for large training datasets, high risks of overfitting, and a time-consuming model-building process. In this paper, we propose a novel cloud methodology for automatic ML model selection and tuning that automates model building and selection and is competitive with existing methods. We use unsupervised learning to better explore the data space before the generation of targeted supervised learning models in an automated fashion. In particular, we create a Cloud DevOps architecture for autotuning and selection based on container orchestration and messaging between containers, and take advantage of a new autoscaling method to dynamically create and evaluate instantiations of ML algorithms. The proposed methodology and tool are demonstrated on cloud network security datasets.
+ER  - 
+
+TY  - CONF
+TI  - Neural Knowledge Extraction From Cloud Service Incidents
+T2  - 2021 IEEE/ACM 43rd International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)
+SP  - 218
+EP  - 227
+AU  - M. Shetty
+AU  - C. Bansal
+AU  - S. Kumar
+AU  - N. Rao
+AU  - N. Nagappan
+AU  - T. Zimmermann
+PY  - 2021
+KW  - Cloud computing
+KW  - Semantics
+KW  - Training data
+KW  - Software
+KW  - Data mining
+KW  - Task analysis
+KW  - Software engineering
+KW  - Cloud Services
+KW  - Service Incidents
+KW  - Information Extraction
+KW  - Knowledge Extraction
+KW  - Deep Learning
+KW  - Machine Learning
+DO  - 10.1109/ICSE-SEIP52600.2021.00031
+JO  - 2021 IEEE/ACM 43rd International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 IEEE/ACM 43rd International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)
+Y1  - 25-28 May 2021
+AB  - The move from boxed products to services and the widespread adoption of cloud computing has had a huge impact on the software development life cycle and DevOps processes. Particularly, incident management has become critical for developing and operating large-scale services. Prior work on incident management has heavily focused on the challenges with incident triaging and de-duplication. In this work, we address the fundamental problem of structured knowledge extraction from service incidents. We have built SoftNER, a framework for unsupervised knowledge extraction from service incidents. We frame the knowledge extraction problem as a Named-Entity Recognition task for extracting factual information. SoftNER leverages structural patterns like key value pairs and tables for bootstrapping the training data. Further, we build a novel multitask learning based BiLSTM-CRF model which leverages not just the semantic context but also the data-types for named-entity extraction. We have deployed SoftNER at Microsoft, a major cloud service provider and have evaluated it on more than 2 months of cloud incidents. We show that the unsupervised machine learning pipeline has a high precision of 0.96. Our multi-task learning based deep learning model also outperforms the state of the art NER models. Lastly, using the knowledge extracted by SoftNER we are able to build significantly more accurate models for important downstream tasks like incident triaging.
+ER  - 
+
+TY  - JOUR
+TI  - A Comprehensive Review on Scaling Machine Learning Workflows Using Cloud Technologies and DevOps
+T2  - IEEE Access
+SP  - 148559
+EP  - 148594
+AU  - G. Ramesh
+AU  - T. V. Pai
+AU  - R. Birau
+AU  - K. K. Poojary
+AU  - Abhay
+AU  - A. R. Shingad
+AU  - N. Sowjanya
+AU  - V. Popescu
+AU  - A. T. Mitroi
+AU  - R. M. Nioata Chireac
+AU  - K. M. K. Raj
+PY  - 2025
+KW  - Machine learning
+KW  - DevOps
+KW  - Cloud computing
+KW  - Pipelines
+KW  - Reviews
+KW  - Surveys
+KW  - Computer architecture
+KW  - Scalability
+KW  - Automation
+KW  - Costs
+KW  - Machine learning (ML) workflows
+KW  - cloud computing
+KW  - DevOps
+KW  - MLOps
+KW  - scalability
+KW  - Kubernetes
+KW  - automation
+DO  - 10.1109/ACCESS.2025.3599281
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 13
+VL  - 13
+JA  - IEEE Access
+Y1  - 2025
+AB  - Scaling Machine Learning (ML) workflows in cloud environments presents critical challenges in ensuring reproducibility, low-latency inference, infrastructure reliability, and regulatory compliance. This review addresses the lack of a comprehensive synthesis of how integrated DevOps practices and cloud-native technologies enable scalable, production-grade ML systems. We analyze the convergence of MLOps with tools such as Kubernetes, Jenkins, and Terraform, detailing their role in automating CI/CD pipelines, infrastructure provisioning, and model lifecycle management. The main highlights strategies for optimizing resource utilization, minimizing inference latency, and managing data versioning across hybrid and multi-cloud architectures (AWS, Azure, GCP). We also examine serverless computing, container orchestration, and monitoring practices to enhance scalability and governance. By categorizing challenges chronologically and evaluating emerging practices such as federated learning and security-by-design, this work bridges a key gap in existing literature. It offers a unified perspective on building reliable, reproducible, and compliant ML workflows, thereby advancing the state of scalable AI system engineering.
+ER  - 
+
+TY  - JOUR
+TI  - MLOps Components, Tools, Process, and Metrics: A Systematic Literature Review
+T2  - IEEE Access
+SP  - 22166
+EP  - 22175
+AU  - A. P. Woźniak
+AU  - M. Milczarek
+AU  - J. Woźniak
+PY  - 2025
+KW  - Databases
+KW  - Measurement
+KW  - Systematic literature review
+KW  - Computer architecture
+KW  - Unified modeling language
+KW  - Production
+KW  - Reliability
+KW  - Monitoring
+KW  - DevOps
+KW  - Containers
+KW  - Architecture
+KW  - machine learning operations
+KW  - MLOps
+DO  - 10.1109/ACCESS.2025.3534990
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 13
+VL  - 13
+JA  - IEEE Access
+Y1  - 2025
+AB  - With the growing popularity of machine learning, implementations of the environment for developing and maintaining these models, called MLOps, are becoming more common. The number of publications in this area is relatively small, although growing rapidly. Our goal was to review the current state of the literature in the MLOps area and answer the following research questions: What classes of tools are used in MLOps environments? Which tool implementations are the most popular? What processes are implemented within MLOps? What metrics are used to measure the effectiveness of MLOps implementation? Based on this review, we identified classes of tools included in the MLOps architecture, along with their most popular implementations. While some tools originate from DevOps practices, others, such as Model Orchestrators, Feature Stores, and Model Repositories, are unique to MLOps. We propose a reference MLOps architecture based on these findings and outline the stages of the model production process. We also sought metrics that would allow us to assess and compare the effectiveness of MLOps practices, but unfortunately, we were unable to find a satisfactory answer in this area.
+ER  - 
+
+TY  - CONF
+TI  - Federated Learning Operations (FLOps): Challenges, Lifecycle and Approaches
+T2  - 2022 International Conference on Technologies and Applications of Artificial Intelligence (TAAI)
+SP  - 12
+EP  - 17
+AU  - Q. Cheng
+AU  - G. Long
+PY  - 2022
+KW  - Training
+KW  - Productivity
+KW  - Privacy
+KW  - Federated learning
+KW  - Industry applications
+KW  - Decision making
+KW  - Collaboration
+KW  - Software Development
+KW  - Federated Learning
+KW  - Machine Learning Operations
+KW  - DevOps
+DO  - 10.1109/TAAI57707.2022.00012
+JO  - 2022 International Conference on Technologies and Applications of Artificial Intelligence (TAAI)
+IS  - 
+SN  - 2376-6824
+VO  - 
+VL  - 
+JA  - 2022 International Conference on Technologies and Applications of Artificial Intelligence (TAAI)
+Y1  - 1-3 Dec. 2022
+AB  - Federated Learning has witnessed a rapid growth in research and industry applications as it offers the benefits of privacy preserving while contributing to the global model training. Cross-silo federated learning systems which are usually geographically distributed and cross-organizational are becoming a reality. Although DevOps and MLOps methodologies may help improving traditional machine learning systems' development efficiency and productivity, it is still challenging for them to develop cross-silo federated learning systems in a productive way. In this paper, we propose FLOps (Federated Learning Operations), a new methodology for developing cross-silo federated learning systems efficiently and continuously. By elaborating the challenges that FLOps is facing, we construct the lifecycle of FLOps, and propose approaches to FLOps. Finally, we highlight potential research directions of FLOps.
+ER  - 
+
+TY  - CONF
+TI  - MLOps in Data Science Projects: A Review
+T2  - 2023 IEEE International Conference on Big Data (BigData)
+SP  - 2396
+EP  - 2404
+AU  - C. Haertel
+AU  - D. Staegemann
+AU  - C. Daase
+AU  - M. Pohl
+AU  - A. Nahhas
+AU  - K. Turowski
+PY  - 2023
+KW  - Analytical models
+KW  - DevOps
+KW  - Bibliographies
+KW  - Machine learning
+KW  - Data science
+KW  - Big Data
+KW  - Software
+KW  - Data Science
+KW  - MLOps
+KW  - DevOps
+KW  - Literature Review
+KW  - Project Management
+DO  - 10.1109/BigData59044.2023.10386139
+JO  - 2023 IEEE International Conference on Big Data (BigData)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 IEEE International Conference on Big Data (BigData)
+Y1  - 15-18 Dec. 2023
+AB  - Data Science (DS) has gained increased relevance due to the potential to extract useful insights from data. Quite commonly, this involves the utilization of Machine Learning (ML). The challenging pursuit of developing and productionizing ML models can be supported and automated through MLOps, a specialization of the DevOps paradigm from software development. Therefore, MLOps offers significant potential for DS projects, which are suffering from notable failure rates. Accordingly, this literature review focuses on examining the current state-of-the-art of the publications in this area. Most importantly, the analysis showed that the current MLOps approaches in the literature predominantly emphasize model development and deployment, while organizational aspects (business understanding, evaluation) in a DS project are neglected. As DS project success is not exclusively dependent on technical matters, advancing the MLOps field by bridging the gap between business objectives and the modeling perspective through appropriate frameworks should be pursued in future research.
+ER  - 
+
+TY  - CONF
+TI  - An MLOps Approach for Deploying Machine Learning Models in Healthcare Systems
+T2  - 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+SP  - 6832
+EP  - 6837
+AU  - G. Mallardi
+AU  - F. Calefato
+AU  - L. Quaranta
+AU  - F. Lanubile
+PY  - 2024
+KW  - Systematics
+KW  - Biological system modeling
+KW  - Prevention and mitigation
+KW  - Medical services
+KW  - Machine learning
+KW  - Production
+KW  - Reproducibility of results
+KW  - Reliability
+KW  - Standards
+KW  - Software engineering
+KW  - ML pipeline reproducibility
+KW  - ML model deployment
+KW  - ML-enabled component
+KW  - ML for healthcare
+KW  - health informatics
+DO  - 10.1109/BIBM62325.2024.10822603
+JO  - 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+IS  - 
+SN  - 2156-1133
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
+Y1  - 3-6 Dec. 2024
+AB  - In recent years, there has been a remarkable increase in the use of machine learning (ML) technologies in healthcare settings. Despite this growth, a significant challenge persists: numerous promising initiatives remain confined to research laboratories, unable to make the critical transition into clinical practice. While the gap between research and production deployment affects ML projects across various sectors, the stringently regulated healthcare environment poses unique and heightened challenges. To address these challenges, MLOps has recently emerged as a specialized discipline that combines engineering best practices with operational excellence. Building upon software engineering foundations and DevOps principles, MLOps introduces a systematic approach to automating ML workflows and managing the complete model lifecycle. This paper introduces a practical and comprehensive MLOps-based framework. This framework is designed to facilitate the transformation of experimental ML models into production-ready healthcare solutions. It provides a structured approach that ensures the seamless integration of ML-powered tools into clinical environments and guarantees their reliability and compliance with medical standards, instilling confidence in their effectiveness. We are currently implementing and evaluating this framework within the "DARE – Digital Lifelong Prevention" project, a national Italian initiative aiming to harness data analytics to enhance preventive healthcare strategies across different life stages.
+ER  - 
+
+TY  - CONF
+TI  - Interplay of Machine Learning and Software Engineering for Quality Estimations
+T2  - 2020 International Conference on Communications, Computing, Cybersecurity, and Informatics (CCCI)
+SP  - 1
+EP  - 6
+AU  - H. Abubakar
+AU  - M. S. Obaidat
+AU  - A. Gupta
+AU  - P. Bhattacharya
+AU  - S. Tanwar
+PY  - 2020
+KW  - Software
+KW  - Maximum likelihood estimation
+KW  - Data models
+KW  - Software algorithms
+KW  - Training
+KW  - Task analysis
+KW  - Mathematical model
+KW  - Machine learning
+KW  - Software Engineering
+KW  - Effort estimation
+KW  - Quality estimation
+DO  - 10.1109/CCCI49893.2020.9256507
+JO  - 2020 International Conference on Communications, Computing, Cybersecurity, and Informatics (CCCI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 International Conference on Communications, Computing, Cybersecurity, and Informatics (CCCI)
+Y1  - 3-5 Nov. 2020
+AB  - In this era, the agile mindset has innovated the traditional software engineering (SE) process through the integration of DevOps flow engines, scrum iterations, and automation of continuous integration (CI) and continuous deployment (CD) cycles. However, the CI/CD integration requires manual code-revisions and refactoring at large scales. Recently, machine-learning (ML) is employed in SE that allows legacy codes to be highly dynamic, less coupling in related modules, automatic code versioning, and refactoring, with less coupling among related modules. However, over time, ML models tend to become bulky, with increasing monotonic losses during model training. To address this, SE techniques like code revisions are employed over ML codes to allow low-order training losses, that enables seamless and precise workflow structures. Motivated from the aforementioned discussions, the paper presents a systematic review of the close interplay of SE and ML and possible interactions in different applications. Suitable research questions and case studies are presented for possible adoption scenarios that depict the close ML-SE interplay share with each other, with the concluding remarks. The paper forms useful insights for ML engineers, data science practitioners, and SE quality estimators towards the building of efficient and scalable software solutions.
+ER  - 
+
+TY  - CONF
+TI  - DeCaf: Diagnosing and Triaging Performance Issues in Large-Scale Cloud Services
+T2  - 2020 IEEE/ACM 42nd International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)
+SP  - 201
+EP  - 210
+AU  - C. Bansal
+AU  - S. Renganathan
+AU  - A. Asudani
+AU  - O. Midy
+AU  - M. Janakiraman
+PY  - 2020
+KW  - Computer bugs
+KW  - Feature extraction
+KW  - Servers
+KW  - Anomaly detection
+KW  - Monitoring
+KW  - Manuals
+KW  - Software
+KW  - performance analysis
+KW  - root causing
+KW  - machine learning
+KW  - issue triaging
+KW  - cloud services
+DO  - 
+JO  - 2020 IEEE/ACM 42nd International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 IEEE/ACM 42nd International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)
+Y1  - 5-11 Oct. 2020
+AB  - Large scale cloud services use Key Performance Indicators (KPIs) for tracking and monitoring performance. They usually have Service Level Objectives (SLOs) baked into the customer agreements which are tied to these KPIs. Dependency failures, code bugs, infrastructure failures, and other problems can cause performance regressions. It is critical to minimize the time and manual effort in diagnosing and triaging such issues to reduce customer impact. Large volume of logs and mixed type of attributes (categorical, continuous) in the logs makes diagnosis of regressions non-trivial.In this paper, we present the design, implementation and experience from building and deploying DeCaf, a system for automated diagnosis and triaging of KPI issues using service logs. It uses machine learning along with pattern mining to help service owners automatically root cause and triage performance issues. We present the learnings and results from case studies on two large scale cloud services in Microsoft where DeCaf successfully diagnosed 10 known and 31 unknown issues. DeCaf also automatically triages the identified issues by leveraging historical data. Our key insights are that for any such diagnosis tool to be effective in practice, it should a) scale to large volumes of service logs and attributes, b) support different types of KPIs and ranking functions, c) be integrated into the DevOps processes.
+ER  - 
+
+TY  - CONF
+TI  - Flexible and Secure Code Deployment in Federated Learning using Large Language Models: Prompt Engineering to Enhance Malicious Code Detection
+T2  - 2023 IEEE International Conference on Cloud Computing Technology and Science (CloudCom)
+SP  - 341
+EP  - 349
+AU  - J. Seo
+AU  - N. Zhang
+AU  - C. Rong
+PY  - 2023
+KW  - Training
+KW  - Privacy
+KW  - Cloud computing
+KW  - Technological innovation
+KW  - Codes
+KW  - Federated learning
+KW  - Memory
+KW  - Software Engineering
+KW  - Federated Learning
+KW  - Large Language Models
+KW  - Security
+DO  - 10.1109/CloudCom59040.2023.00062
+JO  - 2023 IEEE International Conference on Cloud Computing Technology and Science (CloudCom)
+IS  - 
+SN  - 2380-8004
+VO  - 
+VL  - 
+JA  - 2023 IEEE International Conference on Cloud Computing Technology and Science (CloudCom)
+Y1  - 4-6 Dec. 2023
+AB  - Federated Learning is a machine learning methodology that emphasizes data privacy, involving minimal interaction with each other’s systems, primarily exchanging model parameters. However, this approach can introduce challenges in system development and operation because it inherently faces statistical and system heterogeneity issues. The diverse data storage formats and system environments across clients limit the feasibility of training with a uniform code. To distribute a new code to each environment, active participation of Federated Learning collaborators is necessary, incurring time and cost. Moreover, it impedes adopting modern automated development and deployment paradigms such as DevOps or MLOps. This study investigates how Large Language Models (LLMs) can automatically tailor a single code to individual client environments in heterogeneous scenarios without human intervention. Moreover, to enable the automatic adaptation of the deployed code for conducting new experiments within the system, it is imperative to assess the presence of potentially malicious code that could jeopardize data security. To address this challenge, we introduce a novel prompt engineering technique to enhance LLMs’ detection capabilities, thereby bolstering our ability to detect malicious code effectively.
+ER  - 
+
+TY  - CONF
+TI  - Understand Your Chains and Keep Your Deadlines: Introducing Time-constrained Profiling for NFV
+T2  - 2018 14th International Conference on Network and Service Management (CNSM)
+SP  - 240
+EP  - 246
+AU  - M. Peuster
+AU  - H. Karl
+PY  - 2018
+KW  - Measurement
+KW  - Network function virtualization
+KW  - Prototypes
+KW  - Decision trees
+KW  - Testing
+KW  - Micromechanical devices
+KW  - Electronics packaging
+DO  - 
+JO  - 2018 14th International Conference on Network and Service Management (CNSM)
+IS  - 
+SN  - 2165-963X
+VO  - 
+VL  - 
+JA  - 2018 14th International Conference on Network and Service Management (CNSM)
+Y1  - 5-9 Nov. 2018
+AB  - Fully-automated resource dimensioning is one of the key requirements for agile, DevOps-enabled network function virtualization (NFV) scenarios in which new service versions are continuously delivered and deployed to production. To enable and support these dimensioning processes, a priori knowledge about the performance behavior of the deployed service function chains (SFC) is collected using profiling solutions that automatically generate so-called SFC performance profiles. A challenge in those profiling processes is the huge configuration space of typical SFCs that need to be explored to collect enough information to accurately describe the performance behavior of the profiled SFC. In this paper, we introduce the concept of time-constrained profiling (T-CP) which profiles only a small subset of all possible SFC configurations and uses machine learning techniques to predict performance values for the remaining configurations to generate a full SFC performance profile within a given time limit. Using our novel, open-source T-CP prototype, we analyze the accuracy of the generated profiles using different selection algorithms to find good configuration subsets. We base parts of this analysis on real-world SFC performance measurements, which we make publicly available as open dataset.
+ER  - 
+
+TY  - JOUR
+TI  - CARL: Cost-Optimized Online Container Placement on VMs Using Adversarial Reinforcement Learning
+T2  - IEEE Transactions on Cloud Computing
+SP  - 321
+EP  - 335
+AU  - P. S. Vinayak
+AU  - S. S. Mallick
+AU  - L. Jagarlamudi
+AU  - A. Chakraborty
+AU  - Y. Simmhan
+PY  - 2025
+KW  - Containers
+KW  - Costs
+KW  - Cloud computing
+KW  - Virtual machines
+KW  - Vectors
+KW  - Real-time systems
+KW  - Training
+KW  - Reinforcement learning
+KW  - Processor scheduling
+KW  - Optimization
+KW  - Adversarial reinforcement learning
+KW  - cloud scheduling
+KW  - container placement
+KW  - ML for systems
+KW  - resource optimization
+DO  - 10.1109/TCC.2025.3528446
+JO  - IEEE Transactions on Cloud Computing
+IS  - 1
+SN  - 2168-7161
+VO  - 13
+VL  - 13
+JA  - IEEE Transactions on Cloud Computing
+Y1  - Jan.-March 2025
+AB  - Containerization has become popular for the deployment of applications on public clouds. Large enterprises may host 100 s of applications on 1000 s containers that are placed onto Virtual Machines (VMs). Such placement decisions happen continuously as applications are updated by DevOps pipelines that deploy the containers. Managing the placement of container resource requests onto the available capacities of VMs needs to be cost-efficient. This is well-studied, and usually modelled as a multi-dimensional Vector Bin-packing Problem (VBP). Many heuristics, and recently machine learning approaches, have been developed to solve this NP-hard problem for real-time decisions. We propose CARL, a novel approach to solve VBP through Adversarial Reinforcement Learning (RL) for cost minimization. It mimics the placement behavior of an offline semi-optimal VBP solver (teacher), while automatically learning a reward function for reducing the VM costs which out-performs the teacher. It requires limited historical container workload traces to train, and is resilient to changes in the workload distribution during inferencing. We extensively evaluate CARL on workloads derived from realistic traces from Google and Alibaba for the placement of 5 k–10 k container requests onto 2 k–8 k VMs, and compare it with classic heuristics and state-of-the-art RL methods. (1) CARL is fast, e.g., making placement decisions at $\approx 1900$≈1900 requests/sec onto 8,900 candidate VMs. (2) It is efficient, achieving $\approx 16\%$≈16% lower VM costs than classic and contemporary RL methods. (3) It is robust to changes in the workload, offering competitive results even when the resource needs or inter-arrival time of the container requests skew from the training workload.
+ER  - 
+
+TY  - CONF
+TI  - SE-DO: Navigating the 6G Frontier with Scalable and Efficient DevOps for Intelligent Agents Optimization
+T2  - 2024 IEEE 14th Annual Computing and Communication Workshop and Conference (CCWC)
+SP  - 0269
+EP  - 0277
+AU  - P. M. Tshakwanda
+AU  - H. Kumar
+AU  - S. T. Arzo
+AU  - M. Devetsikiotis
+PY  - 2024
+KW  - 6G mobile communication
+KW  - DevOps
+KW  - Computer architecture
+KW  - Internet of Things
+KW  - Intelligent agents
+KW  - Optimization
+KW  - Multi-agent systems
+KW  - Software-Defined Networking
+KW  - Microservices
+KW  - Intelligent Agent
+KW  - Docker Container
+KW  - DevOps
+KW  - 5G
+KW  - 6G
+DO  - 10.1109/CCWC60891.2024.10427717
+JO  - 2024 IEEE 14th Annual Computing and Communication Workshop and Conference (CCWC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE 14th Annual Computing and Communication Workshop and Conference (CCWC)
+Y1  - 8-10 Jan. 2024
+AB  - In the imminent era of 6G dominance and the expanding realm of interconnected IoT devices, ensuring seamless connectivity is vital. This paper introduces the Scalable and Efficient DevOps (SE-DO) methodology—a scalable multi-agent system designed for next-gen networks. SE-DO’s avant-garde architecture dynamically integrates new agents, mirroring evolving IoT ecosystems. Two sets of agents manage vast IoT data in urban matrices: extraction agents collect, and preprocessing agents refine for computational tasks. Anticipating 6G’s prowess, training agents optimize machine learning models for real-time traffic analytics. Augmented by predictor agents, SE-DO prioritizes accuracy, efficiency, and security, validated empirically. SE-DO’s adaptability ensures scalable proficiency amid IoT integrations, facilitating a smooth transition to the 6G era. Addressing IoT challenges, SE-DO, rooted in a robust multi-agent system, optimizes agent performance in resource-constrained environments. Real-world experiments highlight SE-DO’s high accuracy and efficiency, making it pivotal for future network optimization. Access SE-DO’s future on GitHub—where innovation meets accessibility. As next-gen networks demand reliable solutions, SE-DO emerges as an indispensable tool for navigating emergent network paradigms.
+ER  - 
+
+TY  - CONF
+TI  - Integrating Industry Seminars within a Software Engineering Module to Enhance Student Motivation
+T2  - 2020 43rd International Convention on Information, Communication and Electronic Technology (MIPRO)
+SP  - 1497
+EP  - 1502
+AU  - G. J. Collins
+PY  - 2020
+KW  - Industries
+KW  - Seminars
+KW  - Engineering profession
+KW  - Collaboration
+KW  - Organizations
+KW  - Planning
+KW  - Software engineering
+KW  - engineering education
+KW  - professional networking
+KW  - industry seminars
+KW  - motivation
+DO  - 10.23919/MIPRO48935.2020.9245232
+JO  - 2020 43rd International Convention on Information, Communication and Electronic Technology (MIPRO)
+IS  - 
+SN  - 2623-8764
+VO  - 
+VL  - 
+JA  - 2020 43rd International Convention on Information, Communication and Electronic Technology (MIPRO)
+Y1  - 28 Sept.-2 Oct. 2020
+AB  - Engineering students increasingly demand and require coverage of emerging technologies to prepare themselves for subsequent research and employment. Industry and professional bodies are also concerned that engineering education doesn't always prepare students adequately for the world of work. The software engineering postgraduate professional practice module at University College London is designed to provide real-world experience, before students commence their industry research projects. Industry speakers are invited from a range of organizations, including ThoughtWorks, IBM, Form3, Verne Global, and Fujitsu. Seminars include: DevOps, microservices, cloud-native architectures, machine learning and quantum technologies. Before each topic is covered, students are asked their understanding of the subject matter, via questionnaires. This information is shared with industry speakers to ensure the content of presentations is compatible with students' prior knowledge. It has proved valuable to allow time for discussions to facilitate professional networking, which particularly benefits female students. Students have indicated they highly value the real-world project examples delivered by industry experts. This suggests that integrating industry seminars can enhance engineering education and motivate students by covering leading-edge technologies and practices. However, this requires considerable time in coordinating and codeveloping seminars, and such initiatives need to be adequately resourced to be effective.
+ER  - 
+
+TY  - CONF
+TI  - Efficient Auto Scaling of Pods in Kubernetes: Accelerating Continuous Delivery with KEPTN
+T2  - 2024 5th International Conference on Electronics and Sustainable Communication Systems (ICESC)
+SP  - 1350
+EP  - 1355
+AU  - P. Sivaraman
+AU  - G. Prabaharan
+AU  - V. Rajasekar
+AU  - V. Sarveshwaran
+PY  - 2024
+KW  - Scalability
+KW  - Pipelines
+KW  - Documentation
+KW  - Tutorials
+KW  - Production
+KW  - Continuous integration
+KW  - Software
+KW  - Security
+KW  - Reliability
+KW  - Protection
+KW  - Kubernetes
+KW  - continuous integration
+KW  - continuous delivery
+KW  - Keptn
+KW  - Azure
+DO  - 10.1109/ICESC60852.2024.10689854
+JO  - 2024 5th International Conference on Electronics and Sustainable Communication Systems (ICESC)
+IS  - 
+SN  - 2996-5357
+VO  - 
+VL  - 
+JA  - 2024 5th International Conference on Electronics and Sustainable Communication Systems (ICESC)
+Y1  - 7-9 Aug. 2024
+AB  - Model deployment in machine learning has become recognised as an emerging field of research in recent years. It can be viewed as a method similar to conventional software development. Organisations can move more quickly and smoothly when development and operations (DevOps) practises like Continuous Integration and Continuous Delivery (CI/CD) are used. Various software development approaches are available for enterprise applications. Micro-services architecture has become very popular among these accessible software development approaches. Enterprise applications, which are frequently sophisticated and require out-of-the-box scalability and low latency, integrate well with the micro-service design. For enterprise applications, microservices in a containerized cloud environment are particularly helpful. It is also extremely important from a software development standpoint in the software business to find and fix errors early on in the development process rather than once they have reached the level of the production environment. Kubernetes is a creative and well-integrated platform solution for running and controlling containerized applications gracefully and effectively. Developers can easily build and maintain clusters with the managed Kubernetes service known as AKS. It makes containerized application deployment and management possible. AKS offers serverless Kubernetes, a continuous integration and delivery experience that is integrated, as well as enterprise-level security and governance. Users of Microsoft Azure will find that AKS offers several appealing features that make it simple to set up, administer, scale, and monitor an AKS cluster.
+ER  - 
+
+TY  - CONF
+TI  - The Cloud-Native Revolution: Microservices in a Cloud-Driven World
+T2  - 2024 International Conference on Intelligent Cybernetics Technology & Applications (ICICyTA)
+SP  - 1043
+EP  - 1048
+AU  - B. M. Harve
+AU  - D. M. Bidkar
+AU  - M. S. Krishnappa
+AU  - G. Pandy
+AU  - V. Jayaram
+AU  - P. K. Veerapaneni
+AU  - G. Mehta
+PY  - 2024
+KW  - Cloud computing
+KW  - Scalability
+KW  - Microservice architectures
+KW  - Serverless computing
+KW  - Computer architecture
+KW  - Organizations
+KW  - Market research
+KW  - Observability
+KW  - Monitoring
+KW  - Resilience
+KW  - cloud-native applications
+KW  - kubernetes
+KW  - containerization
+KW  - continuous integration
+KW  - continuous delivery
+DO  - 10.1109/ICICYTA64807.2024.10913359
+JO  - 2024 International Conference on Intelligent Cybernetics Technology & Applications (ICICyTA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Intelligent Cybernetics Technology & Applications (ICICyTA)
+Y1  - 17-19 Dec. 2024
+AB  - The rapid evolution of cloud computing has driven a shift from traditional monolithic architectures to cloud native applications that emphasize scalability, resilience, and flexibility. At the core of this transformation is the microservices architecture, which divides applications into smaller, loosely coupled services, each capable of independent deployment and scaling. This paper presents a comprehensive analysis of cloud-native applications powered by microservices, focusing on the architectural principles and technical enablers-such as containerization, service orchestration, and DevOps practices-that support this approach. Microservices provide key benefits, including enhanced scalability, faster deployment cycles, and resilience through service isolation. However, adopting a microservices architecture also introduces challenges. Increased complexity, security vulnerabilities, and the need for effective monitoring and observability require robust management solutions. This paper examines how industry leaders leverage microservices to enhance performance and agility within cloud-native environments, illustrated through case studies and benchmarking analyses. This research also explore emerging trends, including serverless computing, edge deployments, and the integration of AI and machine learning for automated service management, indicating future directions for cloud native architecture. By providing insights into the fundamentals, advantages, and obstacles of cloud-native microservices, this study serves as a valuable resource for researchers and practitioners. It highlights the strategic considerations essential for successful microservices adoption, offering a pathway for those seeking to design and manage resilient, scalable cloud-native applications.
+ER  - 
+
+TY  - CONF
+TI  - A Hierarchical Categorization Approach for System Operation Services
+T2  - 2017 IEEE International Conference on Web Services (ICWS)
+SP  - 700
+EP  - 707
+AU  - W. Chen
+AU  - P. Xu
+AU  - G. Wu
+AU  - W. Dou
+AU  - C. Gao
+AU  - J. Wei
+PY  - 2017
+KW  - Databases
+KW  - Metadata
+KW  - Crawlers
+KW  - Semantics
+KW  - Servers
+KW  - Data mining
+KW  - Generators
+DO  - 10.1109/ICWS.2017.84
+JO  - 2017 IEEE International Conference on Web Services (ICWS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 IEEE International Conference on Web Services (ICWS)
+Y1  - 25-30 June 2017
+AB  - Operation services are reusable and shareable units of configuration code executed by configuration management tools (CMTs), achieving continuous deployment and continuous delivery. With the prevalence of DevOps (Development and Operations), thousands of operation services have been developed for various software systems, and they are publicly available through the online repositories of popular CMTs. However, locating and retrieving desired operation services is challenging since keyword-and tag-based search provided by a repository is with low precision. In this paper, we implement a hierarchical categorization approach based search service, named OSFinder, which searches and locates desired operation services more accurately. OSFinder first constructs a category hierarchy for operation services across multiple repositories, and then it classifies over 13,000 operation services into 90 categories based on machine learning technique, finally it provides a search for users. With OSFinder, a user can narrow down his search scope by tracking the category hierarchy in a top-down way, and then searches in a small group with keywords. The evaluation shows that OSFinder outperforms keyword-and tag-based search.
+ER  - 
+
+TY  - CONF
+TI  - Towards Identifying Code Proficiency Through the Analysis of Python Textbooks
+T2  - 2024 IEEE International Conference on Software Maintenance and Evolution (ICSME)
+SP  - 288
+EP  - 299
+AU  - R. Rojpaisarnkit
+AU  - G. Robles
+AU  - R. G. Kula
+AU  - D. Wang
+AU  - C. Ragkhitwetsagul
+AU  - J. M. Gonzalez-Barahona
+AU  - K. Matsumoto
+PY  - 2024
+KW  - Surveys
+KW  - Software maintenance
+KW  - Codes
+KW  - Systematics
+KW  - Reviews
+KW  - Source coding
+KW  - Natural languages
+KW  - Programming
+KW  - Maintenance
+KW  - Python
+KW  - Code Proficiency
+KW  - Software Maintenance
+DO  - 10.1109/ICSME58944.2024.00035
+JO  - 2024 IEEE International Conference on Software Maintenance and Evolution (ICSME)
+IS  - 
+SN  - 2576-3148
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conference on Software Maintenance and Evolution (ICSME)
+Y1  - 6-11 Oct. 2024
+AB  - Python, one of the most prevalent programming languages today, is widely utilized in various domains, including web development, data science, machine learning, and DevOps. Recent scholarly efforts have proposed a methodology to assess Python competence levels, similar to how proficiency in natural languages is evaluated. This method involves assigning levels of competence to Python constructs—for instance, placing simple ‘print’ statements at the most basic level and abstract base classes at the most advanced. The aim is to gauge the level of proficiency a developer must have to understand a piece of source code. This is particularly crucial for software maintenance and evolution tasks, such as debugging or adding new features. For example, in a code review process, this method could determine the competence level required for reviewers. However, categorizing Python constructs by proficiency levels poses significant challenges. Prior attempts, which relied heavily on expert opinions and developer surveys, have led to considerable discrepancies. In response, this paper presents a new approach to identifying Python competency levels through the systematic analysis of introductory Python programming textbooks. By comparing the sequence in which Python constructs are introduced in these textbooks with the current state of the art, we have uncovered notable discrepancies in the order of introduction of Python constructs. Our study underscores a misalignment in the sequences, demonstrating that pinpointing proficiency levels is not trivial. Insights from the study serve as pivotal steps toward reinforcing the idea that textbooks serve as a valuable source for evaluating developers' proficiency, and particularly in terms of their ability to undertake maintenance and evolution tasks.
+ER  - 
+
+TY  - CONF
+TI  - MicroMatic: Fully Automated Microservices Identification Approach from Monolithic Systems
+T2  - 2024 IEEE/ACM 6th International Workshop on Software Engineering Research & Practices for the IoT (SERP4IoT)
+SP  - 7
+EP  - 13
+AU  - I. Trabelsi
+AU  - B. Popa
+AU  - J. Péreyrol
+AU  - P. -O. Beaulieu
+AU  - N. Moha
+PY  - 2024
+KW  - Training
+KW  - Software architecture
+KW  - Source coding
+KW  - Semantics
+KW  - Microservice architectures
+KW  - Systems architecture
+KW  - Computer architecture
+KW  - Migration
+KW  - Microservices
+KW  - Service Types
+KW  - Machine learning
+KW  - Semantic Analysis
+KW  - Automation
+KW  - Tool
+DO  - 10.1145/3643794.3648283
+JO  - 2024 IEEE/ACM 6th International Workshop on Software Engineering Research & Practices for the IoT (SERP4IoT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE/ACM 6th International Workshop on Software Engineering Research & Practices for the IoT (SERP4IoT)
+Y1  - 20-20 April 2024
+AB  - The Internet of Things (IoT) revolution is transforming system interactions and functionalities, necessitating more adaptable, scalable, and responsive systems architectures. These IoT systems build on recent advances in software architectures, particularly Microservices Architecture (MSA), enabling scalability, facilitating cloud deployment, and supporting seamless integration with DevOps practices. While new IoT applications can seamlessly integrate Microservices Architecture from their design, the migration of existing mono-lithic IoT systems to MSA is essential to leverage its benefits yet it remains a challenging and costly process. To facilitate this migration, we propose Micromatic, a tooled fully automated microser-vices identification approach that is based on static-relationship analyses between code elements as well as semantic analyses of the source code. Our approach relies on Machine Learning (ML) techniques and uses service types to guide the identification of microservices from IoT monolithic systems. We validate the effectiveness of our tool through a detailed case study, comparing our results with established ground truths. This process included a quantitative evaluation of the microservices generated, focusing on their business capabilities. Our findings demonstrate the efficiency of Micromatic in automating one of the most labour-intensive aspects of migrating legacy systems to a microservices framework, successfully identifying architecturally significant microservices with 62.5% precision and 45.5% recall.
+ER  - 
+
+TY  - CONF
+TI  - Next-Generation Bug Reporting: Enhancing Development with AI Automation
+T2  - 2025 10th International Conference on Signal Processing and Communication (ICSC)
+SP  - 487
+EP  - 493
+AU  - A. Patil
+AU  - A. Jadon
+PY  - 2025
+KW  - Software testing
+KW  - Automation
+KW  - Accuracy
+KW  - Large language models
+KW  - Computer bugs
+KW  - Machine learning
+KW  - Software
+KW  - Next generation networking
+KW  - Standards
+KW  - Software development management
+KW  - Automated Bug Reporting
+KW  - Bug Creation
+KW  - Data Collection
+KW  - Duplicate Detection
+KW  - Failure Detection
+KW  - Large Language Models
+KW  - Machine Learning
+KW  - Report Formatting
+KW  - Severity Assessment
+KW  - Quality Metrics
+DO  - 10.1109/ICSC64553.2025.10968932
+JO  - 2025 10th International Conference on Signal Processing and Communication (ICSC)
+IS  - 
+SN  - 2643-444X
+VO  - 
+VL  - 
+JA  - 2025 10th International Conference on Signal Processing and Communication (ICSC)
+Y1  - 20-22 Feb. 2025
+AB  - In today's Agile and DevOps-driven software development landscape, rapid and accurate bug reporting is critical. This paper presents a next-generation automation tool powered by large language models and machine learning, innovating the bug reporting process. The tool automates various phases of bug reporting, such as failure detection, severity assessment, duplicate detection, and report generation. By addressing the limitations of manual bug reporting such as inconsistency, scalability challenges, and time inefficiencies, the proposed solution enhances the software testing workflow. Initial findings demonstrate significant time savings, reduced manual errors, and improved collaboration between testers and developers. This work establishes a foundation for fully automated bug reporting, poised to accelerate software development cycles and maintain high-quality standards.
+ER  - 
+
+TY  - CONF
+TI  - Leveraging Continuous Integration and Deployment to Operationalize a Fine-Tuned LLaMA Healthcare Chatbot
+T2  - 2025 2nd International Conference on New Frontiers in Communication, Automation, Management and Security (ICCAMS)
+SP  - 1
+EP  - 6
+AU  - P. More
+AU  - N. Kothawade
+AU  - A. More
+PY  - 2025
+KW  - DevOps
+KW  - Automation
+KW  - Source coding
+KW  - Scalability
+KW  - Pipelines
+KW  - Medical services
+KW  - Security
+KW  - Monitoring
+KW  - Testing
+KW  - Biomedical imaging
+KW  - CI/CD Pipeline
+KW  - DevOps
+KW  - Docker Containerization
+KW  - Jenkins Automation
+KW  - Kubernetes Orchestration
+KW  - Large Language Models (LLMs)
+DO  - 10.1109/ICCAMS65118.2025.11233960
+JO  - 2025 2nd International Conference on New Frontiers in Communication, Automation, Management and Security (ICCAMS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 2nd International Conference on New Frontiers in Communication, Automation, Management and Security (ICCAMS)
+Y1  - 11-12 July 2025
+AB  - The study demonstrates the application of Llama 3.1 paradigm and Groq API to build a full CI/CD pipeline that deploys Flask-based applications. A CI/CD orchestration function belongs to Jenkins, while Docker performs containerization and DockerHub registers images and Kubernetes deploys applications, and GitHub manages source code. The fully automated solution allows minimal human involvement, which enables complete automation of machine learning application testing and development, and deployment thus shortening the time to release and reducing errors. This implementation demonstrates the effectiveness of contemporary DevOps practices when delivering big language models. The research examines LLM-based service containerization challenges alongside the advantages of AI application automated deployment before presenting planned enhancements in monitoring frameworks, together with multi-environment deployment methods.
+ER  - 
+
+TY  - CONF
+TI  - Rule-Based AI for Resume–Job Matching in Recruitment Systems
+T2  - 2025 6th International Conference on Computers and Artificial Intelligence Technology (CAIT)
+SP  - 95
+EP  - 103
+AU  - V. -V. Anghel
+AU  - T. Borangiu
+AU  - C. Negulescu
+PY  - 2025
+KW  - Machine learning algorithms
+KW  - Computational modeling
+KW  - Scalability
+KW  - Semantics
+KW  - Resumes
+KW  - Named entity recognition
+KW  - Manuals
+KW  - Machine learning
+KW  - Software
+KW  - Recruitment
+KW  - Kubernetes
+KW  - Natural Language Processing (NLP)
+KW  - Named Entity Recognition (NER)
+KW  - Automated Recruitment
+KW  - AI Model Fine-Tuning
+DO  - 10.1109/CAIT68620.2025.11424884
+JO  - 2025 6th International Conference on Computers and Artificial Intelligence Technology (CAIT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 6th International Conference on Computers and Artificial Intelligence Technology (CAIT)
+Y1  - 12-14 Dec. 2025
+AB  - This paper presents the design of a service system with modular architecture that automates and optimizes critical stages of the recruitment process in the software domain. The proposed solution is based on a hybrid approach structured in two complementary stages. The first stage performs the automatic classification of candidate CVs into eight of the most in-demand IT roles (Data Scientist, Machine Learning Engineer, DevOps Engineer, Backend/Frontend Developer, QA Engineer, Project Manager and Cloud Architect) using the XGBoost algorithm and leveraging the contribution of each element from semantic features (education, soft skills, programming languages, certifications, foreign languages and professional experience) in the final matching score. The second stage introduces a novel interpretability and manual adjustment mechanism, enabling recruiters to redefine the relative importance of different skill categories from the semantic features defined above, so that scores generated by the model align more closely with the company’s specific requirements at a given time. The service system, currently under development, operates in a containerized environment and is orchestrated through Kubernetes technology to ensure scalability and component isolation.
+ER  - 
+
+TY  - CONF
+TI  - MAGNET: An optimized DevOps framework for efficient software integration and orchestration in the IoT-Edge-Cloud Continuum
+T2  - 2025 6th International Conference in Electronic Engineering & Information Technology (EEITE)
+SP  - 1
+EP  - 6
+AU  - E. Agorogiannis
+AU  - K. Petrakis
+AU  - G. Antonopoulos
+AU  - T. Anagnostopoulos
+AU  - N. Grigoropoulos
+AU  - Z. Benomar
+PY  - 2025
+KW  - DevOps
+KW  - Smart cities
+KW  - Scalability
+KW  - Ecosystems
+KW  - Software
+KW  - Complexity theory
+KW  - Security
+KW  - Edge computing
+KW  - Testing
+KW  - Smart manufacturing
+KW  - CI/CD
+KW  - DevOps
+KW  - IoT-edge-cloud continuum
+KW  - service orchestration
+KW  - cognitive connectivity
+KW  - fog computing
+KW  - edge computing
+KW  - IoT
+DO  - 10.1109/EEITE65381.2025.11166038
+JO  - 2025 6th International Conference in Electronic Engineering & Information Technology (EEITE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 6th International Conference in Electronic Engineering & Information Technology (EEITE)
+Y1  - 4-6 June 2025
+AB  - This paper introduces MAGNET, a DevOps framework comprising Continuous Integration/Continuous Deployment practices, alongside flexible development and integration infrastructures, as applied in COGNIFOG, an innovative computing ecosystem currently under development that uses decentralized decision making, machine learning, and distributed computing to enhance autonomy, adaptability, and scalability within the IoT-edge-cloud continuum. The proposed approach ensures efficient, reliable, and seamless framework integration, offering key insights into integration architecture, data flow management, and the adoption of advanced technologies. This work demonstrates the efficiency and adaptability of the COGNIFOG ecosystem through three real-world trials in smart cities, e-health, and smart manufacturing, along with the creation of a comprehensive QuickStart Guide for deployment, offering a robust solution for the complexities of next-generation computing environments.
+ER  - 
+
+TY  - CONF
+TI  - DevOps for AI: Challenges and Opportunities in Integrating Machine Learning Models into Continuous Deployment Pipelines
+T2  - 2025 7th International Symposium on Advanced Electrical and Communication Technologies (ISAECT)
+SP  - 1
+EP  - 6
+AU  - K. R. Ahmed
+AU  - M. Shiful Islam
+AU  - M. T. Khan
+AU  - M. Sohana Mehbuba
+AU  - B. D. Apu
+AU  - M. Mazharul Islam Noyeem
+AU  - S. K. Goyal
+PY  - 2025
+KW  - Surveys
+KW  - Training
+KW  - DevOps
+KW  - Automation
+KW  - Systematics
+KW  - Scalability
+KW  - Surveillance
+KW  - Pipelines
+KW  - Taxonomy
+KW  - Data models
+KW  - DevOps
+KW  - MLOps
+KW  - Artificial Intelligence (AI)
+KW  - Continuous Integration/Continuous Delivery (CI/CD) pipelines
+KW  - Machine Learning
+KW  - AI-Driven CI/CD
+KW  - Challenges
+DO  - 10.1109/ISAECT68904.2025.11318824
+JO  - 2025 7th International Symposium on Advanced Electrical and Communication Technologies (ISAECT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 7th International Symposium on Advanced Electrical and Communication Technologies (ISAECT)
+Y1  - 18-20 Dec. 2025
+AB  - The growing reliance of contemporary applications on machine learning (ML) has revolved CI/CD pipelines into MLOps, or DevOps with the force of AI. As ML models are incorporated into production pipelines, scalability, reliability, and compliance become increasingly important. Adding ML into CI/CD introduces new problems, such as complex data governance, expensive retraining, probabilistic validation, and persistent surveillance to detect drift and ensure fairness. This survey thoroughly examines emerging models, research, and tools throughout the ML development pipeline—from data pipelines to model construction, deployment, tracking, and security. Along with demonstrating exciting developments in automation, containerization, and DevSecOps practice, our analysis also identifies ongoing scalability, explainability, and interoperability limitations. By projecting contributions onto life-cycle phases and closing typical gaps, we introduce a systematic taxonomy and comparative overview that highlights the research landscape. Finally, this overview provides both a snapshot of existing solutions and a glimpse of an agenda for advancing engineering of adaptive, explainable, and reliable MLOps pipelines for the research and practitioner community.
+ER  - 
+
+TY  - CONF
+TI  - The Future of Infrastructure Automation: How Cloud Computing is Driving Innovation
+T2  - 2025 International Conference on Networks and Cryptology (NETCRYPT)
+SP  - 1013
+EP  - 1018
+AU  - T. Agarwal
+AU  - A. Katyal
+AU  - S. Mishra
+AU  - A. Katyal
+AU  - M. S. Reddy
+AU  - R. Sethuraman
+PY  - 2025
+KW  - Cloud computing
+KW  - Technological innovation
+KW  - Automation
+KW  - Codes
+KW  - Costs
+KW  - System performance
+KW  - Organizations
+KW  - Transforms
+KW  - Software
+KW  - Software reliability
+KW  - Automation
+KW  - Infrastructure
+KW  - Human
+KW  - Predictive Performance
+DO  - 10.1109/NETCRYPT65877.2025.11102230
+JO  - 2025 International Conference on Networks and Cryptology (NETCRYPT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Networks and Cryptology (NETCRYPT)
+Y1  - 29-31 May 2025
+AB  - Infrastructure automation entails automating physical and virtual infrastructure management and operation through software. This encompasses software deployment, confer management, and monitoring. The Future of Infrastructure Automation with Cloud Computing: Introduction Cloud computing is changing how we do business. Cloud computing has many benefits, the most striking being flexible and scalable infrastructure. Organizations can automatically allocate or deal locates compute resources as required without manual interference. This allows automation tools to automate routine tasks as well as operations. Infrastructure management has changed with the arrival of Infrastructure as Code; treats infrastructure configuration as code, it enables this infrastructure as code, which allows for more reliable and consistent deployment and configuration of your infrastructure with less room for human error. DevOps practices have facilitated the automation of several practices from the software development cycle to achieve continuous delivery. As part of its continued evolution, AI and machine learning are increasingly integrated into infrastructure automation tools, giving rise to predictive maintenance and self-healing capabilities. In turn, this minimizes downtime and enhances system performance.
+ER  - 
+
+TY  - CONF
+TI  - A Predictive AI Model for Cyber-Risk Scoring in Agile and DevOps Release Management Pipelines
+T2  - 2026 4th International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)
+SP  - 1669
+EP  - 1676
+AU  - B. P. Chandran
+PY  - 2026
+KW  - Modeling
+KW  - Security
+KW  - Timing
+KW  - Artificial intelligence
+KW  - Codes
+KW  - Pipelines
+KW  - DevOps
+KW  - Printing
+KW  - Tools
+KW  - Machine learning
+KW  - Cyber-risk scoring
+KW  - DevSecOps
+KW  - CI/CD security
+KW  - Ensemble machine learning
+KW  - Predictive cybersecurity
+DO  - 10.1109/ICSSAS68835.2026.11559391
+JO  - 2026 4th International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 4th International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)
+Y1  - 28-30 May 2026
+AB  - Organizations that employ Agile and DevOps methodologies are experiencing increasing pertinent entrepreneurial cybersecurity threats and risks and challenges. Rapid-release cycles have been reported to have an incident rate of 68 % among enterprises. This dissertation describes an initial, pathbreaking, predictive, 'Realtime Cyber Risk Score' AI model that assesses real-time cyber risks in CI/CD pipelines. This model applies machine learning (Random Forest, XGBoost, and Neural Networks) and static and dynamic code analysis, dependency vulnerability scanning, and behavioral analysis of 2,847 deployments from 12 company environments over 18 months. This model predicts, with 94.7 % (4.2 % false positive) risk accuracy, 89.7 % critical vulnerability precision, and 89.7 % accurate detection of high risks, 89.7 % high risk deployments' production (pre-releases) and general production (pre-releases) crisis deployments. It also led to a 73% reduction (8.4 to 2.3 days) of mean time to vulnerability detection, as well as 156 prevented (through emergency patch implementations) Breach incidents in production testing Application test environments. The 47 risk parameters included for score assessments (complexity and developer behavior metrics) are: Social isolation, configuration drift, third-party dependency trust, and behavioral score of isolation. This significantly leads to an improvement of 31 % over the mean $(28 \%$ reduction of production rollbacks of CI/CD pipelines). The adaptability of the model provides the ability to learn from experience while maintaining 91.8% across several different technology stacks such as Python, Java, Node.js, and. NET. These results provide further confirmation that within a developing environment, the predictive security driven from an AI model can provide maintaining robust security as a developing environment, and can provide organizations with the ability to maintain a balance of speed with risk.
+ER  - 
+
+TY  - CONF
+TI  - Enhancing Software Deployment Pipelines with the Application of ML Techniques
+T2  - 2025 2nd International Conference on New Frontiers in Communication, Automation, Management and Security (ICCAMS)
+SP  - 1
+EP  - 5
+AU  - S. Sanghi
+AU  - S. K. Shreeshapuranik
+AU  - N. Kyung Kim
+AU  - D. Ramachandran
+AU  - S. Sachi
+AU  - N. Singh
+PY  - 2025
+KW  - Support vector machines
+KW  - DevOps
+KW  - Pipelines
+KW  - Machine learning
+KW  - Continuous integration
+KW  - Software
+KW  - Software reliability
+KW  - Resource management
+KW  - Testing
+KW  - Software engineering
+KW  - Software Development
+KW  - Machine Learning
+KW  - Resource Allocation
+KW  - CD Pipeline
+KW  - DevOps
+DO  - 10.1109/ICCAMS65118.2025.11234027
+JO  - 2025 2nd International Conference on New Frontiers in Communication, Automation, Management and Security (ICCAMS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 2nd International Conference on New Frontiers in Communication, Automation, Management and Security (ICCAMS)
+Y1  - 11-12 July 2025
+AB  - Continuous integration and deployment (CI/CD) pipelines, which are infamous for their slowness, frequent failures, and protracted build times, are a crucial part of the modern software development process. This study introduces a framework that uses machine learning (ML) to predictably boost pipeline performance. A Support Vector Machine technique for pipeline failure prediction will be developed as part of this effort. The method will also optimize resource allocation to decrease build times and provide dynamic framework for continuous development of CI/CD pipelines. This study assumes a comprehensive review of the literature and introduces a new approach based on the support vector machine (SVM) technology. The results demonstrate that the framework optimizes memory utilization and CPU, reduces build time by 33% and declines test success and failure rates by 60%. It also dramatically lowers resource consumption. The results showed that current DevOps approaches are able to tackle long-standing issues with CI/CD since they are intelligently scalable. This study laid the framework for future work in software engineering workflows including adaptive systems by introducing the idea of ML to the CI/CD process with the goal of improving pipeline efficacy and reliability.
+ER  - 
+
+TY  - CONF
+TI  - Evaluating the Impact of Reserved Instances vs. Spot Instances in DevOps Cloud Workflows
+T2  - 2025 35th Irish Signals and Systems Conference (ISSC)
+SP  - 1
+EP  - 7
+AU  - D. G. Anamanahalli Ramesh
+AU  - R. G. Lennon
+PY  - 2025
+KW  - Procurement
+KW  - Fault tolerance
+KW  - DevOps
+KW  - Costs
+KW  - Fault tolerant systems
+KW  - Production
+KW  - Machine learning
+KW  - Resource management
+KW  - Optimization
+KW  - Testing
+KW  - cloud resource optimization
+KW  - DevOps workflows
+KW  - Reserved Instances
+KW  - Spot Instances
+KW  - cost-reliability trade-off
+KW  - AWS
+KW  - hybrid allocation
+KW  - fault tolerance
+DO  - 10.1109/ISSC67739.2025.11291505
+JO  - 2025 35th Irish Signals and Systems Conference (ISSC)
+IS  - 
+SN  - 2688-1454
+VO  - 
+VL  - 
+JA  - 2025 35th Irish Signals and Systems Conference (ISSC)
+Y1  - 9-10 June 2025
+AB  - The optimization of cloud resources stands essential for DevOps workflows, yet companies face difficulties when maintaining reliability at affordable costs. The research explores AWS environments to analyze the implementation of Reserved Instances together with Spot Instances when addressing cost-reliability trade-offs. A combination of Reserved Instances with Spot Instances which provides stable production workload coverage and fault-tolerant capabilities produces substantial cost savings without unacceptable MTTR increases according to real-world experimental analysis. Technical solutions for this implementation consist of load balancers that provide failover capabilities and checkpointing methods that preserve state information while EC2 Auto Scaling automates instance recovery processes. The analysis demonstrates that excessive Reserved Instance procurement results in underutilized resources and Spot Instance testing interruptions create longer recovery durations. Hybrid models solve deployment problems while they enhance high deployment speeds through reduced lead time variations. The research investigates machine learning technologies and multi cloud solutions as potential strategies for optimizing dynamic resource utilization in the future. The research discovers practices that support operational leaders in adjusting their cloud resource utilization per organizational requirements.
+ER  - 
+
+TY  - CONF
+TI  - Incorporating FATES Principles in Continuous Development of ML-Integrated Systems: Importance of Requirements
+T2  - 2025 IEEE 33rd International Requirements Engineering Conference Workshops (REW)
+SP  - 425
+EP  - 431
+AU  - J. . -M. Bruel
+AU  - T. Gouaichault
+AU  - O. Teste
+AU  - M. Blay-Fornarino
+AU  - N. Lacroix
+AU  - F. Precioso
+AU  - S. Mosser
+PY  - 2025
+KW  - Ethics
+KW  - Adaptation models
+KW  - Codes
+KW  - Systematics
+KW  - Mental health
+KW  - Software systems
+KW  - Security
+KW  - Requirements engineering
+KW  - Software engineering
+KW  - Recruitment
+KW  - Fairness
+KW  - Accountability
+KW  - Transparency
+KW  - Ethics
+KW  - Security
+KW  - Continuous Integration
+DO  - 10.1109/REW66121.2025.00062
+JO  - 2025 IEEE 33rd International Requirements Engineering Conference Workshops (REW)
+IS  - 
+SN  - 2770-6834
+VO  - 
+VL  - 
+JA  - 2025 IEEE 33rd International Requirements Engineering Conference Workshops (REW)
+Y1  - 1-5 Sept. 2025
+AB  - The MLOps movement adopts the DevOps objective of reducing the gap between development and operations teams by integrating data scientist teams and Machine Learning (ML) models. The initial FATES-MLOps project aims to apply and adapt good software engineering practices to enhance both the quality of the ML model construction processes and the software systems produced, particularly with regard to extra-functional properties that will be critical issues: Fairness, Accountability, Transparency, Ethics, and Security (FATES). This paper focuses specifically on the formalization, measurement, and management of these properties throughout the MLOps process.
+ER  - 
+
+TY  - CONF
+TI  - ML-DaaS: An Integrated ML Training and Deployment Framework for Hybrid Cloud
+T2  - 2025 IEEE 12th International Conference on Cyber Security and Cloud Computing (CSCloud)
+SP  - 110
+EP  - 115
+AU  - K. P. Ravikumar
+AU  - N. Ahmed
+AU  - M. S. Singh
+PY  - 2025
+KW  - Training
+KW  - Cloud computing
+KW  - Source coding
+KW  - Scalability
+KW  - Pipelines
+KW  - Robustness
+KW  - Complexity theory
+KW  - Resource management
+KW  - Load modeling
+KW  - Testing
+KW  - CI/CD pipeline
+KW  - Deployment-as-a-Service
+KW  - GPU Training
+KW  - Hybrid Cloud
+KW  - Inference Optimization
+KW  - MLOps
+DO  - 10.1109/CSCloud66326.2025.00025
+JO  - 2025 IEEE 12th International Conference on Cyber Security and Cloud Computing (CSCloud)
+IS  - 
+SN  - 2693-8928
+VO  - 
+VL  - 
+JA  - 2025 IEEE 12th International Conference on Cyber Security and Cloud Computing (CSCloud)
+Y1  - 7-9 Nov. 2025
+AB  - This paper presents ML-DaaS, a novel Deployment-as-a-Service framework designed for Machine Learning model training and deployment across hybrid cloud environments. Addressing the complexity of traditional MLOps workflows, ML-DaaS allows authenticated users to securely upload, train, finetune, and deploy ML models via an intuitive browser-based dashboard. The framework incorporates DevOps Tools such as Terraform, Ansible, Docker, and Jenkins, which automates infrastructure provisioning, system configuration, and CI/CD deployment, dynamically transitioning models from GPU-based training environments to cost-effective CPU-based inference. Experimental evaluations on OpenStack-based private clouds and AWS public cloud demonstrate the framework's consistent performance, secure isolation, and low-latency inference capabilities, thereby significantly reducing deployment complexity and operational overhead. Decoupling training from inference resulted in optimized resource utilization without sacrificing responsiveness, resulting in up to 40 % improvement in infrastructure turnaround time and a significant reduction in deployment complexity and operational overhead.
+ER  - 
+
+TY  - CONF
+TI  - Message from Cloud Intelligence / AIOps Workshop 2025 Chairs
+T2  - 2025 IEEE/ACM International Workshop on Cloud Intelligence & AIOps (AIOps)
+SP  - vii
+EP  - vii
+AU  - J. Zhang
+AU  - Q. Lin
+AU  - X. Peng
+PY  - 2025
+DO  - 10.1109/AIOps66738.2025.00005
+JO  - 2025 IEEE/ACM International Workshop on Cloud Intelligence & AIOps (AIOps)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE/ACM International Workshop on Cloud Intelligence & AIOps (AIOps)
+Y1  - 3-3 May 2025
+AB  - The 6th International Workshop on Cloud Intelligence / AIOps is a forum for researchers, scientists, engineers, and practitioners to share and learn AI/ML powered DevOps solutions for cloud services. We envision that with the advance of AI/ML and related technologies like Large Language Models (LLMs), the cloud industry can make significant progress in its efficiency and reliability while keeping up the sustained and exponential growth of the cloud.
+ER  - 
+
+

@@ -1,6 +1,6 @@
 # SLR AI-for-DevOps --- PRISMA Final Reconciliation Worksheet
 
-**Updated: 8 September 2026 --- FINAL RETRIEVAL ACCOUNTING**
+**Updated: 9 September 2026 — FINAL / DIAGRAM LOCKED**
 
 ## Status
 
@@ -179,9 +179,10 @@ only: `Other/container records removed before screening (n=2)`.
 -   [x] Included corpus = 60
 -   [x] Arithmetic reproducible
 -   [x] Final reconciliation workbook created
--   [ ] Authoritative final PRISMA 2020 flow diagram created
+-   [x] Authoritative final PRISMA 2020 flow diagram created and locked
 
-## Next
+## Final diagram
 
-Create the corrected authoritative PRISMA 2020 flow diagram from the
-exact text/counts above.
+Authoritative vector artifact: `PRISMA_2020_AI_DevOps_AUTHORITATIVE.svg`.
+
+The diagram is complete and locked. Do not regenerate it from image-generation tools. Any future change must be driven by a documented correction to the underlying PRISMA accounting.

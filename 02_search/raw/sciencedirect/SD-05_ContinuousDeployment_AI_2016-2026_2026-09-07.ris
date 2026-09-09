@@ -1,0 +1,323 @@
+TY  - CHAP
+T1  - Chapter 10 - Production operations and integrations
+AU  - Josyula, Prashanth
+AU  - Arora, Sonika
+AU  - Kumar, Anant
+BT  - Essential Kubeflow
+PB  - Morgan Kaufmann
+SP  - 321
+EP  - 356
+PY  - 2026
+DA  - 2026/01/01/
+SN  - 978-0-443-45254-3
+DO  - https://doi.org/10.1016/B978-0-443-45254-3.00004-0
+UR  - https://www.sciencedirect.com/science/article/pii/B9780443452543000040
+KW  - MLOps
+KW  - production operations
+KW  - CI/CD pipelines
+KW  - Prometheus monitoring
+KW  - multitenancy
+KW  - cost management
+KW  - platform engineering
+AB  - This chapter bridges the gap between running Kubeflow locally and operating a production machine learning (ML) platform that teams actually trust. Moving beyond basic Kubeflow setup, it addresses the critical operational challenges that determine whether an ML platform succeeds or becomes abandoned infrastructure: storage integration, continuous deployment, monitoring, multitenancy, and cost management. The chapter begins with production-grade S3 storage integration, demonstrating modern authentication patterns using IAM Roles for Service Accounts (IRSA) that eliminate hardcoded credentials while enabling fine-grained access control. Readers learn to configure Kubeflow components, i.e., pipelines, notebooks, and model serving, to securely access cloud storage with proper credential management and troubleshooting strategies for common authentication failures. CI/CD integration transforms pipeline development from manual, error-prone deployments to automated, traceable workflows. Using GitHub Actions as a practical reference implementation, the chapter shows how to build validation pipelines that catch errors before production, implement environment-specific configurations, and maintain deployment audit trails. Complete workflow examples demonstrate compilation testing, artifact management, and automated deployment to Kubeflow clusters. The monitoring and observability section establishes production-grade visibility using Prometheus and Grafana. Beyond basic metrics collection, it covers designing meaningful dashboards for ML workloads, implementing cost tracking through custom recording rules, and setting up alert routing that ensures the right notifications reach the right people. Real-world examples include monitoring GPU utilization, tracking pipeline execution patterns, and calculating per-team infrastructure costs. Multitenant setup enables multiple teams to share cluster resources safely through Kubernetes namespaces, resource quotas, and network policies. The chapter demonstrates profile-based isolation, quota design strategies that balance efficiency with guaranteed resources, and network policy patterns that prevent cross-team interference while allowing necessary service communication. Practical examples show intentional CPU overcommitment versus strict GPU allocation. Cost management strategies address the financial reality of running ML infrastructure. Readers learn to implement resource quotas that prevent runaway costs, design autoscaling policies for training workloads, optimize storage lifecycle management, and build showback reports that attribute costs to teams. The section includes concrete tactics for GPU cost optimization and techniques for identifying resource waste. The chapter concludes with platform design decisions, comparing managed services versus self-hosted deployments, evaluating cloud provider options, and discussing the operational trade-offs of different architectural choices. Throughout, the emphasis remains on practical, production-tested patterns rather than theoretical ideals, helping platform engineers build ML infrastructure that scales with organizational needs while remaining maintainable by real teams.
+ER  - 
+
+TY  - JOUR
+T1  - An empirical dataset combining repository metrics and pipeline workflows for predictive software analytics
+AU  - Sanusi, Funmilayo Abibat
+AU  - Faruna, Joshua Omaye
+JO  - Data in Brief
+VL  - 68
+SP  - 113128
+PY  - 2026
+DA  - 2026/08/01/
+SN  - 2352-3409
+DO  - https://doi.org/10.1016/j.dib.2026.113128
+UR  - https://www.sciencedirect.com/science/article/pii/S235234092600675X
+KW  - Continuous integration
+KW  - Continuous deployment
+KW  - Github actions
+KW  - Pipeline failure
+KW  - Machine learning
+KW  - Software engineering
+AB  - This data article presents a comprehensive dataset that captures the workflow history of Continuous Integration and Continuous Deployment (CI/CD) pipelines, along with the code-level repository metrics. There are 303,079 distinct execution records from August 2016 to April 2026 in the dataset. Specifically, the data comprises of archival Travis CI records from August to December 2016 which serves as the baseline, and live GitHub Actions workflows from May 2024 to April 2026. The data collection used a custom python extraction script which combined historical Travis CI data and live GitHub Actions workflow metadata with deep Git commit history. The chosen live repositories covered 34 highly active open-source projects across different domains like DevOps tools such as kubernetes/kubernetes, web frameworks like facebook/react, and machine learning like tensorflow/tensorflow. The variables collected consist of pipeline execution durations, pipeline final status, the conditions that triggered the events, code churn (additions and deletions), and the number of changed files. This resulted in a structured and tabular format (csv) dataset which is hosted and accessible on Mendeley Data and serves as a solid foundation for researchers and practitioners interested in discovering patterns in build breakages, creating predictive machine learning models for forecasting CI/CD pipelines' workflows, and advancing AIOps methodologies in software engineering.
+ER  - 
+
+TY  - JOUR
+T1  - Design of a Full-Process Transaction Monitoring and Risk Feedback System for DevOps Based on Microservices Architecture and Machine Learning Methods
+AU  - Liu, Ziwei
+JO  - Procedia Computer Science
+VL  - 262
+SP  - 948
+EP  - 954
+PY  - 2025
+DA  - 2025/01/01/
+T2  - The 5th International Conference on Multi-modal Information Analytics (MMIA)
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2025.05.129
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050925019763
+KW  - Microservices Architecture
+KW  - Machine Learning
+KW  - Devops
+KW  - Transaction Monitoring
+KW  - Risk Feedback
+AB  - In the current age, with industries undergoing digital transformation, there exists a significant issue regarding transaction systems that are characterized by high rates of concurrency and complexity. These systems impose considerable demands on how monitoring is conducted and how feedback regarding risk is communicated. Traditional mechanisms for monitoring are oftentimes struggling with processing large volume of transactional data in real time, and there is an urgent necessity to improve predictions related to risk accuracy. This paper brings forward a monitoring and risk feedback system that uses a full-process approach specifically designed for DevOps. This is based on a framework comprising of microservices architecture along with techniques rooted in machine learning. The main goal is to achieve improved service decoupling and flexible deployment by utilizing microservices architecture effectively. The accuracy of identifying risks and the efficiency of risk identification processes are meant to be enhanced through the application of machine learning algorithms. Moreover, continuous integration alongside continuous deployment and continuous monitoring of the system is intended to be ensured via practices affiliated with DevOps methodology. The system facilitates modular and scalable transaction monitoring, which supports handling high concurrency as well as low-latency processing of data. Finally, machine learning methods are employed to enable predictive measures regarding risks and facilitating timely feedback in the event of potential risks.
+ER  - 
+
+TY  - JOUR
+T1  - Inverse identification of a passive scalar source of pollution in large areas
+AU  - Ammar, Amine
+AU  - Chinesta, Francisco
+JO  - Atmospheric Environment
+VL  - 372
+SP  - 121873
+PY  - 2026
+DA  - 2026/05/01/
+SN  - 1352-2310
+DO  - https://doi.org/10.1016/j.atmosenv.2026.121873
+UR  - https://www.sciencedirect.com/science/article/pii/S1352231026001020
+KW  - Inverse modelling
+KW  - Pollution source identification
+KW  - Stochastic simulation
+KW  - HoSVD decomposition
+KW  - Gaussian Process Regression
+KW  - Multi-objective optimization
+KW  - Air quality monitoring
+KW  - Data assimilation
+KW  - Real-time detection
+KW  - Atmospheric dispersion
+KW  - Source term estimation
+AB  - This paper presents a novel and computationally efficient framework for the inverse identification of atmospheric pollution sources, with a focus on real-time applicability in complex environments. The proposed method combines stochastic modelling of pollutant dispersion with Higher-Order Singular Value Decomposition (HoSVD) and machine learning-based surrogate modelling. A case study centred on the Singapore region demonstrates the method’s ability to accurately reconstruct pollution fields from sparse sensor data over a 900-hour simulation window. The approach leverages a multi-objective optimization strategy, using Gaussian Process Regression (notably, the regression task is carried out in a parametric space of relatively low dimensionality) to approximate parametric modes and the Levenberg–Marquardt algorithm for source localization. Results show that the localization error remains within a fraction of the spatial grid resolution, and the entire computational pipeline—from simulation to optimization—can be executed in under 30 min on standard desktop hardware. This efficiency enables frequent or continuous deployment in operational monitoring systems. The framework’s modularity allows for extension to higher-dimensional parametric spaces, making it suitable for a wide range of environmental monitoring applications.
+ER  - 
+
+TY  - JOUR
+T1  - Integrating Ambient In-Home Sensor Data and Electronic Health Record Data for the Prediction of Outcomes in Amyotrophic Lateral Sclerosis: Protocol for an Exploratory Feasibility Study
+AU  - Janes, William E
+AU  - Marchal, Noah
+AU  - Song, Xing
+AU  - Popescu, Mihail
+AU  - Mosa, Abu Saleh Mohammad
+AU  - Earwood, Juliana H
+AU  - Jones, Vovanti
+AU  - Skubic, Marjorie
+JO  - JMIR Research Protocols
+VL  - 14
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 1929-0748
+DO  - https://doi.org/10.2196/60437
+UR  - https://www.sciencedirect.com/science/article/pii/S1929074825001295
+KW  - amyotrophic lateral sclerosis
+KW  - machine learning
+KW  - precision health
+KW  - ALS
+KW  - health monitoring
+KW  - electronic health record
+KW  - EHR
+KW  - federated approach
+KW  - in-home sensor data
+AB  - Background
+Amyotrophic lateral sclerosis (ALS) leads to rapid physiological and functional decline before causing untimely death. Current best-practice approaches to interdisciplinary care are unable to provide adequate monitoring of patients’ health. Passive in-home sensor systems enable 24×7 health monitoring. Combining sensor data with outcomes extracted from the electronic health record (EHR) through a supervised machine learning algorithm may enable health care providers to predict and ultimately slow decline among people living with ALS.
+Objective
+This study aims to describe a federated approach to assimilating sensor and EHR data in a machine learning algorithm to predict decline among people living with ALS.
+Methods
+Sensor systems have been continuously deployed in the homes of 4 participants for up to 330 days. Sensors include bed, gait, and motion sensors. Sensor data are subjected to a multidimensional streaming clustering algorithm to detect changes in health status. Specific health outcomes are identified in the EHR and extracted via the REDCap (Research Electronic Data Capture; Vanderbilt University) Fast Healthcare Interoperability Resource directly into a secure database.
+Results
+As of this writing (fall 2024), machine learning algorithms are currently in development to predict those health outcomes from sensor-detected changes in health status. This methodology paper presents preliminary results from one participant as a proof of concept. The participant experienced several notable changes in activity, fluctuations in heart rate and respiration rate, and reductions in gait speed. Data collection will continue through 2025 with a growing sample.
+Conclusions
+The system described in this paper enables tracking the health status of people living with ALS at unprecedented levels of granularity. Combined with tightly integrated EHR data, we anticipate building predictive models that can identify opportunities for health care services before adverse events occur. We anticipate that this system will improve and extend the lives of people living with ALS.
+International Registered Report Identifier (IRRID)
+DERR1-10.2196/60437
+ER  - 
+
+TY  - JOUR
+T1  - Fast healthcare interoperability resources (FHIR) implementation guide creation process: scoping review
+AU  - Corrêa Rampinelli, Vanessa Pereira
+AU  - dos Santos, Ranieri Alves
+AU  - Celuppi, Ianka Cristina
+AU  - Santos, Gabriel Norde
+AU  - Hammes, Jades Fernando
+AU  - Cunha, Célio Luiz
+AU  - Wazlawick, Raul Sidnei
+AU  - Dalmarco, Eduardo Monguilhott
+JO  - International Journal of Medical Informatics
+VL  - 219
+SP  - 106548
+PY  - 2026
+DA  - 2026/10/01/
+SN  - 1386-5056
+DO  - https://doi.org/10.1016/j.ijmedinf.2026.106548
+UR  - https://www.sciencedirect.com/science/article/pii/S1386505626002881
+KW  - Health information interoperability
+KW  - Digital health
+KW  - Electronic health records
+AB  - Background
+The Fast Healthcare Interoperability Resources (FHIR) standard is a global benchmark for digital health data exchange. Despite its widespread adoption, the scientific literature on the methodological processes for creating FHIR Implementation Guides (IGs) remains fragmented and lacks systematization.
+Objective
+This scoping review aims to synthesize the scientific literature on the process of developing FHIR IGs for electronic health records, identifying methodological steps, toolchains, governance patterns, and critical gaps that limit clinical adoption.
+Methods
+Following JBI and PRISMA-ScR guidelines, a comprehensive search was conducted across nine databases in August 2025. From an initial 5,552 records, eleven studies published between 2021 and 2025 were selected for analysis. Data extraction focused on development stages, team composition, authoring tools, and validation workflows.
+Results
+The study identified a synthesized seven-step implementation lifecycle: requirements, modeling, terminology, narrative documentation, technical validation, clinical validation, and publication. A significant methodological shift toward “Infrastructure as Code” was observed, with frequent use of FHIR Shorthand (FSH) and Continuous Integration/Continuous Deployment (CI/CD) pipelines, particularly in European national initiatives. While technical validation was nearly universal (10 out of 11 studies), clinical validation was inconsistently addressed (7 out of 11 studies), often relegated to future work, resulting in IGs that are syntactically correct but insufficiently aligned with real-world clinical workflows. Narrative documentation, essential for non-technical stakeholders, was reported as comprehensive in only four studies, limiting broader clinical adoption. All studies reported multidisciplinary team involvement, confirming that IG development is fundamentally an exercise in clinical governance and consensus.
+Conclusion
+The creation of FHIR IGs has evolved into a complex discipline requiring a convergence of software engineering, clinical semantics, and institutional governance. This review advances beyond existing FHIR literature by providing the first systematic synthesis focused specifically on the IG creation process, presenting a replicable seven-step cycle that can guide implementers, researchers, and policy makers. Closing the gap between technical readiness and clinical applicability remains a critical challenge. Future research should prioritize ongoing clinical validation, the establishment of standardized reporting frameworks for IG development, and the integration of generative AI tools to enhance narrative documentation and terminology binding.
+ER  - 
+
+TY  - JOUR
+T1  - Just-in-time bug classifier: A step towards integrating Automated Program Repair in CI/CD pipelines
+AU  - Kabadi, Vinay
+AU  - Le, Xuan-Bach D.
+AU  - Thongtanunam, Patanamon
+AU  - Treude, Christoph
+JO  - Information and Software Technology
+VL  - 195
+SP  - 108076
+PY  - 2026
+DA  - 2026/07/01/
+SN  - 0950-5849
+DO  - https://doi.org/10.1016/j.infsof.2026.108076
+UR  - https://www.sciencedirect.com/science/article/pii/S0950584926000650
+KW  - Automatic Program Repair
+KW  - Bug classifier
+AB  - Context:
+Automated Program Repair (APR) tools have advanced in recent years, yet their effectiveness can improve when integrated into Continuous Integration/Continuous Deployment (CI/CD) pipelines. Motivated by this, we designed the Continuous Automatic Repair Framework (CARF), which detects build failures, routes each bug to the most suitable repair tool, and automatically commits the generated fix. During development, we identified a critical bottleneck: the need for instant bug classification within CI/CD. Accurate classification is essential to determine whether a fault lies in program code or the test suite, ensuring the defect is routed to the appropriate repair tool.
+Objective:
+Objectives: This study aims to design and evaluate a just-in-time bug classifier capable of distinguishing between program and test bugs during CI/CD execution, thereby enabling CARF to maintain workflow efficiency by directing defects to appropriate repair tools.
+Methods:
+We implemented a heuristic analysis tool that extracts discriminative structural features by comparing Abstract Syntax Trees (ASTs) between buggy and pre-buggy commits. These features are input to machine learning models for bug classification. Empirical validation demonstrated the accuracy and operational feasibility of the approach within CI/CD environments.
+Results:
+Our approach achieved up to 73% accuracy in identifying regression bugs across 67 real-world projects, effectively distinguishing between program bugs and test bugs while requiring only 10% of the dataset for training. In contrast, prior studies reported an accuracy of 69% on artificially injected bugs derived from successive versions of only two projects, with 90% of the data used for training.
+Conclusion:
+CARF facilitates the integration of automated program repair into CI/CD pipelines, enabling faster, more accurate, and more flexible software maintenance. The just-in-time bug classifier demonstrates that defect classification can scale efficiently without symbolic execution or manual bug reports, providing a practical foundation for continuous automated repair.
+ER  - 
+
+TY  - JOUR
+T1  - GRAAFE: GRaph Anomaly Anticipation Framework for Exascale HPC systems
+AU  - Molan, Martin
+AU  - Ardebili, Mohsen Seyedkazemi
+AU  - Khan, Junaid Ahmed
+AU  - Beneventi, Francesco
+AU  - Cesarini, Daniele
+AU  - Borghesi, Andrea
+AU  - Bartolini, Andrea
+JO  - Future Generation Computer Systems
+VL  - 160
+SP  - 644
+EP  - 653
+PY  - 2024
+DA  - 2024/11/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2024.06.032
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X24003327
+KW  - Anomaly prediction
+KW  - High-performance systems
+KW  - Graph neural networks
+KW  - MLOps
+AB  - The main limitation of applying predictive tools to large-scale supercomputers is the complexity of deploying Artificial Intelligence (AI) services in production and modeling heterogeneous data sources while preserving topological information in compact models. This paper proposes GRAAFE, a framework for continuously predicting compute node failures in the Marconi100 supercomputer. The framework consists of (i) an anomaly prediction model based on graph neural networks (GNNs) that leverage nodes’ physical layout in the compute room and (ii) the computationally efficient integration into the Marconi100’s ExaMon holistic monitoring system with Kubeflow, an MLOps Kubernetes framework which enables continuous deployment of AI pipelines. The GRAAFE GNN model achieves an area under the curve (AUC) from 0.91 to 0.78, surpassing state-of-the-art (SoA), achieving AUC between 0.64 and 0.5. GRAAFE sustains the anomaly prediction for all the Marconi100 nodes every 120s, requiring an additional 30% CPU resources and less than 5% more RAM w.r.t. monitoring only.
+ER  - 
+
+TY  - JOUR
+T1  - An Efficient Large Kernel Convolution Network Designed for Neural Processing Unit
+AU  - Wang, Jiawen
+AU  - Liao, Chenfei
+AU  - Li, Dewei
+AU  - Zhao, Zhongqi
+AU  - Chen, Jingchuan
+AU  - Yang, Kehu
+JO  - Engineering Applications of Artificial Intelligence
+VL  - 142
+SP  - 109887
+PY  - 2025
+DA  - 2025/02/15/
+SN  - 0952-1976
+DO  - https://doi.org/10.1016/j.engappai.2024.109887
+UR  - https://www.sciencedirect.com/science/article/pii/S0952197624020463
+KW  - Lightweight network
+KW  - Neural processing unit
+KW  - Design paradigm
+KW  - Object detection
+KW  - Semantic segmentation
+AB  - As industrial artificial intelligence (AI) applications become increasingly prevalent and the performance of neural processing unit (NPU) is advanced continuously, deploying lightweight networks on NPU has become a favorable option for high real-time industrial scenarios, including autonomous driving, intelligent mine, and more. However, common lightweight networks are not primarily designed for NPU, thereby failing to fully leverage the performance of NPU. In this paper, an NPU lightweight network, called Efficient Large Kernel Convolution Network (ELKCNet) is proposed for downstream tasks, such as semantic segmentation and object detection, which have broad application scenarios and significant potential. By incorporating a portion of large kernel convolutions into the Efficient Large Kernel Convolution (ELKC) block, the network’s receptive field is further enhanced to capture richer contextual information and effectively integrate local and global features. To explore the operational principles of NPU, a design paradigm for NPU lightweight networks is proposed. By testing the inference times of various convolutions and pooling operations on NPU, data support is provided for optimizing and constructing novel NPU lightweight networks. To validate the superiority of the ELKCNet, comparative experiments are conducted on multiple datasets, showing that it outperforms other lightweight networks in object detection and semantic segmentation. Additionally, the ELKCNet is evaluated on the underground mine semantic segmentation dataset to further demonstrate its effectiveness and significant potential in real-time industrial applications.
+ER  - 
+
+TY  - JOUR
+T1  - ProLoaF: Probabilistic load forecasting for power systems
+AU  - Gürses-Tran, Gonca
+AU  - Oppermann, Florian
+AU  - Monti, Antonello
+JO  - SoftwareX
+VL  - 23
+SP  - 101487
+PY  - 2023
+DA  - 2023/07/01/
+SN  - 2352-7110
+DO  - https://doi.org/10.1016/j.softx.2023.101487
+UR  - https://www.sciencedirect.com/science/article/pii/S2352711023001838
+KW  - Machine Learning
+KW  - MLOps
+KW  - PyTorch
+KW  - Python
+KW  - Short-term load forecasting
+AB  - Today, the energy supply does not follow the demand in a controlled manner anymore. Thus, forecasting the electricity consumption became essential for the operation of power systems. Already numerous open source software tools exist that provide forecasting models, which are configurable for different forecasting tasks. In the case of electrical energy demand, a change in the geographical or temporal settings, requires specific domain knowledge on relevant data and influencing factors that are to be considered when developing data-driven forecasting models. With ProLoaF, we propose a holistic machine-learning based forecasting project, which offers the developer a continuous deployment of reliable forecasts for the power system domain. ProLoaF serves for probabilistic forecasts of the electric energy consumption and non-controllable generation in future power system operation. By overlapping Machine Learning (ML), DevOps and power systems engineering disciplines, we aim to accelerate future forecasting model development by reducing consultation work between domain experts.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter Five - Artificial intelligence (AI) technologies and tools for accelerated software development
+AU  - Revuri, Jaswanth
+AU  - Sakthivel, Rakesh Kumar
+AU  - Nagasubramanian, Gayathri
+A2  - Raj, Pethuru
+A2  - Agerstam, Mats
+A2  - Dutta, Pushan Kumar
+A2  - Sundaravadivazhagan, B.
+A2  - Nagasubramanian, Gayathri
+BT  - Advances in Computers
+PB  - Elsevier
+VL  - 141
+SP  - 115
+EP  - 159
+PY  - 2026
+DA  - 2026/01/01/
+T2  - Cloud-native Architecture (CNA) and Artificial Intelligence (AI) for the Future of Software Engineering: The Principles, Patterns, Platforms and Practices
+SN  - 0065-2458
+DO  - https://doi.org/10.1016/bs.adcom.2025.07.001
+UR  - https://www.sciencedirect.com/science/article/pii/S0065245825001111
+KW  - Artificial intelligence
+KW  - Software development
+KW  - Machine learning
+KW  - Debugging
+KW  - Software development life cycle (SDLC)
+AB  - The rapid advancement of Artificial Intelligence (AI) is reshaping the field of software development, marking the beginning of a transformative era of automation and efficiency. This chapter provides a view of the shift to an AI-assisted approach to software development that moves beyond historical paradigms of development as we explore practices that utilize novel AI technologies. Exploring the use of AI technologies to automate processes can result in higher productivity and better collaboration, which create greater project efficiency. The chapter includes a thorough examination of certain key AI capabilities that automate aspects of coding and testing, such as automated code generation, bug detection, and test case generation. These artificial intelligence applications-electronic agents that don’t even require the presence of a developer-provide convenience and higher levels of quality, reliability and assurance. The overwhelming impact is improved productivity and collaboration through valuable AI technologies in the Software Development Lifecycle (SDLC) and ultimately improvement in every stage of the SDLC, such as idea generation, requirement gathering, design improvements and continuous deployment. This chapter finds that AI will drive collaboration where human creativity is utilized, aided by machine processing efficacies. Ultimately, the chapter provides a summative overview of the compelling promise of AI for automated software development and the changes that AI means for the software development industry. Developers who make use of these advancements can better situate themselves at the forefront of a developing technological revolution that will reshape the way that software is imagined, developed, and delivered.
+ER  - 
+
+TY  - JOUR
+T1  - Cybersecurity risks, DevSecOps challenges, and emerging security priorities: An empirical study across Brazilian organizations
+AU  - Canedo, Edna Dias
+AU  - Spósito, Stefano Luppi
+AU  - Peotta, Laerte
+AU  - Nunes, Rafael Rabelo
+AU  - Ladeira, Marcelo
+JO  - Computers & Security
+VL  - 170
+SP  - 105026
+PY  - 2026
+DA  - 2026/11/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2026.105026
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404826002026
+KW  - Cybersecurity governance
+KW  - Secure software development
+KW  - DevSecOps
+KW  - AI security
+KW  - Cyber resilience
+AB  - Context:
+Cybersecurity has become increasingly intertwined with organizational resilience, digital transformation, and regulatory pressure. Yet, many institutions still struggle to assess their structural risks, integrate secure-by-design practices, and prepare for emerging technologies such as AI-enabled cyber operations.
+Goal:
+This study aims to examine how Brazilian organizations perceive their cybersecurity posture across three dimensions: (i) infrastructure and governance risks, (ii) secure software development and DevSecOps challenges, and (iii) strategic priorities for emerging cybersecurity research and innovation.
+Method:
+We conducted a mixed-method survey with 88 practitioners from public, private, and critical infrastructure sectors. The instrument combined Likert scale assessments, multiple choice questions, and open-ended items. Quantitative data were analyzed using descriptive statistics, and qualitative responses were examined using inductive coding and thematic analysis.
+Results:
+Organizations report structural vulnerabilities linked to supply-chain dependencies, legacy systems, governance gaps, insider threats, and insufficient patch and vulnerability management. Challenges in secure development center on data exposure, limited security culture and training, insufficient security automation within Continuous Integration and Continuous Deployment (CI/CD) pipelines, and fragmented compliance integration. Emerging priorities include adversarial machine learning, AI security, cloud and hybrid architecture protection, cyber resilience, Governance, Risk, and Compliance (GRC) modernization, and Zero Trust adoption.
+Conclusion:
+Findings reveal systemic cybersecurity weaknesses and uneven DevSecOps maturity across sectors, underscoring the need for stronger governance, continuous workforce development, and resilience oriented security architectures. The study also identifies strategic research directions particularly in AI security, supply-chain defense, and cloud resilience that can guide national cybersecurity capacity building and policy making initiatives. This study also provides an evidence-based foundation to guide capability building programs, governance modernization, and future research collaborations across the Brazilian cybersecurity ecosystem.
+ER  - 

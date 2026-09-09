@@ -1,0 +1,9 @@
+| ID     | Fokus                                 | Field    | Publication Date    | Hasil |
+| ------ | ------------------------------------- | -------- | ------------------- | ----: |
+| ACM-01 | `"DevOps"` + AI terms                 | Abstract | Jan 2016 – Sep 2026 |    38 |
+| ACM-02 | `"CI/CD"` + AI terms                  | Abstract | Jan 2016 – Sep 2026 |    15 |
+| ACM-03 | `"continuous integration"` + AI terms | Abstract | Jan 2016 – Sep 2026 |    46 |
+| ACM-04 | `"continuous delivery"` + AI terms    | Abstract | Jan 2016 – Sep 2026 |     7 |
+| ACM-05 | `"continuous deployment"` + AI terms  | Abstract | Jan 2016 – Sep 2026 |     9 |
+| ACM-06 | `"software delivery"` + AI terms      | Abstract | Jan 2016 – Sep 2026 |     4 |
+| ACM-07 | `"AIOps"`                             | Abstract | Jan 2016 – Sep 2026 |    63 |

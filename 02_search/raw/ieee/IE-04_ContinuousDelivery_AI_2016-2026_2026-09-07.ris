@@ -1,0 +1,1350 @@
+TY  - CONF
+TI  - Verification and Validation of LLM-RAG for Industrial Automation
+T2  - 2025 IEEE International Conference on Artificial Intelligence Testing (AITest)
+SP  - 50
+EP  - 53
+AU  - Z. Min
+AU  - C. J. Budnik
+PY  - 2025
+KW  - Adaptation models
+KW  - Automation
+KW  - DevOps
+KW  - Uncertainty
+KW  - Large language models
+KW  - System performance
+KW  - Retrieval augmented generation
+KW  - Pipelines
+KW  - Robustness
+KW  - Testing
+KW  - Large Language Models (LLMs)
+KW  - Retrieval-Augmented Generation (RAG)
+KW  - Industrial Automation
+KW  - DevOps
+KW  - CI/CD
+DO  - 10.1109/AITest66680.2025.00012
+JO  - 2025 IEEE International Conference on Artificial Intelligence Testing (AITest)
+IS  - 
+SN  - 2835-3560
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Artificial Intelligence Testing (AITest)
+Y1  - 21-24 July 2025
+AB  - Large Language Models (LLMs) have emerged as transformative tools in industrial automation, supporting decision-making from device-level control to enterprise-level coordination. When combined with Retrieval-Augmented Generation (RAG), these systems promise context-aware, domain-specific reasoning. However, their integration into mission-critical pipelines introduces considerable challenges to reliability, robustness, and continuous validation, particularly within Development and Operations (DevOps) and Continuous Integration/Continuous Delivery (CI/CD) environments. This work presents a comprehensive Verification and Validation (V&V) framework designed to address these challenges holistically across the AI system lifecycle. At its core, the framework introduces a novel Continuum-Based Failure Classification (CBFC) model that redefines validation from a binary pass/fail paradigm to a graded assessment of correctness, consistency, and uncertainty. This assessment spans key dimensions such as retrieval relevance, factual accuracy, coherence, and alignment with user intent. The CBFC model integrates embedding-based similarity measures, logical entailment checks, and quality-oriented metrics (e.g., FactScore, ROUGE) to uncover failure modes often overlooked by conventional evaluation methods. The framework emphasizes reliability and adaptability through structured testing, latency optimization, proactive model retraining, and iterative feedback loops. It is demonstrated in an industrial Root-Cause Analyzer application, where it significantly improves system performance, interpretability, and trustworthiness. By advancing toward continuous, evidence-based evaluation, this approach enables the resilient deployment of retrieval-augmented large language model systems in dynamic, real-world industrial environments.
+ER  - 
+
+TY  - CONF
+TI  - DevSec-GPT — Generative-AI (with Custom-Trained Meta's Llama2 LLM), Blockchain, NFT and PBOM Enabled Cloud Native Container Vulnerability Management and Pipeline Verification Platform
+T2  - 2024 IEEE Cloud Summit
+SP  - 28
+EP  - 35
+AU  - E. Bandara
+AU  - S. Shetty
+AU  - R. Mukkamala
+AU  - A. Rahman
+AU  - P. Foytik
+AU  - X. Liang
+AU  - K. De Zoysa
+AU  - N. W. Keong
+PY  - 2024
+KW  - Scalability
+KW  - Pipelines
+KW  - Smart contracts
+KW  - Bills of materials
+KW  - Prototypes
+KW  - Production
+KW  - Containers
+KW  - DevSecOps
+KW  - Llama2
+KW  - LLM
+KW  - Blockchain
+KW  - NFT
+KW  - SBOM
+KW  - PBOM
+DO  - 10.1109/Cloud-Summit61220.2024.00012
+JO  - 2024 IEEE Cloud Summit
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE Cloud Summit
+Y1  - 27-28 June 2024
+AB  - The ever-evolving realm of cloud-native software development and container-based deployment, although offering exceptional efficiency and scalability, presents an array of complex challenges. These prominent challenges encompass supply-chain attacks, vulnerabilities within open-source tools, difficulties in tracking the development lifecycle and pipelines, and intricacies related to managing data provenance. In response to these pressing concerns, this paper introduces “DevSec-GPT,” a pioneering solution that harnesses Generative AI, blockchain, NFTs, SBOMs (Software Bill Of Materials), and PBOMs (Pipeline Bill Of Materials) to effectively manage software container vulnerabilities and streamline the intricate intricacies of pipeline and supply-chain verification. In the contemporary software development landscape, cloud-native containers, such as Docker and Kubernetes, are the linchpins of the build and deploy process, complemented by CI/CD (Continuous Integration and Continuous Delivery) services such as GitHub Actions. This process entails the creation of pull requests, container generation, test suite execution, verification, approval, merging to the master branch, and eventual deployment. In our innovative system, blockchain smart contracts play a pivotal role in generating vulnerability scans for each pull request through SBOM analysis. Moreover, a custom-trained Llama2 Large Language Model(LLM) from Meta has been integrated to generate PBOMs tailored to each pull request and master builds, thereby preventing supply-chain attacks and data breaches etc. This Llama2-13B LLM has been quantized and fine-tuned using Qlora to ensure optimal performance on consumer-grade hardware. These PBOMs are generated as JSON schemas by the LLM, encapsulating vital details, including pull request information (branch, approver, reviewer, timestamp, etc.), test results, the identified vulnerabilities in the built container, and the status of the pull request and its timestamp. Subsequently, blockchain smart contracts employ these JSON schemas to generate signed NFT tokens. a remarkable method that enables comprehensive tracking of software container states, vulnerabilities, and pipeline details from development to production. We've innovated a tailor-made NFT token schema designed to encapsulate PBOM data within the blockchain. These NFT tokens furnish a resilient mechanism, facilitating retrieval and verification at any point. The end-to-end software/pipeline verification data provenance information is handled via ModelCards. The prototype of our proposed system has been constructed atop the Rahasak blockchain, complemented by the GitHub Actions CI/CD platform and Docker containers. The generation of PBOMs functions are handled by custom-trained Llama2-13B LLM. To the best of our knowledge, this is the very first research effort aimed at standardizing PBOM schemas and integrating Language Model algorithms for the generation of PBOMs.
+ER  - 
+
+TY  - CONF
+TI  - Convergence of AI for Secure Software Development
+T2  - 2024 8th Cyber Security in Networking Conference (CSNet)
+SP  - 138
+EP  - 142
+AU  - R. Andrade
+AU  - J. Torres
+AU  - P. Flores
+AU  - E. Cabezas
+AU  - J. Segovia
+PY  - 2024
+KW  - DevOps
+KW  - Pipelines
+KW  - Software systems
+KW  - Software
+KW  - Real-time systems
+KW  - Security
+KW  - Artificial intelligence
+KW  - Research and development
+KW  - Convergence
+KW  - Resilience
+KW  - artificial intelligence
+KW  - antipatterns
+KW  - large language model
+KW  - continuous integration
+KW  - continuous delivery
+KW  - soft-ware development
+DO  - 10.1109/CSNet64211.2024.10851473
+JO  - 2024 8th Cyber Security in Networking Conference (CSNet)
+IS  - 
+SN  - 2768-0029
+VO  - 
+VL  - 
+JA  - 2024 8th Cyber Security in Networking Conference (CSNet)
+Y1  - 4-6 Dec. 2024
+AB  - The traditional approach to software security often fails to detect vulnerabilities early enough. This research explores how artificial intelligence (AI) can be integrated into the software development cycle to improve the identification of vulnerabilities and anti patterns. In the context of DevSecOps, we propose a new methodology that detects antipatterns automatically using machine learning and natural language processing techniques. Also, we explore the possibility of using a large language model (LLM) in a CI (Continuous Integration) and CD (Continuous Delivery) pipeline, to allow the developers real-time feedback, with it the initial phases of the software development cycle can improve the security and quality of the software. Further study is necessary to determine the AI model's true capability in managing real-world challenges.
+ER  - 
+
+TY  - CONF
+TI  - InfraAgent: A Multi-Agent AI Framework for Predictive Deployment Failure Detection and Autonomous Remediation in Multi-Cloud Environments
+T2  - 2026 18th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)
+SP  - 1
+EP  - 6
+AU  - H. Apuri
+AU  - M. M. Reddy Chinthala
+AU  - S. Goel
+AU  - C. Yepuri
+PY  - 2026
+KW  - Modeling
+KW  - Infrastructure as Code
+KW  - Generative adversarial networks
+KW  - Clouds
+KW  - Timing
+KW  - Forecasting
+KW  - Equations
+KW  - Printing
+KW  - Radio access networks
+KW  - Regional area networks
+KW  - Agentic AI
+KW  - Infrastructure Management
+KW  - Autonomous Deployment
+KW  - Predictive Remediation
+KW  - Multi-Agent Systems
+KW  - Cloud Operations
+KW  - Temporal Graph Attention Networks
+KW  - Large Language Model Agents
+KW  - CI/CD Automation
+KW  - Site Reliability Engineering
+KW  - Capacity Forecasting
+KW  - DevSecOps
+DO  - 10.1109/ECAI69016.2026.11613753
+JO  - 2026 18th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)
+IS  - 
+SN  - 2688-0253
+VO  - 
+VL  - 
+JA  - 2026 18th International Conference on Electronics, Computers and Artificial Intelligence (ECAI)
+Y1  - 2-3 July 2026
+AB  - Managing modern cloud-native infrastructure is, frankly, a problem that has grown faster than our tools for handling it. Continuous delivery pipelines, ephemeral containers, and sprawling multi-cloud Infrastructure-as-Code (IaC) ecosystems create an operational surface that expands combinatorially with organisational scale and static rule-based monitoring simply cannot keep up. This paper presents InfraAgent, a five-agent agentic AI framework designed for predictive infrastructure management and autonomous deployment operations in heterogeneous multi-cloud settings. The framework brings together: a Temporal Graph Attention Network (T-GAN) agent that jointly models infrastructure dependency topology and multi-variate telemetry for deployment failure prediction across 1-hour, 6-hour, and 24-hour horizons; a Remediation Planning Agent (RPA) built on a Large Language Model (LLM) that generates context-aware IaC patches, rollout prescriptions, and rollback directives directly from risk scores; a Deployment Safety Agent (DSA) that enforces configurable pre-flight autonomy gates; a Capacity Forecasting Agent (CFA) built on a Temporal Fusion Transformer (TFT) for probabilistic 24-hour to 72-hour demand forecasting; and a Continuous Operational Intelligence Orchestrator (COIO) that provides closed-loop governance, cryptographic auditability, and online model adaptation. We evaluate InfraAgent on 47,800 deployment events and 310,000 telemetry snapshots drawn from AWS, Azure, and GCP production environments. The results show a Mean Time to Detection of 4.3 minutes (an 85.2% reduction over rule-based baselines), a deployment failure prediction F1 of 0.931, a 76.8% reduction in production incidents per 100 Continuous Integration/Continuous Delivery (CI/CD) runs, and 91.4% capacity forecast accuracy at the 72-hour horizon, suggesting that coordinated agentic reasoning grounded in graph-temporal learning can meaningfully shift cloud operations from reactive firefighting toward continuous, self-correcting infrastructure assurance.
+ER  - 
+
+TY  - JOUR
+TI  - HEEEM: A Hybrid Ensemble Effort Estimation Model for Agile and DevOps Development
+T2  - IEEE Access
+SP  - 79253
+EP  - 79283
+AU  - S. A. Ruk
+AU  - Y. Mahmood
+AU  - A. Azmi
+AU  - N. F. M. Azmi
+AU  - S. Bouktif
+AU  - S. Gul
+PY  - 2026
+KW  - Modeling
+KW  - Estimation
+KW  - Machine learning
+KW  - Software
+KW  - Trees (botanical)
+KW  - Vegetation
+KW  - DevOps
+KW  - Accuracy
+KW  - Machining
+KW  - Management
+KW  - Agile Devops
+KW  - Delphi method
+KW  - ensemble model
+KW  - estimation accuracy
+KW  - ExtraTrees
+DO  - 10.1109/ACCESS.2026.3693745
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 14
+VL  - 14
+JA  - IEEE Access
+Y1  - 2026
+AB  - Accurate effort estimation in Agile and DevOps software projects remains a persistent challenge, as traditional models fail to account for the iterative, continuous delivery nature of modern development environments. Existing single-technique estimation approaches, whether algorithmic, expert-based, or machine learning-based, each capture only a partial view of project complexity, leading to systematic underestimation in Agile DevOps contexts. This study proposes the Hybrid Ensemble Effort Estimation Model (HEEEM), which integrates Use Case Points (UCP) as an algorithmic anchor, the Delphi method as an expert-based judgment layer, and Extra Trees as a data-driven machine learning component. A two-stage framework is adopted: candidate machine learning models are first benchmarked across eight public datasets, spanning 945 projects, providing external validation of the data-driven component and confirming Extra Trees as the most consistent performer (MAE: 0.288, RMSE: 0.398, R2: 0.815), before being embedded into the hybrid ensemble. Empirical evaluation is conducted through case studies on five industrial Agile DevOps projects using standard performance metrics including Mean Absolute Error (MAE), Root Mean Square Error (RMSE), Mean Magnitude of Relative Error (MMRE) and R2.The findings show that HEEEM significantly improved effort estimation accuracy, achieving an in-sample MAE of 21.60, RMSE of 25.32, MMRE of 0.0053, and an in-sample R2 of 0.9983, representing reductions of 69% in MAE, 71.9% in RMSE, and 72% in MMRE compared to individual baseline methods;under Leave-One-Out Cross-Validation, the corresponding out-of-sample metrics are MAE = 72.88, RMSE = 100.42, MMRE = 0.0192, and  $R^{2}$  = 0.9731, representing 45–52% reductions in MAE compared to the algorithmic and expert-based individual baselines. Statistical validation through the Friedman test confirmed these improvements are statistically significant ( $p = 0.0136$ ). The proposed model offers actionable guidance for project managers and development teams regarding sprint planning, resource allocation, and risk management, and is particularly suited for continuous delivery environments where estimates require regular updating.
+ER  - 
+
+TY  - CONF
+TI  - AI-Driven DevOps in Telecommunications: Bridging Predictive Analytics with Continuous Delivery for Network Agility
+T2  - 2025 IEEE International Conference and Expo on Real Time Communications at IIT (RTC)
+SP  - 1
+EP  - 4
+AU  - S. K. Davuluri
+AU  - V. Challagulla
+AU  - V. Mudapaka
+AU  - U. Konka
+PY  - 2025
+KW  - DevOps
+KW  - 5G mobile communication
+KW  - Pipelines
+KW  - Predictive models
+KW  - Mathematical models
+KW  - Telecommunications
+KW  - Telecommunication network reliability
+KW  - Internet of Things
+KW  - Predictive analytics
+KW  - Edge computing
+KW  - DevOps
+KW  - Predictive Analytics
+KW  - Telecommunications
+KW  - CI/CD
+KW  - Artificial Intelligence
+KW  - AIOps
+KW  - Continuous Delivery
+KW  - 5G
+KW  - Machine Learning
+KW  - Network Automation
+KW  - Network Slicing
+KW  - MLOps
+DO  - 10.1109/RTC66985.2025.11211551
+JO  - 2025 IEEE International Conference and Expo on Real Time Communications at IIT (RTC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference and Expo on Real Time Communications at IIT (RTC)
+Y1  - 7-8 Oct. 2025
+AB  - The telecommunications industry is navigating a transformative era driven by the complexity of 5G, Internet of Things (IoT), edge computing, and software-defined networking. These technologies demand rapid, reliable, and scalable network operations to meet stringent performance, reliability, and regulatory requirements. This paper presents an in-depth study on integrating Artificial Intelligence (AI) into DevOps pipelines to address these challenges. By combining predictive analytics, machine learning (ML), and automation, our proposed AI-Driven DevOps model enhances network agility, optimizes resource allocation, minimizes service disruptions, and enables autonomous operations. We explore practical applications through a detailed case study, address implementation and scalability challenges, propose a conceptual pipeline with mathematical foundations, quantify hypothetical improvements with enhanced metrics, and discuss ethical considerations. The model bridges predictive insights with continuous delivery, fostering resilient, scalable, and intelligent telecom networks capable of adapting to dynamic demands.
+ER  - 
+
+TY  - CONF
+TI  - Identity Governance in DevSecOps: Automated Access Reviews for CI/CD Pipelines
+T2  - 2026 IEEE 5th International Conference on AI in Cybersecurity (ICAIC)
+SP  - 1
+EP  - 5
+AU  - S. Kamani
+PY  - 2026
+KW  - Reviews
+KW  - Cloud computing security
+KW  - Pipelines
+KW  - Ecosystems
+KW  - Buildings
+KW  - Machine learning
+KW  - Continuous integration
+KW  - Security
+KW  - Certification
+KW  - Surface treatment
+KW  - CI/CD security
+KW  - cloud security posture management (CSPM)
+KW  - DevSecOps
+KW  - Identity Governance and Administration (IGA)
+KW  - Non-Human Identity (NHIs)
+DO  - 10.1109/ICAIC67076.2026.11395732
+JO  - 2026 IEEE 5th International Conference on AI in Cybersecurity (ICAIC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 IEEE 5th International Conference on AI in Cybersecurity (ICAIC)
+Y1  - 18-20 Feb. 2026
+AB  - The critical security issue within Continuous Integration and Continuous Delivery pipelines and digital cloud infrastructure is the increase in Non-Human Identities (NHIs) in the system. This paper proposes a conceptual approach towards the integration of Identity Governance and Administration (IGA) in the DevSecOps lifecycle. This paper illustrates comprehensive methodology for auto identification, mapping ownership, and periodic access certification for all cloud and CI/CD resources. This approach enhances security posture, streamlines audit and compliance processes and improves significant operational efficiency.The framework proposed in this paper reduces attack surface by implementing with existing tools, HashiCorp Vault, GitLab, Jenkins. This paper also describes future directions that may emanate from the infusion of artificial intelligence and machine learning toward an ultimate goal of a self-governing security ecosystem.
+ER  - 
+
+TY  - CONF
+TI  - On Continuous Integration / Continuous Delivery for Automated Deployment of Machine Learning Models using MLOps
+T2  - 2021 IEEE Fourth International Conference on Artificial Intelligence and Knowledge Engineering (AIKE)
+SP  - 25
+EP  - 28
+AU  - S. Garg
+AU  - P. Pundir
+AU  - G. Rathee
+AU  - P. K. Gupta
+AU  - S. Garg
+AU  - S. Ahlawat
+PY  - 2021
+KW  - Knowledge engineering
+KW  - Conferences
+KW  - Pipelines
+KW  - Machine learning
+KW  - Organizations
+KW  - Software
+KW  - Software development management
+KW  - MLOps
+KW  - DevOps
+KW  - GitOps
+KW  - CI/CD
+KW  - Deployment
+KW  - Containerization
+KW  - Orchestration
+KW  - Kubernetes
+KW  - Docker
+KW  - Kubeflow
+DO  - 10.1109/AIKE52691.2021.00010
+JO  - 2021 IEEE Fourth International Conference on Artificial Intelligence and Knowledge Engineering (AIKE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 IEEE Fourth International Conference on Artificial Intelligence and Knowledge Engineering (AIKE)
+Y1  - 1-3 Dec. 2021
+AB  - In recent years, model deployment in machine learning is observed to be an interesting area of study. It can be seen as a process similar to the one established for traditional software development. Development and operations (DevOps) incorporating Continuous Integration and Continuous Delivery (CI/CD) have demonstrated to smooth out software advancement and speed up organizations. Nonetheless, employing CI/CD pipelines in an application that incorporates components of Machine Learning Operations (MLOps) has challenging issues, and pioneers in the field settle them with the utilization of exclusive tooling, frequently presented by cloud suppliers. This study gives a higher perspective on the machine learning lifecycle and the vital differences between DevOps and MLOps. We talk about tools and techniques to execute the CI/CD pipeline of machine learning frameworks in the MLOps approach. Subsequently, we deep dive into push and pull-based deployments in Github Operations (GitOps). Open exploration challenges are additionally distinguished and added that can direct future research.
+ER  - 
+
+TY  - CONF
+TI  - A Prototype for Machine Learning Model Deployment in Cloud Environment
+T2  - 2023 International Conference on New Frontiers in Communication, Automation, Management and Security (ICCAMS)
+SP  - 1
+EP  - 4
+AU  - K. Ramalakshmi
+AU  - A. Agarwal
+AU  - H. Gunasekaran
+AU  - S. A. Khan
+AU  - N. K. Mandal
+PY  - 2023
+KW  - Training
+KW  - Costs
+KW  - Automation
+KW  - Prototypes
+KW  - Machine learning
+KW  - Libraries
+KW  - Security
+KW  - Deployment models
+KW  - docker
+KW  - Kubernetes
+KW  - Instances
+DO  - 10.1109/ICCAMS60113.2023.10526026
+JO  - 2023 International Conference on New Frontiers in Communication, Automation, Management and Security (ICCAMS)
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - 2023 International Conference on New Frontiers in Communication, Automation, Management and Security (ICCAMS)
+Y1  - 27-28 Oct. 2023
+AB  - Training and developing a Machine Learning (ML) model is a difficult task, and then after successfully creating a working model, deploying and distribution is an added feature. In most instances, those models are never deployed. To help with this, we present a prototype, a SaaS platform to allow users to dynamically deploy their machine learning models to the cloud and host them so that the user has complete control over the visibility and accessibility.This delivery and deployment model provides lower upfront cost, timely updates, and a dedicated work/host environment. The platform’s sole purpose revolves around the idea of a sharable deployable and ready to use Machine Learning Model. It takes advantage of the Continuous Integration and Continuous Delivery archetype facilitated by Kubernetes to dynamically provide custom and updated with the latest libraries docker environment.
+ER  - 
+
+TY  - CONF
+TI  - A Framework for Generative AI-Driven Application Modernization: Strategies and Case Studies
+T2  - 2025 5th International Conference on Electrical, Computer and Energy Technologies (ICECET)
+SP  - 1
+EP  - 8
+AU  - A. Wairagade
+PY  - 2025
+KW  - Feeds
+KW  - Feedback
+KW  - Circuits
+KW  - Internet of Things
+KW  - Communication systems
+KW  - Internet
+KW  - Telecommunications
+KW  - Communications technology
+KW  - Cloud computing
+KW  - Microservice architectures
+KW  - Artificial Intelligence (AI)
+KW  - Modernization Methods
+KW  - Generative AI
+KW  - Agile
+KW  - Data Driven
+KW  - Microservices
+KW  - Machine Learning
+DO  - 10.1109/ICECET63943.2025.11472176
+JO  - 2025 5th International Conference on Electrical, Computer and Energy Technologies (ICECET)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 5th International Conference on Electrical, Computer and Energy Technologies (ICECET)
+Y1  - 3-6 July 2025
+AB  - The dynamism in technology makes it essential for organizations to update their old applications to newer ones. This paper explores how Generative AI (Gen AI) can transform the application modernization through automation of key tasks such as code refactoring, system refactoring and security integration. In the case of Gen AI, the applicability of various modern tools and methodologies such as cloud migration, microservices architecture, and automation frameworks, including DevOps, and emerging players in DevSecOps. This paper demonstrates how Gen AI as an organizational change supports continuous delivery, security integration, and operation resilience. In addition, the research examines cloud computing, microservices architecture, and DevOps for application modernization. It also addresses how Generative AI improves modernization enablers to optimize productivity, velocity, and project success. Through insights from case study, the work indicates GenAI produces 40-70 percent improvement in modernization cost, speed and accuracy. Finally, a structured framework is also proposed to help the organizations in adoption of GenAI for efficient and sustainable modernization.
+ER  - 
+
+TY  - CONF
+TI  - Intelligent Code Analysis and Automated Testing Technologies for Power Grid Software Systems
+T2  - 2026 2nd International Conference on Power Electronics and Electric Drives (PEED)
+SP  - 421
+EP  - 425
+AU  - J. Zhao
+PY  - 2026
+KW  - Reviews
+KW  - Testing
+KW  - Modeling
+KW  - Large language models
+KW  - Printing
+KW  - Codes
+KW  - Business
+KW  - Art
+KW  - Digital twins
+KW  - Software
+KW  - power grid software
+KW  - intelligent code analysis
+KW  - automated testing
+KW  - LLM
+KW  - retrieval-augmented semantic review
+KW  - digital twin
+KW  - continuous integration/continuous delivery
+DO  - 10.1109/PEED69047.2026.00075
+JO  - 2026 2nd International Conference on Power Electronics and Electric Drives (PEED)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 2nd International Conference on Power Electronics and Electric Drives (PEED)
+Y1  - 13-15 March 2026
+AB  - Power grid software used in dispatching, substation monitoring, metering, and distribution management must satisfy stronger safety, traceability, and release-governance requirements than generic enterprise applications. Although recent studies on Large Language Model (lLM)-assisted code review and automated test generation have improved developer productivity, their direct adoption in grid software remains limited by weak domain grounding, inadequate risk prioritization, and insufficient coupling between review evidence and Continuous Integration (CI) / Continuous Delivery (CD) execution. This paper proposes a lifecycle-aware intelligent engineering framework for power grid software systems. A bounded re-trieval-augmented semantic review module first extracts structured change intent from commits, requirement notes, and defect tickets, then retrieves grid rules, historical incidents, and CI evidence, and finally invokes a locally deployed code LLM only within a controlled context window to produce evidence-linked review comments and test intents. A multi-source risk model then integrates static severity, historical defect density, semantic change scope, business criticality, and test-gap signals to allocate validation budget and trigger staged execution. Generated tests are retained only after deterministic compilation, oracle checking, and sandbox validation, while high-risk changes additionally activate digital-twin replay. Experiments on $\mathbf{1 8 6}$ change sets from 12 grid-related repositories show that precision improves from 0.74 to 0.87, recall from 0.68 to 0.82, and effective coverage from 11% to 29%, while median review time is reduced by 34%. Paired statistical tests confirm that the improvements in precision, recall, and effective coverage are significant ($\mathbf{p}\lt0.01$).
+ER  - 
+
+TY  - CONF
+TI  - Green Resilience of Cyber-Physical Systems
+T2  - 2022 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW)
+SP  - 105
+EP  - 109
+AU  - D. Rimawi
+PY  - 2022
+KW  - Uncertainty
+KW  - Green products
+KW  - Cyber-physical systems
+KW  - Air pollution
+KW  - Software
+KW  - Real-time systems
+KW  - Software reliability
+KW  - Green
+KW  - Resilience
+KW  - Cyber-Physical System
+KW  - On-line Learning
+KW  - Game Theory
+DO  - 10.1109/ISSREW55968.2022.00048
+JO  - 2022 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW)
+Y1  - 31 Oct.-3 Nov. 2022
+AB  - Cyber-Physical System (CPS) represents systems that join both hardware and software components to perform real-time services. Maintaining the system's reliability is critical to the continuous delivery of these services. However, the CPS running environment is full of uncertainties and can easily lead to performance degradation. As a result, the need for a recovery technique is highly needed to achieve resilience in the system, with keeping in mind that this technique should be as green as possible. This early doctorate proposal, suggests a game theory solution to achieve resilience and green in CPS. Game theory has been known for its fast performance in decision-making, helping the system to choose what maximizes its payoffs. The proposed game model is described over a real-life collaborative artificial intelligence system (CAIS), that involves robots with humans to achieve a common goal. It shows how the expected results of the system will achieve the resilience of CAIS with minimized CO2 footprint.
+ER  - 
+
+TY  - CONF
+TI  - Intelligent Risk-Aware Release Governance Using Agentic AI in Cloud-Native P&C Insurance Ecosystems
+T2  - 2026 IEEE International Conference on AI Engineering and Innovations (AIEI)
+SP  - 1
+EP  - 5
+AU  - K. B. Boddapati
+AU  - P. Madduri
+AU  - K. Turaga
+PY  - 2026
+KW  - Telemetry
+KW  - Aerospace and electronic systems
+KW  - Space debris
+KW  - System-on-chip
+KW  - Infrastructure as Code
+KW  - Telemetry
+KW  - Data communication
+KW  - Protocols
+KW  - Computer network management
+KW  - HTTP
+KW  - Agentic AI
+KW  - Cloud native
+KW  - insurance
+DO  - 10.1109/AIEI69164.2026.11497887
+JO  - 2026 IEEE International Conference on AI Engineering and Innovations (AIEI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 IEEE International Conference on AI Engineering and Innovations (AIEI)
+Y1  - 26-28 March 2026
+AB  - The property and casualty (P&C) insurance cloud-native transformation has hastened the use of continuous delivery and microservices architecture that makes release governance and operational risk management more complex. The conventional rule-based governance systems are not usually flexible to meet the dynamic regulatory needs, rollout risks and scalability of the system in a large scale. This research suggests a smart risk-conscious release governance framework based on agentic artificial intelligence to improve cloud-native P&C insurance system decision-making. The framework uses independent AI agents to determine deployment risks, implement regulatory regulations and mirror out release approvals at CI/CD pipelines. Experimental studies and simulation are performed to compare the proposed method with the traditional rule-based models of governance. The outcomes indicate a positive shift in the release failure rate, the mean time to recovery, the compliance adherence, and the deployment velocity. The ability of the agentic AI approach to withstand regulatory alterations, the occurrence of calamity, and infrastructure collapse through stress testing further confirms the power and strength of the approach. The results suggest that agentic AI allows scalable, explainable, and adaptive release governance to facilitate operational flexibility and regulatory confidence in innovative insurance platforms.
+ER  - 
+
+TY  - CONF
+TI  - AI-Augmented Quality Assurance for Enterprise Software Systems
+T2  - 2025 IEEE International Conference on Emerging Trends in Computing and Communication (ETCOM)
+SP  - 1
+EP  - 6
+AU  - S. Singireddy
+AU  - A. M. Sivagnanam
+AU  - G. Surianarayanan
+PY  - 2025
+KW  - Performance evaluation
+KW  - Quality assurance
+KW  - DevOps
+KW  - Pipelines
+KW  - System integration
+KW  - Predictive models
+KW  - Software systems
+KW  - Reliability
+KW  - Predictive analytics
+KW  - Testing
+KW  - AI Testing
+KW  - Quality Assurance
+KW  - Test Automation
+KW  - Predictive Analytics
+KW  - Enterprise Systems
+KW  - DevOps
+DO  - 10.1109/ETCOM66606.2025.11436286
+JO  - 2025 IEEE International Conference on Emerging Trends in Computing and Communication (ETCOM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Emerging Trends in Computing and Communication (ETCOM)
+Y1  - 28-29 Nov. 2025
+AB  - The rapid growth of enterprise software ecosystems presents new challenges to quality at scale. Traditional Quality Assurance (QA) methods thatare based on manual verification and static automation tools have difficulty catching up with the speed of continuous delivery pipelines and system integrations. We propose AI-Augmented Quality Assurance (AI-QA): a framework which combines predictive analytics, generative AI and intelligent automation to improve quality, speed and reliability in an enterprise context. The proposed framework uses machine learning models to predict defective modules, utilizes large language models (LLMs) to automatically produce and improve a set of test cases, and implements feedback-driven self-learning loops to provide continuous improvement. Empirical results in a real-world enterprise setting show up to 40% % reduction in validation effort and 30% increase in defect detection efficiency, along with significant improvements in terms of regression coverage. This study describes the architecture, implementation, and performance evaluation of this AI-QA framework and what its implications are for future DevOps pipelines and digital transformation efforts.
+ER  - 
+
+TY  - CONF
+TI  - GenAI-Driven Autonomous DevSecOps Pipelines for Secure Financial Infrastructure
+T2  - 2026 6th International Conference on Electrical, Computer and Energy Technologies (ICECET)
+SP  - 1
+EP  - 6
+AU  - U. K. A. Sethupathy
+PY  - 2026
+KW  - Modeling
+KW  - Pipelines
+KW  - Security
+KW  - Machine learning
+KW  - Telemetry
+KW  - Testing
+KW  - Software
+KW  - Predictive analytics
+KW  - Machining
+KW  - Architecture
+KW  - GenAI
+KW  - DevSecOps
+KW  - CI/CD automation
+KW  - cybersecurity analytics
+KW  - software delivery pipelines
+DO  - 10.1109/ICECET65726.2026.11632669
+JO  - 2026 6th International Conference on Electrical, Computer and Energy Technologies (ICECET)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 6th International Conference on Electrical, Computer and Energy Technologies (ICECET)
+Y1  - 6-9 July 2026
+AB  - Modern financial software systems rely heavily on continuous integration and continuous delivery (CI/CD) pipelines to deploy features, security updates, and infrastructure changes at high velocity. While DevSecOps practices have improved automation in software delivery, most pipeline governance still depends on manual decision-making for handling failures, vulnerabilities, and deployment anomalies. This human dependency introduces operational delays, increases security risk exposure, and limits scalability of software delivery pipelines. This paper proposes a GenAI-driven autonomous DevSecOps orchestration framework designed to enable predictive security analytics and automated control actions in CI/CD pipelines. The framework integrates real-time pipeline telemetry with machine learning models capable of detecting anomalies, forecasting deployment failures, and identifying security risks prior to pipeline completion. A GenAI reasoning layer orchestrates remediation strategies including automated rollbacks, security gating, and adaptive pipeline optimization. Experimental evaluation using representative CI/CD telemetry demonstrates that the proposed system improves failure prediction accuracy, reduces mean time to recovery, and enhances overall deployment reliability in financial software infrastructure. The results indicate that integrating generative AI with DevSecOps orchestration can significantly enhance resilience and security in modern financial technology platforms.
+ER  - 
+
+TY  - CONF
+TI  - Deploying AI Models in Resource-Constrained Environments
+T2  - 2025 IEEE International Conference on Collaborative Advances in Software and COmputiNg (CASCON)
+SP  - 583
+EP  - 584
+AU  - Y. Su
+AU  - M. Fokaefs
+PY  - 2025
+KW  - Visualization
+KW  - DevOps
+KW  - Codes
+KW  - Automation
+KW  - Pipelines
+KW  - Production
+KW  - Market research
+KW  - Software
+KW  - Reproducibility of results
+KW  - Mobile applications
+KW  - DevOps
+KW  - MLOps
+KW  - GitHub Actions
+KW  - MLflow
+KW  - Automation
+KW  - Commit Traceability
+DO  - 10.1109/CASCON66301.2025.00095
+JO  - 2025 IEEE International Conference on Collaborative Advances in Software and COmputiNg (CASCON)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Collaborative Advances in Software and COmputiNg (CASCON)
+Y1  - 10-13 Nov. 2025
+AB  - Deploying and maintaining AI models in production is often constrained by limited visibility into how code changes affect model performance. In this work, we present an integrated DevOps/MLOps pipeline that connects software development workflows with machine learning lifecycle management for mobile applications. The pipeline automatically detects if updates are derived from code or data changes, retrains models as needed, and records outcomes in a structured commit history. Each GitHub commit is linked to its MLflow run, including metrics, parameters, artifacts, and model versions. To ensure transparency and reproducibility, the system generates automated summaries with performance tables, commit-linked visualizations of accuracy trends, and artifacts bundled into the Android application. Significant result changes, whether regressions or improvements, are flagged in both plots and tables, allowing developers to trace results directly to specific commits. Additional automation manages registry models, fetches the correct version for deployment, and prunes outdated runs to maintain a clean tracking environment. We validate our approach on a mobile COVID-19 test-strip reader app, demonstrating efficient deployment of lightweight AI models on resource-constrained devices. Beyond this use case, the methodology can be applied to other settings where results must remain transparent and verifiable during continuous delivery. Our contribution is a practical framework that links DevOps and MLOps practices, making outputs transparent, visual, and reproducible across the entire CI/CD pipeline. This work offers insights for researchers and practitioners seeking scalable, transparent, and automated AI deployment in real-world applications.
+ER  - 
+
+TY  - CONF
+TI  - Challenges and Experiences of Iranian Developers with MLOps at Enterprise
+T2  - 2023 7th Iranian Conference on Advances in Enterprise Architecture (ICAEA)
+SP  - 26
+EP  - 32
+AU  - M. Heydari
+AU  - Z. Rezvani
+PY  - 2023
+KW  - DevOps
+KW  - Navigation
+KW  - Data integrity
+KW  - Collaboration
+KW  - Machine learning
+KW  - Software
+KW  - Data models
+KW  - Machine Learning Operations
+KW  - MLOps
+KW  - MLOps Tools
+KW  - MLOps Challenges
+KW  - MLOps Solutions
+DO  - 10.1109/ICAEA60387.2023.10414442
+JO  - 2023 7th Iranian Conference on Advances in Enterprise Architecture (ICAEA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 7th Iranian Conference on Advances in Enterprise Architecture (ICAEA)
+Y1  - 15-16 Nov. 2023
+AB  - Data is becoming more complex, and so are the approaches designed to process it. Enterprises have access to more data than ever, but many still struggle to glean the full potential of insights from what they have. This research explores the challenges and experiences of Iranian developers in implementing the MLOps paradigm within enterprise settings. MLOps, or Machine Learning Operations, is a discipline focused on automating the continuous delivery of machine learning models. In this study, we review the most popular MLOps tools used by leading technology enterprises. Additionally, we present the results of a questionnaire answered by over 110 Iranian Machine Learning experts and Software Developers, shedding light on MLOps tools and the primary obstacles faced. The findings reveal that data quality problems, a lack of resources, and difficulties in model deployment are among the primary challenges faced by practitioners. Collaboration between ML, DevOps, Ops, and Science teams is seen as a pivotal challenge in implementing MLOps effectively.
+ER  - 
+
+TY  - JOUR
+TI  - MLOps: A Taxonomy and a Methodology
+T2  - IEEE Access
+SP  - 63606
+EP  - 63618
+AU  - M. Testi
+AU  - M. Ballabio
+AU  - E. Frontoni
+AU  - G. Iannello
+AU  - S. Moccia
+AU  - P. Soda
+AU  - G. Vessio
+PY  - 2022
+KW  - Pipelines
+KW  - Production
+KW  - Monitoring
+KW  - Training
+KW  - Business
+KW  - Automation
+KW  - Surgery
+KW  - MLOps
+KW  - continuous monitoring
+KW  - continuous integration
+KW  - continuous delivery
+KW  - continuous training
+KW  - XAI
+KW  - sustainability
+DO  - 10.1109/ACCESS.2022.3181730
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 10
+VL  - 10
+JA  - IEEE Access
+Y1  - 2022
+AB  - Over the past few decades, the substantial growth in enterprise-data availability and the advancements in Artificial Intelligence (AI) have allowed companies to solve real-world problems using Machine Learning (ML). ML Operations (MLOps) represents an effective strategy for bringing ML models from academic resources to useful tools for solving problems in the corporate world. The current literature on MLOps is still mostly disconnected and sporadic. In this work, we review the existing scientific literature and we propose a taxonomy for clustering research papers on MLOps. In addition, we present methodologies and operations aimed at defining an ML pipeline to simplify the release of ML applications in the industry. The pipeline is based on ten steps: business problem understanding, data acquisition, ML methodology, ML training & testing, continuous integration, continuous delivery, continuous training, continuous monitoring, explainability, and sustainability. The scientific and business interest and the impact of MLOps have grown significantly over the past years: the definition of a clear and standardized methodology for conducting MLOps projects is the main contribution of this paper.
+ER  - 
+
+TY  - CONF
+TI  - Enhancing Software Engineering Through AI: A Comprehensive Exploration
+T2  - 2025 1st International Conference on Computational Intelligence Approaches and Applications (ICCIAA)
+SP  - 1
+EP  - 6
+AU  - N. Nwasra
+AU  - A. Alsalemi
+PY  - 2025
+KW  - Accuracy
+KW  - Computer bugs
+KW  - Pipelines
+KW  - Debugging
+KW  - Manuals
+KW  - Maintenance engineering
+KW  - Transformers
+KW  - Artificial intelligence
+KW  - Software engineering
+KW  - Testing
+KW  - Artificial Intelligence
+KW  - Software Engineering
+KW  - Automated Bug Fixing
+KW  - Transformer-based Models
+KW  - CI/CD
+KW  - Hybrid Debugging
+DO  - 10.1109/ICCIAA65327.2025.11013170
+JO  - 2025 1st International Conference on Computational Intelligence Approaches and Applications (ICCIAA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 1st International Conference on Computational Intelligence Approaches and Applications (ICCIAA)
+Y1  - 28-30 April 2025
+AB  - The integration of Artificial Intelligence (AI) techniques into Software Engineering (SE) has opened new avenues for improving software development, testing, and maintenance processes. This paper explores the transformative potential of AI-driven approaches in addressing some of the most persistent challenges in modern software engineering workflows. Specifically, it highlights the application of AI for automated bug detection and fixing in open-source software projects, which often grapple with complex codebases and evolving requirements. Through a detailed case study based on the Defects4J dataset, we demonstrate how a Transformer-based model can effectively detect bugs and suggest relevant fixes, showcasing an impressive 85% detection rate with a precision of 92%. Additionally, the model successfully proposed accurate fixes for 70% of identified bugs, as verified by developer feedback and performance testing. The integration of this model into Continuous Integration/Continuous Delivery (CI/CD) pipelines further reduced debugging time by 50%, underscoring its practical viability and substantial productivity gains. Moreover, developer feedback emphasized the system's usability, with many praising its ability to identify subtle bugs that often escape manual detection. However, challenges persist, including false positives and handling highly intricate bug scenarios, which remain areas for future refinement. This study not only underscores the efficacy of AI tools in augmenting traditional SE practices but also paves the way for future innovations in hybrid AI-human debugging workflows. By combining advanced machine learning architectures with real-world applicability, this research bridges the gap between theory and practice, offering a scalable solution for improving software reliability and developer efficiency.
+ER  - 
+
+TY  - CONF
+TI  - Non-functional Requirements Prioritization: A Systematic Literature Review
+T2  - 2019 45th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)
+SP  - 379
+EP  - 386
+AU  - K. B. Ijaz
+AU  - I. Inayat
+AU  - F. Allah Bukhsh
+PY  - 2019
+KW  - Search problems
+KW  - Software engineering
+KW  - Systematics
+KW  - Bibliographies
+KW  - Data mining
+KW  - Quality assessment
+KW  - systematic literature review
+KW  - quality requirements
+KW  - non-functional requirements
+KW  - quality attributes
+DO  - 10.1109/SEAA.2019.00064
+JO  - 2019 45th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2019 45th Euromicro Conference on Software Engineering and Advanced Applications (SEAA)
+Y1  - 28-30 Aug. 2019
+AB  - Continuous delivery and rapidly changing requirements in agile environments force the developers to put non-functional requirements (NFRs) on halt till maintenance phase. However, neglecting NFRs during prioritization phase may lead to inaccurate estimations for software projects resulting in high maintenance cost and failures. The subjective and uncertain nature of non-functional requirements makes them unfit to be prioritized using conventional prioritization methods. Although the existing literature reports on inadequate consideration given to NFRs prioritization, still no comprehensive systematic effort has been done to report the limitations and evaluation mechanisms of existing NFRs prioritization approaches. Requirements engineering society lacks a broad understanding of NFRs prioritization approaches and the challenges which need to be overcome. Therefore, we aim to investigate (i) the existing NFR prioritization techniques and their validation mechanisms, (ii) the role of Artificial Intelligence (AI) in NFRs prioritization, and (iii) the limitations of existing NFRs prioritization techniques. For this, we reviewed the literature published from 2008 till present and extracted 30 studies. The results reveal twenty-five NFRs prioritization techniques out of which only three are AI based. The major limitations we have come across are that most of the NFRs prioritization techniques are not scalable to large datasets, inter-dependencies between functional requirements (FRs) and NFRs are ignored, and the uncertainties associated with NFRs are not considered at all. However, the literature suggests that AI-based techniques and Fuzzy logic may be used to solve issues such as uncertainties i.e. ambiguities, vagueness, and subjective opinions of stakeholders. This review adds to the existing body of knowledge on NFRs and motivates the practitioners to focus on the NFR prioritization by highlighting the limitations of the existing methods.
+ER  - 
+
+TY  - CONF
+TI  - A study on Unlocking the potential of different AI in Continuous Integration and Continuous Delivery (CI/CD)
+T2  - 2024 4th International Conference on Innovative Practices in Technology and Management (ICIPTM)
+SP  - 1
+EP  - 6
+AU  - P. Sharma
+AU  - M. S. Kulkarni
+PY  - 2024
+KW  - Surveys
+KW  - Ethics
+KW  - DevOps
+KW  - Pipelines
+KW  - Production
+KW  - Organizations
+KW  - Reliability theory
+KW  - AI Integration
+KW  - CI/CD
+KW  - DevOps
+KW  - GenAI
+KW  - Responsible AI
+KW  - Machine learning
+KW  - Software Development
+KW  - Process Optimization
+DO  - 10.1109/ICIPTM59628.2024.10563618
+JO  - 2024 4th International Conference on Innovative Practices in Technology and Management (ICIPTM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 4th International Conference on Innovative Practices in Technology and Management (ICIPTM)
+Y1  - 21-23 Feb. 2024
+AB  - In the changing era of software development, Artificial Intelligence (AI) integration has become a disruptive trend, especially in the areas of software development. This paper focused on addressing existing gaps in understanding the impact of GenAI in DevOps CI/CD pipelines, the goal of this research is to fulfill the gap by investigating the potential of GenAI and evaluating the broader impact of AI techniques on CI/CD, in order to improve the effectiveness, speed, and quality of process related to development of software. Continuous Integration ensures the instant integration of any changes made to code into a shared repository whereas Continuous Delivery speeds up the delivery lifecycle, minimizes manual intervention, and automates the deployment of software to production environment.The methodology is to identify and analyze the current landscape of AI-powered DevOps tools, further investigate different AI techniques which can be applied to CI/CD pipelines, and then evaluating the impact of AI on CI/CD efficiency and effectiveness. The research use both qualitative and quantitative approaches, by a questionnaire-based survey to collect data from industry professionals.The findings shows that even if CI/CD pipelines have advancement, problems still exist, requiring the use of GenAI to achieve more benefits. GenAI emerges as a shifting technology, parallelly responsible AI is needed to address ethical concerns for AI decision-making. This research will be beneficial for software developers, DevOps teams, and organizations who wants to enhance the reliability, and ethical dimensions of their CI/CD processes. By addressing existing gaps and understanding the potential of AI in DevOps, this research contributes to both developments in theory and real-world applications in the rapidly evolving field of software development.
+ER  - 
+
+TY  - CONF
+TI  - Enhancing Autonomous Driving Systems through ROS2 and AWS Cloud: V2I Interaction and HPC Data Processing
+T2  - 2024 IEEE 33rd International Symposium on Industrial Electronics (ISIE)
+SP  - 1
+EP  - 6
+AU  - S. W. Lee
+AU  - Y. G. Choi
+AU  - J. W. Jeon
+PY  - 2024
+KW  - Technological innovation
+KW  - Vehicle-to-infrastructure
+KW  - Wireless networks
+KW  - Memory management
+KW  - Data processing
+KW  - Throughput
+KW  - Software systems
+KW  - SDV
+KW  - V2I
+KW  - ROS2
+KW  - Middleware
+KW  - Docker
+DO  - 10.1109/ISIE54533.2024.10595834
+JO  - 2024 IEEE 33rd International Symposium on Industrial Electronics (ISIE)
+IS  - 
+SN  - 2163-5145
+VO  - 
+VL  - 
+JA  - 2024 IEEE 33rd International Symposium on Industrial Electronics (ISIE)
+Y1  - 18-21 June 2024
+AB  - The automotive industry is undergoing a significant shift towards software-defined computing to meet the evolving demands of technology and the increasing complexity of software systems. This transition is giving rise to innovations such as Software Defined Vehicles (SDVs), which aim to enhance safety and convenience features, relying on technologies like Artificial Intelligence (AI), Advanced driver assistance systems (ADAS), and Robot Operating System2 (ROS2) for autonomous driving research. To effectively manage the growing amount of software in vehicles, strategies such as partitioned processing and infrastructure utilization are being proposed to optimize High-Performance Computing (HPC) usage and ensure reliable real-time data processing while minimizing resource consumption. In this paper, we propose a system that utilizes infrastructure to reduce the services to be handled by HPC to meet the SDV research trend and builds a pipeline to manage and deploy application Software. To demonstrate the proposed system, we utilized ROS2, Docker technology, and continuous integration and continuous delivery/continuous deployment (CI/CD) deployment for Over-The-Air (OTA).
+ER  - 
+
+TY  - CONF
+TI  - Recent Advancements in Automated Penetration Testing Tools for Web Application Security
+T2  - 2025 2nd International Symposium on Parallel Computing and Distributed Systems (PCDS)
+SP  - 1
+EP  - 6
+AU  - P. C. Bandhapaday
+AU  - M. J. Islam
+AU  - M. Saifuddin
+AU  - L. Ismail
+AU  - H. Salarian
+AU  - S. S. Chaeikar
+PY  - 2025
+KW  - Surveys
+KW  - Pipelines
+KW  - Reinforcement learning
+KW  - Application security
+KW  - Robustness
+KW  - Regulation
+KW  - Artificial intelligence
+KW  - Computer crime
+KW  - Stress
+KW  - Penetration testing
+KW  - automated penetration testing
+KW  - web application security
+KW  - ethical hacking
+KW  - AI-driven testing
+KW  - vulnerability assessment
+KW  - compliance
+DO  - 10.1109/PCDS68697.2025.11415292
+JO  - 2025 2nd International Symposium on Parallel Computing and Distributed Systems (PCDS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 2nd International Symposium on Parallel Computing and Distributed Systems (PCDS)
+Y1  - 11-13 Dec. 2025
+AB  - This paper provides a survey on the latest developments of tools for Web application security with a comprehensive assessment of eight published studies from 2020 to 2025 – insight into their efficiency, how much they are integrated into artificial intelligence (AI), and regulations such as PCI DSS/GDPR. Improvements in the detection of well-known flaws are evident, as demonstrated by Burp Suite reaching 70%+ coverage of OWASP Top 10 risks and OWASP ZAP with the best cost-effective scanning at this post from a set of tools including AI-driven frameworks such as the Intelligent Automated Penetration Testing System (IAPTS). The MDDQN (relational) algorithm shows promising results in few-shot adversarial robustness via acceleration of attack path planning from reinforcement learning and deep neural networks for efficiency. Still, some are quite challenging, e.g., high computational costs, misidentifications, and inability to detect zero-days necessitate the motivations for hybrid approaches combining automated and manual testing. Reviewed studies stress the critical need for evolving threats tackled by multi-tool strategies and integrations in continues integration/continuous delivery (CI/CD) pipelines for ongoing testing. Regulatory compliance is important, so tools to allow the regular upgrades of compliance will be useful. Investigation directions should focus on establishing benchmarks, lowering the barriers to implementation of AI, and improving detection of advanced attacks. Through synthesis of technical developments and practitioner experiences, this research aimed to improve the comprehension of automated penetration testing capabilities in securing web apps from evolving cyberattacks as of 2025.
+ER  - 
+
+TY  - CONF
+TI  - Navigating the Landscape: An In-Depth Exploration of Modern Application Development Methodologies and Practices
+T2  - 2024 International Conference on Innovations and Challenges in Emerging Technologies (ICICET)
+SP  - 1
+EP  - 8
+AU  - M. Singh
+PY  - 2024
+KW  - Surveys
+KW  - Technological innovation
+KW  - DevOps
+KW  - Navigation
+KW  - Microservice architectures
+KW  - Serverless computing
+KW  - Organizations
+KW  - Agile
+KW  - DevOps
+KW  - Microservices Architecture
+KW  - Software Development
+KW  - Serverless Computing
+DO  - 10.1109/ICICET59348.2024.10616327
+JO  - 2024 International Conference on Innovations and Challenges in Emerging Technologies (ICICET)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Innovations and Challenges in Emerging Technologies (ICICET)
+Y1  - 7-8 June 2024
+AB  - Modern software development is a dynamic landscape, continually shaped by evolving technologies, methodologies, and organizational demands. This research paper delves into the intricate web of modern application development methodologies and practices, aiming to provide a comprehensive understanding of the choices available to developers and organizations. The study investigates the Agile methodology, DevOps practices, continuous integration/continuous delivery (CI/CD), Microservices Architecture, and Serverless Computing, scrutinizing their principles, benefits, challenges, and real-world applications. The research employs a systematic literature review and comparative analysis to examine the strengths and weaknesses of each methodology. Insights derived from case studies and best practices highlight successful implementation strategies, fostering a nuanced understanding of the diverse approaches within the realm of modern application development. Our findings reveal that the Agile methodology, with its iterative and collaborative approach, has become a cornerstone for many development teams. DevOps emerges as a transformative force, promoting seamless integration between development and operations. CI/CD practices enable efficient delivery pipelines, while Microservices Architecture and Serverless Computing offer scalable and flexible solutions. The comparative analysis dissects these methodologies, offering a roadmap for developers and organizations to navigate the complexities and select the most suitable approach based on project requirements. Looking ahead, the paper explores future trends in modern application development, considering the potential impact of emerging technologies such as artificial intelligence and blockchain. The research identifies challenges and opportunities on the horizon, urging the software development community to stay vigilant and adaptive in the face of evolving demands. This research not only provides an in-depth exploration of modern application development methodologies but also offers practical insights to guide developers and organizations in making informed decisions. As technology continues to advance, the findings presented herein serve as a valuable resource for navigating the ever-changing landscape of application development.
+ER  - 
+
+TY  - CONF
+TI  - AI-Powered Psychiatric Expert System with Continuous Improvement
+T2  - 2025 International Conference on Emerging Engineering Technologies and Applications (IC-EETA)
+SP  - 84
+EP  - 89
+AU  - Kirti
+AU  - T. Aggarwal
+AU  - C. Narang
+AU  - Paramjit
+PY  - 2025
+KW  - Modeling
+KW  - Artificial intelligence
+KW  - Printing
+KW  - Mental health
+KW  - Expert systems
+KW  - Training
+KW  - Testing
+KW  - Accuracy
+KW  - Organizations
+KW  - Reviews
+KW  - Artificial Intelligence (AI)
+KW  - Large Language Models (LLMs)
+KW  - Continuous Integration and Continuous Delivery (CI/CD)
+KW  - Psychiatric Disorders
+KW  - Expert Systems
+KW  - Machine Learning
+KW  - Natural Language Processing
+DO  - 10.1109/IC-EETA66496.2025.11548478
+JO  - 2025 International Conference on Emerging Engineering Technologies and Applications (IC-EETA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Emerging Engineering Technologies and Applications (IC-EETA)
+Y1  - 6-8 Nov. 2025
+AB  - With medical health disorders increasing their share of burdens towards the comprehensive burden of diseases, as per the World Health Organization (WHO), the disorder may account for 13% of the total illness by 2030 [1]. Inspire of this critical situation, the field has been continuously facing challenges. Be it social or be it limited access to resources, which may lead to delayed diagnosis. This research successfully presents an Artificial Intelligence based Expert System harnessed by the capabilities of large Language Models (LLMs) and backed by the highly efficient and reliable advanced Continuous-integration and Continuous-Delivery Mechanism (CI/CD) pipeline. The model’s robust AI based training shall help in simulating highly accurate Psychiatric-based decision making. CI/CD shall hold the responsibility of uninterrupted management of the model with the capabilities of Version Control, error-tracking, continuous deployment in minimal outage/downtime.
+ER  - 
+
+TY  - JOUR
+TI  - AI in Agile Environments: Opportunities, Challenges, and Purpose-Aligned Practical Implementation Framework
+T2  - IEEE Access
+SP  - 98582
+EP  - 98590
+AU  - E. Svejdarova
+AU  - D. Palla
+AU  - V. Mullin
+PY  - 2026
+KW  - Artificial intelligence
+KW  - Tools
+KW  - Modeling
+KW  - Surveys
+KW  - Interviews
+KW  - Licenses
+KW  - Software
+KW  - Codes
+KW  - Collaboration
+KW  - Artificial intelligence
+KW  - agile development
+KW  - team dynamics
+KW  - implementation framework
+KW  - human-centered AI
+DO  - 10.1109/ACCESS.2026.3703078
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 14
+VL  - 14
+JA  - IEEE Access
+Y1  - 2026
+AB  - As Agile methodologies face increasing complexity and demands for continuous delivery, Artificial Intelligence (AI) presents opportunities to enhance communication and predictive decision-making. However, adoption remains inconsistent due to persistent technical and ethical barriers. This study employs a sequential explanatory mixed-methods design, analyzing data from an exploratory structured survey of 54 Agile practitioners followed by semi-structured interviews analyzed using Constructivist Grounded Theory. Results indicate that while 78% of teams have experimented with AI, only 11% have achieved embedded integration. Furthermore, a cross-tabulation analysis reveals a maturity paradox: while exploratory teams primarily struggle with technical literacy, mature teams encounter significant ethical and data-governance barriers. Results are presented as indicative, advancing a preliminary conceptual model intended to stimulate further empirical validation. Addressing these challenges, the paper proposes a Purpose-Aligned Layered Framework grounded in Wholeness Systems Thinking. This three-layered model—comprising Foundation, Integration, and Outcome—guides teams in aligning AI tools with specific Agile ceremonies to augment, rather than replace, human collaboration and adaptability.
+ER  - 
+
+TY  - CONF
+TI  - Towards MLOps: A Case Study of ML Pipeline Platform
+T2  - 2020 International Conference on Artificial Intelligence and Computer Engineering (ICAICE)
+SP  - 494
+EP  - 500
+AU  - Y. Zhou
+AU  - Y. Yu
+AU  - B. Ding
+PY  - 2020
+KW  - Training
+KW  - Computational modeling
+KW  - Pipelines
+KW  - Graphics processing units
+KW  - Tools
+KW  - Data models
+KW  - Task analysis
+KW  - MLOps
+KW  - machine learning
+KW  - end-to-end platform
+KW  - DevOps
+KW  - continuous training
+DO  - 10.1109/ICAICE51518.2020.00102
+JO  - 2020 International Conference on Artificial Intelligence and Computer Engineering (ICAICE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 International Conference on Artificial Intelligence and Computer Engineering (ICAICE)
+Y1  - 23-25 Oct. 2020
+AB  - The development and deployment of machine learning (ML) applications differ significantly from traditional applications in many ways, which have led to an increasing need for efficient and reliable production of ML applications and supported infrastructures. Though platforms such as TensorFlow Extended (TFX), ModelOps, and Kubeflow have provided end-to-end lifecycle management for ML applications by orchestrating its phases into multistep ML pipelines, their performance is still uncertain. To address this, we built a functional ML platform with DevOps capability from existing continuous integration (CI) or continuous delivery (CD) tools and Kubeflow, constructed and ran ML pipelines to train models with different layers and hyperparameters while time and computing resources consumed were recorded. On this basis, we analyzed the time and resource consumption of each step in the ML pipeline, explored the consumption concerning the ML platform and computational models, and proposed potential performance bottlenecks such as GPU utilization. Our work provides a valuable reference for ML pipeline platform construction in practice.
+ER  - 
+
+TY  - CONF
+TI  - DevOps for AI – Challenges in Development of AI-enabled Applications
+T2  - 2020 International Conference on Software, Telecommunications and Computer Networks (SoftCOM)
+SP  - 1
+EP  - 6
+AU  - L. E. Lwakatare
+AU  - I. Crnkovic
+AU  - J. Bosch
+PY  - 2020
+KW  - Training
+KW  - Buildings
+KW  - Machine learning
+KW  - Predictive models
+KW  - Software systems
+KW  - Computer networks
+KW  - Telecommunications
+KW  - AI
+KW  - Machine Learning
+KW  - Agile software development
+DO  - 10.23919/SoftCOM50211.2020.9238323
+JO  - 2020 International Conference on Software, Telecommunications and Computer Networks (SoftCOM)
+IS  - 
+SN  - 1847-358X
+VO  - 
+VL  - 
+JA  - 2020 International Conference on Software, Telecommunications and Computer Networks (SoftCOM)
+Y1  - 17-19 Sept. 2020
+AB  - When developing software systems that contain Machine Learning (ML) based components, the development process become significantly more complex. The central part of the ML process is training iterations to find the best possible prediction model. Modern software development processes, such as DevOps, have widely been adopted and typically emphasise frequent development iterations and continuous delivery of software changes. Despite the ability of modern approaches in solving some of the problems faced when building ML-based software systems, there are no established procedures on how to combine them with processes in ML workflow in practice today. This paper points out the challenges in development of complex systems that include ML components, and discuss possible solutions driven by the combination of DevOps and ML workflow processes. Industrial cases are presented to illustrate these challenges and the possible solutions.
+ER  - 
+
+TY  - JOUR
+TI  - GATEKEEPER Platform: Secure Processing Environment for European Health Data Space
+T2  - IEEE Access
+SP  - 34627
+EP  - 34638
+AU  - E. Gaeta
+AU  - M. Salman Haleem
+AU  - L. Lopez-Perez
+AU  - M. Manea
+AU  - M. Fernanda Cabrera Umpierrez
+AU  - M. Teresa Arredondo Waldmeyer
+AU  - L. Pecchia
+AU  - G. Fico
+PY  - 2025
+KW  - Security
+KW  - Logic gates
+KW  - Europe
+KW  - Scalability
+KW  - Collaboration
+KW  - Microservice architectures
+KW  - Computer architecture
+KW  - Interoperability
+KW  - DevOps
+KW  - Electronic healthcare
+KW  - CI/CD
+KW  - data scalability
+KW  - data security
+KW  - European health data space
+KW  - healthcare platform
+KW  - SecDevOps
+DO  - 10.1109/ACCESS.2025.3539559
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 13
+VL  - 13
+JA  - IEEE Access
+Y1  - 2025
+AB  - The European Health Data Space (EHDS) is a significant initiative within the European Union aimed at improving healthcare through better use of health data and collaboration. This involves sharing and utilization of health data in a secure and interoperable manner across EU member states. With the advent of modern technology, different types of health data are being acquired ranging from traditional electronic health records to real-time wearable signals for improved healthcare delivery and management. However, there are certain challenges associated with compliance to EHDS, such as secure continuous integration (CI) and continuous delivery (CD), scalability and adaptability towards new technologies and applications, tolerance against IoT cyber-attacks, requirement of advanced data storage methods, processing power, interoperability solutions for data analysis and connectivity. In order to address these, a flagship project of the European Commission, GATEKEEPER, represents a pioneering effort designed to transform healthcare delivery through the utilization of sophisticated digital technologies. The architecture of the GATEKEEPER platform has been meticulously crafted, in compliance with the EHDS, to integrate a multitude of data sources, deploying advanced analytical tools to enable the development of novel solutions for the effective prediction, detection, and management of chronic health conditions. GATEKEEPER addresses the aforementioned challenges by integrating collaborative tools for data management and consistency, machine learning modelling and management tool, activity feeds and issue tracking tools with developers authentication, CI/CD tools allowing, among others scalability in multiple formats, tools for assessing security, vulnerability and dependency for third party packages.
+ER  - 
+
+TY  - CONF
+TI  - PrivBuild-Ai: An RL-Powered Framework for Differentially Private Data in DevSecOps
+T2  - 2025 5th International Conference on Artificial Intelligence, Automation and High Performance Computing (AIAHPC)
+SP  - 789
+EP  - 794
+AU  - A. Aggarwal
+AU  - J. J. Vora
+AU  - N. Sirikonda
+AU  - B. B. Sawant
+PY  - 2025
+KW  - Privacy
+KW  - Differential privacy
+KW  - Automation
+KW  - Runtime
+KW  - Accuracy
+KW  - Pipelines
+KW  - Organizations
+KW  - Throughput
+KW  - Security
+KW  - Testing
+KW  - Differential Privacy
+KW  - DevSecOps
+KW  - Privacy Budget Scheduling
+KW  - Data Privacy
+KW  - CI/CD
+KW  - Security Testing
+KW  - Reinforcement-Learning Optimizer
+KW  - Secure Software Supply Chain
+DO  - 10.1109/AIAHPC66801.2025.11290296
+JO  - 2025 5th International Conference on Artificial Intelligence, Automation and High Performance Computing (AIAHPC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 5th International Conference on Artificial Intelligence, Automation and High Performance Computing (AIAHPC)
+Y1  - 19-21 Sept. 2025
+AB  - Modern continuous integration / continuous delivery (CI/CD) pipelines run security tests—static analysis, dynamic fuzzing, policy checks—on production-like data long before code reaches production. This shift-left practice speeds feedback but exposes sensitive records to pre-production tools. Existing redaction and tokenisation often degrade test accuracy and provide no formal privacy guarantee, leaving DevSecOps teams torn between realism and compliance. We present a drop-in framework that delivers differentially private (DP) snapshots to every pipeline stage without slowing release cadence. Key features are: (i) multi-level privacy ledgers (user, build, organization); (ii) calibrated Laplace and Gaussian mechanisms plus a deep-Q-network scheduler that learns to allocate the per-query privacy budget; and (iii) a policy-as-code interface that lets builds request, reserve, and audit budget on demand. Formal analysis shows the design retains DP under arbitrary post-processing and subsampling. On representative payroll and healthcare workloads (up to 107 rows) the framework keeps aggregate error below two percent with a budget of ε = 1, adds only 8.7 percent runtime overhead, and sustains about 1400 builds per day—nearly doubling throughput versus strong-composition baselines. Accuracy improves by 40–110% compared with the best published sanitisation scheme. These results confirm that strong mathematical privacy, machine-learning budget control, and near-real-time DevSecOps automation can co-exist, enabling auditable security testing in highly regulated environments without sacrificing data utility.
+ER  - 
+
+TY  - CONF
+TI  - Efficient Auto Scaling of Pods in Kubernetes: Accelerating Continuous Delivery with KEPTN
+T2  - 2024 5th International Conference on Electronics and Sustainable Communication Systems (ICESC)
+SP  - 1350
+EP  - 1355
+AU  - P. Sivaraman
+AU  - G. Prabaharan
+AU  - V. Rajasekar
+AU  - V. Sarveshwaran
+PY  - 2024
+KW  - Scalability
+KW  - Pipelines
+KW  - Documentation
+KW  - Tutorials
+KW  - Production
+KW  - Continuous integration
+KW  - Software
+KW  - Security
+KW  - Reliability
+KW  - Protection
+KW  - Kubernetes
+KW  - continuous integration
+KW  - continuous delivery
+KW  - Keptn
+KW  - Azure
+DO  - 10.1109/ICESC60852.2024.10689854
+JO  - 2024 5th International Conference on Electronics and Sustainable Communication Systems (ICESC)
+IS  - 
+SN  - 2996-5357
+VO  - 
+VL  - 
+JA  - 2024 5th International Conference on Electronics and Sustainable Communication Systems (ICESC)
+Y1  - 7-9 Aug. 2024
+AB  - Model deployment in machine learning has become recognised as an emerging field of research in recent years. It can be viewed as a method similar to conventional software development. Organisations can move more quickly and smoothly when development and operations (DevOps) practises like Continuous Integration and Continuous Delivery (CI/CD) are used. Various software development approaches are available for enterprise applications. Micro-services architecture has become very popular among these accessible software development approaches. Enterprise applications, which are frequently sophisticated and require out-of-the-box scalability and low latency, integrate well with the micro-service design. For enterprise applications, microservices in a containerized cloud environment are particularly helpful. It is also extremely important from a software development standpoint in the software business to find and fix errors early on in the development process rather than once they have reached the level of the production environment. Kubernetes is a creative and well-integrated platform solution for running and controlling containerized applications gracefully and effectively. Developers can easily build and maintain clusters with the managed Kubernetes service known as AKS. It makes containerized application deployment and management possible. AKS offers serverless Kubernetes, a continuous integration and delivery experience that is integrated, as well as enterprise-level security and governance. Users of Microsoft Azure will find that AKS offers several appealing features that make it simple to set up, administer, scale, and monitor an AKS cluster.
+ER  - 
+
+TY  - CONF
+TI  - A Hierarchical Categorization Approach for System Operation Services
+T2  - 2017 IEEE International Conference on Web Services (ICWS)
+SP  - 700
+EP  - 707
+AU  - W. Chen
+AU  - P. Xu
+AU  - G. Wu
+AU  - W. Dou
+AU  - C. Gao
+AU  - J. Wei
+PY  - 2017
+KW  - Databases
+KW  - Metadata
+KW  - Crawlers
+KW  - Semantics
+KW  - Servers
+KW  - Data mining
+KW  - Generators
+DO  - 10.1109/ICWS.2017.84
+JO  - 2017 IEEE International Conference on Web Services (ICWS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 IEEE International Conference on Web Services (ICWS)
+Y1  - 25-30 June 2017
+AB  - Operation services are reusable and shareable units of configuration code executed by configuration management tools (CMTs), achieving continuous deployment and continuous delivery. With the prevalence of DevOps (Development and Operations), thousands of operation services have been developed for various software systems, and they are publicly available through the online repositories of popular CMTs. However, locating and retrieving desired operation services is challenging since keyword-and tag-based search provided by a repository is with low precision. In this paper, we implement a hierarchical categorization approach based search service, named OSFinder, which searches and locates desired operation services more accurately. OSFinder first constructs a category hierarchy for operation services across multiple repositories, and then it classifies over 13,000 operation services into 90 categories based on machine learning technique, finally it provides a search for users. With OSFinder, a user can narrow down his search scope by tracking the category hierarchy in a top-down way, and then searches in a small group with keywords. The evaluation shows that OSFinder outperforms keyword-and tag-based search.
+ER  - 
+
+TY  - CONF
+TI  - On the Diagnosis of Flaky Job Failures: Understanding and Prioritizing Failure Categories
+T2  - 2025 IEEE/ACM 47th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)
+SP  - 192
+EP  - 202
+AU  - H. Aïdasso
+AU  - F. Bordeleau
+AU  - A. Tizghadam
+PY  - 2025
+KW  - Analytical models
+KW  - Codes
+KW  - Pipelines
+KW  - Machine learning
+KW  - Maintenance engineering
+KW  - Software
+KW  - Frequency measurement
+KW  - Telecommunications
+KW  - Software reliability
+KW  - Software engineering
+KW  - Flaky Jobs
+KW  - Failure Diagnosis
+KW  - Failure Categories
+KW  - RFM Model
+KW  - Prioritization
+KW  - Machine Learning
+DO  - 10.1109/ICSE-SEIP66354.2025.00023
+JO  - 2025 IEEE/ACM 47th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)
+IS  - 
+SN  - 2832-7659
+VO  - 
+VL  - 
+JA  - 2025 IEEE/ACM 47th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP)
+Y1  - 27 April-3 May 2025
+AB  - The continuous delivery of modern software requires the execution of many automated pipeline jobs. These jobs ensure the frequent release of new software versions while detecting code problems at an early stage. For TELUS, our industrial partner in the telecommunications field, reliable job execution is crucial to minimize wasted time and streamline Continuous Deployment (CD). In this context, flaky job failures are one of the main issues hindering CD. Prior studies proposed techniques based on machine learning to automate the detection of flaky jobs. While valuable, these solutions are insufficient to address the waste associated with the diagnosis of flaky job failures, which remain largely unexplored due to the wide range of underlying causes. This study examines 4,511 flaky job failures at TELUS to identify the categories of flaky job failures that we prioritize based on Recency, Frequency, and Monetary (RFM) measures. We identified 46 flaky failure categories that we analyzed using RFM and clustering models to determine 14 priority categories for future automated diagnosis and repair research. Our findings also provide valuable insights into the evolution and impact of these categories. The identification and prioritization of flaky failure categories using RFM analysis introduce a novel approach that can be used in other contexts.
+ER  - 
+
+TY  - CONF
+TI  - The Future of Infrastructure Automation: How Cloud Computing is Driving Innovation
+T2  - 2025 International Conference on Networks and Cryptology (NETCRYPT)
+SP  - 1013
+EP  - 1018
+AU  - T. Agarwal
+AU  - A. Katyal
+AU  - S. Mishra
+AU  - A. Katyal
+AU  - M. S. Reddy
+AU  - R. Sethuraman
+PY  - 2025
+KW  - Cloud computing
+KW  - Technological innovation
+KW  - Automation
+KW  - Codes
+KW  - Costs
+KW  - System performance
+KW  - Organizations
+KW  - Transforms
+KW  - Software
+KW  - Software reliability
+KW  - Automation
+KW  - Infrastructure
+KW  - Human
+KW  - Predictive Performance
+DO  - 10.1109/NETCRYPT65877.2025.11102230
+JO  - 2025 International Conference on Networks and Cryptology (NETCRYPT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Networks and Cryptology (NETCRYPT)
+Y1  - 29-31 May 2025
+AB  - Infrastructure automation entails automating physical and virtual infrastructure management and operation through software. This encompasses software deployment, confer management, and monitoring. The Future of Infrastructure Automation with Cloud Computing: Introduction Cloud computing is changing how we do business. Cloud computing has many benefits, the most striking being flexible and scalable infrastructure. Organizations can automatically allocate or deal locates compute resources as required without manual interference. This allows automation tools to automate routine tasks as well as operations. Infrastructure management has changed with the arrival of Infrastructure as Code; treats infrastructure configuration as code, it enables this infrastructure as code, which allows for more reliable and consistent deployment and configuration of your infrastructure with less room for human error. DevOps practices have facilitated the automation of several practices from the software development cycle to achieve continuous delivery. As part of its continued evolution, AI and machine learning are increasingly integrated into infrastructure automation tools, giving rise to predictive maintenance and self-healing capabilities. In turn, this minimizes downtime and enhances system performance.
+ER  - 
+
+TY  - CONF
+TI  - Security-Integrated DevOps: A Multidimensional Analysis of Models and Challenges
+T2  - 2026 3rd International Conference on Integrated Intelligence and Communication Systems (ICIICS)
+SP  - 1
+EP  - 6
+AU  - A. R. Yarava
+AU  - A. Prasad
+AU  - A. Rastogi
+AU  - A. K. Verma
+AU  - P. Anugula
+AU  - H. Singh
+PY  - 2026
+KW  - DevOps
+KW  - Protocols
+KW  - Taxonomy
+KW  - Throughput
+KW  - Weaving
+KW  - Software
+KW  - Real-time systems
+KW  - Security
+KW  - Context modeling
+KW  - Testing
+KW  - blockchain-enabled
+KW  - contextual alignment
+KW  - devops
+KW  - governance-oriented
+KW  - optimization-based
+KW  - secure software delivery
+DO  - 10.1109/ICIICS67880.2026.11483403
+JO  - 2026 3rd International Conference on Integrated Intelligence and Communication Systems (ICIICS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 3rd International Conference on Integrated Intelligence and Communication Systems (ICIICS)
+Y1  - 20-21 Feb. 2026
+AB  - In today's fast-paced software development landscape, DevOps appeared as a transformative methodology that highlights speed, collaboration, and continuous delivery. However, integrating better security protocols into agile environments is persistent challenge for many teams. Even though DevSecOps builds upon DevOps by weaving security measures throughput every step of development companies finds it difficult to move quickly while still adhering to strict compliance, governance and risk requirements. This paper gives an in-depth look at different DevOps frameworks that prioritize security with each one undertaking specific part of the delivery process. To make sense of these different methods, paper organizes them into seven different categories based on optimization those driven by Machine Learning (ML), block chain-integrated systems models backed by experiential testing governance focused techniques, context-specific alignments and general conceptual frameworks. Drawing from both academic and industry sources, the paper analyzes how each method tackles issues such as anomaly detection, secure deployment, auditability, and cultural transformation. It highlights recurring challenges like fragmented governance, delayed security integration, and lack of real-time adaptability. By organizing these frameworks into a structured taxonomy, the paper gives researchers and experts a combined reference for understanding and implementing resilient, scalable, and secure DevOps pipelines across diverse organizational contexts, while emphasizing the need for empirically validated, context-aware results.
+ER  - 
+
+TY  - CONF
+TI  - AI4SE for CI/CD: Explainable Code Smell Risk Analysis
+T2  - 2026 IEEE International Conference on Artificial Intelligence Testing (AITest)
+SP  - 50
+EP  - 55
+AU  - J. Domingues
+AU  - D. Duarte
+AU  - A. Sousa
+AU  - N. Pombo
+PY  - 2026
+KW  - Modeling
+KW  - Codes
+KW  - Measurement
+KW  - Printing
+KW  - Testing
+KW  - Software engineering
+KW  - Artificial intelligence
+KW  - Machine learning
+KW  - Labeling
+KW  - Training
+KW  - Code Smells
+KW  - Software Quality Analysis
+KW  - Explainable Artificial Intelligence
+KW  - Continuous Integration and Continuous Delivery (CI/CD)
+KW  - AI for Software Engineering (AI4SE)
+DO  - 10.1109/AITest70988.2026.00017
+JO  - 2026 IEEE International Conference on Artificial Intelligence Testing (AITest)
+IS  - 
+SN  - 2835-3560
+VO  - 
+VL  - 
+JA  - 2026 IEEE International Conference on Artificial Intelligence Testing (AITest)
+Y1  - 27-30 July 2026
+AB  - Continuous Integration and Continuous Delivery (CI/CD) pipelines accelerate software evolution but complicate the timely assessment of structural degradation. While code smells effectively indicate maintainability risks, their detection remains largely confined to isolated static analysis rather than being actively integrated into continuous workflows. To address this gap, we propose an explainable AI-driven approach for code smell classification designed specifically for software quality risk analysis in CI/CD environments. Using structural metrics related to complexity, coupling, and cohesion, we train a Random Forest model to classify four prevalent smells: Blob, Long Method, Feature Envy, and Data Class. Evaluated on labeled Java systems, our approach successfully captures the structural patterns indicative of software decay, achieving 82% accuracy and a 0.86 macro F1-score. Beyond raw performance, we operationalize these classifications as interpretable risk indicators within a prototype CI/CD pipeline, prioritizing human-centered evaluation. Ultimately, this work advances the AI for Software Engineering (AI4SE) domain by demonstrating how explainable machine learning can practically augment continuous quality assurance in agile development.
+ER  - 
+
+TY  - CONF
+TI  - Automated Canary Analysis for Kubernetes Deployments
+T2  - 2025 IEEE Cloud Summit
+SP  - 101
+EP  - 109
+AU  - V. N. S. Khande
+AU  - N. V. J. Balaji
+PY  - 2025
+KW  - Schedules
+KW  - DevOps
+KW  - Pipelines
+KW  - Microservice architectures
+KW  - Organizations
+KW  - Production
+KW  - User experience
+KW  - Software reliability
+KW  - Safety
+KW  - Observability
+KW  - Canary Deployment
+KW  - Kubernetes
+KW  - Progressive Delivery
+KW  - Automated Canary Analysis
+KW  - DevOps Observability
+DO  - 10.1109/Cloud-Summit64795.2025.00023
+JO  - 2025 IEEE Cloud Summit
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE Cloud Summit
+Y1  - 26-27 June 2025
+AB  - When organizations start implementing microservices and the concept of continuous delivery pipeline, especially while using DevOps, deploying becomes a crucial task in which safety is a significant concern. Canary releases have become a profound practice for rolling out new application updates to a limited number of users in an organization to avoid introducing new bugs in the critical production environment. Nonetheless, catching and validating issues during canary rollouts is often an irreversible process prone to mistakes. This technical paper focuses on the concept of Automated Canary Analysis for the implementation of Kubernetes and the role performed by the ACA over Service Mesh, Observability, and Metrics for making efficient deployment decisions. ACA derives performance differences as well as user experience effects between canary and baseline versions through statistical and machine learning algorithms. The study also considers existing open-source tools, namely Kayenta and Flagger, and establishes their capacity to perform automation of progressive delivery. Our results show a reduction in the use of the deployment risk factor while also improving the efficiency of the developers and the overall functionality of the system; therefore, ACA should be considered an important element of modern DevOps.
+ER  - 
+
+TY  - CONF
+TI  - AI-Augmented Pipeline Architecture for Continuous Integration and Continuous Deployment
+T2  - 2026 International Conference on Computer, Information and Telecommunication Systems (CITS)
+SP  - 1
+EP  - 7
+AU  - V. S. R. Dantuluri
+AU  - S. Bajaj
+AU  - A. Kolhe
+AU  - D. Rajput
+PY  - 2026
+KW  - Modeling
+KW  - Testing
+KW  - Artificial intelligence
+KW  - Pipelines
+KW  - Architecture
+KW  - Computer architecture
+KW  - Printing
+KW  - Codes
+KW  - Timing
+KW  - Measurement
+KW  - Continuous Integration
+KW  - Continuous Deployment
+KW  - Artificial Intelligence
+KW  - Machine Learning
+KW  - DevOps
+KW  - AIOps
+KW  - Predictive Testing
+KW  - Anomaly Detection
+KW  - Large Language Models
+DO  - 10.1109/CITS70307.2026.11637301
+JO  - 2026 International Conference on Computer, Information and Telecommunication Systems (CITS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Computer, Information and Telecommunication Systems (CITS)
+Y1  - 22-24 July 2026
+AB  - While Continuous Integration and Continuous Delivery (CI/CD) pipelines are the backbone of modern software engineering, they remain fundamentally rigid and reactive. Escalating systemic complexity has exposed the limitations of static, rule-based automation, resulting in exhaustive test cycles, wasted compute, and manual incident remediation. This paper proposes an AI-augmented CI/CD architecture comprising five intelligent stages: Code+AI, SmartBuild, Predictive Test, Canary+AI, and Self-Heal. By integrating predictive machine learning, anomaly detection, and large language models (LLMs) directly into the delivery lifecycle, we transition the pipeline from a deterministic conveyor belt into an adaptive ecosystem. We evaluate this architecture against traditional pipelines in an enterprise-scale microservice environment. The empirical results demonstrate a profound reduction in operational friction, including a 58% reduction in build times, a 69% reduction in test suite execution with maintained coverage, and a 65% improvement in meantime-to-recovery (MTTR). Ultimately, this framework illustrates how organizations can leverage historical pipeline telemetry to continuously optimize deployment velocity and systemic reliability.
+ER  - 
+
+
