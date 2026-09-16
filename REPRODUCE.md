@@ -6,10 +6,11 @@
 **Databases:** ScienceDirect, IEEE Xplore, ACM Digital Library\
 **Methodological basis:** Kitchenham & Charters, PICOC, PRISMA 2020\
 **Citation style:** IEEE\
-**Current authoritative state:** 9 September 2026\
+**Current authoritative state:** 9 September 2026 (English analytical
+baseline); 10 September 2026 (Bahasa Indonesia translated derivative)\
 **Repository synchronization:** Analytical artifacts, Appendix A--E,
-Supplementary Dataset Master, and visual publication-ready artifacts
-included
+Supplementary Dataset Master, visual publication-ready artifacts, the
+Indonesian edition, and both release packages included
 
 ------------------------------------------------------------------------
 
@@ -171,11 +172,16 @@ Current repository layout relevant to the SLR:
 07_prisma/
 08_manuscript/
     final/
+    id/
 09_references/
 ```
 
 > Current snapshot includes `04_quality/`, `10_supplementary/`,
 > `release/`, and `99_archive/`.
+>
+> `08_manuscript/id/` holds the Bahasa Indonesia edition. It is a
+> translated derivative and is **not** part of the analytical
+> reproduction chain --- see section 16.
 
 ------------------------------------------------------------------------
 
@@ -1265,6 +1271,81 @@ across the affected source dataset, derived artifact, context master,
 and manuscript. Presentation-only changes must preserve the locked
 analytical state and should be documented through the corresponding
 visual QA/release record.
+
+------------------------------------------------------------------------
+
+# 16. Translated Derivative Editions
+
+A Bahasa Indonesia edition of the manuscript exists:
+
+``` text
+08_manuscript/id/SLR_AI_DevOps_BAHASA_INDONESIA_VISUAL_FINAL_2026-09-10.docx
+08_manuscript/id/SLR_AI_DevOps_BAHASA_INDONESIA_VISUAL_FINAL_2026-09-10.pdf
+```
+
+This edition sits **outside** the analytical reproduction chain in
+section 15. It is a faithful translated derivative of the locked English
+visual publication-ready manuscript, produced by a presentation-only
+translation pass. It introduces no new evidence, recoding,
+reinterpretation, quantitative claim, reference, or study identity.
+
+Its evidence lineage is therefore:
+
+``` text
+Section 15 final reproduction target (English)
+        ↓
+Translation baseline lock
+        ↓
+ID Step 3 — controlled textual translation
+        ↓
+ID Step 4 — numerical & citation integrity audit
+        ↓
+ID Step 5 — visual localization + final visual QA
+        ↓
+SLR_AI_DevOps_BAHASA_INDONESIA_VISUAL_FINAL_2026-09-10.docx + .pdf
+```
+
+Provenance and QA records:
+
+``` text
+00_context/INDONESIAN_TRANSLATION_BASELINE_LOCK_2026-09-09.md
+00_context/INDONESIAN_TRANSLATION_TERMINOLOGY_2026-09-09.md
+00_context/ID_STEP3_CONTROLLED_TRANSLATION_REPORT_2026-09-10.md
+00_context/INDONESIAN_NUMERICAL_CITATION_INTEGRITY_AUDIT_2026-09-10.md
+00_context/INDONESIAN_FINAL_VISUAL_QA_REPORT_2026-09-10.md
+```
+
+To verify the Indonesian edition, confirm that every locked invariant in
+section 15 appears unchanged in the Indonesian manuscript --- the PRISMA
+chain, RQ1 year counts, RQ2/RQ3 distributions, PS001--PS060 identities,
+and references [1]--[66], which remain untranslated and verbatim.
+
+A correction affecting analytical substance must be applied to the
+English baseline **first**, then re-propagated to the Indonesian edition.
+The Indonesian artifacts must never be corrected in isolation.
+
+------------------------------------------------------------------------
+
+# 17. Release Packages
+
+Two verification-ready release snapshots are published:
+
+``` text
+release/2026-09-09/       English visual publication package
+release/2026-09-10-id/    Bahasa Indonesia publication package
+```
+
+Each carries `SUBMISSION_README.md`, a `PUBLICATION_RELEASE_NOTES` file,
+and `SHA256SUMS.txt`. Verify a package from inside its directory:
+
+``` bash
+sha256sum -c SHA256SUMS.txt
+```
+
+Expected: 13/13 OK for `release/2026-09-09/`, 9/9 OK for
+`release/2026-09-10-id/`. Release copies are byte-identical to their
+in-repo source artifacts; any drift indicates that a snapshot was edited
+without regenerating its checksums.
 
 ------------------------------------------------------------------------
 

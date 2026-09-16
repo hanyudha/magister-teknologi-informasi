@@ -154,12 +154,37 @@ Do not claim:
 
 Locked: Abstract+Keywords; Sections 1–7; PRISMA; citations [1]–[66]; References; PS045=2026.
 
-Current publication-ready manuscript:
-`SLR_AI_DevOps_PUBLICATION_READY_FINAL_2026-09-09.docx`
+Authoritative editable manuscript:
+`08_manuscript/final/SLR_AI_DevOps_VISUAL_PUBLICATION_READY_FINAL_2026-09-09.docx`
+
+Authoritative publication rendering:
+`08_manuscript/final/SLR_AI_DevOps_VISUAL_PUBLICATION_READY_FINAL_2026-09-09.pdf`
+
+Pre-visual baseline / rollback only (must not override the above):
+`08_manuscript/final/SLR_AI_DevOps_PUBLICATION_READY_FINAL_2026-09-09.docx`
+
+## Bahasa Indonesia edition
+
+Translated derivative, final and QA PASS (10 September 2026):
+`08_manuscript/id/SLR_AI_DevOps_BAHASA_INDONESIA_VISUAL_FINAL_2026-09-10.docx`
+`08_manuscript/id/SLR_AI_DevOps_BAHASA_INDONESIA_VISUAL_FINAL_2026-09-10.pdf`
+
+Not a separate analytical version. All locked values above apply unchanged.
+Analytical corrections propagate English first, Indonesian second.
+
+## Completed since this master was first written
+
+- Appendices A–E and Supplementary Dataset Master
+- Controlled visual publication pass + final visual QA (PASS)
+- Publication PDF
+- Bahasa Indonesia translation, integrity audit, and visual QA (PASS)
+- Release packages `release/2026-09-09/` (13/13 checksums OK) and
+  `release/2026-09-10-id/` (9/9 checksums OK)
 
 ## Next work
 
-1. Appendices / Supplementary Material
-2. Optional template-specific formatting
-3. Optional final PDF
-4. Repository finalization / submission package
+1. Optional template-specific formatting for the target venue
+2. Any venue-specific submission files
+
+No further analytical or substantive revision is required unless the
+evidence state or submission requirements change.

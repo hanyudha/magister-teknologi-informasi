@@ -22,7 +22,7 @@ dengan fokus **Artificial Intelligence for DevOps Automation**.
 -   Synthesis: descriptive quantitative + qualitative thematic
 -   Statistical meta-analysis: no
 
-## Current status --- 9 September 2026
+## Current status --- 10 September 2026
 
   Phase                             Status
   --------------------------------- ----------------------------------
@@ -40,9 +40,12 @@ dengan fokus **Artificial Intelligence for DevOps Automation**.
   IEEE references                   ✅ \[1\]--\[66\]
   Appendix A--E                     ✅ Complete
   Supplementary Dataset Master      ✅ Complete
-  Repository synchronization        🔄 Final release synchronization
   Visual publication-ready DOCX     ✅ Final / QA PASS
   Visual publication-ready PDF      ✅ Final / QA PASS
+  English release 2026-09-09        ✅ Packaged / checksums verified
+  Indonesian translation (ID)       ✅ Final / QA PASS
+  Indonesian release 2026-09-10-id  ✅ Packaged / checksums verified
+  Repository synchronization        ✅ Synchronized
   Submission-template formatting    ⏳ Optional / venue-specific
 
 ## Locked PRISMA accounting
@@ -63,6 +66,11 @@ Reports retrieved / assessed                       73
 Full-text excluded                                 13
 Studies included                                   60
 ```
+
+The three per-database counts are the contribution **entering deduplication**
+(185 + 765 + 180 = 1,130). Two ACM proceedings/container records are retained in
+PRISMA identification accounting as removed before screening, producing the
+1,132 identified figure.
 
 Full-text exclusions:
 
@@ -162,13 +170,15 @@ magister-teknologi-informasi/
 │   └── rq5/
 ├── 07_prisma/
 ├── 08_manuscript/
-│   └── final/
+│   ├── final/
+│   └── id/
 ├── 09_references/
 ├── 10_supplementary/
 │   ├── appendices/
 │   └── datasets/
 ├── release/
-│   └── 2026-09-09/
+│   ├── 2026-09-09/
+│   └── 2026-09-10-id/
 └── 99_archive/
 ```
 
@@ -228,6 +238,36 @@ publication rendering** for the current evidence state.
 This file is retained as the pre-visual publication baseline for
 provenance and rollback. It must not override the visual
 publication-ready manuscript above.
+
+### Manuscript --- Bahasa Indonesia edition
+
+``` text
+08_manuscript/id/SLR_AI_DevOps_BAHASA_INDONESIA_VISUAL_FINAL_2026-09-10.docx
+08_manuscript/id/SLR_AI_DevOps_BAHASA_INDONESIA_VISUAL_FINAL_2026-09-10.pdf
+```
+
+The Indonesian edition is a **faithful translated derivative** of the locked
+English visual publication-ready manuscript, not a separate analytical version.
+Its provenance, terminology lock, and QA gates are recorded in:
+
+``` text
+00_context/INDONESIAN_TRANSLATION_BASELINE_LOCK_2026-09-09.md
+00_context/INDONESIAN_TRANSLATION_TERMINOLOGY_2026-09-09.md
+00_context/ID_STEP3_CONTROLLED_TRANSLATION_REPORT_2026-09-10.md
+00_context/INDONESIAN_NUMERICAL_CITATION_INTEGRITY_AUDIT_2026-09-10.md
+00_context/INDONESIAN_FINAL_VISUAL_QA_REPORT_2026-09-10.md
+```
+
+### Release packages
+
+``` text
+release/2026-09-09/       English visual publication package
+release/2026-09-10-id/    Bahasa Indonesia publication package
+```
+
+Each package carries its own `SUBMISSION_README.md`,
+`PUBLICATION_RELEASE_NOTES`, and `SHA256SUMS.txt`. Verify a package with
+`sha256sum -c SHA256SUMS.txt` from inside its directory.
 
 ### References
 
@@ -294,14 +334,21 @@ artifacts.
     is retained only as the pre-visual baseline / rollback artifact.
 11. `00_context/FINAL_VISUAL_QA_REPORT_2026-09-09.md` records the final
     visual QA state.
-12. Files under `99_archive/` are historical and must not override
+12. `08_manuscript/id/SLR_AI_DevOps_BAHASA_INDONESIA_VISUAL_FINAL_2026-09-10.docx`
+    is the authoritative Indonesian edition. It is a translated derivative
+    and must never override the English artifacts in rules 8--9. Analytical
+    corrections flow English first, Indonesian second.
+13. Files under `99_archive/` are historical and must not override
     current authoritative artifacts.
-13. Do not restore obsolete PS045 uncertainty or RQ1 counts
+14. Do not restore obsolete PS045 uncertainty or RQ1 counts
     `2025=9 / 2026=11`.
-14. Do not invent unrecovered exact numeric QA scores.
-15. Visual/layout revisions must not be interpreted as changes to the
+15. Do not invent unrecovered exact numeric QA scores.
+16. Visual/layout revisions must not be interpreted as changes to the
     locked analytical SLR unless an explicit substantive revision is
     documented.
+17. Release snapshots under `release/` are verification targets. If a
+    snapshot must be corrected, regenerate its `SHA256SUMS.txt` in the
+    same commit and document the correction in its release notes.
 
 ## Reproduction
 
@@ -335,16 +382,12 @@ workbook.
 
 The analytical SLR, manuscript body, Appendices A--E, supplementary
 master dataset, visual publication-ready manuscript, publication PDF,
-and final visual QA are complete for the current evidence state.
+final visual QA, Bahasa Indonesia edition, and both release packages are
+complete for the current evidence state. Release checksums verify clean
+for `release/2026-09-09/` (13/13) and `release/2026-09-10-id/` (9/9).
 
-Remaining work is release/submission administration only:
+Remaining work is venue-specific submission administration only:
 
--   synchronize `REPRODUCE.md` with the visual-final authoritative
-    artifacts;
--   update/finalize the repository manifest;
--   assemble or refresh `release/2026-09-09/`;
--   regenerate release checksums;
--   optionally create a Git release/tag;
 -   apply university/journal template-specific formatting only if
     required by the target venue;
 -   prepare any additional submission-specific files required by the

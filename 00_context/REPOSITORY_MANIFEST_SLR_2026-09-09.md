@@ -1,7 +1,7 @@
 # SLR Repository Manifest & Reproducibility Inventory
 
-**Updated: 9 September 2026**  
-**State:** Analytical artifacts, Appendix A–E, Supplementary Dataset Master, and visual publication-ready artifacts synchronized
+**Updated: 16 September 2026**  
+**State:** Analytical artifacts, Appendix A–E, Supplementary Dataset Master, visual publication-ready artifacts, the Bahasa Indonesia translated derivative, and both verified release snapshots synchronized
 
 ## 1. Authoritative context
 
@@ -181,6 +181,25 @@ The visual-publication pass is presentation-only and does not alter the locked a
 
 `SLR_AI_DevOps_PUBLICATION_READY_FINAL_2026-09-09.docx` is retained as the **pre-visual publication baseline / rollback artifact** and must not override the authoritative visual publication-ready DOCX/PDF.
 
+### Bahasa Indonesia edition — translated derivative
+
+```text
+08_manuscript/id/SLR_AI_DevOps_BAHASA_INDONESIA_VISUAL_FINAL_2026-09-10.docx
+08_manuscript/id/SLR_AI_DevOps_BAHASA_INDONESIA_VISUAL_FINAL_2026-09-10.pdf
+```
+
+Provenance, terminology lock, and QA gates:
+
+```text
+00_context/INDONESIAN_TRANSLATION_BASELINE_LOCK_2026-09-09.md
+00_context/INDONESIAN_TRANSLATION_TERMINOLOGY_2026-09-09.md
+00_context/ID_STEP3_CONTROLLED_TRANSLATION_REPORT_2026-09-10.md
+00_context/INDONESIAN_NUMERICAL_CITATION_INTEGRITY_AUDIT_2026-09-10.md
+00_context/INDONESIAN_FINAL_VISUAL_QA_REPORT_2026-09-10.md
+```
+
+The Indonesian edition is a **faithful translated derivative** of the locked English visual publication-ready manuscript. It is not a separate analytical version and must never override the English authority declared above. Analytical corrections propagate English first, Indonesian second.
+
 
 ## 10. References and bibliographic verification
 
@@ -237,24 +256,34 @@ The master workbook provides audit views for:
 
 It is a consolidated audit package and does not replace raw or stage-specific source files.
 
-## 13. Release snapshot
+## 13. Release snapshots
 
-Recommended release location:
+Two published snapshots:
 
 ```text
-release/2026-09-09/
-├── manuscript/
-│   ├── SLR_AI_DevOps_VISUAL_PUBLICATION_READY_FINAL_2026-09-09.docx
-│   └── SLR_AI_DevOps_VISUAL_PUBLICATION_READY_FINAL_2026-09-09.pdf
-├── qa/
-│   └── FINAL_VISUAL_QA_REPORT_2026-09-09.md
+release/2026-09-09/                English visual publication package
+├── manuscript/                    authoritative visual DOCX + PDF
+├── qa/                            FINAL_VISUAL_QA_REPORT_2026-09-09.md
+├── figure/                        PRISMA-2020-F_AI_DevOps_AUTHORITATIVE.svg
 ├── supplementary/
-├── figures/
+│   ├── appendices/                Appendix A–E
+│   └── datasets/                  included-studies + supplementary master
+├── PUBLICATION_RELEASE_NOTES_2026-09-09.md
 ├── SUBMISSION_README.md
-└── SHA256SUMS.txt
+└── SHA256SUMS.txt                 13 entries
+
+release/2026-09-10-id/             Bahasa Indonesia publication package
+├── manuscript/                    Indonesian visual DOCX + PDF
+├── qa/                            ID Step 3/4/5 QA records
+├── context/                       translation baseline lock + terminology
+├── PUBLICATION_RELEASE_NOTES_2026-09-10-ID.md
+├── SUBMISSION_README.md
+└── SHA256SUMS.txt                 9 entries
 ```
 
-The release directory is an immutable submission/share snapshot. It does not replace the authoritative source artifacts under `08_manuscript/final/`, `00_context/`, `07_prisma/`, or `10_supplementary/`.
+Verify a snapshot from inside its directory with `sha256sum -c SHA256SUMS.txt`. Expected: 13/13 OK and 9/9 OK respectively. Release copies are byte-identical to their in-repo source artifacts.
+
+A release directory is an immutable submission/share snapshot. It does not replace the authoritative source artifacts under `08_manuscript/`, `00_context/`, `07_prisma/`, or `10_supplementary/`. If a snapshot must be corrected, regenerate its `SHA256SUMS.txt` in the same commit and document the correction in its release notes.
 
 ## 14. Archive
 
@@ -306,13 +335,10 @@ The supplementary master is convenient for audit, but provenance-sensitive corre
 
 No additional analytical appendix or substantive SLR revision is required for the current evidence state.
 
-Remaining work is release/submission administration only:
+Release administration is complete: both snapshots are assembled, checksums verify clean, and Git tags exist for each edition.
 
-- synchronize the final release snapshot under `release/2026-09-09/`;
-- include the authoritative visual DOCX/PDF and final visual QA report;
-- refresh `SUBMISSION_README.md` if the release package is maintained;
-- regenerate `SHA256SUMS.txt` after the release contents are frozen;
-- optionally create a Git tag/release;
+Remaining work is venue-specific submission administration only:
+
 - apply university/journal template-specific formatting only if required by the target venue;
 - prepare submission-specific files if required.
 

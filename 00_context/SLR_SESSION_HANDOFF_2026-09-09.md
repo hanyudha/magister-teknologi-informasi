@@ -178,20 +178,42 @@ Controlled correction applied:
 - Section 6.4 obsolete PS045 uncertainty paragraph removed.
 - Primary-study overview PS045 year updated to 2026.
 
-Current publication-ready manuscript:
-`SLR_AI_DevOps_PUBLICATION_READY_FINAL_2026-09-09.docx`
+Authoritative editable manuscript:
+`08_manuscript/final/SLR_AI_DevOps_VISUAL_PUBLICATION_READY_FINAL_2026-09-09.docx`
+
+Authoritative publication rendering:
+`08_manuscript/final/SLR_AI_DevOps_VISUAL_PUBLICATION_READY_FINAL_2026-09-09.pdf`
+
+`SLR_AI_DevOps_PUBLICATION_READY_FINAL_2026-09-09.docx` is the pre-visual baseline / rollback artifact only and must not override the two files above.
+
+## Bahasa Indonesia edition
+
+Final and QA PASS (10 September 2026):
+`08_manuscript/id/SLR_AI_DevOps_BAHASA_INDONESIA_VISUAL_FINAL_2026-09-10.docx`
+`08_manuscript/id/SLR_AI_DevOps_BAHASA_INDONESIA_VISUAL_FINAL_2026-09-10.pdf`
+
+A faithful translated derivative of the locked English manuscript — not a separate analytical version. Every locked value in this handoff applies to it unchanged. QA gates: ID Step 3 controlled translation, ID Step 4 numerical/citation integrity audit, ID Step 5 visual localization + final visual QA, all PASS. Provenance records are the five `INDONESIAN_*` / `ID_STEP3_*` files in `00_context/`.
+
+## Release packages
+
+```text
+release/2026-09-09/       English   — sha256sum -c → 13/13 OK
+release/2026-09-10-id/    Indonesian — sha256sum -c → 9/9 OK
+```
+
+Git tags: `slr-ai-devops-2026-09-09`, `slr-ai-devops-2026-09-10-id`.
 
 ## Current remaining work
 
-1. **Appendices / Supplementary Material**
-2. Optional final formatting to a specific university/journal template
-3. Optional export to PDF
-4. Final submission package / repository cleanup
+1. Optional formatting to a specific university/journal template
+2. Any venue-specific submission files
+
+Appendices A–E, Supplementary Dataset Master, the visual publication pass, the publication PDF, the Indonesian edition, and both release packages are **complete**. Treat any list that still shows these as outstanding as stale.
 
 ## Recommended next action
 
-> Start with **Appendices / Supplementary Material**. Do not reopen locked manuscript sections unless a concrete evidence or formatting issue is found.
+> Nothing analytical remains. Act only on a concrete venue requirement or a concrete evidence/formatting defect. Do not reopen locked manuscript sections otherwise.
 
 ## Continuation prompt
 
-> Use `SLR_SESSION_HANDOFF_2026-09-09.md` and `SLR_CONTEXT_MASTER_2026-09-09.md` as authoritative current state. The SLR body, PRISMA, PS001–PS060↔Uxxxx mapping, PS045=2026, IEEE citations [1]–[66], references, and publication-ready DOCX are finalized. Do not revert to the old PS045 uncertainty or provisional 2025=9/2026=11 RQ1 counts. Next step: build appendices/supplementary material and final submission package.
+> Use `SLR_SESSION_HANDOFF_2026-09-09.md` and `SLR_CONTEXT_MASTER_2026-09-09.md` as authoritative current state. The SLR body, PRISMA, PS001–PS060↔Uxxxx mapping, PS045=2026, IEEE citations [1]–[66], references, appendices, supplementary datasets, the visual publication-ready DOCX/PDF, the Bahasa Indonesia edition, and both verified release packages are finalized. Do not revert to the old PS045 uncertainty or provisional 2025=9/2026=11 RQ1 counts, and do not treat the pre-visual DOCX as current. Remaining work is venue-specific submission formatting only.
