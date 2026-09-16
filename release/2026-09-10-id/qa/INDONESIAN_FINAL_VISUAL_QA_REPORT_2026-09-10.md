@@ -73,7 +73,35 @@ This visual-finalization step is presentation-only. The analytical integrity gat
 ## 6. SHA-256
 
 - DOCX: `a0993eb666f55381507e9c91bd7ecdf57f701499bfe6c65274684b3b3f6197cc`
-- PDF: `930d3629eb31aca5141009a7470689c0abfcb874e9e76d7c8c0bfba84cab6e6c`
+- PDF (published): `6fc4cda84a8e247c3332297b589da35c7ff3487cad0dc667ff38bd8183ee94b1`
+- PDF (QA-time, superseded): `930d3629eb31aca5141009a7470689c0abfcb874e9e76d7c8c0bfba84cab6e6c`
+
+### Correction — 16 September 2026
+
+This report originally recorded only the QA-time PDF digest `930d3629…`. The PDF
+actually published in `08_manuscript/id/` and `release/2026-09-10-id/` hashes to
+`6fc4cda8…`, so the PDF was re-rendered from the QA-passed DOCX after this report
+was written. The QA-time digest is retained above rather than deleted, because it
+is the evidence that the re-render occurred.
+
+The DOCX digest is unchanged, so the document state inspected page-by-page in
+section 2 is exactly the state published.
+
+The published PDF was re-verified on 16 September 2026 against the claims made in
+this report and against the locked analytical invariants:
+
+- renders to **23 pages** — matches section 3;
+- PRISMA values all present: 1,132 / 1,130 / 317 / 813 / 431 / 382 / 309 / 73 / 13 / 60;
+- RQ1 year counts present and correct: 2019=3, 2020=7, 2021=4, 2022=7, 2023=7,
+  2024=12, 2025=8, 2026=12;
+- obsolete `2025=9` and `2026=11` counts absent;
+- PS001–PS060 all present (60/60);
+- references [1]–[66] present;
+- Indonesian section headings present.
+
+**Result: PASS.** The published rendering is faithful to the QA-passed document.
+No analytical value changed. This correction is documentation-only; it records the
+correct digest and does not alter the Step-5 QA verdict in section 7.
 
 ## 7. Final Step-5 status
 
