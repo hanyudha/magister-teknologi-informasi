@@ -11,3 +11,5 @@ __pycache__/
 *.pyc
 SLR_AI_DevOps_*_RELEASE_*.zip
 SLR_AI_DevOps_*_PACKAGE_*.zip
+
+.claude/
